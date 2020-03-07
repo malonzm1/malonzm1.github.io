@@ -1,0 +1,933 @@
+ClusterBlast scores for c00155_NODE_15..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg155_1	0	990	+		
+ctg155_2	986	2267	+		
+ctg155_3	2269	4033	+		
+ctg155_4	4026	5355	+		
+ctg155_5	5314	6553	-		
+ctg155_6	6976	8128	-		
+ctg155_7	8111	8318	-		
+
+
+Significant hits: 
+1. NZ_KI421511	Amycolatopsis thermoflava N1165 AmythDRAFT_Scaffold1.2, whole genome shotgun sequence
+2. NZ_AFWY03000023	Amycolatopsis sp. ATCC 39116 strain 75iv2 Amy_contig00045.23_C, whole genome shotgun sequence
+3. NZ_CP009110	Amycolatopsis methanolica 239, complete genome
+4. NZ_FORP01000005	Amycolatopsis sacchari strain DSM 44468, whole genome shotgun sequence
+5. NZ_ARVW01000001	Amycolatopsis nigrescens CSC17Ta-90 AmyniDRAFT_Contig68.1_C, whole genome shotgun sequence
+6. NZ_FOEF01000009	Amycolatopsis saalfeldensis strain DSM 44993, whole genome shotgun sequence
+7. NZ_FPJG01000006	Amycolatopsis australiensis strain DSM 44671, whole genome shotgun sequence
+8. NZ_JNYZ01000014	Amycolatopsis jejuensis strain NRRL B-24427 contig14.1, whole genome shotgun sequence
+9. NZ_LWSF01000004	Amycolatopsis sp. M39 A4R44_contig000004, whole genome shotgun sequence
+10. NZ_JNYY01000008	Amycolatopsis vancoresmycina strain NRRL B-24208 contig8.1, whole genome shotgun sequence
+11. NZ_JOIQ01000030	Streptomyces sp. NRRL F-3213 contig30.1, whole genome shotgun sequence
+12. NZ_ASXH01000160	Amycolatopsis orientalis DSM 46075 contig_13, whole genome shotgun sequence
+13. NZ_FOWC01000005	Amycolatopsis rubida strain DSM 44637, whole genome shotgun sequence
+14. NZ_KB913037	Amycolatopsis balhimycina FH 1894 strain DSM 44591 A3CEDRAFT_scaffold1.1, whole genome shotgun sequence
+15. NZ_ASXG01000048	Amycolatopsis orientalis DSM 43388 contig_57, whole genome shotgun sequence
+16. NZ_KB912942	Amycolatopsis benzoatilytica AK 16/65 AmybeDRAFT_scaffold1.1, whole genome shotgun sequence
+17. NZ_JMQI01000030	Amycolatopsis rifamycinica strain DSM 46095 contig030, whole genome shotgun sequence
+18. NZ_FNSO01000004	Amycolatopsis tolypomycina strain DSM 44544, whole genome shotgun sequence
+19. NC_018266	Amycolatopsis mediterranei S699, complete genome
+20. NZ_LN850107	Alloactinosynnema sp. L-07 genome assembly Alloactinosynnema sp. L-07, chromosome : I
+21. NZ_FMZZ01000002	Alloactinosynnema iranicum strain IBRC-M 10403, whole genome shotgun sequence
+22. NZ_MSIE01000013	Actinophytocola xanthii strain 11-183 contig13, whole genome shotgun sequence
+23. NZ_MSIF01000002	Actinophytocola xinjiangensis strain CGMCC 4.4663 contig2, whole genome shotgun sequence
+24. NZ_FOGI01000010	Actinokineospora terrae strain DSM 44260, whole genome shotgun sequence
+25. NZ_AXWW01000017	Actinokineospora inagensis DSM 44258 H504DRAFT_scaffold00013.13_C, whole genome shotgun sequence
+26. NZ_KB894470	Actinokineospora enzanensis DSM 44649 C503DRAFT_scaffold00068.68, whole genome shotgun sequence
+27. NZ_AYXG01000103	Actinokineospora spheciospongiae strain EG49 contig1285_2, whole genome shotgun sequence
+28. NZ_MKQR01000005	Actinokineospora bangkokensis strain 44EHW Scaffold13, whole genome shotgun sequence
+29. NZ_AUKQ01000014	Streptomyces sp. CNH287 H299DRAFT_scaffold00011.11_C, whole genome shotgun sequence
+30. NZ_BDBK01000010	Nocardia inohanensis NBRC 100128, whole genome shotgun sequence
+31. NZ_ANAE01000135	Nocardiopsis prasina DSM 43845 contig_135, whole genome shotgun sequence
+32. NZ_BCRR01000083	Nocardiopsis dassonvillei subsp. albirubida NBRC 13392, whole genome shotgun sequence
+33. NZ_LAVM01000106	Nocardiopsis sp. SBT366 scaffold109_size17384, whole genome shotgun sequence
+34. NZ_ANAW01000199	Nocardiopsis synnemataformans DSM 44143 contig_199, whole genome shotgun sequence
+35. NZ_JODL01000014	Streptomyces megasporus strain NRRL B-16372 contig14.1, whole genome shotgun sequence
+36. NC_009921	Frankia sp. EAN1pec, complete genome
+37. NZ_CP018047	Streptomyces niveus strain SCSIO 3406, complete genome
+38. NZ_FOET01000003	Streptomyces radiopugnans strain CGMCC 4.3519, whole genome shotgun sequence
+39. NZ_CM002280	Streptomyces niveus NCIMB 11891 chromosome, whole genome shotgun sequence
+40. NZ_MAXA01000036	Frankia sp. NRRL B-16219 contig_13, whole genome shotgun sequence
+41. NZ_JTHL01000001	Streptomyces sp. 150FB scaffold00001, whole genome shotgun sequence
+42. NZ_FOSG01000027	Streptomyces pini strain PL19, whole genome shotgun sequence
+43. NZ_KB891137	Frankia discariae strain BCU110501 B056DRAFT_scaffold_13.14, whole genome shotgun sequence
+44. NZ_LRTK01000009	Frankia sp. EI5c UG55_1009, whole genome shotgun sequence
+45. NZ_MBLM01000117	Frankia sp. Cc1.17 contig_28, whole genome shotgun sequence
+46. NZ_KB893670	Frankia elaeagni strain BMG5.12 B207DRAFT_scaffold_0.1, whole genome shotgun sequence
+47. NZ_FAOZ01000020	Frankia sp. G2 strain DSM 45899, whole genome shotgun sequence
+48. NZ_JDWE01000028	Frankia sp. BMG5.23 BMG523Draft_scaffold_27.28, whole genome shotgun sequence
+49. NZ_LJPA01000003	Frankia sp. ACN1ag Ga0074159_103, whole genome shotgun sequence
+50. NZ_LJJX01000030	Frankia sp. CpI1-P FF86_1030, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_KI421511
+Source: Amycolatopsis thermoflava N1165 AmythDRAFT_Scaffold1.2, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3840
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	AMYTH_RS0141270	85	537	97.87234042553192	1.4e-150
+ctg155_2	AMYTH_RS0141275	87	773	100.0	1.1e-221
+ctg155_3	AMYTH_RS0141280	88	1066	100.0	1.2e-309
+ctg155_4	AMYTH_RS0141285	85	753	99.77375565610859	1.6e-215
+ctg155_5	AMYTH_RS0141290	87	711	99.75728155339806	6.7e-203
+
+
+
+>>
+2. NZ_AFWY03000023
+Source: Amycolatopsis sp. ATCC 39116 strain 75iv2 Amy_contig00045.23_C, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3834
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	AMY39116_RS0322960	86	540	97.87234042553192	1.6e-151
+ctg155_2	AMY39116_RS0322955	87	769	100.0	1.6e-220
+ctg155_3	AMY39116_RS0322950	88	1068	100.0	2.4e-310
+ctg155_4	AMY39116_RS0322945	85	752	99.77375565610859	2.1e-215
+ctg155_5	AMY39116_RS0322940	87	705	99.51456310679612	3.7e-201
+
+
+
+>>
+3. NZ_CP009110
+Source: Amycolatopsis methanolica 239, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3829
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMETH_RS23605	AMETH_RS23605	4850674	4851622	+	AraC_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	AMETH_RS23630	86	539	97.87234042553192	3.6e-151
+ctg155_2	AMETH_RS23625	87	767	100.0	1.1e-219
+ctg155_3	AMETH_RS23620	88	1067	100.0	4e-310
+ctg155_4	AMETH_RS23615	84	748	99.77375565610859	4.1e-214
+ctg155_5	AMETH_RS23610	87	708	99.75728155339806	5.7e-202
+
+
+
+>>
+4. NZ_FORP01000005
+Source: Amycolatopsis sacchari strain DSM 44468, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3168
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BMZ92_RS10380	75	457	97.56838905775076	1.4e-126
+ctg155_2	BMZ92_RS10385	74	631	99.06103286384976	9.1e-179
+ctg155_3	BMZ92_RS10390	80	956	100.51107325383303	1.7e-276
+ctg155_4	BMZ92_RS10395	67	553	98.64253393665159	1.9e-155
+ctg155_5	BMZ92_RS10400	71	571	100.0	6.3e-161
+
+
+
+>>
+5. NZ_ARVW01000001
+Source: Amycolatopsis nigrescens CSC17Ta-90 AmyniDRAFT_Contig68.1_C, whole genome shotgun sequence
+Type: arylpolyene-siderophore
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3006
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	AMYNI_RS45670	70	448	103.64741641337385	8.4e-124
+ctg155_2	AMYNI_RS0130875	72	623	100.23474178403755	2.5e-176
+ctg155_3	AMYNI_RS0130880	76	923	100.8517887563884	1.2e-266
+ctg155_4	AMYNI_RS0130885	67	558	102.71493212669682	7.8e-157
+ctg155_5	AMYNI_RS0130890	58	454	100.0	1.1e-125
+
+
+
+>>
+6. NZ_FOEF01000009
+Source: Amycolatopsis saalfeldensis strain DSM 44993, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2436
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BMY97_RS21060	69	440	101.21580547112461	2.3e-121
+ctg155_2	BMY97_RS21065	68	569	99.53051643192488	4.2e-160
+ctg155_3	BMY97_RS21070	77	902	98.63713798977854	2.2e-260
+ctg155_4	BMY97_RS21075	64	525	100.0	5.6e-147
+
+
+
+>>
+7. NZ_FPJG01000006
+Source: Amycolatopsis australiensis strain DSM 44671, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2417
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BT341_RS35310	67	418	101.51975683890578	5.5e-115
+ctg155_2	BT341_RS35305	67	557	99.06103286384976	1.7e-156
+ctg155_3	BT341_RS35300	77	903	100.17035775127768	1.3e-260
+ctg155_4	BT341_RS35295	66	539	99.5475113122172	3.7e-151
+
+
+
+>>
+8. NZ_JNYZ01000014
+Source: Amycolatopsis jejuensis strain NRRL B-24427 contig14.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2413
+
+Table of genes, locations, strands and annotations of subject cluster:
+OO71_RS21550	OO71_RS21550	136476	138221	+	radical_SAM_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	OO71_RS21525	67	428	101.21580547112461	5.3e-118
+ctg155_2	OO71_RS21530	67	559	99.53051643192488	2.6e-157
+ctg155_3	OO71_RS21535	77	919	100.51107325383303	1.8e-265
+ctg155_4	OO71_RS21540	64	507	100.22624434389141	2.1e-141
+
+
+
+>>
+9. NZ_LWSF01000004
+Source: Amycolatopsis sp. M39 A4R44_contig000004, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2411
+
+Table of genes, locations, strands and annotations of subject cluster:
+A4R44_RS12315	A4R44_RS12315	375561	376178	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	A4R44_RS12310	67	433	100.91185410334347	2.8e-119
+ctg155_2	A4R44_RS12305	68	568	99.76525821596243	7.2e-160
+ctg155_3	A4R44_RS12300	77	914	100.68143100511074	5.7e-264
+ctg155_4	A4R44_RS12295	63	496	100.22624434389141	3.6e-138
+
+
+
+>>
+10. NZ_JNYY01000008
+Source: Amycolatopsis vancoresmycina strain NRRL B-24208 contig8.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2410
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	OO60_RS19970	69	442	101.21580547112461	3.5e-122
+ctg155_2	OO60_RS19965	67	560	99.53051643192488	2e-157
+ctg155_3	OO60_RS19960	76	868	100.17035775127768	3.6e-250
+ctg155_4	OO60_RS45465	65	540	99.3212669683258	1.7e-151
+
+
+
+>>
+11. NZ_JOIQ01000030
+Source: Streptomyces sp. NRRL F-3213 contig30.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2409
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	IF70_RS39900	67	421	99.69604863221885	6.5e-116
+ctg155_2	IF70_RS39895	68	572	99.76525821596243	5e-161
+ctg155_3	IF70_RS39890	77	924	100.68143100511074	7.2e-267
+ctg155_4	IF70_RS39885	62	492	100.4524886877828	4e-137
+
+
+
+>>
+12. NZ_ASXH01000160
+Source: Amycolatopsis orientalis DSM 46075 contig_13, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2408
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	L943_RS37770	67	424	100.91185410334347	1e-116
+ctg155_2	L943_RS37765	68	574	99.76525821596243	7.7e-162
+ctg155_3	L943_RS37760	77	918	100.68143100511074	3.9e-265
+ctg155_4	L943_RS37755	62	492	100.22624434389141	6.8e-137
+
+
+
+>>
+13. NZ_FOWC01000005
+Source: Amycolatopsis rubida strain DSM 44637, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2407
+
+Table of genes, locations, strands and annotations of subject cluster:
+BM362_RS22075	BM362_RS22075	346474	346864	-	LLM_class_F420-dependent_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BM362_RS22070	67	433	100.91185410334347	2.8e-119
+ctg155_2	BM362_RS22065	67	565	99.76525821596243	6.1e-159
+ctg155_3	BM362_RS22060	77	914	100.68143100511074	4.3e-264
+ctg155_4	BM362_RS22055	63	495	100.22624434389141	6.2e-138
+
+
+
+>>
+14. NZ_KB913037
+Source: Amycolatopsis balhimycina FH 1894 strain DSM 44591 A3CEDRAFT_scaffold1.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2403
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	A3CE_RS0137115	68	434	101.21580547112461	1.3e-119
+ctg155_2	A3CE_RS0137120	67	554	99.06103286384976	8.3e-156
+ctg155_3	A3CE_RS0137125	76	894	100.0	6.1e-258
+ctg155_4	A3CE_RS0137130	63	521	99.5475113122172	1.1e-145
+
+
+
+>>
+15. NZ_ASXG01000048
+Source: Amycolatopsis orientalis DSM 43388 contig_57, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2403
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	L942_RS09400	68	429	97.56838905775076	4e-118
+ctg155_2	L942_RS09405	68	566	99.76525821596243	2.7e-159
+ctg155_3	L942_RS09410	77	909	100.68143100511074	1.4e-262
+ctg155_4	L942_RS09415	63	499	100.22624434389141	4.3e-139
+
+
+
+>>
+16. NZ_KB912942
+Source: Amycolatopsis benzoatilytica AK 16/65 AmybeDRAFT_scaffold1.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2403
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	AMYBE_RS0104085	66	423	100.91185410334347	1.7e-116
+ctg155_2	AMYBE_RS0104090	68	577	99.53051643192488	1.6e-162
+ctg155_3	AMYBE_RS0104095	77	912	100.68143100511074	2.2e-263
+ctg155_4	AMYBE_RS0104100	63	491	100.22624434389141	8.9e-137
+
+
+
+>>
+17. NZ_JMQI01000030
+Source: Amycolatopsis rifamycinica strain DSM 46095 contig030, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2399
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	DV20_RS16850	68	428	101.21580547112461	5.3e-118
+ctg155_2	DV20_RS16855	66	547	99.06103286384976	1.7e-153
+ctg155_3	DV20_RS16860	77	900	100.0	1.1e-259
+ctg155_4	DV20_RS16865	64	524	99.5475113122172	1.2e-146
+
+
+
+>>
+18. NZ_FNSO01000004
+Source: Amycolatopsis tolypomycina strain DSM 44544, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2398
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BLW76_RS17060	67	422	101.21580547112461	3.8e-116
+ctg155_2	BLW76_RS17065	66	551	99.06103286384976	9.1e-155
+ctg155_3	BLW76_RS17070	77	891	100.0	5.1e-257
+ctg155_4	BLW76_RS17075	65	534	99.3212669683258	9.2e-150
+
+
+
+>>
+19. NC_018266
+Source: Amycolatopsis mediterranei S699, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2389
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	AMES_RS13600	68	433	101.21580547112461	2.8e-119
+ctg155_2	AMES_RS13605	66	547	99.06103286384976	1.3e-153
+ctg155_3	AMES_RS13610	76	888	100.0	3.3e-256
+ctg155_4	AMES_RS13615	64	521	99.5475113122172	1.1e-145
+
+
+
+>>
+20. NZ_LN850107
+Source: Alloactinosynnema sp. L-07 genome assembly Alloactinosynnema sp. L-07, chromosome : I
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2233
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BN1701_RS04585	63	387	98.78419452887537	1.8e-105
+ctg155_2	BN1701_RS04590	66	557	99.76525821596243	1.3e-156
+ctg155_3	BN1701_RS04595	70	804	97.27427597955707	8.3e-231
+ctg155_4	BN1701_RS04600	58	485	102.03619909502262	6.4e-135
+
+
+
+>>
+21. NZ_FMZZ01000002
+Source: Alloactinosynnema iranicum strain IBRC-M 10403, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2226
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BLS56_RS05725	64	392	100.91185410334347	5.5e-107
+ctg155_2	BLS56_RS05720	68	580	100.23474178403755	1.4e-163
+ctg155_3	BLS56_RS05715	70	799	99.14821124361158	2e-229
+ctg155_4	BLS56_RS05710	59	455	96.60633484162896	5.4e-126
+
+
+
+>>
+22. NZ_MSIE01000013
+Source: Actinophytocola xanthii strain 11-183 contig13, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2218
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BU204_RS08845	62	352	95.74468085106383	4.8e-95
+ctg155_2	BU204_RS08850	66	563	99.53051643192488	1.8e-158
+ctg155_3	BU204_RS08855	73	867	100.0	1e-249
+ctg155_4	BU204_RS08860	57	436	100.22624434389141	4.4e-120
+
+
+
+>>
+23. NZ_MSIF01000002
+Source: Actinophytocola xinjiangensis strain CGMCC 4.4663 contig2, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2184
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BLA60_RS06210	62	349	96.04863221884499	5.3e-94
+ctg155_2	BLA60_RS06215	65	547	100.0	1.7e-153
+ctg155_3	BLA60_RS06220	72	839	99.14821124361158	3e-241
+ctg155_4	BLA60_RS06225	57	449	102.03619909502262	5.1e-124
+
+
+
+>>
+24. NZ_FOGI01000010
+Source: Actinokineospora terrae strain DSM 44260, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2183
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BMY07_RS23180	62	369	97.56838905775076	3.8e-100
+ctg155_2	BMY07_RS23185	65	548	99.53051643192488	5.9e-154
+ctg155_3	BMY07_RS23190	69	790	97.44463373083475	9.5e-227
+ctg155_4	BMY07_RS23195	60	476	101.35746606334841	3e-132
+
+
+
+>>
+25. NZ_AXWW01000017
+Source: Actinokineospora inagensis DSM 44258 H504DRAFT_scaffold00013.13_C, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2175
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	H504_RS0107060	62	365	97.56838905775076	7.2e-99
+ctg155_2	H504_RS0107055	65	546	99.29577464788733	2.9e-153
+ctg155_3	H504_RS0107050	69	785	97.44463373083475	3e-225
+ctg155_4	H504_RS0107045	59	479	101.35746606334841	4.6e-133
+
+
+
+>>
+26. NZ_KB894470
+Source: Actinokineospora enzanensis DSM 44649 C503DRAFT_scaffold00068.68, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2164
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	C503_RS0136590	57	369	106.99088145896656	3.8e-100
+ctg155_2	C503_RS0136595	65	554	99.53051643192488	8.3e-156
+ctg155_3	C503_RS0136600	68	777	97.44463373083475	1.1e-222
+ctg155_4	C503_RS0136605	59	464	101.35746606334841	1.2e-128
+
+
+
+>>
+27. NZ_AYXG01000103
+Source: Actinokineospora spheciospongiae strain EG49 contig1285_2, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2148
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	UO65_RS14515	64	374	95.74468085106383	1.5e-101
+ctg155_2	UO65_RS14510	61	514	99.76525821596243	1.2e-143
+ctg155_3	UO65_RS14505	70	824	99.48892674616695	5.9e-237
+ctg155_4	UO65_RS14500	56	436	101.5837104072398	4.4e-120
+
+
+
+>>
+28. NZ_MKQR01000005
+Source: Actinokineospora bangkokensis strain 44EHW Scaffold13, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2134
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BJP25_RS03155	61	365	96.96048632218846	5.5e-99
+ctg155_2	BJP25_RS03160	61	508	100.0	8.9e-142
+ctg155_3	BJP25_RS03165	71	829	99.48892674616695	1.8e-238
+ctg155_4	BJP25_RS03170	56	432	96.60633484162896	6.4e-119
+
+
+
+>>
+29. NZ_AUKQ01000014
+Source: Streptomyces sp. CNH287 H299DRAFT_scaffold00011.11_C, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2051
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	H299_RS34305	56	331	102.7355623100304	8.8e-89
+ctg155_2	H299_RS34310	59	521	104.92957746478872	7.8e-146
+ctg155_3	H299_RS0115165	65	731	99.31856899488926	8.9e-209
+ctg155_4	H299_RS0115170	58	468	98.41628959276018	1.1e-129
+
+
+
+>>
+30. NZ_BDBK01000010
+Source: Nocardia inohanensis NBRC 100128, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2034
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	NI1_RS20865	54	321	99.08814589665653	1.6e-85
+ctg155_2	NI1_RS20860	61	525	102.11267605633803	7e-147
+ctg155_3	NI1_RS20855	63	711	99.14821124361158	5.6e-203
+ctg155_4	NI1_RS20850	58	477	100.6787330316742	2.3e-132
+
+
+
+>>
+31. NZ_ANAE01000135
+Source: Nocardiopsis prasina DSM 43845 contig_135, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1957
+
+Table of genes, locations, strands and annotations of subject cluster:
+D452_RS0114765	D452_RS0114765	1	771	+	2-succinyl-5-enolpyruvyl-6-hydroxy-3-_cyclohexene-1-carboxylate_synthase
+D452_RS29685	D452_RS29685	1695	2259	+	deaminase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	D452_RS0114800	49	272	101.51975683890578	8.3e-71
+ctg155_2	D452_RS0114795	58	492	100.0	6.6e-137
+ctg155_3	D452_RS28330	45	488	99.82964224872232	1e-135
+ctg155_3	D452_RS0114785	42	446	100.8517887563884	5.7e-123
+ctg155_4	D452_RS0114780	39	259	101.13122171945702	7.5e-67
+
+
+
+>>
+32. NZ_BCRR01000083
+Source: Nocardiopsis dassonvillei subsp. albirubida NBRC 13392, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1949
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	ND1_RS24775	50	280	105.47112462006079	2.3e-73
+ctg155_2	ND1_RS24770	58	486	99.76525821596243	2.8e-135
+ctg155_3	ND1_RS24765	45	482	100.34071550255537	5.5e-134
+ctg155_3	ND1_RS24760	43	451	103.23679727427597	1.4e-124
+ctg155_4	ND1_RS24755	39	250	99.5475113122172	4.5e-64
+
+
+
+>>
+33. NZ_LAVM01000106
+Source: Nocardiopsis sp. SBT366 scaffold109_size17384, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1948
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	ADX84_RS22990	50	275	103.03951367781154	9.8e-72
+ctg155_2	ADX84_RS22985	58	489	100.0	3.3e-136
+ctg155_3	ADX84_RS22980	45	481	100.17035775127768	1.2e-133
+ctg155_3	ADX84_RS22975	42	446	100.8517887563884	5.7e-123
+ctg155_4	ADX84_RS22970	40	257	101.13122171945702	2.2e-66
+
+
+
+>>
+34. NZ_ANAW01000199
+Source: Nocardiopsis synnemataformans DSM 44143 contig_199, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1941
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	D453_RS35580	50	278	105.47112462006079	8.8e-73
+ctg155_2	D453_RS0123585	57	481	99.76525821596243	1.2e-133
+ctg155_3	D453_RS0123590	45	485	100.34071550255537	8.5e-135
+ctg155_3	D453_RS0123595	43	447	102.55536626916523	2e-123
+ctg155_4	D453_RS0123600	39	250	99.5475113122172	3.5e-64
+
+
+
+>>
+35. NZ_JODL01000014
+Source: Streptomyces megasporus strain NRRL B-16372 contig14.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1471
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	IF47_RS27780	49	264	106.07902735562308	2.3e-68
+ctg155_2	IF47_RS0113860	56	472	102.58215962441315	4.1e-131
+ctg155_3	IF47_RS0113865	45	482	101.0221465076661	5.5e-134
+ctg155_4	IF47_RS0113870	40	253	94.11764705882352	4.1e-65
+
+
+
+>>
+36. NC_009921
+Source: Frankia sp. EAN1pec, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1450
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	FRANEAN1_RS03215	50	261	102.43161094224924	1.5e-67
+ctg155_2	FRANEAN1_RS03205	55	449	101.40845070422534	4.9e-124
+ctg155_3	FRANEAN1_RS03200	42	468	103.40715502555366	1.1e-129
+ctg155_4	FRANEAN1_RS03195	41	272	99.5475113122172	1.1e-70
+
+
+
+>>
+37. NZ_CP018047
+Source: Streptomyces niveus strain SCSIO 3406, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1449
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BBN63_RS16350	46	253	113.67781155015197	3e-65
+ctg155_2	BBN63_RS16340	54	455	103.52112676056338	8.9e-126
+ctg155_3	BBN63_RS16335	45	478	102.21465076660988	8e-133
+ctg155_4	BBN63_RS16330	38	263	103.61990950226246	4e-68
+
+
+
+>>
+38. NZ_FOET01000003
+Source: Streptomyces radiopugnans strain CGMCC 4.3519, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1447
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BMY40_RS07605	46	257	106.68693009118542	2.1e-66
+ctg155_2	BMY40_RS07615	55	460	104.22535211267605	1.6e-127
+ctg155_3	BMY40_RS07620	45	489	101.0221465076661	5.9e-136
+ctg155_4	BMY40_RS07625	38	241	97.51131221719457	2.1e-61
+
+
+
+>>
+39. NZ_CM002280
+Source: Streptomyces niveus NCIMB 11891 chromosome, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1443
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	M877_RS60995	46	255	115.19756838905775	8e-66
+ctg155_2	M877_RS60985	56	463	102.8169014084507	2.5e-128
+ctg155_3	M877_RS60980	47	481	99.82964224872232	1.6e-133
+ctg155_4	M877_RS60975	37	244	101.5837104072398	1.9e-62
+
+
+
+>>
+40. NZ_MAXA01000036
+Source: Frankia sp. NRRL B-16219 contig_13, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1442
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BBK14_RS05110	49	255	103.64741641337385	6.1e-66
+ctg155_2	BBK14_RS05100	55	451	101.40845070422534	7.6e-125
+ctg155_3	BBK14_RS05095	42	466	103.40715502555366	4.1e-129
+ctg155_4	BBK14_RS05090	40	270	101.13122171945702	2.5e-70
+
+
+
+>>
+41. NZ_JTHL01000001
+Source: Streptomyces sp. 150FB scaffold00001, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1437
+
+Table of genes, locations, strands and annotations of subject cluster:
+QR77_RS20645	QR77_RS20645	4824085	4824267	+	esterase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	QR77_RS20610	49	264	109.11854103343465	1.7e-68
+ctg155_2	QR77_RS20620	52	452	106.57276995305165	5.8e-125
+ctg155_3	QR77_RS20625	44	462	103.74787052810903	1e-127
+ctg155_4	QR77_RS20630	39	259	101.35746606334841	7.5e-67
+
+
+
+>>
+42. NZ_FOSG01000027
+Source: Streptomyces pini strain PL19, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1437
+
+Table of genes, locations, strands and annotations of subject cluster:
+BM237_RS26135	BM237_RS26135	44872	45355	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BM237_RS26150	47	261	106.07902735562308	1.5e-67
+ctg155_2	BM237_RS26160	55	457	104.46009389671363	1.8e-126
+ctg155_3	BM237_RS26165	45	479	102.0442930153322	4.7e-133
+ctg155_4	BM237_RS26170	38	240	96.38009049773756	2.7e-61
+
+
+
+>>
+43. NZ_KB891137
+Source: Frankia discariae strain BCU110501 B056DRAFT_scaffold_13.14, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1418
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	B056_RS0106985	50	262	103.64741641337385	6.6e-68
+ctg155_2	B056_RS0106995	55	447	101.40845070422534	1.4e-123
+ctg155_3	B056_RS0107000	40	441	108.1771720613288	1.4e-121
+ctg155_4	B056_RS0107005	41	268	99.3212669683258	1.6e-69
+
+
+
+>>
+44. NZ_LRTK01000009
+Source: Frankia sp. EI5c UG55_1009, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1406
+
+Table of genes, locations, strands and annotations of subject cluster:
+UG55_RS27010	UG55_RS27010	18325	18705	+	TetR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	UG55_RS07465	47	254	111.24620060790274	1.8e-65
+ctg155_2	UG55_RS07475	55	442	102.58215962441315	6e-122
+ctg155_3	UG55_RS07480	42	462	106.1328790459966	5.9e-128
+ctg155_4	UG55_RS07485	38	248	100.0	1e-63
+
+
+
+>>
+45. NZ_MBLM01000117
+Source: Frankia sp. Cc1.17 contig_28, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1389
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	CC117_RS16160	44	242	123.40425531914893	7e-62
+ctg155_2	CC117_RS16170	55	450	102.11267605633803	1.7e-124
+ctg155_3	CC117_RS16175	41	450	106.64395229982964	2.3e-124
+ctg155_4	CC117_RS16180	39	247	100.90497737556561	3.8e-63
+
+
+
+>>
+46. NZ_KB893670
+Source: Frankia elaeagni strain BMG5.12 B207DRAFT_scaffold_0.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1379
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	B207_RS0101630	43	238	120.66869300911853	7.8e-61
+ctg155_2	B207_RS0101640	54	440	103.52112676056338	3e-121
+ctg155_3	B207_RS0101645	43	460	103.23679727427597	2.9e-127
+ctg155_4	B207_RS0101650	37	241	101.80995475113122	1.6e-61
+
+
+
+>>
+47. NZ_FAOZ01000020
+Source: Frankia sp. G2 strain DSM 45899, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1369
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	AWX74_RS25445	45	241	112.15805471124621	1.2e-61
+ctg155_2	AWX74_RS25455	54	440	102.58215962441315	1.7e-121
+ctg155_3	AWX74_RS25460	40	442	105.9625212947189	8.2e-122
+ctg155_4	AWX74_RS25465	36	246	108.8235294117647	6.5e-63
+
+
+
+>>
+48. NZ_JDWE01000028
+Source: Frankia sp. BMG5.23 BMG523Draft_scaffold_27.28, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1368
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	BMG523DRAFT_RS13930	43	250	120.36474164133739	2e-64
+ctg155_2	BMG523DRAFT_RS13920	54	449	103.75586854460094	4.9e-124
+ctg155_3	BMG523DRAFT_RS13915	41	418	101.36286201022146	1.3e-114
+ctg155_4	BMG523DRAFT_RS13910	37	251	112.89592760180996	2e-64
+
+
+
+>>
+49. NZ_LJPA01000003
+Source: Frankia sp. ACN1ag Ga0074159_103, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1366
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	UK82_RS03025	44	232	112.46200607902736	9.5e-59
+ctg155_2	UK82_RS03015	54	457	104.46009389671363	1.4e-126
+ctg155_3	UK82_RS03010	37	418	119.93185689948893	9.8e-115
+ctg155_4	UK82_RS03005	38	259	105.88235294117648	9.7e-67
+
+
+
+>>
+50. NZ_LJJX01000030
+Source: Frankia sp. CpI1-P FF86_1030, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1362
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	FF86_RS19340	44	232	112.46200607902736	9.5e-59
+ctg155_2	FF86_RS19350	54	454	104.46009389671363	1.5e-125
+ctg155_3	FF86_RS19355	37	419	119.93185689948893	7.5e-115
+ctg155_4	FF86_RS19360	39	257	100.4524886877828	3.7e-66
+

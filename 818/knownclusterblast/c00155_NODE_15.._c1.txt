@@ -1,0 +1,37 @@
+ClusterBlast scores for c00155_NODE_15..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg155_1	0	990	+		
+ctg155_2	986	2267	+		
+ctg155_3	2269	4033	+		
+ctg155_4	4026	5355	+		
+ctg155_5	5314	6553	-		
+ctg155_6	6976	8128	-		
+ctg155_7	8111	8318	-		
+
+
+Significant hits: 
+1. BGC0000244	Macrotetrolide
+
+
+Details:
+
+>>
+1. BGC0000244
+Source: Macrotetrolide
+Type: t2pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 881
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAF81240.1	AAF81240.1	205	990	+	flavoprotein_reductase_nonH
+AAF81241.1	AAF81241.1	1051	2013	+	flavoprotein_reductase
+AAF81242.1	AAF81242.1	2090	3481	-	amino_acid_monooxygenase-like_protein
+AAF81243.1	AAF81243.1	3552	5129	-	amino_acid_decarboxylase-like_protein
+AAF81244.1	AAF81244.1	5438	6403	-	unknown
+AAF81245.1	AAF81245.1	6526	8850	-	5-methyltetrahydropteroyltriglutamate-_homocysteine_methyltransferase-like_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg155_1	AAF81243.1	60	360	100.30395136778117	2.4e-99
+ctg155_2	AAF81242.1	60	521	102.34741784037557	1.4e-147
+

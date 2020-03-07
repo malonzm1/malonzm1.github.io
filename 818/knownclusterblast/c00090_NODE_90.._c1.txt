@@ -1,0 +1,80 @@
+ClusterBlast scores for c00090_NODE_90..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg90_1	2	1100	-		
+ctg90_2	1119	2289	-		
+ctg90_3	2680	3148	+		
+ctg90_4	3138	4605	-		
+ctg90_5	4609	5473	-		
+ctg90_6	5583	6834	-		
+ctg90_7	6874	7057	-		
+ctg90_8	6996	7407	-		
+ctg90_9	8172	8793	+		
+ctg90_10	8767	9154	+		
+ctg90_11	9150	9564	+		
+ctg90_12	9610	10336	-		
+ctg90_13	10332	11754	-		
+
+
+Significant hits: 
+1. BGC0000695	Fortimicin
+
+
+Details:
+
+>>
+1. BGC0000695
+Source: Fortimicin
+Type: saccharide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 793
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAF31530.1	CAF31530.1	1	1416	-	hypothetical_protein
+CAF31531.1	CAF31531.1	1547	2467	-	putative_transposase
+CAF31532.1	CAF31532.1	2968	4290	+	ForY
+CAF31533.1	CAF31533.1	4629	6635	+	putative_component_in_exporter_complex
+CAF31534.1	CAF31534.1	6632	8143	+	putative_component_in_exporter_complex
+CAF31535.1	CAF31535.1	8169	10031	+	putative_component_in_exporter_complex
+CAF31536.1	CAF31536.1	10124	11803	+	putative_fortimicin_dehydrogenase
+CAF31537.1	CAF31537.1	11817	12680	-	cytochrome_c-type
+CAF31538.1	CAF31538.1	12677	14227	-	putative_transmembrane_efflux_protein
+CAF31539.1	CAF31539.1	14239	15522	-	putative_(N-acetyl-)hexosaminyltransferase
+CAF31540.1	CAF31540.1	15533	16804	-	putative_ketocyclitol_aminotransferase_I_and_II
+CAF31541.1	CAF31541.1	16801	17862	-	putative_(cyclitol-)dehydrogenase
+CAF31542.1	CAF31542.1	17859	18593	-	putative_fortimicin_O-methyltransferase
+CAF31543.1	CAF31543.1	18619	19758	-	conserved_hypothetical_protein;_putative_fortimicin_production_protein
+CAF31544.1	CAF31544.1	19752	20660	-	putative_N-acetylhexosaminyl_deacetylase
+CAF31545.1	CAF31545.1	20660	21484	-	putative_fortimicin_3'-phosphotransferase_(biosynthetic)
+CAF31546.1	CAF31546.1	21486	22814	-	putative_fortimicin_6'-aminotransferase
+CAF31547.1	CAF31547.1	23004	24665	-	fortimicin_KL1_C-methyltransferase
+CAF31548.1	CAF31548.1	24691	26139	-	fortimicin_A_N-forimidoyltransferase
+CAF31549.1	CAF31549.1	26925	27392	+	putative_fortimicin_production_protein
+CAF31550.1	CAF31550.1	27450	28511	+	putative_myo-inositol_3-dehydrogenase
+CAF31551.1	CAF31551.1	28508	29350	+	putative_fortimicin_N-methyltransferase
+CAF31552.1	CAF31552.1	29359	30204	+	putative_myo-inositol-3-phosphate_phosphatase
+CAF31553.1	CAF31553.1	30466	31254	-	putative_fortimicin_biosynthetic_oxidoreductase
+CAF31554.1	CAF31554.1	31607	31906	+	hypothetical_protein
+CAF31555.1	CAF31555.1	31944	32825	+	16S_rRNA_methyltransferase
+CAF31556.1	CAF31556.1	32936	33877	+	putative_fortimicin_production_protein
+CAF31557.1	CAF31557.1	33910	34266	-	putative_fortimicin_production_protein
+CAF31558.1	CAF31558.1	34266	34904	-	putative_fortimicin_production_protein
+CAF31559.1	CAF31559.1	34911	35612	-	putative_fortimicin_production_protein;_unknown_ATP/GTP-binding_protein
+CAF31560.1	CAF31560.1	35772	36185	-	possible_fortimicin_production_protein
+CAF31561.1	CAF31561.1	36526	36897	-	possible_fortimicin_production_protein
+CAF31562.1	CAF31562.1	36896	37372	+	16S_rRNA_methyltransferase;_fortimicin_resistance
+CAF31563.1	CAF31563.1	37713	38522	-	16S_rRNA_methyltransferase
+CAF31564.1	CAF31564.1	38531	39688	-	possible_fortimicin_production_protein
+CAF31565.1	CAF31565.1	40025	41155	+	conserved_hypothetical_protein
+CAF31566.1	CAF31566.1	41180	42595	+	putative_tryptophanase
+CAG38669.1	CAG38669.1	42675	43229	-	putative_GTPase
+CAF31567.1	CAF31567.1	42675	42806	-	putative_ATP/GTP-binding_protein
+CAG38670.1	CAG38670.1	43274	43639	-	conserved_hypothetical_protein
+CAG38671.1	CAG38671.1	43636	44064	-	conserved_hypothetical_protein
+CAG38672.1	CAG38672.1	44075	45499	-	putative_signal_transduction_histidine_kinase
+CAG38673.1	CAG38673.1	46148	47035	-	putative_acetyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	CAF31566.1	67	484	99.4535519125683	1.2e-136
+ctg90_2	CAF31565.1	48	309	95.11568123393316	9.8e-84
+

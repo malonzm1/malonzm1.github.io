@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="125,35 130,30 175,30 175,40 130,40 125,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_1&lt;/b&gt;&lt;br&gt;ctg90 1&lt;br&gt;Location: 2 - 1100" locus_tag="ctg90_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="176,35 181,30 228,30 228,40 181,40 176,35 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_2&lt;/b&gt;&lt;br&gt;ctg90 2&lt;br&gt;Location: 1119 - 2289" locus_tag="ctg90_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="246,40 262,40 267,35 262,30 246,30 246,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_3&lt;/b&gt;&lt;br&gt;ctg90 3&lt;br&gt;Location: 2680 - 3148" locus_tag="ctg90_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="267,35 272,30 333,30 333,40 272,40 267,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_4&lt;/b&gt;&lt;br&gt;ctg90 4&lt;br&gt;Location: 3138 - 4605" locus_tag="ctg90_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="333,35 338,30 372,30 372,40 338,40 333,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_5&lt;/b&gt;&lt;br&gt;ctg90 5&lt;br&gt;Location: 4609 - 5473" locus_tag="ctg90_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="377,35 382,30 433,30 433,40 382,40 377,35 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_6&lt;/b&gt;&lt;br&gt;ctg90 6&lt;br&gt;Location: 5583 - 6834" locus_tag="ctg90_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="435,35 440,30 443,30 443,40 440,40 435,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_7&lt;/b&gt;&lt;br&gt;ctg90 7&lt;br&gt;Location: 6874 - 7057" locus_tag="ctg90_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="440,35 445,30 459,30 459,40 445,40 440,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_8&lt;/b&gt;&lt;br&gt;ctg90 8&lt;br&gt;Location: 6996 - 7407" locus_tag="ctg90_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="493,40 516,40 521,35 516,30 493,30 493,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_9&lt;/b&gt;&lt;br&gt;ctg90 9&lt;br&gt;Location: 8172 - 8793" locus_tag="ctg90_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="520,40 532,40 537,35 532,30 520,30 520,40 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_10&lt;/b&gt;&lt;br&gt;ctg90 10&lt;br&gt;Location: 8767 - 9154" locus_tag="ctg90_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+<polygon points="537,40 551,40 556,35 551,30 537,30 537,40 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_11&lt;/b&gt;&lt;br&gt;ctg90 11&lt;br&gt;Location: 9150 - 9564" locus_tag="ctg90_11" class="clusterblast-orf" id="dummy-1_q10_0_all"  />
+<polygon points="558,35 563,30 591,30 591,40 563,40 558,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_12&lt;/b&gt;&lt;br&gt;ctg90 12&lt;br&gt;Location: 9610 - 10336" locus_tag="ctg90_12" class="clusterblast-orf" id="dummy-1_q11_0_all"  />
+<polygon points="590,35 595,30 655,30 655,40 595,40 590,35 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_13&lt;/b&gt;&lt;br&gt;ctg90 13&lt;br&gt;Location: 10332 - 11754" locus_tag="ctg90_13" class="clusterblast-orf" id="dummy-1_q12_0_all"  />
+</g>
+<g label="NZ_MTQP01000051" description="NZ_MTQP01000051_c13: Saccharothrix sp. ALI-22-I Contig55, whole genome shotgu... (18% of genes show similarity), indole" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_MTQP01000051/13" target="_blank">NZ_MTQP01000051_c13</a>: Saccharothrix sp. ALI-22-I Contig55, whole genome shotgu... (18% of genes show similarity), indole</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 36,90 41,85 36,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11230&lt;/b&gt;&lt;br&gt;superoxide dismutase&lt;br&gt;Location: 34757 - 33828" locus_tag="ALI22I_RS11230" class="clusterblast-orf" id="dummy-1_h1_7_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="51,90 155,90 160,85 155,80 51,80 51,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11225&lt;/b&gt;&lt;br&gt;HAMP domain-containing protein&lt;br&gt;Location: 33616 - 31196" locus_tag="ALI22I_RS11225" class="clusterblast-orf" id="dummy-1_h1_7_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="162,90 177,90 182,85 177,80 162,80 162,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11220&lt;/b&gt;&lt;br&gt;dynein regulation protein LC7&lt;br&gt;Location: 31151 - 30714" locus_tag="ALI22I_RS11220" class="clusterblast-orf" id="dummy-1_h1_7_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="182,90 193,90 198,85 193,80 182,80 182,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11215&lt;/b&gt;&lt;br&gt;DUF742 domain-containing protein&lt;br&gt;Location: 30714 - 30343" locus_tag="ALI22I_RS11215" class="clusterblast-orf" id="dummy-1_h1_7_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="197,90 219,90 224,85 219,80 197,80 197,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11210&lt;/b&gt;&lt;br&gt;ATP/GTP-binding protein&lt;br&gt;Location: 30362 - 29769" locus_tag="ALI22I_RS11210" class="clusterblast-orf" id="dummy-1_h1_7_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="233,85 238,80 294,80 294,90 238,90 233,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11205&lt;/b&gt;&lt;br&gt;tyrosine phenol-lyase&lt;br&gt;Location: 29577 - 28210&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_1&lt;/b&gt;&lt;br&gt;Percentage identity: 66&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 472&lt;br&gt;E-value: 6.1e-131" locus_tag="ALI22I_RS11205" class="clusterblast-orf" id="dummy-1_h1_7_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="295,85 300,80 344,80 344,90 300,90 295,85 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11200&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 28200 - 27106&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_2&lt;/b&gt;&lt;br&gt;Percentage identity: 44&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 288&lt;br&gt;E-value: 1.3e-75" locus_tag="ALI22I_RS11200" class="clusterblast-orf" id="dummy-1_h1_7_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="365,85 370,80 406,80 406,90 370,90 365,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11195&lt;/b&gt;&lt;br&gt;3-hydroxybutyryl-CoA dehydrogenase&lt;br&gt;Location: 26647 - 25733" locus_tag="ALI22I_RS11195" class="clusterblast-orf" id="dummy-1_h1_7_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="410,90 451,90 456,85 451,80 410,80 410,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11190&lt;/b&gt;&lt;br&gt;alkaline D-peptidase&lt;br&gt;Location: 25640 - 24618" locus_tag="ALI22I_RS11190" class="clusterblast-orf" id="dummy-1_h1_7_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="463,90 483,90 488,85 483,80 463,80 463,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11185&lt;/b&gt;&lt;br&gt;leucine-rich repeat domain-containing protein&lt;br&gt;Location: 24474 - 23902" locus_tag="ALI22I_RS11185" class="clusterblast-orf" id="dummy-1_h1_7_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="488,85 493,80 509,80 509,90 493,90 488,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11180&lt;/b&gt;&lt;br&gt;CAP domain-containing protein&lt;br&gt;Location: 23905 - 23444" locus_tag="ALI22I_RS11180" class="clusterblast-orf" id="dummy-1_h1_7_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="515,85 520,80 579,80 579,90 520,90 515,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11175&lt;/b&gt;&lt;br&gt;ethanolamine permease&lt;br&gt;Location: 23308 - 21893" locus_tag="ALI22I_RS11175" class="clusterblast-orf" id="dummy-1_h1_7_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="589,90 644,90 649,85 644,80 589,80 589,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11170&lt;/b&gt;&lt;br&gt;glutamine synthetase&lt;br&gt;Location: 21666 - 20326" locus_tag="ALI22I_RS11170" class="clusterblast-orf" id="dummy-1_h1_7_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="648,90 678,90 683,85 678,80 648,80 648,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11165&lt;/b&gt;&lt;br&gt;gamma-glutamyl-gamma-aminobutyrate hydrolase family protein&lt;br&gt;Location: 20345 - 19581" locus_tag="ALI22I_RS11165" class="clusterblast-orf" id="dummy-1_h1_7_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="683,90 739,90 744,85 739,80 683,80 683,90 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11160&lt;/b&gt;&lt;br&gt;aldehyde dehydrogenase&lt;br&gt;Location: 19584 - 18226&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_13&lt;/b&gt;&lt;br&gt;Percentage identity: 35&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 237&lt;br&gt;E-value: 2.5e-60" locus_tag="ALI22I_RS11160" class="clusterblast-orf" id="dummy-1_h1_7_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="745,90 775,90 780,85 775,80 745,80 745,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ALI22I_RS11155&lt;/b&gt;&lt;br&gt;3-oxoacyl-ACP reductase&lt;br&gt;Location: 18201 - 17434" locus_tag="ALI22I_RS11155" class="clusterblast-orf" id="dummy-1_h1_7_15"  />
+</g>
+</svg>

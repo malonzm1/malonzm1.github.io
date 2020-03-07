@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>CAA07373.1</td>
+              <td>StrX</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000690/1">BGC0000690</a></td>
+              <td>saccharide</td>
+              <td>40.0</td>
+              <td>94.0</td>
+              <td>133.0</td>
+              <td>2.6e-31</td>
+          </tr>
+    
+          <tr>
+              <td>AAG13911.1</td>
+              <td>TDP-4-keto-6-deoxyhexose_3,5-epimerase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000092/1">BGC0000092</a></td>
+              <td>t1pks</td>
+              <td>40.0</td>
+              <td>94.0</td>
+              <td>120.0</td>
+              <td>3e-27</td>
+          </tr>
+    
+          <tr>
+              <td>AAC35921.1</td>
+              <td>dTDP-4-dehydrorhamnose_3,5-epimerase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000792/1">BGC0000792</a></td>
+              <td>saccharide</td>
+              <td>41.0</td>
+              <td>87.4</td>
+              <td>117.0</td>
+              <td>2.6e-26</td>
+          </tr>
+    
+          <tr>
+              <td>ctg1_orf14</td>
+              <td></td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000053/1">BGC0000053</a></td>
+              <td>t1pks</td>
+              <td>39.0</td>
+              <td>95.6</td>
+              <td>113.0</td>
+              <td>3.7e-25</td>
+          </tr>
+    
+          <tr>
+              <td>AIE54211.1</td>
+              <td>Pau44</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001731/1">BGC0001731</a></td>
+              <td>other</td>
+              <td>38.0</td>
+              <td>98.4</td>
+              <td>111.0</td>
+              <td>1.1e-24</td>
+          </tr>
+    
+          <tr>
+              <td>AIE54264.1</td>
+              <td>PauY44</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001732/1">BGC0001732</a></td>
+              <td>other</td>
+              <td>38.0</td>
+              <td>98.4</td>
+              <td>111.0</td>
+              <td>1.1e-24</td>
+          </tr>
+    
+          <tr>
+              <td>ABW74896.1</td>
+              <td>dTDP-6-deoxy-D-glucose-3,5-epimerase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000759/1">BGC0000759</a></td>
+              <td>saccharide</td>
+              <td>36.0</td>
+              <td>83.0</td>
+              <td>110.0</td>
+              <td>3.1e-24</td>
+          </tr>
+    
+          <tr>
+              <td>AAC44073.1</td>
+              <td>dTDP-6-deoxy-D-glucose-3,5-epimerase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000797/1">BGC0000797</a></td>
+              <td>saccharide</td>
+              <td>35.0</td>
+              <td>83.5</td>
+              <td>108.0</td>
+              <td>1.6e-23</td>
+          </tr>
+    
+          <tr>
+              <td>AAP57699.1</td>
+              <td>dTDP-6-deoxy-D-glucose-3,5-epimerase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000768/1">BGC0000768</a></td>
+              <td>saccharide</td>
+              <td>36.0</td>
+              <td>83.0</td>
+              <td>107.0</td>
+              <td>2e-23</td>
+          </tr>
+    
+          <tr>
+              <td>AIE77083.1</td>
+              <td>putative_3,5_epimerase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000418/1">BGC0000418</a></td>
+              <td>nrps</td>
+              <td>35.0</td>
+              <td>94.5</td>
+              <td>97.0</td>
+              <td>2.7e-20</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

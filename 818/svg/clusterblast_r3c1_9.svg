@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,35 5,30 259,30 259,40 5,40 0,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_36&lt;/b&gt;&lt;br&gt;ctg3 36&lt;br&gt;Location: 35638 - 38770" locus_tag="ctg3_36" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="279,35 284,30 354,30 354,40 284,40 279,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_37&lt;/b&gt;&lt;br&gt;ctg3 37&lt;br&gt;Location: 39014 - 39917" locus_tag="ctg3_37" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="358,35 363,30 392,30 392,40 363,40 358,35 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_38&lt;/b&gt;&lt;br&gt;ctg3 38&lt;br&gt;Location: 39975 - 40383" locus_tag="ctg3_38" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="394,35 399,30 497,30 497,40 399,40 394,35 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_39&lt;/b&gt;&lt;br&gt;ctg3 39&lt;br&gt;Location: 40405 - 41659" locus_tag="ctg3_39" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="503,35 508,30 544,30 544,40 508,40 503,35 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_40&lt;/b&gt;&lt;br&gt;ctg3 40&lt;br&gt;Location: 41726 - 42227" locus_tag="ctg3_40" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="562,35 567,30 626,30 626,40 567,40 562,35 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_41&lt;/b&gt;&lt;br&gt;ctg3 41&lt;br&gt;Location: 42435 - 43212" locus_tag="ctg3_41" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="628,35 633,30 657,30 657,40 633,40 628,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_42&lt;/b&gt;&lt;br&gt;ctg3 42&lt;br&gt;Location: 43244 - 43592" locus_tag="ctg3_42" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="661,35 666,30 728,30 728,40 666,40 661,35 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_43&lt;/b&gt;&lt;br&gt;ctg3 43&lt;br&gt;Location: 43635 - 44451" locus_tag="ctg3_43" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="731,40 775,40 780,35 775,30 731,30 731,40 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_44&lt;/b&gt;&lt;br&gt;ctg3 44&lt;br&gt;Location: 44488 - 45085" locus_tag="ctg3_44" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+</g>
+<g label="NZ_JNYZ01000032" description="NZ_JNYZ01000032_c22: Amycolatopsis jejuensis strain NRRL B-24427 contig32.1, ... (100% of genes show similarity), ectoine" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_JNYZ01000032/22" target="_blank">NZ_JNYZ01000032_c22</a>: Amycolatopsis jejuensis strain NRRL B-24427 contig32.1, ... (100% of genes show similarity), ectoine</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="131,85 136,80 357,80 357,90 136,90 131,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;OO71_RS35835&lt;/b&gt;&lt;br&gt;SARP family transcriptional regulator&lt;br&gt;Location: 78899 - 76152&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg3_36&lt;/b&gt;&lt;br&gt;Percentage identity: 50&lt;br&gt;Percentage coverage: 87&lt;br&gt;BLAST bit score: 770&lt;br&gt;E-value: 2.3e-220" locus_tag="OO71_RS35835" class="clusterblast-orf" id="dummy-1_h1_9_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="387,85 392,80 462,80 462,90 392,90 387,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OO71_RS35830&lt;/b&gt;&lt;br&gt;ectoine hydroxylase&lt;br&gt;Location: 75787 - 74885&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg3_37&lt;/b&gt;&lt;br&gt;Percentage identity: 80&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 510&lt;br&gt;E-value: 1.3e-142" locus_tag="OO71_RS35830" class="clusterblast-orf" id="dummy-1_h1_9_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="466,85 471,80 498,80 498,90 471,90 466,85 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OO71_RS35825&lt;/b&gt;&lt;br&gt;L-ectoine synthase&lt;br&gt;Location: 74835 - 74443&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg3_38&lt;/b&gt;&lt;br&gt;Percentage identity: 85&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 241&lt;br&gt;E-value: 6.4e-62" locus_tag="OO71_RS35825" class="clusterblast-orf" id="dummy-1_h1_9_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="501,85 506,80 604,80 604,90 506,90 501,85 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OO71_RS35820&lt;/b&gt;&lt;br&gt;diaminobutyrate--2-oxoglutarate transaminase&lt;br&gt;Location: 74417 - 73164&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg3_39&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 727&lt;br&gt;E-value: 7e-208" locus_tag="OO71_RS35820" class="clusterblast-orf" id="dummy-1_h1_9_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="606,85 611,80 648,80 648,90 611,90 606,85 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;OO71_RS35815&lt;/b&gt;&lt;br&gt;diaminobutyrate acetyltransferase&lt;br&gt;Location: 73145 - 72627&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg3_40&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 274&lt;br&gt;E-value: 1.1e-71" locus_tag="OO71_RS35815" class="clusterblast-orf" id="dummy-1_h1_9_4"  />
+</g>
+</svg>

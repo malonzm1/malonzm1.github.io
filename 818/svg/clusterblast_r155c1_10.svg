@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="17,40 101,40 106,35 101,30 17,30 17,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_1&lt;/b&gt;&lt;br&gt;ctg155 1&lt;br&gt;Location: 0 - 990" locus_tag="ctg155_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="106,40 216,40 221,35 216,30 106,30 106,40 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_2&lt;/b&gt;&lt;br&gt;ctg155 2&lt;br&gt;Location: 986 - 2267" locus_tag="ctg155_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="221,40 374,40 379,35 374,30 221,30 221,40 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_3&lt;/b&gt;&lt;br&gt;ctg155 3&lt;br&gt;Location: 2269 - 4033" locus_tag="ctg155_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="378,40 493,40 498,35 493,30 378,30 378,40 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_4&lt;/b&gt;&lt;br&gt;ctg155 4&lt;br&gt;Location: 4026 - 5355" locus_tag="ctg155_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="494,35 499,30 605,30 605,40 499,40 494,35 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_5&lt;/b&gt;&lt;br&gt;ctg155 5&lt;br&gt;Location: 5314 - 6553" locus_tag="ctg155_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="643,35 648,30 747,30 747,40 648,40 643,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_6&lt;/b&gt;&lt;br&gt;ctg155 6&lt;br&gt;Location: 6976 - 8128" locus_tag="ctg155_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="745,35 750,30 764,30 764,40 750,40 745,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_7&lt;/b&gt;&lt;br&gt;ctg155 7&lt;br&gt;Location: 8111 - 8318" locus_tag="ctg155_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+</g>
+<g label="NZ_JNYY01000008" description="NZ_JNYY01000008_c14: Amycolatopsis vancoresmycina strain NRRL B-24208 contig8... (50% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_JNYY01000008/14" target="_blank">NZ_JNYY01000008_c14</a>: Amycolatopsis vancoresmycina strain NRRL B-24208 contig8... (50% of genes show similarity), siderophore</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 33,80 33,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;OO60_RS19985&lt;/b&gt;&lt;br&gt;fluoride efflux transporter CrcB&lt;br&gt;Location: 37219 - 36845" locus_tag="OO60_RS19985" class="clusterblast-orf" id="dummy-1_h1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="33,85 38,80 63,80 63,90 38,90 33,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;OO60_RS19980&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 36848 - 36516" locus_tag="OO60_RS19980" class="clusterblast-orf" id="dummy-1_h1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="63,85 68,80 99,80 99,90 68,90 63,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;OO60_RS19975&lt;/b&gt;&lt;br&gt;CrcB family protein&lt;br&gt;Location: 36516 - 36115" locus_tag="OO60_RS19975" class="clusterblast-orf" id="dummy-1_h1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="112,90 248,90 253,85 248,80 112,80 112,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;OO60_RS19970&lt;/b&gt;&lt;br&gt;amino acid decarboxylase&lt;br&gt;Location: 35967 - 34396&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_1&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 442&lt;br&gt;E-value: 3.5e-122" locus_tag="OO60_RS19970" class="clusterblast-orf" id="dummy-1_h1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="253,90 363,90 368,85 363,80 253,80 253,90 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;OO60_RS19965&lt;/b&gt;&lt;br&gt;Lysine/ornithine N-monooxygenase&lt;br&gt;Location: 34399 - 33116&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_2&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 560&lt;br&gt;E-value: 2e-157" locus_tag="OO60_RS19965" class="clusterblast-orf" id="dummy-1_h1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="367,90 517,90 522,85 517,80 367,80 367,90 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OO60_RS19960&lt;/b&gt;&lt;br&gt;siderophore biosynthesis protein IucA&lt;br&gt;Location: 33119 - 31392&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_3&lt;/b&gt;&lt;br&gt;Percentage identity: 76&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 868&lt;br&gt;E-value: 3.6e-250" locus_tag="OO60_RS19960" class="clusterblast-orf" id="dummy-1_h1_10_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="522,90 634,90 639,85 634,80 522,80 522,90 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OO60_RS45465&lt;/b&gt;&lt;br&gt;glutamine synthetase&lt;br&gt;Location: 31395 - 30091&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_4&lt;/b&gt;&lt;br&gt;Percentage identity: 65&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 540&lt;br&gt;E-value: 1.7e-151" locus_tag="OO60_RS45465" class="clusterblast-orf" id="dummy-1_h1_10_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="655,85 660,80 780,80 780,90 660,90 655,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;OO60_RS19945&lt;/b&gt;&lt;br&gt;FAD-binding oxidoreductase&lt;br&gt;Location: 29915 - 28527" locus_tag="OO60_RS19945" class="clusterblast-orf" id="dummy-1_h1_10_7"  />
+</g>
+</svg>

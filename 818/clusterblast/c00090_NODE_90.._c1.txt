@@ -1,0 +1,915 @@
+ClusterBlast scores for c00090_NODE_90..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg90_1	2	1100	-		
+ctg90_2	1119	2289	-		
+ctg90_3	2680	3148	+		
+ctg90_4	3138	4605	-		
+ctg90_5	4609	5473	-		
+ctg90_6	5583	6834	-		
+ctg90_7	6874	7057	-		
+ctg90_8	6996	7407	-		
+ctg90_9	8172	8793	+		
+ctg90_10	8767	9154	+		
+ctg90_11	9150	9564	+		
+ctg90_12	9610	10336	-		
+ctg90_13	10332	11754	-		
+
+
+Significant hits: 
+1. NZ_KI421511	Amycolatopsis thermoflava N1165 AmythDRAFT_Scaffold1.2, whole genome shotgun sequence
+2. NZ_AFWY03000063	Amycolatopsis sp. ATCC 39116 strain 75iv2 Amy_contig00041.63_C, whole genome shotgun sequence
+3. NZ_CP009110	Amycolatopsis methanolica 239, complete genome
+4. NZ_CP015588	Streptomyces silaceus strain ACCC40021, complete genome
+5. NZ_LLZK01000121	Streptomyces sp. NRRL S-1521 P341contig2.2, whole genome shotgun sequence
+6. NZ_JNVU01000017	Saccharopolyspora rectivirgula strain DSM 43113 contig00017, whole genome shotgun sequence
+7. NZ_MTQP01000051	Saccharothrix sp. ALI-22-I Contig55, whole genome shotgun sequence
+8. NZ_JOJL01000013	Actinoplanes subtropicus strain NRRL B-24665 contig13.1, whole genome shotgun sequence
+9. NZ_LWLC01000003	Saccharothrix sp. CB00851 scaffold11, whole genome shotgun sequence
+10. NZ_JNXC01000015	Saccharothrix sp. NRRL B-16314 contig15.1, whole genome shotgun sequence
+11. NZ_FOME01000001	Saccharopolyspora jiangxiensis strain CGMCC 4.3529, whole genome shotgun sequence
+12. NZ_FOUP01000013	Saccharopolyspora antimicrobica strain CPCC 201259, whole genome shotgun sequence
+13. NZ_FNCC01000005	Lechevalieria fradiae strain CGMCC 4.3506, whole genome shotgun sequence
+14. NZ_KQ948937	Streptomyces caeruleatus strain NRRL B-24802 PRJNA299234_s014, whole genome shotgun sequence
+15. NZ_GL877879	Saccharopolyspora spinosa NRRL 18395 Scaffold000002, whole genome shotgun sequence
+16. NC_013159	Saccharomonospora viridis DSM 43017, complete genome
+17. NZ_CM001466	Saccharomonospora azurea NA-128 chromosome, whole genome shotgun sequence
+18. NZ_KL997447	Streptomyces scabiei strain NCPPB 4086 scf_65433_365.1, whole genome shotgun sequence
+19. NZ_JH636049	Saccharomonospora xinjiangensis XJ-54 Sacxiscaffold_2, whole genome shotgun sequence
+20. NZ_CM001440	Saccharomonospora cyanea NA-134 chromosome, whole genome shotgun sequence
+21. NZ_AZUM01000002	Saccharomonospora sp. CNQ490 B126DRAFT_scaffold_1.2_C, whole genome shotgun sequence
+22. NZ_FOZX01000009	Saccharopolyspora flava strain DSM 44771, whole genome shotgun sequence
+23. NZ_FOEF01000003	Amycolatopsis saalfeldensis strain DSM 44993, whole genome shotgun sequence
+24. NZ_LWSF01000009	Amycolatopsis sp. M39 A4R44_contig000009, whole genome shotgun sequence
+25. NZ_FOWC01000001	Amycolatopsis rubida strain DSM 44637, whole genome shotgun sequence
+26. NZ_JOIQ01000002	Streptomyces sp. NRRL F-3213 contig2.1, whole genome shotgun sequence
+27. NZ_ASXG01000172	Amycolatopsis orientalis DSM 43388 contig_13, whole genome shotgun sequence
+28. NZ_KB912942	Amycolatopsis benzoatilytica AK 16/65 AmybeDRAFT_scaffold1.1, whole genome shotgun sequence
+29. NZ_ASXH01000157	Amycolatopsis orientalis DSM 46075 contig_3, whole genome shotgun sequence
+30. NZ_CP024894	Amycolatopsis sp. AA4 chromosome, complete genome
+31. NZ_GG657746	Streptomyces sp. AA4 supercont1.1, whole genome shotgun sequence
+32. NZ_JNYZ01000012	Amycolatopsis jejuensis strain NRRL B-24427 contig12.1, whole genome shotgun sequence
+33. NZ_CP012752	Kibdelosporangium phytohabitans strain KLBMP1111, complete genome
+34. NZ_CDME01000011	Kibdelosporangium sp. MJ126-NF4, whole genome shotgun sequence
+35. NZ_FNOK01000001	Saccharopolyspora shandongensis strain CGMCC 4.3530, whole genome shotgun sequence
+36. NZ_LRMV01000091	Micromonospora rifamycinica strain AM105 contig091, whole genome shotgun sequence
+37. NZ_LT607752	Micromonospora rifamycinica strain DSM 44983 genome assembly, chromosome: I
+38. NZ_FMCU01000005	Micromonospora matsumotoense strain DSM 44100, whole genome shotgun sequence
+39. NZ_FMZZ01000007	Alloactinosynnema iranicum strain IBRC-M 10403, whole genome shotgun sequence
+40. NC_009142	Saccharopolyspora erythraea NRRL2338 complete genome
+41. NZ_FOYL01000001	Lentzea waywayandensis strain DSM 44232, whole genome shotgun sequence
+42. NC_017093	Actinoplanes missouriensis 431 DNA, complete genome
+43. NZ_FOFV01000009	Lentzea albida strain DSM 44437, whole genome shotgun sequence
+44. NZ_FOFT01000017	Lentzea flaviverrucosa strain CGMCC 4.578, whole genome shotgun sequence
+45. NZ_JZKF01000090	Actinoplanes rectilineatus strain NRRL B-16090 contig-90, whole genome shotgun sequence
+46. NZ_FOGI01000001	Actinokineospora terrae strain DSM 44260, whole genome shotgun sequence
+47. NZ_JOEA01000004	Lentzea albidocapillata strain NRRL B-24057 contig4.1, whole genome shotgun sequence
+48. NZ_KB903249	Catelliglobosispora koreensis DSM 44566 A3E1DRAFT_scaffold_0.1, whole genome shotgun sequence
+49. NZ_AYXG01000028	Actinokineospora spheciospongiae strain EG49 contig1293_6, whole genome shotgun sequence
+50. NZ_BBOJ01000021	Lechevalieria aerocolonigenes strain NBRC 13195, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_KI421511
+Source: Amycolatopsis thermoflava N1165 AmythDRAFT_Scaffold1.2, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3057
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	AMYTH_RS0142480	90	659	100.0	2.7e-187
+ctg90_2	AMYTH_RS0142475	79	533	88.17480719794345	1.8e-149
+ctg90_4	AMYTH_RS0142460	82	808	100.40983606557377	4.8e-232
+ctg90_5	AMYTH_RS0142455	96	567	100.0	6.4e-160
+ctg90_10	AMYTH_RS0142450	86	238	98.4375	3.9e-61
+ctg90_11	AMYTH_RS0142445	90	252	100.0	2.2e-65
+
+
+
+>>
+2. NZ_AFWY03000063
+Source: Amycolatopsis sp. ATCC 39116 strain 75iv2 Amy_contig00041.63_C, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3055
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	AMY39116_RS0336840	90	664	100.0	8.3e-189
+ctg90_2	AMY39116_RS0336845	78	526	88.17480719794345	2.2e-147
+ctg90_4	AMY39116_RS0336860	84	809	100.40983606557377	2.8e-232
+ctg90_5	AMY39116_RS0336865	95	564	100.0	9.2e-159
+ctg90_10	AMY39116_RS0336870	87	242	99.21875	2.7e-62
+ctg90_11	AMY39116_RS0336875	90	250	99.27007299270073	8.2e-65
+
+
+
+>>
+3. NZ_CP009110
+Source: Amycolatopsis methanolica 239, complete genome
+Type: indole
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2242
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMETH_RS22050	AMETH_RS22050	4531750	4533515	+	hypothetical_protein
+AMETH_RS22085	AMETH_RS22085	4541762	4543191	-	p-hydroxycinnamoyl-CoA_synthetase
+AMETH_RS22125	AMETH_RS22125	4548338	4549031	+	short-chain_dehydrogenase
+AMETH_RS22130	AMETH_RS22130	4549255	4550663	-	MFS_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	AMETH_RS22075	90	660	100.0	1.2e-187
+ctg90_2	AMETH_RS22080	78	530	88.17480719794345	1.2e-148
+ctg90_5	AMETH_RS22090	95	565	100.0	3.2e-159
+ctg90_10	AMETH_RS22095	86	238	98.4375	3.9e-61
+ctg90_11	AMETH_RS22100	89	249	100.0	2.4e-64
+
+
+
+>>
+4. NZ_CP015588
+Source: Streptomyces silaceus strain ACCC40021, complete genome
+Type: indole-transatpks-t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1343
+
+Table of genes, locations, strands and annotations of subject cluster:
+A7J05_RS38610	A7J05_RS38610	936780	936910	-	regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	A7J05_RS03970	61	437	98.36065573770492	1.7e-120
+ctg90_2	A7J05_RS03975	38	191	95.11568123393316	1.3e-46
+ctg90_4	A7J05_RS04005	35	283	102.25409836065573	4.1e-74
+ctg90_4	A7J05_RS04015	31	190	100.81967213114753	6.1e-46
+ctg90_5	A7J05_RS03945	32	98	75.26132404181185	1.4e-18
+ctg90_6	A7J05_RS03860	31	144	90.14423076923077	3.3e-32
+
+
+
+>>
+5. NZ_LLZK01000121
+Source: Streptomyces sp. NRRL S-1521 P341contig2.2, whole genome shotgun sequence
+Type: indole-transatpks-t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1343
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	ADL30_RS10445	61	437	98.36065573770492	1.7e-120
+ctg90_2	ADL30_RS10450	38	193	95.11568123393316	4.4e-47
+ctg90_4	ADL30_RS10480	35	284	102.25409836065573	2.4e-74
+ctg90_4	ADL30_RS10490	31	188	100.81967213114753	1.8e-45
+ctg90_5	ADL30_RS10420	32	97	74.21602787456446	1.9e-18
+ctg90_6	ADL30_RS10335	31	144	87.25961538461539	3.3e-32
+
+
+
+>>
+6. NZ_JNVU01000017
+Source: Saccharopolyspora rectivirgula strain DSM 43113 contig00017, whole genome shotgun sequence
+Type: indole-t3pks
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1055
+
+Table of genes, locations, strands and annotations of subject cluster:
+GU90_RS06965	GU90_RS06965	206864	207437	+	hemerythrin
+GU90_RS07140	GU90_RS07140	239880	240173	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	GU90_RS07130	64	467	98.63387978142076	1.1e-129
+ctg90_2	GU90_RS07135	55	383	89.97429305912597	3.9e-104
+ctg90_4	GU90_RS07205	34	205	101.63934426229508	1.8e-50
+
+
+
+>>
+7. NZ_MTQP01000051
+Source: Saccharothrix sp. ALI-22-I Contig55, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 997
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	ALI22I_RS11205	66	472	100.0	6.1e-131
+ctg90_2	ALI22I_RS11200	44	288	92.54498714652956	1.3e-75
+ctg90_13	ALI22I_RS11160	35	237	95.13742071881607	2.5e-60
+
+
+
+>>
+8. NZ_JOJL01000013
+Source: Actinoplanes subtropicus strain NRRL B-24665 contig13.1, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 993
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	IH26_RS0118935	68	495	98.63387978142076	3.9e-138
+ctg90_2	IH26_RS0118930	47	265	85.8611825192802	9.2e-69
+ctg90_13	IH26_RS0118960	36	233	101.90274841437632	6.1e-59
+
+
+
+>>
+9. NZ_LWLC01000003
+Source: Saccharothrix sp. CB00851 scaffold11, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 990
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	A6A25_RS06015	66	474	100.0	1.2e-131
+ctg90_2	A6A25_RS06010	44	281	87.40359897172236	1.6e-73
+ctg90_13	A6A25_RS05965	35	235	94.71458773784354	9.4e-60
+
+
+
+>>
+10. NZ_JNXC01000015
+Source: Saccharothrix sp. NRRL B-16314 contig15.1, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 954
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	OQ02_RS22100	64	450	98.63387978142076	2.5e-124
+ctg90_2	OQ02_RS22105	44	269	85.08997429305913	8.3e-70
+ctg90_13	OQ02_RS22140	35	235	96.61733615221986	1.6e-59
+
+
+
+>>
+11. NZ_FOME01000001
+Source: Saccharopolyspora jiangxiensis strain CGMCC 4.3529, whole genome shotgun sequence
+Type: indole-lantipeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 926
+
+Table of genes, locations, strands and annotations of subject cluster:
+BM295_RS07275	BM295_RS07275	1607742	1608095	+	hypothetical_protein
+BM295_RS07325	BM295_RS07325	1621469	1621936	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BM295_RS07255	58	416	99.72677595628416	2.3e-114
+ctg90_2	BM295_RS07260	48	309	91.25964010282776	5.5e-82
+ctg90_13	BM295_RS07310	33	201	96.19450317124736	2e-49
+
+
+
+>>
+12. NZ_FOUP01000013
+Source: Saccharopolyspora antimicrobica strain CPCC 201259, whole genome shotgun sequence
+Type: indole-lantipeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 924
+
+Table of genes, locations, strands and annotations of subject cluster:
+BM016_RS26850	BM016_RS26850	14496	14849	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BM016_RS26870	58	415	99.72677595628416	5.2e-114
+ctg90_2	BM016_RS26865	48	307	91.25964010282776	2.1e-81
+ctg90_13	BM016_RS26815	34	202	96.40591966173362	1.2e-49
+
+
+
+>>
+13. NZ_FNCC01000005
+Source: Lechevalieria fradiae strain CGMCC 4.3506, whole genome shotgun sequence
+Type: indole-otherks-t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 892
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLT23_RS12820	BLT23_RS12820	142045	142620	-	hypothetical_protein
+BLT23_RS12920	BLT23_RS12920	164540	165770	-	polymerase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BLT23_RS12855	64	460	98.63387978142076	2.4e-127
+ctg90_2	BLT23_RS12860	48	281	84.06169665809769	1.2e-73
+ctg90_6	BLT23_RS13090	31	151	92.3076923076923	2.7e-34
+
+
+
+>>
+14. NZ_KQ948937
+Source: Streptomyces caeruleatus strain NRRL B-24802 PRJNA299234_s014, whole genome shotgun sequence
+Type: indole-t3pks-nrps-t1pks-otherks
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 792
+
+Table of genes, locations, strands and annotations of subject cluster:
+AQJ67_RS34510	AQJ67_RS34510	32900	33235	-	hypothetical_protein
+AQJ67_RS34515	AQJ67_RS34515	33246	34019	-	IS256_family_transposase
+AQJ67_RS47150	AQJ67_RS47150	34574	34737	-	IS5/IS1182_family_transposase
+AQJ67_RS45955	AQJ67_RS45955	45763	46078	-	transposase
+AQJ67_RS34730	AQJ67_RS34730	95749	100935	+	hypothetical_protein
+AQJ67_RS45960	AQJ67_RS45960	125632	126891	-	non-ribosomal_peptide_synthetase
+AQJ67_RS45965	AQJ67_RS45965	127297	128904	-	non-ribosomal_peptide_synthetase
+AQJ67_RS47155	AQJ67_RS47155	129112	131221	-	non-ribosomal_peptide_synthetase
+AQJ67_RS34785	AQJ67_RS34785	131733	133700	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	AQJ67_RS34565	60	451	98.63387978142076	8.5e-125
+ctg90_2	AQJ67_RS34570	39	211	90.74550128534705	1.6e-52
+ctg90_5	AQJ67_RS34670	37	130	78.74564459930313	2.6e-28
+
+
+
+>>
+15. NZ_GL877879
+Source: Saccharopolyspora spinosa NRRL 18395 Scaffold000002, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 499
+
+Table of genes, locations, strands and annotations of subject cluster:
+SSPN_RS0124995	SSPN_RS0124995	1282264	1282645	+	IS110_family_transposase
+SSPN_RS51885	SSPN_RS51885	1290230	1290429	-	hypothetical_protein
+SSPN_RS45685	SSPN_RS45685	1292430	1293628	+	tyrosine_phenol-lyase
+SSPN_RS51890	SSPN_RS51890	1297808	1298107	-	peptidase_M20
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	SSPN_RS45685	48	316	100.0	4.3e-84
+ctg90_2	SSPN_RS0125040	47	74	19.794344473007712	3e-11
+ctg90_9	SSPN_RS0125080	36	109	85.43689320388349	4.4e-22
+
+
+
+>>
+16. NC_013159
+Source: Saccharomonospora viridis DSM 43017, complete genome
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1000
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	SVIR_RS18380	79	588	100.0	5.8e-166
+ctg90_2	SVIR_RS18385	59	412	92.2879177377892	6.1e-113
+
+
+
+>>
+17. NZ_CM001466
+Source: Saccharomonospora azurea NA-128 chromosome, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 997
+
+Table of genes, locations, strands and annotations of subject cluster:
+SACAZDRAFT_RS22495	SACAZDRAFT_RS22495	2741131	2743092	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	SACAZDRAFT_RS12255	79	591	100.0	9e-167
+ctg90_2	SACAZDRAFT_RS12260	59	406	93.31619537275064	2.5e-111
+
+
+
+>>
+18. NZ_KL997447
+Source: Streptomyces scabiei strain NCPPB 4086 scf_65433_365.1, whole genome shotgun sequence
+Type: indole-nrps-t1pks-otherks
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 994
+
+Table of genes, locations, strands and annotations of subject cluster:
+IQ62_RS48615	IQ62_RS48615	255599	255914	+	cyclase
+IQ62_RS47460	IQ62_RS47460	284557	284985	-	hypothetical_protein
+IQ62_RS47465	IQ62_RS47465	284996	285392	-	hypothetical_protein
+IQ62_RS48620	IQ62_RS48620	285403	285903	-	polyketide_synthase
+IQ62_RS47470	IQ62_RS47470	285914	286297	-	hypothetical_protein
+IQ62_RS41870	IQ62_RS41870	286524	290062	-	polyketide_synthase
+IQ62_RS47475	IQ62_RS47475	294678	295649	+	hypothetical_protein
+IQ62_RS47480	IQ62_RS47480	295920	296429	+	hypothetical_protein
+IQ62_RS47485	IQ62_RS47485	296562	297485	+	polyketide_synthase
+IQ62_RS47490	IQ62_RS47490	297993	299666	+	hypothetical_protein
+IQ62_RS48625	IQ62_RS48625	299694	300899	+	polyketide_synthase
+IQ62_RS45130	IQ62_RS45130	300909	303612	+	polyketide_synthase
+IQ62_RS41920	IQ62_RS41920	313906	316398	+	hypothetical_protein
+IQ62_RS41935	IQ62_RS41935	318900	320915	+	type_I_polyketide_synthase
+IQ62_RS41945	IQ62_RS41945	324634	327135	+	hypothetical_protein
+IQ62_RS48630	IQ62_RS48630	357013	357129	+	recombinase
+IQ62_RS48640	IQ62_RS48640	381155	381283	-	IS701_family_transposase
+IQ62_RS42175	IQ62_RS42175	390425	390836	+	DUF3592_domain-containing_protein
+IQ62_RS42180	IQ62_RS42180	390829	391393	-	hypothetical_protein
+IQ62_RS47520	IQ62_RS47520	405162	405469	-	glycoside_hydrolase
+IQ62_RS42235	IQ62_RS42235	410141	411036	-	short-chain_dehydrogenase
+IQ62_RS47525	IQ62_RS47525	413359	413589	+	hypothetical_protein
+IQ62_RS47530	IQ62_RS47530	415820	415972	-	IS5/IS1182_family_transposase
+IQ62_RS42290	IQ62_RS42290	421007	422477	-	amidase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	IQ62_RS45115	61	451	99.4535519125683	6.5e-125
+ctg90_2	IQ62_RS45115	37	183	94.34447300771208	4.6e-44
+ctg90_4	IQ62_RS42215	36	263	98.77049180327869	5.7e-68
+ctg90_9	IQ62_RS42075	40	97	92.71844660194175	1.7e-18
+
+
+
+>>
+19. NZ_JH636049
+Source: Saccharomonospora xinjiangensis XJ-54 Sacxiscaffold_2, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 990
+
+Table of genes, locations, strands and annotations of subject cluster:
+SACXIDRAFT_RS11300	SACXIDRAFT_RS11300	2557503	2557760	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	SACXIDRAFT_RS11320	80	595	100.0	3.6e-168
+ctg90_2	SACXIDRAFT_RS11315	56	395	93.573264781491	5.9e-108
+
+
+
+>>
+20. NZ_CM001440
+Source: Saccharomonospora cyanea NA-134 chromosome, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 984
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	SACCYDRAFT_RS24065	80	592	100.0	4e-167
+ctg90_2	SACCYDRAFT_RS24070	57	392	92.03084832904884	6.5e-107
+
+
+
+>>
+21. NZ_AZUM01000002
+Source: Saccharomonospora sp. CNQ490 B126DRAFT_scaffold_1.2_C, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 958
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	B126_RS0110195	77	571	100.0	7.3e-161
+ctg90_2	B126_RS0110200	59	387	84.57583547557842	1.6e-105
+
+
+
+>>
+22. NZ_FOZX01000009
+Source: Saccharopolyspora flava strain DSM 44771, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 903
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BM424_RS23380	63	450	100.0	1.4e-124
+ctg90_2	BM424_RS23385	52	337	89.7172236503856	2.5e-90
+ctg90_2	BM424_RS23330	31	116	92.2879177377892	5.3e-24
+
+
+
+>>
+23. NZ_FOEF01000003
+Source: Amycolatopsis saalfeldensis strain DSM 44993, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 889
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BMY97_RS10550	73	535	100.0	5.8e-150
+ctg90_2	BMY97_RS10545	52	354	92.80205655526991	2e-95
+
+
+
+>>
+24. NZ_LWSF01000009
+Source: Amycolatopsis sp. M39 A4R44_contig000009, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 888
+
+Table of genes, locations, strands and annotations of subject cluster:
+A4R44_RS22430	A4R44_RS22430	176833	179260	-	histidine_kinase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	A4R44_RS22410	74	537	100.0	1.2e-150
+ctg90_2	A4R44_RS22405	53	351	91.00257069408741	9.7e-95
+
+
+
+>>
+25. NZ_FOWC01000001
+Source: Amycolatopsis rubida strain DSM 44637, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 887
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BM362_RS02715	74	537	100.0	1.2e-150
+ctg90_2	BM362_RS02720	53	350	91.00257069408741	2.2e-94
+
+
+
+>>
+26. NZ_JOIQ01000002
+Source: Streptomyces sp. NRRL F-3213 contig2.1, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 885
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF70_RS05050	IF70_RS05050	270119	272491	-	serine/threonine_protein_kinase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	IF70_RS05025	74	534	100.0	7.6e-150
+ctg90_2	IF70_RS05020	53	351	91.00257069408741	9.7e-95
+
+
+
+>>
+27. NZ_ASXG01000172
+Source: Amycolatopsis orientalis DSM 43388 contig_13, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 884
+
+Table of genes, locations, strands and annotations of subject cluster:
+L942_RS36020	L942_RS36020	24424	26807	+	serine/threonine_protein_kinase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	L942_RS36045	74	535	100.0	5.8e-150
+ctg90_2	L942_RS36050	53	349	91.00257069408741	3.7e-94
+
+
+
+>>
+28. NZ_KB912942
+Source: Amycolatopsis benzoatilytica AK 16/65 AmybeDRAFT_scaffold1.1, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 881
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	AMYBE_RS0130950	73	532	100.0	3.8e-149
+ctg90_2	AMYBE_RS0130955	52	349	92.03084832904884	3.7e-94
+
+
+
+>>
+29. NZ_ASXH01000157
+Source: Amycolatopsis orientalis DSM 46075 contig_3, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 879
+
+Table of genes, locations, strands and annotations of subject cluster:
+L943_RS35660	L943_RS35660	73529	75900	+	serine/threonine_protein_kinase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	L943_RS35685	74	532	100.0	3.8e-149
+ctg90_2	L943_RS35690	52	347	91.00257069408741	1.8e-93
+
+
+
+>>
+30. NZ_CP024894
+Source: Amycolatopsis sp. AA4 chromosome, complete genome
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 879
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	CU254_RS00135	73	529	100.0	2.4e-148
+ctg90_2	CU254_RS00130	52	350	92.03084832904884	2.2e-94
+
+
+
+>>
+31. NZ_GG657746
+Source: Streptomyces sp. AA4 supercont1.1, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 879
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	SSMG_RS00135	73	529	100.0	2.4e-148
+ctg90_2	SSMG_RS00130	52	350	92.03084832904884	2.2e-94
+
+
+
+>>
+32. NZ_JNYZ01000012
+Source: Amycolatopsis jejuensis strain NRRL B-24427 contig12.1, whole genome shotgun sequence
+Type: indole-lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 871
+
+Table of genes, locations, strands and annotations of subject cluster:
+OO71_RS48930	OO71_RS48930	91061	91165	-	phosphotransferase
+OO71_RS46480	OO71_RS46480	111917	112784	-	LysR_family_transcriptional_regulator
+OO71_RS17965	OO71_RS17965	117286	117933	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	OO71_RS17865	72	522	100.0	3.9e-146
+ctg90_2	OO71_RS17860	53	349	91.77377892030847	6.3e-94
+
+
+
+>>
+33. NZ_CP012752
+Source: Kibdelosporangium phytohabitans strain KLBMP1111, complete genome
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 867
+
+Table of genes, locations, strands and annotations of subject cluster:
+AOZ06_RS19275	AOZ06_RS19275	4209731	4210564	+	transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	AOZ06_RS19335	73	535	100.0	4.5e-150
+ctg90_2	AOZ06_RS19330	50	332	92.2879177377892	4.7e-89
+
+
+
+>>
+34. NZ_CDME01000011
+Source: Kibdelosporangium sp. MJ126-NF4, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 863
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BN1199_RS35660	73	532	100.0	2.9e-149
+ctg90_2	BN1199_RS35655	50	331	92.80205655526991	1e-88
+
+
+
+>>
+35. NZ_FNOK01000001
+Source: Saccharopolyspora shandongensis strain CGMCC 4.3530, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 812
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLW84_RS00005	BLW84_RS00005	1	519	+	endonuclease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BLW84_RS00035	62	456	100.0	2.6e-126
+ctg90_2	BLW84_RS00030	52	356	90.74550128534705	3.9e-96
+
+
+
+>>
+36. NZ_LRMV01000091
+Source: Micromonospora rifamycinica strain AM105 contig091, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 782
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	AWV63_RS17720	68	494	98.63387978142076	1.1e-137
+ctg90_2	AWV63_RS17715	48	288	90.74550128534705	1.3e-75
+
+
+
+>>
+37. NZ_LT607752
+Source: Micromonospora rifamycinica strain DSM 44983 genome assembly, chromosome: I
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 782
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	GA0070623_RS16965	68	494	98.63387978142076	1.1e-137
+ctg90_2	GA0070623_RS16970	48	288	90.74550128534705	1.3e-75
+
+
+
+>>
+38. NZ_FMCU01000005
+Source: Micromonospora matsumotoense strain DSM 44100, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 779
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	GA0070216_RS12120	68	489	98.63387978142076	2.8e-136
+ctg90_2	GA0070216_RS12115	49	290	91.00257069408741	2e-76
+
+
+
+>>
+39. NZ_FMZZ01000007
+Source: Alloactinosynnema iranicum strain IBRC-M 10403, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 777
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BLS56_RS15565	66	473	100.0	2.1e-131
+ctg90_2	BLS56_RS15570	48	304	92.80205655526991	1.8e-80
+
+
+
+>>
+40. NC_009142
+Source: Saccharopolyspora erythraea NRRL2338 complete genome
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 774
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	SACE_RS09580	63	459	99.72677595628416	4.1e-127
+ctg90_2	SACE_RS09585	47	315	92.03084832904884	1e-83
+
+
+
+>>
+41. NZ_FOYL01000001
+Source: Lentzea waywayandensis strain DSM 44232, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 772
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BM417_RS04445	65	462	98.63387978142076	3.7e-128
+ctg90_2	BM417_RS04440	49	310	91.51670951156812	3.2e-82
+
+
+
+>>
+42. NC_017093
+Source: Actinoplanes missouriensis 431 DNA, complete genome
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 772
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	AMIS_RS11165	64	458	98.63387978142076	5.3e-127
+ctg90_2	AMIS_RS11160	50	314	90.48843187660668	2.2e-83
+
+
+
+>>
+43. NZ_FOFV01000009
+Source: Lentzea albida strain DSM 44437, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 768
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BMY74_RS23260	65	458	98.63387978142076	6.9e-127
+ctg90_2	BMY74_RS23255	52	310	84.06169665809769	3.2e-82
+
+
+
+>>
+44. NZ_FOFT01000017
+Source: Lentzea flaviverrucosa strain CGMCC 4.578, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 765
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BMZ12_RS37780	65	462	98.63387978142076	3.7e-128
+ctg90_2	BMZ12_RS37785	48	303	88.4318766066838	3e-80
+
+
+
+>>
+45. NZ_JZKF01000090
+Source: Actinoplanes rectilineatus strain NRRL B-16090 contig-90, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 764
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	WH85_RS38675	66	483	98.63387978142076	1.5e-134
+ctg90_2	WH85_RS38680	46	281	95.88688946015425	1.2e-73
+
+
+
+>>
+46. NZ_FOGI01000001
+Source: Actinokineospora terrae strain DSM 44260, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 764
+
+Table of genes, locations, strands and annotations of subject cluster:
+BMY07_RS00155	BMY07_RS00155	33083	33256	+	TetR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	BMY07_RS00150	65	472	100.0	3.6e-131
+ctg90_2	BMY07_RS00145	47	292	92.54498714652956	5.4e-77
+
+
+
+>>
+47. NZ_JOEA01000004
+Source: Lentzea albidocapillata strain NRRL B-24057 contig4.1, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 764
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	IG04_RS0106875	65	466	98.63387978142076	3.3e-129
+ctg90_2	IG04_RS0106870	49	298	86.11825192802056	9.8e-79
+
+
+
+>>
+48. NZ_KB903249
+Source: Catelliglobosispora koreensis DSM 44566 A3E1DRAFT_scaffold_0.1, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 761
+
+Table of genes, locations, strands and annotations of subject cluster:
+A3E1_RS46610	A3E1_RS46610	676583	676783	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	A3E1_RS0103180	64	479	99.72677595628416	3.8e-133
+ctg90_2	A3E1_RS38640	48	282	85.34704370179949	9.5e-74
+
+
+
+>>
+49. NZ_AYXG01000028
+Source: Actinokineospora spheciospongiae strain EG49 contig1293_6, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 761
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	UO65_RS03755	65	478	100.0	8.5e-133
+ctg90_2	UO65_RS03750	46	283	92.80205655526991	4.2e-74
+
+
+
+>>
+50. NZ_BBOJ01000021
+Source: Lechevalieria aerocolonigenes strain NBRC 13195, whole genome shotgun sequence
+Type: indole
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 760
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg90_1	AOM45_RS35235	66	475	98.63387978142076	7.2e-132
+ctg90_2	AOM45_RS35230	48	285	84.83290488431876	8.5e-75
+

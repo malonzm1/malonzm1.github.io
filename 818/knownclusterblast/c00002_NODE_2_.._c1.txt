@@ -1,0 +1,90 @@
+ClusterBlast scores for c00002_NODE_2_..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg2_107	115813	118081	+		
+ctg2_108	118100	118964	+		
+ctg2_109	119308	119923	-		
+ctg2_110	120025	120436	+		
+ctg2_111	120481	122830	+		
+ctg2_112	123049	123976	+		
+ctg2_113	123968	126317	+		
+ctg2_114	126338	126497	+		
+ctg2_115	126507	127548	+		
+ctg2_116	127707	128046	-		
+ctg2_117	128271	129462	+		
+ctg2_118	129484	129832	-		
+ctg2_119	129950	130739	+		
+ctg2_120	130761	131343	-		
+ctg2_121	131410	133021	+		
+ctg2_122	133316	135611	+		
+ctg2_123	135628	136066	+		
+ctg2_124	136062	136443	+		
+ctg2_125	136423	137038	+		
+ctg2_126	137087	138728	-		
+ctg2_127	138967	139576	+		
+ctg2_128	139684	140356	+		
+ctg2_129	140367	141345	-		
+ctg2_130	141689	142835	+		
+ctg2_131	142922	144260	-		
+ctg2_132	144292	145138	-		
+ctg2_133	145248	146163	+		
+ctg2_134	146271	147105	-		
+ctg2_135	147246	147885	-		
+ctg2_136	147950	149336	+		
+ctg2_137	149355	150066	+		
+ctg2_138	150076	150691	+		
+ctg2_139	150734	150968	-		
+
+
+Significant hits: 
+1. BGC0001236	Thiotetroamide
+2. BGC0001197	Frankiamicin
+
+
+Details:
+
+>>
+1. BGC0001236
+Source: Thiotetroamide
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 670
+
+Table of genes, locations, strands and annotations of subject cluster:
+ALJ49919.1	ALJ49919.1	1	1197	+	TtmJ
+ALJ49920.1	ALJ49920.1	1255	2988	-	TtmI
+ALJ49921.1	ALJ49921.1	3143	9994	-	TtmH
+ALJ49922.1	ALJ49922.1	9987	12071	-	TtmG
+ALJ49923.1	ALJ49923.1	12134	13240	-	TtmF
+ALJ49924.1	ALJ49924.1	13516	14649	-	TtmE
+ALJ49925.1	ALJ49925.1	15242	17665	+	TtmD
+ALJ49926.1	ALJ49926.1	17674	19344	-	TtmC
+ALJ49927.1	ALJ49927.1	19460	20794	-	TtmB
+ALJ49928.1	ALJ49928.1	21186	21806	+	TtmA
+ALJ49929.1	ALJ49929.1	21887	22816	+	TtmQ
+ALJ49930.1	ALJ49930.1	23082	24071	+	TtmP
+ALJ49931.1	ALJ49931.1	24068	24286	+	TtmO
+ALJ49932.1	ALJ49932.1	24371	26206	+	TtmN
+ALJ49933.1	ALJ49933.1	26269	27084	-	TtmM
+ALJ49934.1	ALJ49934.1	27169	28074	-	TtmL
+ALJ49935.1	ALJ49935.1	28227	29057	+	TtmK
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg2_132	ALJ49935.1	70	365	97.50889679715303	6.4e-101
+ctg2_133	ALJ49934.1	58	305	99.01315789473685	6.5e-83
+
+
+
+>>
+2. BGC0001197
+Source: Frankiamicin
+Type: polyketide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 351
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg2_123	Franean1_2385	47	123	93.10344827586206	3.7e-28
+ctg2_125	Franean1_2387	61	228	86.76470588235294	8.9e-60
+

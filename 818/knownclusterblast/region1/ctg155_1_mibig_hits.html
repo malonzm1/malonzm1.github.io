@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>AAF81243.1</td>
+              <td>amino_acid_decarboxylase-like_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000244/1">BGC0000244</a></td>
+              <td>t2pks</td>
+              <td>60.0</td>
+              <td>100.3</td>
+              <td>360.0</td>
+              <td>2.4e-99</td>
+          </tr>
+    
+          <tr>
+              <td>ARF06238.1</td>
+              <td>pyridoxal-dependent_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001593/1">BGC0001593</a></td>
+              <td>nrps</td>
+              <td>44.0</td>
+              <td>104.6</td>
+              <td>227.0</td>
+              <td>3.2e-59</td>
+          </tr>
+    
+          <tr>
+              <td>CAB87219.1</td>
+              <td>putative_pyridoxal-dependent_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000940/1">BGC0000940</a></td>
+              <td>other</td>
+              <td>37.0</td>
+              <td>102.7</td>
+              <td>194.0</td>
+              <td>3e-49</td>
+          </tr>
+    
+          <tr>
+              <td>desaA</td>
+              <td>pyridoxal_5&#39;-phosphate_(PLP)-dependen_lysine_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001453/1">BGC0001453</a></td>
+              <td>other</td>
+              <td>36.0</td>
+              <td>102.7</td>
+              <td>192.0</td>
+              <td>8.7e-49</td>
+          </tr>
+    
+          <tr>
+              <td>BAG21579.1</td>
+              <td>putative_pyridoxal-dependent_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000941/1">BGC0000941</a></td>
+              <td>other</td>
+              <td>37.0</td>
+              <td>103.3</td>
+              <td>191.0</td>
+              <td>2.5e-48</td>
+          </tr>
+    
+          <tr>
+              <td>AVV61972.1</td>
+              <td>DesD</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001478/1">BGC0001478</a></td>
+              <td>other</td>
+              <td>33.0</td>
+              <td>107.3</td>
+              <td>184.0</td>
+              <td>2.4e-46</td>
+          </tr>
+    
+          <tr>
+              <td>AWD37887.1</td>
+              <td>putative_pyridoxal-dependent_decarboxylase_DfoJ</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001572/1">BGC0001572</a></td>
+              <td>other</td>
+              <td>33.0</td>
+              <td>102.4</td>
+              <td>175.0</td>
+              <td>1.1e-43</td>
+          </tr>
+    
+          <tr>
+              <td>EFY94503.1</td>
+              <td>glutamate_decarboxylase,_putative</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000337/1">BGC0000337</a></td>
+              <td>nrps</td>
+              <td>32.0</td>
+              <td>77.2</td>
+              <td>97.0</td>
+              <td>5e-20</td>
+          </tr>
+    
+          <tr>
+              <td>ARK19489.1</td>
+              <td>decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001540/1">BGC0001540</a></td>
+              <td>other</td>
+              <td>39.0</td>
+              <td>51.7</td>
+              <td>82.0</td>
+              <td>9.7e-16</td>
+          </tr>
+    
+          <tr>
+              <td>WP_030684651.1</td>
+              <td>tyrosine_decarboxylase_MfnA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001607/1">BGC0001607</a></td>
+              <td>other</td>
+              <td>36.0</td>
+              <td>51.4</td>
+              <td>81.0</td>
+              <td>2.2e-15</td>
+          </tr>
+    
+          <tr>
+              <td>AAS98783.1</td>
+              <td>JamL</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001001/1">BGC0001001</a></td>
+              <td>nrps-t1pks</td>
+              <td>23.0</td>
+              <td>114.0</td>
+              <td>81.0</td>
+              <td>2.8e-15</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>AKD43531.1</td>
+              <td>Copper_oxidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001409/1">BGC0001409</a></td>
+              <td>t2pks</td>
+              <td>58.0</td>
+              <td>98.3</td>
+              <td>619.0</td>
+              <td>6e-177</td>
+          </tr>
+    
+          <tr>
+              <td>AQW35036.1</td>
+              <td>copper_oxidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001675/1">BGC0001675</a></td>
+              <td>t2pks</td>
+              <td>49.0</td>
+              <td>101.5</td>
+              <td>508.0</td>
+              <td>1.5e-143</td>
+          </tr>
+    
+          <tr>
+              <td>ADE22283.1</td>
+              <td>putative_spore_coat_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000279/1">BGC0000279</a></td>
+              <td>t2pks</td>
+              <td>50.0</td>
+              <td>102.3</td>
+              <td>501.0</td>
+              <td>1.4e-141</td>
+          </tr>
+    
+          <tr>
+              <td>ASA49551.1</td>
+              <td>bilirubin_oxidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001730/1">BGC0001730</a></td>
+              <td>polyketide</td>
+              <td>45.0</td>
+              <td>89.2</td>
+              <td>433.0</td>
+              <td>6.1e-121</td>
+          </tr>
+    
+          <tr>
+              <td>ABL09951.1</td>
+              <td>oxidoreductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000197/1">BGC0000197</a></td>
+              <td>t2pks-saccharide</td>
+              <td>33.0</td>
+              <td>79.3</td>
+              <td>194.0</td>
+              <td>4.8e-49</td>
+          </tr>
+    
+          <tr>
+              <td>ABV97146.1</td>
+              <td>multicopper_oxidase_type_2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000137/1">BGC0000137</a></td>
+              <td>t1pks</td>
+              <td>31.0</td>
+              <td>103.8</td>
+              <td>178.0</td>
+              <td>3.5e-44</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="23,40 105,40 110,35 105,30 23,30 23,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_1&lt;/b&gt;&lt;br&gt;ctg155 1&lt;br&gt;Location: 0 - 990" locus_tag="ctg155_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="110,40 218,40 223,35 218,30 110,30 110,40 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_2&lt;/b&gt;&lt;br&gt;ctg155 2&lt;br&gt;Location: 986 - 2267" locus_tag="ctg155_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="223,40 374,40 379,35 374,30 223,30 223,40 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_3&lt;/b&gt;&lt;br&gt;ctg155 3&lt;br&gt;Location: 2269 - 4033" locus_tag="ctg155_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="379,40 491,40 496,35 491,30 379,30 379,40 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_4&lt;/b&gt;&lt;br&gt;ctg155 4&lt;br&gt;Location: 4026 - 5355" locus_tag="ctg155_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="492,35 497,30 602,30 602,40 497,40 492,35 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_5&lt;/b&gt;&lt;br&gt;ctg155 5&lt;br&gt;Location: 5314 - 6553" locus_tag="ctg155_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="639,35 644,30 741,30 741,40 644,40 639,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_6&lt;/b&gt;&lt;br&gt;ctg155 6&lt;br&gt;Location: 6976 - 8128" locus_tag="ctg155_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="739,35 744,30 758,30 758,40 744,40 739,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_7&lt;/b&gt;&lt;br&gt;ctg155 7&lt;br&gt;Location: 8111 - 8318" locus_tag="ctg155_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+</g>
+<g label="NZ_FPJG01000006" description="NZ_FPJG01000006_c21: Amycolatopsis australiensis strain DSM 44671, whole geno... (50% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FPJG01000006/21" target="_blank">NZ_FPJG01000006_c21</a>: Amycolatopsis australiensis strain DSM 44671, whole geno... (50% of genes show similarity), siderophore</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 33,80 33,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BT341_RS35325&lt;/b&gt;&lt;br&gt;fluoride efflux transporter CrcB&lt;br&gt;Location: 7405056 - 7404682" locus_tag="BT341_RS35325" class="clusterblast-orf" id="dummy-1_h1_7_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="32,85 37,80 62,80 62,90 37,90 32,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BT341_RS35320&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7404685 - 7404353" locus_tag="BT341_RS35320" class="clusterblast-orf" id="dummy-1_h1_7_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="62,85 67,80 96,80 96,90 67,90 62,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BT341_RS35315&lt;/b&gt;&lt;br&gt;CrcB family protein&lt;br&gt;Location: 7404353 - 7403961" locus_tag="BT341_RS35315" class="clusterblast-orf" id="dummy-1_h1_7_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="110,90 255,90 260,85 255,80 110,80 110,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BT341_RS35310&lt;/b&gt;&lt;br&gt;aspartate aminotransferase family protein&lt;br&gt;Location: 7403809 - 7402103&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_1&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 102&lt;br&gt;BLAST bit score: 418&lt;br&gt;E-value: 5.5e-115" locus_tag="BT341_RS35310" class="clusterblast-orf" id="dummy-1_h1_7_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="260,90 368,90 373,85 368,80 260,80 260,90 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;BT341_RS35305&lt;/b&gt;&lt;br&gt;lysine 6-monooxygenase&lt;br&gt;Location: 7402106 - 7400829&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_2&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 557&lt;br&gt;E-value: 1.7e-156" locus_tag="BT341_RS35305" class="clusterblast-orf" id="dummy-1_h1_7_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="373,90 521,90 526,85 521,80 373,80 373,90 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BT341_RS35300&lt;/b&gt;&lt;br&gt;IucA/IucC family protein&lt;br&gt;Location: 7400832 - 7399093&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_3&lt;/b&gt;&lt;br&gt;Percentage identity: 77&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 903&lt;br&gt;E-value: 1.3e-260" locus_tag="BT341_RS35300" class="clusterblast-orf" id="dummy-1_h1_7_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="526,90 636,90 641,85 636,80 526,80 526,90 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BT341_RS35295&lt;/b&gt;&lt;br&gt;glutamine synthetase&lt;br&gt;Location: 7399096 - 7397789&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_4&lt;/b&gt;&lt;br&gt;Percentage identity: 66&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 539&lt;br&gt;E-value: 3.7e-151" locus_tag="BT341_RS35295" class="clusterblast-orf" id="dummy-1_h1_7_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="653,90 775,90 780,85 775,80 653,80 653,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BT341_RS35290&lt;/b&gt;&lt;br&gt;Si-specific NAD(P)(+) transhydrogenase&lt;br&gt;Location: 7397655 - 7396225" locus_tag="BT341_RS35290" class="clusterblast-orf" id="dummy-1_h1_7_7"  />
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="70,40 141,40 146,35 141,30 70,30 70,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_1&lt;/b&gt;&lt;br&gt;ctg155 1&lt;br&gt;Location: 0 - 990" locus_tag="ctg155_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="146,40 240,40 245,35 240,30 146,30 146,40 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_2&lt;/b&gt;&lt;br&gt;ctg155 2&lt;br&gt;Location: 986 - 2267" locus_tag="ctg155_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="245,40 376,40 381,35 376,30 245,30 245,40 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_3&lt;/b&gt;&lt;br&gt;ctg155 3&lt;br&gt;Location: 2269 - 4033" locus_tag="ctg155_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="380,40 477,40 482,35 477,30 380,30 380,40 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_4&lt;/b&gt;&lt;br&gt;ctg155 4&lt;br&gt;Location: 4026 - 5355" locus_tag="ctg155_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="479,35 484,30 575,30 575,40 484,40 479,35 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_5&lt;/b&gt;&lt;br&gt;ctg155 5&lt;br&gt;Location: 5314 - 6553" locus_tag="ctg155_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="607,35 612,30 696,30 696,40 612,40 607,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_6&lt;/b&gt;&lt;br&gt;ctg155 6&lt;br&gt;Location: 6976 - 8128" locus_tag="ctg155_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="695,35 700,30 711,30 711,40 700,40 695,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_7&lt;/b&gt;&lt;br&gt;ctg155 7&lt;br&gt;Location: 8111 - 8318" locus_tag="ctg155_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+</g>
+<g label="NZ_LWSF01000004" description="NZ_LWSF01000004_c6: Amycolatopsis sp. M39 A4R44 contig000004, whole genome sh... (57% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LWSF01000004/6" target="_blank">NZ_LWSF01000004_c6</a>: Amycolatopsis sp. M39 A4R44 contig000004, whole genome sh... (57% of genes show similarity), siderophore</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 42,90 47,85 42,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A4R44_RS12315&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 376178 - 375561" locus_tag="A4R44_RS12315" class="clusterblast-orf" id="dummy-1_h1_9_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="60,90 170,90 175,85 170,80 60,80 60,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;A4R44_RS12310&lt;/b&gt;&lt;br&gt;aspartate aminotransferase family protein&lt;br&gt;Location: 375386 - 373893&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_1&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 433&lt;br&gt;E-value: 2.8e-119" locus_tag="A4R44_RS12310" class="clusterblast-orf" id="dummy-1_h1_9_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="175,90 270,90 275,85 270,80 175,80 175,90 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;A4R44_RS12305&lt;/b&gt;&lt;br&gt;lysine 6-monooxygenase&lt;br&gt;Location: 373896 - 372604&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_2&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 568&lt;br&gt;E-value: 7.2e-160" locus_tag="A4R44_RS12305" class="clusterblast-orf" id="dummy-1_h1_9_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="274,90 408,90 413,85 408,80 274,80 274,90 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;A4R44_RS12300&lt;/b&gt;&lt;br&gt;IucA/IucC family protein&lt;br&gt;Location: 372607 - 370814&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_3&lt;/b&gt;&lt;br&gt;Percentage identity: 77&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 914&lt;br&gt;E-value: 5.7e-264" locus_tag="A4R44_RS12300" class="clusterblast-orf" id="dummy-1_h1_9_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="412,90 508,90 513,85 508,80 412,80 412,90 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;A4R44_RS12295&lt;/b&gt;&lt;br&gt;glutamine synthetase&lt;br&gt;Location: 370817 - 369513&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_4&lt;/b&gt;&lt;br&gt;Percentage identity: 63&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 496&lt;br&gt;E-value: 3.6e-138" locus_tag="A4R44_RS12295" class="clusterblast-orf" id="dummy-1_h1_9_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="515,90 620,90 625,85 620,80 515,80 515,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A4R44_RS12290&lt;/b&gt;&lt;br&gt;Si-specific NAD(P)(+) transhydrogenase&lt;br&gt;Location: 369490 - 368060" locus_tag="A4R44_RS12290" class="clusterblast-orf" id="dummy-1_h1_9_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="636,90 775,90 780,85 775,80 636,80 636,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A4R44_RS12285&lt;/b&gt;&lt;br&gt;radical SAM protein&lt;br&gt;Location: 367911 - 366049" locus_tag="A4R44_RS12285" class="clusterblast-orf" id="dummy-1_h1_9_6"  />
+</g>
+</svg>

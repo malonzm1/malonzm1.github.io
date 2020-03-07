@@ -1,0 +1,44 @@
+ClusterBlast scores for c00011_NODE_11..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg11_38	39413	40448	+		
+ctg11_39	40463	41453	+		
+ctg11_40	41503	42484	-		
+ctg11_41	42605	44021	+		
+ctg11_42	44013	45504	+		
+ctg11_43	45513	46218	+		
+ctg11_44	46422	46857	+		
+ctg11_45	46912	47629	+		
+ctg11_46	47638	48145	+		
+ctg11_47	48151	48808	-		
+ctg11_48	49069	51262	+		
+ctg11_49	52034	52472	-		
+ctg11_50	52626	53397	+		
+ctg11_51	53398	55252	+		
+ctg11_52	55256	55718	-		
+ctg11_53	55830	56511	-		
+ctg11_54	56576	57767	+		
+ctg11_55	57787	58735	+		
+ctg11_56	58734	59736	+		
+ctg11_57	59817	61038	+		
+
+
+Significant hits: 
+1. BGC0001181	Geosmin
+
+
+Details:
+
+>>
+1. BGC0001181
+Source: Geosmin
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 815
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAB41566.1	CAB41566.1	1	2181	+	putative_cyclase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg11_48	CAB41566.1	56	815	100.41095890410958	7.9e-236
+

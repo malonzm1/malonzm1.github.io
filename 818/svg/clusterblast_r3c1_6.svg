@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="17,35 22,30 265,30 265,40 22,40 17,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_36&lt;/b&gt;&lt;br&gt;ctg3 36&lt;br&gt;Location: 35638 - 38770" locus_tag="ctg3_36" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="284,35 289,30 355,30 355,40 289,40 284,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_37&lt;/b&gt;&lt;br&gt;ctg3 37&lt;br&gt;Location: 39014 - 39917" locus_tag="ctg3_37" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="360,35 365,30 392,30 392,40 365,40 360,35 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_38&lt;/b&gt;&lt;br&gt;ctg3 38&lt;br&gt;Location: 39975 - 40383" locus_tag="ctg3_38" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="394,35 399,30 493,30 493,40 399,40 394,35 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_39&lt;/b&gt;&lt;br&gt;ctg3 39&lt;br&gt;Location: 40405 - 41659" locus_tag="ctg3_39" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="498,35 503,30 538,30 538,40 503,40 498,35 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_40&lt;/b&gt;&lt;br&gt;ctg3 40&lt;br&gt;Location: 41726 - 42227" locus_tag="ctg3_40" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="554,35 559,30 615,30 615,40 559,40 554,35 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_41&lt;/b&gt;&lt;br&gt;ctg3 41&lt;br&gt;Location: 42435 - 43212" locus_tag="ctg3_41" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="618,35 623,30 645,30 645,40 623,40 618,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_42&lt;/b&gt;&lt;br&gt;ctg3 42&lt;br&gt;Location: 43244 - 43592" locus_tag="ctg3_42" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="649,35 654,30 713,30 713,40 654,40 649,35 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_43&lt;/b&gt;&lt;br&gt;ctg3 43&lt;br&gt;Location: 43635 - 44451" locus_tag="ctg3_43" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="716,40 758,40 763,35 758,30 716,30 716,40 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg3_44&lt;/b&gt;&lt;br&gt;ctg3 44&lt;br&gt;Location: 44488 - 45085" locus_tag="ctg3_44" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+</g>
+<g label="NZ_FNDV01000014" description="NZ_FNDV01000014_c20: Alloactinosynnema album strain CPCC 201030, whole genome... (66% of genes show similarity), ectoine" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FNDV01000014/20" target="_blank">NZ_FNDV01000014_c20</a>: Alloactinosynnema album strain CPCC 201030, whole genome... (66% of genes show similarity), ectoine</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 40,80 40,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BLR56_RS30415&lt;/b&gt;&lt;br&gt;pyridoxamine 5'-phosphate oxidase&lt;br&gt;Location: 121250 - 120741" locus_tag="BLR56_RS30415" class="clusterblast-orf" id="dummy-1_h1_6_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="48,85 53,80 267,80 267,90 53,90 48,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BLR56_RS30410&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 120630 - 117859&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg3_36&lt;/b&gt;&lt;br&gt;Percentage identity: 43&lt;br&gt;Percentage coverage: 83&lt;br&gt;BLAST bit score: 562&lt;br&gt;E-value: 1.3e-157" locus_tag="BLR56_RS30410" class="clusterblast-orf" id="dummy-1_h1_6_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="291,85 296,80 359,80 359,90 296,90 291,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BLR56_RS30405&lt;/b&gt;&lt;br&gt;ectoine hydroxylase&lt;br&gt;Location: 117564 - 116692&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg3_37&lt;/b&gt;&lt;br&gt;Percentage identity: 73&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 442&lt;br&gt;E-value: 3.2e-122" locus_tag="BLR56_RS30405" class="clusterblast-orf" id="dummy-1_h1_6_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="359,85 364,80 391,80 391,90 364,90 359,85 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BLR56_RS30400&lt;/b&gt;&lt;br&gt;ectoine synthase&lt;br&gt;Location: 116695 - 116294&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg3_38&lt;/b&gt;&lt;br&gt;Percentage identity: 73&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 211&lt;br&gt;E-value: 5.4e-53" locus_tag="BLR56_RS30400" class="clusterblast-orf" id="dummy-1_h1_6_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="391,85 396,80 490,80 490,90 396,90 391,85 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BLR56_RS30395&lt;/b&gt;&lt;br&gt;diaminobutyrate--2-oxoglutarate transaminase&lt;br&gt;Location: 116297 - 115038&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg3_39&lt;/b&gt;&lt;br&gt;Percentage identity: 75&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 673&lt;br&gt;E-value: 2e-191" locus_tag="BLR56_RS30395" class="clusterblast-orf" id="dummy-1_h1_6_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="490,85 495,80 530,80 530,90 495,90 490,85 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;BLR56_RS30390&lt;/b&gt;&lt;br&gt;diaminobutyrate acetyltransferase&lt;br&gt;Location: 115041 - 114532&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg3_40&lt;/b&gt;&lt;br&gt;Percentage identity: 64&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 205&lt;br&gt;E-value: 3.7e-51" locus_tag="BLR56_RS30390" class="clusterblast-orf" id="dummy-1_h1_6_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="541,85 546,80 622,80 622,90 546,90 541,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BLR56_RS30385&lt;/b&gt;&lt;br&gt;aldo/keto reductase&lt;br&gt;Location: 114391 - 113363" locus_tag="BLR56_RS30385" class="clusterblast-orf" id="dummy-1_h1_6_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="626,85 631,80 724,80 724,90 631,90 626,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BLR56_RS30380&lt;/b&gt;&lt;br&gt;DUF445 domain-containing protein&lt;br&gt;Location: 113316 - 112081" locus_tag="BLR56_RS30380" class="clusterblast-orf" id="dummy-1_h1_6_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="723,85 728,80 780,80 780,90 728,90 723,85 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;BLR56_RS30375&lt;/b&gt;&lt;br&gt;DUF4393 domain-containing protein&lt;br&gt;Location: 112084 - 111374&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg3_41&lt;/b&gt;&lt;br&gt;Percentage identity: 43&lt;br&gt;Percentage coverage: 92&lt;br&gt;BLAST bit score: 166&lt;br&gt;E-value: 3.8e-39" locus_tag="BLR56_RS30375" class="clusterblast-orf" id="dummy-1_h1_6_8"  />
+</g>
+</svg>

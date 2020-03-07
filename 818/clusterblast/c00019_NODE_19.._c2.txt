@@ -1,0 +1,989 @@
+ClusterBlast scores for c00019_NODE_19..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg19_63	70846	72163	-		
+ctg19_64	72291	73164	-		
+ctg19_65	73213	74197	-		
+ctg19_66	74353	75220	+		
+ctg19_67	75771	76653	-		
+ctg19_68	76785	77616	+		
+ctg19_69	77620	78211	+		
+ctg19_70	78245	78887	+		
+ctg19_71	78859	79996	-		
+ctg19_72	80184	80313	+		
+ctg19_73	80374	83221	+		
+ctg19_74	83315	84488	+		
+ctg19_75	84512	85004	-		
+ctg19_76	85324	86704	-		
+ctg19_77	86703	86892	-		
+ctg19_78	87125	87593	-		
+
+
+Significant hits: 
+1. NZ_CP009110	Amycolatopsis methanolica 239, complete genome
+2. NZ_AFWY03000006	Amycolatopsis sp. ATCC 39116 strain 75iv2 Amy_contig00103.6_C, whole genome shotgun sequence
+3. NZ_KI421511	Amycolatopsis thermoflava N1165 AmythDRAFT_Scaffold1.2, whole genome shotgun sequence
+4. NZ_KQ257877	Streptomyces stelliscabiei strain P3825 scf_652_123.1, whole genome shotgun sequence
+5. NZ_JRHJ01000078	Streptomyces galbus strain KCCM 41354 contig00093, whole genome shotgun sequence
+6. NZ_JOAI01000007	Streptomyces sp. NRRL B-24484 contig7.1, whole genome shotgun sequence
+7. NZ_JODW01000038	Streptomyces globisporus subsp. globisporus strain NRRL B-2293 contig38.1, whole genome shotgun sequence
+8. NZ_AUKQ01000005	Streptomyces sp. CNH287 H299DRAFT_scaffold00004.4_C, whole genome shotgun sequence
+9. NZ_CP012752	Kibdelosporangium phytohabitans strain KLBMP1111, complete genome
+10. NZ_CM001439	Saccharomonospora marina XMU15 chromosome, whole genome shotgun sequence
+11. NZ_JOHN01000053	Streptomyces sp. NRRL F-6131 contig53.1, whole genome shotgun sequence
+12. NZ_LIXJ01000007	Streptomyces sp. CB01580 scaffold7, whole genome shotgun sequence
+13. NZ_AZWY01000006	Salinispora arenicola CNQ748 B106DRAFT_scaffold_3.4_C, whole genome shotgun sequence
+14. NZ_KI519457	Salinispora arenicola CNR425 I008DRAFT_scaffold00011.11, whole genome shotgun sequence
+15. NZ_LEKG01000009	Micromonospora sp. RV43 contig9_size82989, whole genome shotgun sequence
+16. NZ_FMZZ01000004	Alloactinosynnema iranicum strain IBRC-M 10403, whole genome shotgun sequence
+17. NZ_MTQP01000065	Saccharothrix sp. ALI-22-I Contig69, whole genome shotgun sequence
+18. NC_009953	Salinispora arenicola CNS-205, complete genome
+19. NZ_JOFL01000006	Streptomyces roseoverticillatus strain NRRL B-3500 contig6.1, whole genome shotgun sequence
+20. NZ_CP022685	Streptomyces formicae strain KY5 chromosome, complete genome
+21. NZ_FNSB01000003	Streptomyces sp. 2224.1, whole genome shotgun sequence
+22. NZ_FNTM01000001	Streptomyces sp. 2133.1, whole genome shotgun sequence
+23. NZ_FNTP01000001	Streptomyces sp. 2112.3, whole genome shotgun sequence
+24. NZ_CP020569	Streptomyces gilvosporeus strain F607, complete genome
+25. NZ_LIPF01000008	Streptomyces sp. CB02414 scaffold8, whole genome shotgun sequence
+26. NZ_JOHB01000015	Streptomyces sp. NRRL S-1813 contig15.1, whole genome shotgun sequence
+27. NZ_BBNO01000007	Streptomyces sp. NBRC 110027, whole genome shotgun sequence
+28. NZ_JNXG01000018	Streptomyces atroolivaceus strain NRRL ISP-5137 contig18.1, whole genome shotgun sequence
+29. NZ_AQWO01000004	Streptomyces sp. FxanaC1 B074DRAFT_scaffold_3.4_C, whole genome shotgun sequence
+30. NZ_FMHL01000011	Streptomyces sp. SceaMP-e96, whole genome shotgun sequence
+31. NZ_FRBK01000008	Streptomyces yunnanensis strain CGMCC 4.3555, whole genome shotgun sequence
+32. NZ_LGUU01000128	Streptomyces decoyicus strain NRRL 2666 P029contig21.1, whole genome shotgun sequence
+33. NZ_JOCQ01000035	Streptomyces rimosus subsp. rimosus strain NRRL WC-3904 contig35.1, whole genome shotgun sequence
+34. NZ_CP011533	Streptomyces noursei ATCC 11455, complete genome
+35. NZ_CP007699	Streptomyces lydicus strain A02 chromosome, complete genome
+36. NZ_LGKG01000002	Streptomyces chattanoogensis strain NRRL ISP-5002 ISP5002contig10.1, whole genome shotgun sequence
+37. NZ_LJJF01000002	Streptomyces sp. MJM8645 8645_contig2_contig000001, whole genome shotgun sequence
+38. NZ_JODY01000009	Streptomyces catenulae strain NRRL B-2342 contig9.1, whole genome shotgun sequence
+39. NZ_JODY01000017	Streptomyces catenulae strain NRRL B-2342 contig17.1, whole genome shotgun sequence
+40. NZ_MQUS01000022	Streptomyces sp. IMTB 2501 IMTB_2501_contig_38, whole genome shotgun sequence
+41. NZ_LGKG01000156	Streptomyces chattanoogensis strain NRRL ISP-5002 ISP5002contig43.1, whole genome shotgun sequence
+42. NZ_JIAI01000050	Pseudonocardia acaciae DSM 45401 N912DRAFT_scaffold00049.49_C, whole genome shotgun sequence
+43. NZ_FMZZ01000002	Alloactinosynnema iranicum strain IBRC-M 10403, whole genome shotgun sequence
+44. NZ_JIAI01000001	Pseudonocardia acaciae DSM 45401 N912DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+45. NZ_BDCX01000005	Planomonospora sphaerica strain JCM 9374, whole genome shotgun sequence
+46. NZ_LGDD01000234	Streptomyces sp. WM6378 P402contig3.1, whole genome shotgun sequence
+47. NZ_MLYO01000089	Streptomyces sp. MUSC 1, whole genome shotgun sequence
+48. NZ_AXWW01000016	Actinokineospora inagensis DSM 44258 H504DRAFT_scaffold00012.12_C, whole genome shotgun sequence
+49. NZ_JOCF01000035	Streptomyces sp. NRRL WC-3742 contig35.1, whole genome shotgun sequence
+50. NZ_KI866523	Microbispora sp. ATCC PTA-5024 scaffold00002, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_CP009110
+Source: Amycolatopsis methanolica 239, complete genome
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 14
+Cumulative BLAST score: 6969
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMETH_RS36320	AMETH_RS36320	543421	544245	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_63	AMETH_RS02690	94	821	100.0	3.7e-236
+ctg19_64	AMETH_RS02695	82	507	100.0	1.3e-141
+ctg19_65	AMETH_RS02700	62	275	100.0	5.7e-72
+ctg19_66	AMETH_RS02705	90	503	100.0	1.1e-140
+ctg19_67	AMETH_RS02710	95	567	100.0	8.5e-160
+ctg19_68	AMETH_RS02715	80	446	100.0	2.1e-123
+ctg19_69	AMETH_RS02720	87	309	92.3469387755102	3.6e-82
+ctg19_70	AMETH_RS02725	90	388	100.0	5.1e-106
+ctg19_71	AMETH_RS02730	84	672	100.0	3.2e-191
+ctg19_73	AMETH_RS02740	77	475	32.17299578059072	1.1e-131
+ctg19_73	AMETH_RS02750	81	308	19.40928270042194	2.3e-81
+ctg19_74	AMETH_RS36320	78	440	70.51282051282051	2.1e-121
+ctg19_75	AMETH_RS02765	95	300	100.0	8.2e-80
+ctg19_76	AMETH_RS02775	90	830	100.0	1.1e-238
+ctg19_77	AMETH_RS36325	97	128	100.0	2.8e-28
+
+
+
+>>
+2. NZ_AFWY03000006
+Source: Amycolatopsis sp. ATCC 39116 strain 75iv2 Amy_contig00103.6_C, whole genome shotgun sequence
+Type: lantipeptide-nrps
+Number of proteins with BLAST hits to this cluster: 12
+Cumulative BLAST score: 6863
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMY39116_RS42600	AMY39116_RS42600	135945	136421	+	MFS_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_63	AMY39116_RS0309600	94	824	100.0	5.8e-237
+ctg19_64	AMY39116_RS0309605	83	504	100.0	8.7e-141
+ctg19_65	AMY39116_RS0309610	58	243	100.0	2.4e-62
+ctg19_66	AMY39116_RS0309615	90	503	100.0	1.5e-140
+ctg19_67	AMY39116_RS0309625	96	569	100.0	2.2e-160
+ctg19_68	AMY39116_RS0309630	79	444	100.0	7.8e-123
+ctg19_69	AMY39116_RS0309635	88	313	92.3469387755102	1.5e-83
+ctg19_70	AMY39116_RS0309640	89	386	100.0	1.5e-105
+ctg19_71	AMY39116_RS0309645	84	678	100.0	3.4e-193
+ctg19_73	AMY39116_RS0309655	78	1495	100.21097046413503	0.0
+ctg19_74	AMY39116_RS42595	80	604	95.64102564102565	8.3e-171
+ctg19_75	AMY39116_RS0309665	95	300	100.0	8.2e-80
+
+
+
+>>
+3. NZ_KI421511
+Source: Amycolatopsis thermoflava N1165 AmythDRAFT_Scaffold1.2, whole genome shotgun sequence
+Type: lantipeptide-nrps
+Number of proteins with BLAST hits to this cluster: 12
+Cumulative BLAST score: 6792
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMYTH_RS45720	AMYTH_RS45720	5247912	5249047	-	MFS_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_63	AMYTH_RS0125850	95	823	100.0	9.8e-237
+ctg19_64	AMYTH_RS0125845	83	510	100.0	9.3e-143
+ctg19_65	AMYTH_RS0125840	55	223	100.0	3.4e-56
+ctg19_66	AMYTH_RS0125835	91	502	100.0	2.5e-140
+ctg19_67	AMYTH_RS0125825	95	567	100.0	8.5e-160
+ctg19_68	AMYTH_RS0125820	81	452	100.0	3.7e-125
+ctg19_69	AMYTH_RS0125815	87	313	92.3469387755102	1.9e-83
+ctg19_70	AMYTH_RS0125810	90	392	100.0	3.6e-107
+ctg19_71	AMYTH_RS0125805	84	678	100.0	4.4e-193
+ctg19_73	AMYTH_RS0125795	78	1495	100.21097046413503	0.0
+ctg19_74	AMYTH_RS45725	72	537	95.64102564102565	9.6e-151
+ctg19_75	AMYTH_RS0125785	95	300	100.0	8.2e-80
+
+
+
+>>
+4. NZ_KQ257877
+Source: Streptomyces stelliscabiei strain P3825 scf_652_123.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 907
+
+Table of genes, locations, strands and annotations of subject cluster:
+IQ64_RS47395	IQ64_RS47395	127305	127432	-	hypothetical_protein
+IQ64_RS48370	IQ64_RS48370	130365	130490	+	ferrochelatase
+IQ64_RS44840	IQ64_RS44840	147816	148575	+	IS5/IS1182_family_transposase
+IQ64_RS47420	IQ64_RS47420	150981	151504	-	hypothetical_protein
+IQ64_RS48375	IQ64_RS48375	151644	152241	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	IQ64_RS44795	34	395	99.78902953586498	1.9e-107
+ctg19_74	IQ64_RS44790	37	132	72.05128205128204	9.3e-29
+ctg19_76	IQ64_RS44780	42	324	99.78213507625271	2e-86
+ctg19_77	IQ64_RS47400	50	56	83.87096774193549	1.8e-06
+
+
+
+>>
+5. NZ_JRHJ01000078
+Source: Streptomyces galbus strain KCCM 41354 contig00093, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 879
+
+Table of genes, locations, strands and annotations of subject cluster:
+KS09_RS47555	KS09_RS47555	335589	335705	-	hypothetical_protein
+KS09_RS44195	KS09_RS44195	335689	336014	-	partitioning_protein_parA
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	KS09_RS34740	33	371	101.1603375527426	2.9e-100
+ctg19_74	KS09_RS34745	34	133	109.4871794871795	4.2e-29
+ctg19_76	KS09_RS34760	43	318	99.78213507625271	1.1e-84
+ctg19_77	KS09_RS46390	52	57	83.87096774193549	4.6e-07
+
+
+
+>>
+6. NZ_JOAI01000007
+Source: Streptomyces sp. NRRL B-24484 contig7.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1207
+
+Table of genes, locations, strands and annotations of subject cluster:
+IE98_RS46105	IE98_RS46105	144496	144777	-	ATP-binding_protein
+IE98_RS46115	IE98_RS46115	145654	145818	-	pirin
+IE98_RS42230	IE98_RS42230	146127	146608	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_63	IE98_RS0109210	80	715	100.0	2.9e-204
+ctg19_73	IE98_RS0109235	33	337	98.62869198312237	3.5e-90
+ctg19_74	IE98_RS44390	39	155	85.64102564102564	1.7e-35
+
+
+
+>>
+7. NZ_JODW01000038
+Source: Streptomyces globisporus subsp. globisporus strain NRRL B-2293 contig38.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1085
+
+Table of genes, locations, strands and annotations of subject cluster:
+IH67_RS45405	IH67_RS45405	1	291	-	modular_polyketide_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_66	IH67_RS0126125	33	138	96.875	9.6e-31
+ctg19_73	IH67_RS41125	43	682	112.13080168776371	5.9e-194
+ctg19_74	IH67_RS41130	46	265	105.8974358974359	9.2e-69
+
+
+
+>>
+8. NZ_AUKQ01000005
+Source: Streptomyces sp. CNH287 H299DRAFT_scaffold00004.4_C, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 828
+
+Table of genes, locations, strands and annotations of subject cluster:
+H299_RS0109045	H299_RS0109045	586078	586299	+	phytanoyl-CoA_dioxygenase
+H299_RS38170	H299_RS38170	589705	592368	-	lantibiotic_dehydratase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	H299_RS38170	33	385	93.88185654008439	1.9e-104
+ctg19_74	H299_RS0109060	33	128	106.15384615384616	1.3e-27
+ctg19_76	H299_RS0109155	41	315	98.47494553376906	9.1e-84
+
+
+
+>>
+9. NZ_CP012752
+Source: Kibdelosporangium phytohabitans strain KLBMP1111, complete genome
+Type: lantipeptide-t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 821
+
+Table of genes, locations, strands and annotations of subject cluster:
+AOZ06_RS53995	AOZ06_RS53995	3526821	3527151	-	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_64	AOZ06_RS16435	33	109	76.20689655172413	4.8e-22
+ctg19_73	AOZ06_RS16525	37	531	107.91139240506328	1.7e-148
+ctg19_74	AOZ06_RS16520	38	181	103.33333333333334	1.7e-43
+
+
+
+>>
+10. NZ_CM001439
+Source: Saccharomonospora marina XMU15 chromosome, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 810
+
+Table of genes, locations, strands and annotations of subject cluster:
+SACMADRAFT_RS00500	SACMADRAFT_RS00500	95974	96183	-	DNA_mismatch_repair_protein_MutT
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_66	SACMADRAFT_RS00545	60	300	96.52777777777779	1.9e-79
+ctg19_73	SACMADRAFT_RS00515	32	362	101.47679324894514	1.3e-97
+ctg19_74	SACMADRAFT_RS00520	33	148	109.23076923076923	1.6e-33
+
+
+
+>>
+11. NZ_JOHN01000053
+Source: Streptomyces sp. NRRL F-6131 contig53.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 735
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF39_RS0130485	IF39_RS0130485	28398	30017	+	2-aminobenzoate-CoA_ligase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_70	IF39_RS0130405	55	222	100.0	4.9e-56
+ctg19_73	IF39_RS0130455	32	369	108.54430379746836	8.4e-100
+ctg19_74	IF39_RS0130460	36	144	99.74358974358975	3.1e-32
+
+
+
+>>
+12. NZ_LIXJ01000007
+Source: Streptomyces sp. CB01580 scaffold7, whole genome shotgun sequence
+Type: lantipeptide-terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 663
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMK22_RS38345	AMK22_RS38345	61695	61898	-	hypothetical_protein
+AMK22_RS13145	AMK22_RS13145	64787	65356	-	hypothetical_protein
+AMK22_RS13165	AMK22_RS13165	67809	70145	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_70	AMK22_RS13195	37	112	101.87793427230048	7.1e-23
+ctg19_73	AMK22_RS13165	35	333	77.32067510548524	6.7e-89
+ctg19_74	AMK22_RS13170	40	218	105.12820512820514	1.7e-54
+
+
+
+>>
+13. NZ_AZWY01000006
+Source: Salinispora arenicola CNQ748 B106DRAFT_scaffold_3.4_C, whole genome shotgun sequence
+Type: oligosaccharide-lantipeptide-t1pks-otherks-nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 636
+
+Table of genes, locations, strands and annotations of subject cluster:
+B106_RS27570	B106_RS27570	74102	74412	+	hypothetical_protein
+B106_RS27580	B106_RS27580	102438	102665	+	hypothetical_protein
+B106_RS27595	B106_RS27595	208689	208986	-	hypothetical_protein
+B106_RS27600	B106_RS27600	234226	234375	-	transcriptional_regulator
+B106_RS27605	B106_RS27605	236934	237310	+	hypothetical_protein
+B106_RS26235	B106_RS26235	240181	241697	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_63	B106_RS0103830	33	164	84.24657534246576	3.2e-38
+ctg19_73	B106_RS0103795	32	352	103.79746835443038	1.4e-94
+ctg19_74	B106_RS0103800	33	120	103.5897435897436	4.8e-25
+
+
+
+>>
+14. NZ_KI519457
+Source: Salinispora arenicola CNR425 I008DRAFT_scaffold00011.11, whole genome shotgun sequence
+Type: lantipeptide-t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 636
+
+Table of genes, locations, strands and annotations of subject cluster:
+I008_RS1000000128260	I008_RS1000000128260	105126	105353	+	hypothetical_protein
+I008_RS01000000126975	I008_RS01000000126975	190886	191068	+	hypothetical_protein
+I008_RS01000000126980	I008_RS01000000126980	191675	192486	-	resolvase
+I008_RS0125045	I008_RS0125045	192848	193107	-	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_63	I008_RS0124740	33	164	84.24657534246576	3.2e-38
+ctg19_73	I008_RS0124705	32	352	103.79746835443038	1.4e-94
+ctg19_74	I008_RS0124710	33	120	103.5897435897436	4.8e-25
+
+
+
+>>
+15. NZ_LEKG01000009
+Source: Micromonospora sp. RV43 contig9_size82989, whole genome shotgun sequence
+Type: lantipeptide-nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 635
+
+Table of genes, locations, strands and annotations of subject cluster:
+ABD52_RS04095	ABD52_RS04095	28618	29115	+	transcriptional_regulator
+ABD52_RS38030	ABD52_RS38030	32455	32766	-	hypothetical_protein
+ABD52_RS04115	ABD52_RS04115	33028	34217	+	S9_family_peptidase
+ABD52_RS38040	ABD52_RS38040	60114	61648	-	ISL3_family_transposase
+ABD52_RS04235	ABD52_RS04235	63216	63537	+	type_I-E_CRISPR-associated_endoribonuclease_Cas2
+ABD52_RS04260	ABD52_RS04260	70485	71751	+	IS256_family_transposase
+ABD52_RS04265	ABD52_RS04265	72468	73783	+	ISL3_family_transposase
+ABD52_RS38055	ABD52_RS38055	73799	74064	+	IS110_family_transposase
+ABD52_RS04280	ABD52_RS04280	75953	76143	-	hypothetical_protein
+ABD52_RS38060	ABD52_RS38060	76265	76612	+	protein-L-isoaspartate_O-methyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_64	ABD52_RS04175	44	189	80.0	6.2e-46
+ctg19_73	ABD52_RS04130	31	318	103.27004219409284	2.9e-84
+ctg19_74	ABD52_RS04135	34	128	97.94871794871794	1.8e-27
+
+
+
+>>
+16. NZ_FMZZ01000004
+Source: Alloactinosynnema iranicum strain IBRC-M 10403, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 616
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	BLS56_RS10215	31	385	104.85232067510549	1.5e-104
+ctg19_74	BLS56_RS10210	33	122	93.58974358974359	1.3e-25
+ctg19_78	BLS56_RS10285	44	109	97.41935483870968	3.3e-22
+
+
+
+>>
+17. NZ_MTQP01000065
+Source: Saccharothrix sp. ALI-22-I Contig69, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 603
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	ALI22I_RS28485	32	388	108.33333333333333	3e-105
+ctg19_74	ALI22I_RS28480	35	147	98.71794871794873	2.8e-33
+ctg19_78	ALI22I_RS28455	34	68	98.70967741935483	8.5e-10
+
+
+
+>>
+18. NC_009953
+Source: Salinispora arenicola CNS-205, complete genome
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 541
+
+Table of genes, locations, strands and annotations of subject cluster:
+SARE_RS03030	SARE_RS03030	692182	694053	+	recombinase_family_protein
+SARE_RS03040	SARE_RS03040	694542	694885	-	integrase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	SARE_RS02985	33	347	102.9535864978903	3.4e-93
+ctg19_74	SARE_RS02990	33	117	103.5897435897436	3.1e-24
+ctg19_76	SARE_RS03040	57	77	15.250544662309368	4.2e-12
+
+
+
+>>
+19. NZ_JOFL01000006
+Source: Streptomyces roseoverticillatus strain NRRL B-3500 contig6.1, whole genome shotgun sequence
+Type: phosphonate-lantipeptide-terpene-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 983
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF61_RS32135	IF61_RS32135	458760	460679	-	integrase
+IF61_RS0109330	IF61_RS0109330	462607	463629	+	amidase
+IF61_RS35120	IF61_RS35120	482616	482741	+	GNAT_family_N-acetyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	IF61_RS0109425	44	726	112.9746835443038	3.5e-207
+ctg19_74	IF61_RS0109430	42	257	115.38461538461537	1.9e-66
+
+
+
+>>
+20. NZ_CP022685
+Source: Streptomyces formicae strain KY5 chromosome, complete genome
+Type: lantipeptide-t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 978
+
+Table of genes, locations, strands and annotations of subject cluster:
+NZ_CP022685_cluster_9_allorf021	NZ_CP022685_cluster_9_allorf021	1548168	1548313	-	
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	KY5_RS06140	45	737	106.0126582278481	1.5e-210
+ctg19_74	KY5_RS06135	40	241	120.76923076923076	1.4e-61
+
+
+
+>>
+21. NZ_FNSB01000003
+Source: Streptomyces sp. 2224.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 963
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLV26_RS29345	BLV26_RS29345	693607	694125	-	(2Fe-2S)-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	BLV26_RS29295	43	698	110.8649789029536	1e-198
+ctg19_74	BLV26_RS29300	40	265	121.28205128205127	1.2e-68
+
+
+
+>>
+22. NZ_FNTM01000001
+Source: Streptomyces sp. 2133.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 962
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLV17_RS32305	BLV17_RS32305	7310855	7311104	+	2-polyprenyl-6-methoxyphenol_hydroxylase
+BLV17_RS36720	BLV17_RS36720	7311101	7311265	+	amidohydrolase
+BLV17_RS32310	BLV17_RS32310	7311292	7311913	+	oxidoreductase
+BLV17_RS32320	BLV17_RS32320	7312459	7313507	+	Lrp/AsnC_family_transcriptional_regulator
+BLV17_RS32325	BLV17_RS32325	7313449	7313758	+	integrase
+BLV17_RS32330	BLV17_RS32330	7313869	7314180	+	cytochrome_P450
+BLV17_RS32365	BLV17_RS32365	7323200	7323646	-	Fe-S_cluster_assembly_protein_HesB
+BLV17_RS32430	BLV17_RS32430	7336179	7337335	+	XshC-Cox1-family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	BLV17_RS32465	43	697	110.8649789029536	1.8e-198
+ctg19_74	BLV17_RS32460	40	265	121.28205128205127	9.2e-69
+
+
+
+>>
+23. NZ_FNTP01000001
+Source: Streptomyces sp. 2112.3, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 962
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLW51_RS03225	BLW51_RS03225	711948	712466	-	(2Fe-2S)-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	BLW51_RS03175	43	695	110.8649789029536	6.7e-198
+ctg19_74	BLW51_RS03180	41	267	119.74358974358974	1.8e-69
+
+
+
+>>
+24. NZ_CP020569
+Source: Streptomyces gilvosporeus strain F607, complete genome
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 960
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	B1H19_RS05690	42	706	115.50632911392404	3.8e-201
+ctg19_74	B1H19_RS05685	40	254	114.1025641025641	2.1e-65
+
+
+
+>>
+25. NZ_LIPF01000008
+Source: Streptomyces sp. CB02414 scaffold8, whole genome shotgun sequence
+Type: t2pks-lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 958
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMK11_RS25935	AMK11_RS25935	158825	159213	-	lipoate--protein_ligase_family_protein
+AMK11_RS26000	AMK11_RS26000	173920	174611	+	short-chain_dehydrogenase
+AMK11_RS26020	AMK11_RS26020	177828	177998	-	esterase
+AMK11_RS26030	AMK11_RS26030	178261	178803	+	AraC_family_transcriptional_regulator
+AMK11_RS37590	AMK11_RS37590	208446	208599	-	IS110_family_transposase
+AMK11_RS37035	AMK11_RS37035	208672	208885	-	IS5/IS1182_family_transposase
+AMK11_RS37595	AMK11_RS37595	216495	217370	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	AMK11_RS26040	45	715	106.75105485232068	6.2e-204
+ctg19_74	AMK11_RS26045	41	243	107.6923076923077	4.9e-62
+
+
+
+>>
+26. NZ_JOHB01000015
+Source: Streptomyces sp. NRRL S-1813 contig15.1, whole genome shotgun sequence
+Type: bacteriocin-lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 957
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF67_RS0121925	IF67_RS0121925	97385	98431	+	PE-PGRS_family_protein
+IF67_RS41830	IF67_RS41830	101477	101694	-	hypothetical_protein
+IF67_RS39455	IF67_RS39455	114251	114749	+	hypothetical_protein
+IF67_RS41845	IF67_RS41845	114876	115322	+	hypothetical_protein
+IF67_RS0122025	IF67_RS0122025	117502	118026	+	(2Fe-2S)-binding_protein
+IF67_RS41850	IF67_RS41850	123625	123990	+	hypothetical_protein
+IF67_RS43115	IF67_RS43115	126613	126762	-	cell_wall_protein
+IF67_RS41860	IF67_RS41860	142408	142566	-	IS5/IS1182_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	IF67_RS0122090	43	716	111.0759493670886	3.7e-204
+ctg19_74	IF67_RS0122080	39	241	111.28205128205128	1.9e-61
+
+
+
+>>
+27. NZ_BBNO01000007
+Source: Streptomyces sp. NBRC 110027, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 952
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	TU31_RS23080	44	718	110.12658227848102	9.6e-205
+ctg19_74	TU31_RS23075	40	234	106.41025641025641	1.7e-59
+
+
+
+>>
+28. NZ_JNXG01000018
+Source: Streptomyces atroolivaceus strain NRRL ISP-5137 contig18.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 950
+
+Table of genes, locations, strands and annotations of subject cluster:
+OO67_RS38330	OO67_RS38330	1	2055	-	polyketide_synthase
+OO67_RS28900	OO67_RS28900	13531	14031	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	OO67_RS28880	42	682	115.82278481012658	7.6e-194
+ctg19_74	OO67_RS28885	43	268	108.97435897435896	1.1e-69
+
+
+
+>>
+29. NZ_AQWO01000004
+Source: Streptomyces sp. FxanaC1 B074DRAFT_scaffold_3.4_C, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 949
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	B074_RS0108340	44	728	109.81012658227849	1.2e-207
+ctg19_74	B074_RS0108335	40	221	106.41025641025641	2e-55
+
+
+
+>>
+30. NZ_FMHL01000011
+Source: Streptomyces sp. SceaMP-e96, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 946
+
+Table of genes, locations, strands and annotations of subject cluster:
+YWIDRAFT_RS09795	YWIDRAFT_RS09795	199795	200157	+	glyoxalase
+YWIDRAFT_RS09930	YWIDRAFT_RS09930	227072	227950	-	two-component_sensor_histidine_kinase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	YWIDRAFT_RS09875	44	724	109.70464135021096	1.8e-206
+ctg19_74	YWIDRAFT_RS09880	40	222	106.41025641025641	1.2e-55
+
+
+
+>>
+31. NZ_FRBK01000008
+Source: Streptomyces yunnanensis strain CGMCC 4.3555, whole genome shotgun sequence
+Type: indole-lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 946
+
+Table of genes, locations, strands and annotations of subject cluster:
+BUE49_RS17410	BUE49_RS17410	273592	273717	-	3-hydroxybutyryl-CoA_dehydrogenase
+BUE49_RS17415	BUE49_RS17415	274209	274421	-	IS1182_family_transposase
+BUE49_RS17430	BUE49_RS17430	276445	276678	+	IS701_family_transposase
+BUE49_RS42085	BUE49_RS42085	279741	280096	-	aspartate_aminotransferase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	BUE49_RS17380	44	696	110.33755274261603	5.1e-198
+ctg19_74	BUE49_RS17385	42	250	106.15384615384616	4e-64
+
+
+
+>>
+32. NZ_LGUU01000128
+Source: Streptomyces decoyicus strain NRRL 2666 P029contig21.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 944
+
+Table of genes, locations, strands and annotations of subject cluster:
+ADK74_RS38095	ADK74_RS38095	56739	57415	-	cell_wall_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	ADK74_RS12850	44	726	111.0759493670886	3.5e-207
+ctg19_74	ADK74_RS12845	38	218	101.7948717948718	1.7e-54
+
+
+
+>>
+33. NZ_JOCQ01000035
+Source: Streptomyces rimosus subsp. rimosus strain NRRL WC-3904 contig35.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 935
+
+Table of genes, locations, strands and annotations of subject cluster:
+IH45_RS1000000146635	IH45_RS1000000146635	65608	65760	-	hypothetical_protein
+IH45_RS1000000147925	IH45_RS1000000147925	65828	66586	-	integrase
+IH45_RS0119600	IH45_RS0119600	68940	69449	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	IH45_RS0119565	43	712	108.75527426160339	5.3e-203
+ctg19_74	IH45_RS0119570	39	223	104.10256410256412	4e-56
+
+
+
+>>
+34. NZ_CP011533
+Source: Streptomyces noursei ATCC 11455, complete genome
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 933
+
+Table of genes, locations, strands and annotations of subject cluster:
+NZ_CP011533_cluster_29_allorf014	NZ_CP011533_cluster_29_allorf014	7341169	7341314	+	
+SNOUR_RS44825	SNOUR_RS44825	7354279	7354431	+	ISNCY_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	SNOUR_RS31180	43	680	105.69620253164558	2.9e-193
+ctg19_74	SNOUR_RS31185	42	253	106.92307692307692	4.7e-65
+
+
+
+>>
+35. NZ_CP007699
+Source: Streptomyces lydicus strain A02 chromosome, complete genome
+Type: lantipeptide-lassopeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 932
+
+Table of genes, locations, strands and annotations of subject cluster:
+T261_RS40870	T261_RS40870	9160041	9161264	+	MFS_transporter
+NZ_CP007699_cluster_34_allorf046	NZ_CP007699_cluster_34_allorf046	9176238	9176353	-	
+T261_RS41015	T261_RS41015	9192474	9193646	+	hypothetical_protein
+T261_RS41060	T261_RS41060	9201052	9201407	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	T261_RS40975	42	695	113.60759493670886	8.7e-198
+ctg19_74	T261_RS40970	43	237	101.7948717948718	2e-60
+
+
+
+>>
+36. NZ_LGKG01000002
+Source: Streptomyces chattanoogensis strain NRRL ISP-5002 ISP5002contig10.1, whole genome shotgun sequence
+Type: lantipeptide-lassopeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 929
+
+Table of genes, locations, strands and annotations of subject cluster:
+ADL29_RS40445	ADL29_RS40445	88684	89120	-	hypothetical_protein
+ADL29_RS03745	ADL29_RS03745	100285	101457	-	hypothetical_protein
+ADL29_RS03865	ADL29_RS03865	131579	132802	-	MFS_transporter
+ADL29_RS03890	ADL29_RS03890	139115	139519	+	aminopeptidase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	ADL29_RS03780	42	691	113.60759493670886	1.6e-196
+ctg19_74	ADL29_RS03785	42	238	102.05128205128204	9.2e-61
+
+
+
+>>
+37. NZ_LJJF01000002
+Source: Streptomyces sp. MJM8645 8645_contig2_contig000001, whole genome shotgun sequence
+Type: lantipeptide-t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 872
+
+Table of genes, locations, strands and annotations of subject cluster:
+A6F73_RS41045	A6F73_RS41045	964008	964123	+	2,4-dienoyl-CoA_reductase
+A6F73_RS40000	A6F73_RS40000	1033000	1033281	+	xanthine_dehydrogenase
+A6F73_RS41050	A6F73_RS41050	1044983	1045114	+	LysR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	A6F73_RS35090	38	549	111.81434599156117	1e-153
+ctg19_74	A6F73_RS35085	35	180	122.05128205128206	3e-43
+ctg19_74	A6F73_RS35020	35	143	98.71794871794873	5.3e-32
+
+
+
+>>
+38. NZ_JODY01000009
+Source: Streptomyces catenulae strain NRRL B-2342 contig9.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 751
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	IF23_RS0110815	40	584	112.23628691983123	2.2e-164
+ctg19_74	IF23_RS0110820	37	167	112.82051282051282	2.6e-39
+
+
+
+>>
+39. NZ_JODY01000017
+Source: Streptomyces catenulae strain NRRL B-2342 contig17.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 751
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	IF23_RS0117160	39	550	112.86919831223629	2.7e-154
+ctg19_74	IF23_RS0117155	40	201	106.15384615384616	1.6e-49
+
+
+
+>>
+40. NZ_MQUS01000022
+Source: Streptomyces sp. IMTB 2501 IMTB_2501_contig_38, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 728
+
+Table of genes, locations, strands and annotations of subject cluster:
+AV521_RS46850	AV521_RS46850	110891	111846	+	IS5_family_transposase
+AV521_RS31585	AV521_RS31585	113527	113817	+	hypothetical_protein
+AV521_RS31600	AV521_RS31600	115370	115577	+	hypothetical_protein
+AV521_RS31605	AV521_RS31605	115579	115833	-	IS110_family_transposase
+AV521_RS31610	AV521_RS31610	115857	116036	+	DNA_primase
+AV521_RS31615	AV521_RS31615	116033	116432	+	transcription_factor
+AV521_RS31645	AV521_RS31645	126071	126427	-	aminoglycoside_phosphotransferase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	AV521_RS31625	37	524	116.13924050632912	2.7e-146
+ctg19_74	AV521_RS31620	41	204	102.82051282051282	2.5e-50
+
+
+
+>>
+41. NZ_LGKG01000156
+Source: Streptomyces chattanoogensis strain NRRL ISP-5002 ISP5002contig43.1, whole genome shotgun sequence
+Type: lantipeptide-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 727
+
+Table of genes, locations, strands and annotations of subject cluster:
+ADL29_RS27695	ADL29_RS27695	42273	42650	-	hypothetical_protein
+ADL29_RS41740	ADL29_RS41740	43538	43672	+	IS5/IS1182_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	ADL29_RS27615	37	531	116.66666666666667	1.7e-148
+ctg19_74	ADL29_RS27610	39	196	111.7948717948718	4e-48
+
+
+
+>>
+42. NZ_JIAI01000050
+Source: Pseudonocardia acaciae DSM 45401 N912DRAFT_scaffold00049.49_C, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 716
+
+Table of genes, locations, strands and annotations of subject cluster:
+N912_RS0147760	N912_RS0147760	1	545	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	N912_RS0147780	37	542	110.23206751054853	9.5e-152
+ctg19_74	N912_RS59550	36	174	103.33333333333334	2.8e-41
+
+
+
+>>
+43. NZ_FMZZ01000002
+Source: Alloactinosynnema iranicum strain IBRC-M 10403, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 708
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLS56_RS07860	BLS56_RS07860	540285	540718	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	BLS56_RS07805	35	476	106.75105485232068	6.4e-132
+ctg19_74	BLS56_RS07800	41	232	103.33333333333334	1.1e-58
+
+
+
+>>
+44. NZ_JIAI01000001
+Source: Pseudonocardia acaciae DSM 45401 N912DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 699
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	N912_RS50310	37	524	109.49367088607596	2e-146
+ctg19_74	N912_RS50315	37	175	103.84615384615385	1.6e-41
+
+
+
+>>
+45. NZ_BDCX01000005
+Source: Planomonospora sphaerica strain JCM 9374, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 693
+
+Table of genes, locations, strands and annotations of subject cluster:
+A9J22_RS11520	A9J22_RS11520	90225	91875	-	chemotaxis_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	A9J22_RS11480	34	507	109.17721518987342	3.4e-141
+ctg19_74	A9J22_RS11475	44	186	74.61538461538461	4.1e-45
+
+
+
+>>
+46. NZ_LGDD01000234
+Source: Streptomyces sp. WM6378 P402contig3.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 688
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	ADK54_RS19105	37	499	109.915611814346	7e-139
+ctg19_74	ADK54_RS19110	39	189	106.92307692307692	6.4e-46
+
+
+
+>>
+47. NZ_MLYO01000089
+Source: Streptomyces sp. MUSC 1, whole genome shotgun sequence
+Type: thiopeptide-lantipeptide-siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 688
+
+Table of genes, locations, strands and annotations of subject cluster:
+BIV23_RS40085	BIV23_RS40085	1	311	-	2-oxoglutarate_ferredoxin_oxidoreductase_subunit_alpha
+BIV23_RS40115	BIV23_RS40115	6268	6549	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	BIV23_RS40120	37	498	108.75527426160339	1.6e-138
+ctg19_74	BIV23_RS40125	38	190	109.23076923076923	3.8e-46
+
+
+
+>>
+48. NZ_AXWW01000016
+Source: Actinokineospora inagensis DSM 44258 H504DRAFT_scaffold00012.12_C, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 688
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	H504_RS33635	36	481	105.48523206751055	2.6e-133
+ctg19_74	H504_RS0106405	39	207	101.28205128205127	3.9e-51
+
+
+
+>>
+49. NZ_JOCF01000035
+Source: Streptomyces sp. NRRL WC-3742 contig35.1, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 687
+
+Table of genes, locations, strands and annotations of subject cluster:
+IH61_RS46060	IH61_RS46060	34099	34194	+	IS982_family_transposase
+IH61_RS41145	IH61_RS41145	42967	43737	-	di-trans,poly-cis-decaprenylcistransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	IH61_RS0120050	38	526	106.32911392405062	5.4e-147
+ctg19_74	IH61_RS0120045	40	161	97.6923076923077	1.4e-37
+
+
+
+>>
+50. NZ_KI866523
+Source: Microbispora sp. ATCC PTA-5024 scaffold00002, whole genome shotgun sequence
+Type: lantipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 687
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_73	MPTA5024_RS20630	35	482	111.39240506329114	8.9e-134
+ctg19_74	MPTA5024_RS20635	37	205	106.66666666666667	8.6e-51
+

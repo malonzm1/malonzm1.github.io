@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>AAM77988.1</td>
+              <td>membrane_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000112/1">BGC0000112</a></td>
+              <td>t1pks+t1pks</td>
+              <td>36.0</td>
+              <td>84.3</td>
+              <td>256.0</td>
+              <td>9.2e-68</td>
+          </tr>
+    
+          <tr>
+              <td>CAD91215.1</td>
+              <td>putative_mannosyltransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000289/1">BGC0000289</a></td>
+              <td>nrps-saccharide</td>
+              <td>31.0</td>
+              <td>86.0</td>
+              <td>196.0</td>
+              <td>1.5e-49</td>
+          </tr>
+    
+          <tr>
+              <td>BS329_14090</td>
+              <td>mannosyltransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001462/1">BGC0001462</a></td>
+              <td>nrps</td>
+              <td>28.0</td>
+              <td>80.8</td>
+              <td>180.0</td>
+              <td>8.3e-45</td>
+          </tr>
+    
+          <tr>
+              <td>AIG79228.1</td>
+              <td>Mannossyltransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000419/1">BGC0000419</a></td>
+              <td>nrps-saccharide</td>
+              <td>32.0</td>
+              <td>46.8</td>
+              <td>141.0</td>
+              <td>3.3e-33</td>
+          </tr>
+    
+          <tr>
+              <td>OLZ50896.1</td>
+              <td>mannosyltransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001461/1">BGC0001461</a></td>
+              <td>nrps</td>
+              <td>33.0</td>
+              <td>41.7</td>
+              <td>141.0</td>
+              <td>3.3e-33</td>
+          </tr>
+    
+          <tr>
+              <td>AIE77072.1</td>
+              <td>mannosyltransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000418/1">BGC0000418</a></td>
+              <td>nrps</td>
+              <td>32.0</td>
+              <td>41.9</td>
+              <td>134.0</td>
+              <td>4e-31</td>
+          </tr>
+    
+          <tr>
+              <td>CAE53356.1</td>
+              <td>putative_mannosyltransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000440/1">BGC0000440</a></td>
+              <td>nrps</td>
+              <td>33.0</td>
+              <td>41.9</td>
+              <td>134.0</td>
+              <td>4e-31</td>
+          </tr>
+    
+          <tr>
+              <td>CAG15015.1</td>
+              <td>mannossyltransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000441/1">BGC0000441</a></td>
+              <td>nrps</td>
+              <td>33.0</td>
+              <td>41.9</td>
+              <td>134.0</td>
+              <td>4e-31</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

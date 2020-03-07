@@ -1,0 +1,1320 @@
+ClusterBlast scores for c00001_NODE_1_..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg1_19	23995	25576	+		
+ctg1_20	25600	26527	+		
+ctg1_21	26523	27318	+		
+ctg1_22	27333	28311	+		
+ctg1_23	28407	29325	+		
+ctg1_24	29328	29634	-		
+ctg1_25	29712	30684	+		
+ctg1_26	31053	32058	-		
+ctg1_27	32061	33534	-		
+ctg1_28	33530	35432	-		
+ctg1_29	35432	36443	-		
+ctg1_30	36439	37795	-		
+ctg1_31	37791	38652	-		
+ctg1_32	38648	39551	-		
+ctg1_33	39687	40905	+		
+ctg1_34	40911	42870	-		
+ctg1_35	42978	43665	-		
+ctg1_36	43777	44755	-		
+ctg1_37	44797	45559	-		
+ctg1_38	45571	46159	-		
+ctg1_39	46189	48394	-		
+ctg1_40	48545	49523	-		
+
+
+Significant hits: 
+1. NZ_CP009110	Amycolatopsis methanolica 239, complete genome
+2. NZ_FORP01000007	Amycolatopsis sacchari strain DSM 44468, whole genome shotgun sequence
+3. NZ_JAFB01000003	Amycolatopsis taiwanensis DSM 45107 A3CUDRAFT_scaffold_1.2_C, whole genome shotgun sequence
+4. NZ_KI421511	Amycolatopsis thermoflava N1165 AmythDRAFT_Scaffold1.2, whole genome shotgun sequence
+5. NZ_AFWY03000039	Amycolatopsis sp. ATCC 39116 strain 75iv2 Amy_contig00030.39_C, whole genome shotgun sequence
+6. NZ_LRRB01000081	Rhodococcus kunmingensis strain DSM 45001 contig006, whole genome shotgun sequence
+7. NZ_KB822575	Nocardioides sp. Iso805N H036DRAFT_scaffold00001.1, whole genome shotgun sequence
+8. NZ_JNYD01000007	Pseudonocardia autotrophica strain NRRL B-16064 contig7.1, whole genome shotgun sequence
+9. NZ_FNQB01000001	Asanoa ishikariensis strain DSM 44718, whole genome shotgun sequence
+10. NC_015312	Pseudonocardia dioxanivorans CB1190, complete genome
+11. NZ_FNBE01000003	Pseudonocardia oroxyli strain CGMCC 4.3143, whole genome shotgun sequence
+12. NZ_ASXG01000139	Amycolatopsis orientalis DSM 43388 contig_12, whole genome shotgun sequence
+13. NZ_FOEF01000003	Amycolatopsis saalfeldensis strain DSM 44993, whole genome shotgun sequence
+14. NZ_JOIQ01000032	Streptomyces sp. NRRL F-3213 contig32.1, whole genome shotgun sequence
+15. NZ_ASXH01000101	Amycolatopsis orientalis DSM 46075 contig_8, whole genome shotgun sequence
+16. NZ_KB912942	Amycolatopsis benzoatilytica AK 16/65 AmybeDRAFT_scaffold1.1, whole genome shotgun sequence
+17. NZ_AUII01000011	Pseudonocardia asaccharolytica DSM 44247 = NBRC 16224 strain DSM 44247 G567DRAFT_scaffold00011.11_C, whole genome shotgun sequence
+18. NZ_LT594324	Micromonospora narathiwatensis strain DSM 45248 genome assembly, chromosome: I
+19. NZ_LT607411	Micromonospora viridifaciens strain DSM 43909 genome assembly, chromosome: I
+20. NZ_CM001439	Saccharomonospora marina XMU15 chromosome, whole genome shotgun sequence
+21. NZ_CP016353	Prauserella marina strain DSM 45268 chromosome, complete genome
+22. NZ_FMZE01000001	Prauserella marina strain CGMCC 4.5506, whole genome shotgun sequence
+23. NZ_FPAT01000011	Actinopolyspora righensis strain DSM 45501, whole genome shotgun sequence
+24. NZ_CP007155	Kutzneria albida DSM 43870, complete genome
+25. NZ_AQUI01000002	Actinopolyspora halophila DSM 43834 ActhaDRAFT_contig1.1_C, whole genome shotgun sequence
+26. NZ_FNKO01000001	Actinopolyspora saharensis strain DSM 45459, whole genome shotgun sequence
+27. NZ_LBDA02000056	Streptomyces malaysiense strain MUSC 136, whole genome shotgun sequence
+28. NZ_JOFU01000023	Streptomyces griseofuscus strain NRRL B-5429 contig23.1, whole genome shotgun sequence
+29. NZ_FMDH01000117	Streptomyces sp. LamerLS-31b, whole genome shotgun sequence
+30. NZ_LISX01000007	Kitasatospora sp. CB01950 scaffold7, whole genome shotgun sequence
+31. NZ_JTHL01000001	Streptomyces sp. 150FB scaffold00001, whole genome shotgun sequence
+32. NZ_LGDO01000347	Streptomyces sp. XY431 P412contig40.1, whole genome shotgun sequence
+33. NZ_LT629775	Streptomyces sp. TLI_053 genome assembly, chromosome: I
+34. NZ_JOHN01000018	Streptomyces sp. NRRL F-6131 contig18.1, whole genome shotgun sequence
+35. NZ_JNWR01000009	Kitasatospora aureofaciens strain NRRL B-1286 contig9.1, whole genome shotgun sequence
+36. NZ_CP020567	Kitasatospora aureofaciens strain DM-1 chromosome, complete genome
+37. NZ_JOGG01000008	Streptomyces sp. NRRL B-5680 contig8.1, whole genome shotgun sequence
+38. NZ_JPRF03000013	Kitasatospora aureofaciens strain ATCC 10762 contig_12, whole genome shotgun sequence
+39. NZ_JOAY01000025	Streptomyces pyridomyceticus strain NRRL ISP-5024 contig25.1, whole genome shotgun sequence
+40. NZ_JODS01000002	Kitasatospora purpeofusca strain NRRL B-1817 contig2.1, whole genome shotgun sequence
+41. NZ_JOCF01000029	Streptomyces sp. NRRL WC-3742 contig29.1, whole genome shotgun sequence
+42. NZ_LWLA01000017	Streptomyces sp. CB03911 scaffold24, whole genome shotgun sequence
+43. NZ_LIPD01000009	Streptomyces sp. CB02056 scaffold9, whole genome shotgun sequence
+44. NZ_MKJX01000088	Pseudonocardia sp. CNS-139 NODE_17_length_92898_cov_139.034_ID_63, whole genome shotgun sequence
+45. NZ_CP024894	Amycolatopsis sp. AA4 chromosome, complete genome
+46. NZ_GG657746	Streptomyces sp. AA4 supercont1.1, whole genome shotgun sequence
+47. NZ_JNYZ01000007	Amycolatopsis jejuensis strain NRRL B-24427 contig7.1, whole genome shotgun sequence
+48. NZ_JIAI01000003	Pseudonocardia acaciae DSM 45401 N912DRAFT_scaffold00003.3_C, whole genome shotgun sequence
+49. NZ_KB903246	Actinomycetospora chiangmaiensis DSM 45062 A3CODRAFT_scaffold_7.8, whole genome shotgun sequence
+50. NZ_FMHY01000002	Micromonospora eburnea strain DSM 44814, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_CP009110
+Source: Amycolatopsis methanolica 239, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 20
+Cumulative BLAST score: 12658
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_19	AMETH_RS20370	92	949	100.0	1.4e-274
+ctg1_20	AMETH_RS20375	96	584	100.0	9.2e-165
+ctg1_21	AMETH_RS20380	75	280	91.28787878787878	1.9e-73
+ctg1_22	AMETH_RS20385	91	573	98.46153846153847	1.3e-161
+ctg1_23	AMETH_RS20390	99	634	99.672131147541	5.9e-180
+ctg1_24	AMETH_RS20395	90	186	100.0	1.4e-45
+ctg1_25	AMETH_RS20400	93	585	100.0	4.3e-165
+ctg1_26	AMETH_RS20405	96	673	100.0	1.6e-191
+ctg1_27	AMETH_RS20410	88	821	100.0	4.2e-236
+ctg1_28	AMETH_RS20415	91	1174	100.0	0.0
+ctg1_29	AMETH_RS20420	96	607	100.0	6.5e-172
+ctg1_30	AMETH_RS20425	87	740	96.89578713968959	1.1e-211
+ctg1_31	AMETH_RS20430	91	536	100.0	1.6e-150
+ctg1_31	AMETH_RS37080	33	104	80.76923076923077	2.6e-20
+ctg1_32	AMETH_RS37080	86	496	99.33333333333333	1.9e-138
+ctg1_32	AMETH_RS20430	35	100	77.33333333333333	3e-19
+ctg1_33	AMETH_RS20440	93	735	100.0	3.3e-210
+ctg1_34	AMETH_RS35970	89	1196	99.69325153374233	0.0
+ctg1_35	AMETH_RS20460	93	401	99.56140350877193	8.2e-110
+ctg1_36	AMETH_RS20465	91	554	100.0	1.1e-155
+ctg1_37	AMETH_RS20470	88	412	99.60474308300395	3.9e-113
+ctg1_38	AMETH_RS20475	83	318	100.0	6e-85
+
+
+
+>>
+2. NZ_FORP01000007
+Source: Amycolatopsis sacchari strain DSM 44468, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 20
+Cumulative BLAST score: 10965
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_21	BMZ92_RS14680	74	300	97.72727272727273	2.3e-79
+ctg1_22	BMZ92_RS14685	76	484	99.6923076923077	8e-135
+ctg1_23	BMZ92_RS14690	88	576	98.68852459016394	2.5e-162
+ctg1_24	BMZ92_RS14700	78	152	98.01980198019803	2.2e-35
+ctg1_25	BMZ92_RS14705	77	497	100.0	1.2e-138
+ctg1_26	BMZ92_RS14715	94	659	99.40119760479041	1.4e-187
+ctg1_27	BMZ92_RS14720	76	714	100.20408163265306	7.2e-204
+ctg1_28	BMZ92_RS14725	75	988	99.52606635071089	3.3e-286
+ctg1_29	BMZ92_RS14730	82	528	100.0	5e-148
+ctg1_30	BMZ92_RS14735	72	599	96.67405764966742	2.4e-169
+ctg1_31	BMZ92_RS14740	81	460	97.9020979020979	1.4e-127
+ctg1_31	BMZ92_RS14745	31	94	81.46853146853147	1.6e-17
+ctg1_32	BMZ92_RS14745	69	382	98.66666666666667	4e-104
+ctg1_32	BMZ92_RS14740	34	88	77.66666666666666	1.5e-15
+ctg1_33	BMZ92_RS14750	81	631	98.0246913580247	5.1e-179
+ctg1_34	BMZ92_RS14755	67	888	98.77300613496932	4.8e-256
+ctg1_35	BMZ92_RS14760	78	318	96.49122807017544	7e-85
+ctg1_36	BMZ92_RS14765	74	445	100.0	4.1e-123
+ctg1_37	BMZ92_RS14770	76	361	100.0	6.1e-98
+ctg1_38	BMZ92_RS14775	66	245	100.0	3.8e-63
+ctg1_39	BMZ92_RS14780	74	1010	99.72752043596729	7.3e-293
+ctg1_40	BMZ92_RS14785	87	546	100.30769230769229	1.7e-153
+
+
+
+>>
+3. NZ_JAFB01000003
+Source: Amycolatopsis taiwanensis DSM 45107 A3CUDRAFT_scaffold_1.2_C, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 18
+Cumulative BLAST score: 9495
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_20	A3CU_RS0100920	88	542	100.0	4e-152
+ctg1_21	A3CU_RS0100925	64	267	91.28787878787878	1.6e-69
+ctg1_22	A3CU_RS0100930	70	433	92.3076923076923	2.8e-119
+ctg1_24	A3CU_RS0100945	65	124	99.00990099009901	8.6e-27
+ctg1_25	A3CU_RS0100950	79	498	100.0	4.1e-139
+ctg1_26	A3CU_RS0100960	94	655	99.40119760479041	2.7e-186
+ctg1_27	A3CU_RS0100965	77	708	100.0	6.7e-202
+ctg1_28	A3CU_RS42980	78	990	96.99842022116904	1.1e-286
+ctg1_29	A3CU_RS0100975	83	534	100.29761904761905	9.1e-150
+ctg1_30	A3CU_RS0100980	70	561	96.67405764966742	9.4e-158
+ctg1_31	A3CU_RS0100985	79	455	98.25174825174825	4.6e-126
+ctg1_31	A3CU_RS0100990	34	100	82.16783216783216	3.7e-19
+ctg1_32	A3CU_RS0100990	67	351	95.0	1.3e-94
+ctg1_32	A3CU_RS0100985	34	89	77.66666666666666	6.9e-16
+ctg1_33	A3CU_RS0100995	79	616	96.29629629629629	2.2e-174
+ctg1_34	A3CU_RS0101000	59	487	63.65030674846626	1.9e-135
+ctg1_37	A3CU_RS0101005	71	329	99.60474308300395	2.6e-88
+ctg1_38	A3CU_RS0101010	66	256	100.0	2.8e-66
+ctg1_39	A3CU_RS0101015	71	970	99.72752043596729	8.3e-281
+ctg1_40	A3CU_RS0101020	84	530	100.0	1.3e-148
+
+
+
+>>
+4. NZ_KI421511
+Source: Amycolatopsis thermoflava N1165 AmythDRAFT_Scaffold1.2, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 17
+Cumulative BLAST score: 10864
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_22	AMYTH_RS0101215	90	565	98.46153846153847	3.6e-159
+ctg1_23	AMYTH_RS0101210	99	635	99.672131147541	2.6e-180
+ctg1_24	AMYTH_RS0101205	89	184	100.0	7e-45
+ctg1_25	AMYTH_RS0101200	95	592	100.0	2.7e-167
+ctg1_26	AMYTH_RS0101170	96	673	100.0	1.6e-191
+ctg1_27	AMYTH_RS0101165	89	826	100.0	1.7e-237
+ctg1_28	AMYTH_RS0101160	91	1178	100.0	0.0
+ctg1_29	AMYTH_RS0101155	95	606	100.0	1.9e-171
+ctg1_30	AMYTH_RS0101150	87	743	96.89578713968959	1e-212
+ctg1_31	AMYTH_RS0101145	92	535	98.6013986013986	2.7e-150
+ctg1_31	AMYTH_RS47520	33	103	80.76923076923077	4.4e-20
+ctg1_32	AMYTH_RS47520	87	502	99.33333333333333	3.4e-140
+ctg1_32	AMYTH_RS0101145	35	97	77.33333333333333	3.3e-18
+ctg1_33	AMYTH_RS0101135	93	735	100.0	4.2e-210
+ctg1_34	AMYTH_RS46830	90	1199	99.5398773006135	0.0
+ctg1_35	AMYTH_RS0101115	92	400	99.56140350877193	1.1e-109
+ctg1_36	AMYTH_RS0101110	92	557	100.0	1.3e-156
+ctg1_37	AMYTH_RS0101105	88	416	99.60474308300395	2.1e-114
+ctg1_38	AMYTH_RS0101100	83	318	100.0	6e-85
+
+
+
+>>
+5. NZ_AFWY03000039
+Source: Amycolatopsis sp. ATCC 39116 strain 75iv2 Amy_contig00030.39_C, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 16
+Cumulative BLAST score: 10319
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_23	AMY39116_RS0329785	98	634	99.672131147541	5.9e-180
+ctg1_24	AMY39116_RS0329790	88	183	100.0	1.6e-44
+ctg1_25	AMY39116_RS0329795	96	596	100.0	2.5e-168
+ctg1_26	AMY39116_RS0329825	97	674	100.0	5.6e-192
+ctg1_27	AMY39116_RS0329830	89	831	100.0	5.3e-239
+ctg1_28	AMY39116_RS0329835	91	1179	100.0	0.0
+ctg1_29	AMY39116_RS0329840	96	610	100.0	1.3e-172
+ctg1_30	AMY39116_RS0329845	86	734	96.89578713968959	6.2e-210
+ctg1_31	AMY39116_RS0329850	92	542	100.0	2.9e-152
+ctg1_31	AMY39116_RS45730	34	104	80.76923076923077	2.6e-20
+ctg1_32	AMY39116_RS45730	87	501	99.33333333333333	5.9e-140
+ctg1_32	AMY39116_RS0329850	35	98	77.33333333333333	1.1e-18
+ctg1_33	AMY39116_RS0329860	92	731	100.0	4.7e-209
+ctg1_34	AMY39116_RS44845	90	1205	100.0	0.0
+ctg1_35	AMY39116_RS0329880	92	402	99.56140350877193	3.7e-110
+ctg1_36	AMY39116_RS0329890	92	559	100.0	2.6e-157
+ctg1_37	AMY39116_RS0329895	87	413	99.60474308300395	1.8e-113
+ctg1_38	AMY39116_RS0329900	84	323	100.0	1.9e-86
+
+
+
+>>
+6. NZ_LRRB01000081
+Source: Rhodococcus kunmingensis strain DSM 45001 contig006, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 13
+Cumulative BLAST score: 5324
+
+Table of genes, locations, strands and annotations of subject cluster:
+A8G08_RS06085	A8G08_RS06085	41384	42247	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_20	A8G08_RS06175	33	136	77.92207792207793	5.1e-30
+ctg1_26	A8G08_RS06135	77	550	99.40119760479041	1.6e-154
+ctg1_27	A8G08_RS06130	60	523	100.0	2.3e-146
+ctg1_28	A8G08_RS06125	69	888	103.94944707740916	6.1e-256
+ctg1_29	A8G08_RS06120	55	342	100.89285714285714	3.9e-92
+ctg1_30	A8G08_RS06115	64	497	96.0088691796009	2.2e-138
+ctg1_31	A8G08_RS06110	63	355	98.25174825174825	6.5e-96
+ctg1_31	A8G08_RS06105	32	92	74.47552447552448	7.8e-17
+ctg1_32	A8G08_RS06105	51	253	90.66666666666666	2.1e-65
+ctg1_32	A8G08_RS06110	34	92	78.66666666666666	1.1e-16
+ctg1_33	A8G08_RS06100	55	400	97.53086419753086	2.5e-109
+ctg1_34	A8G08_RS06095	46	518	97.85276073619632	1.3e-144
+ctg1_35	A8G08_RS06090	51	181	91.66666666666666	1e-43
+ctg1_36	A8G08_RS06085	49	256	89.23076923076924	3.6e-66
+ctg1_37	A8G08_RS06080	54	241	98.81422924901186	1.2e-61
+
+
+
+>>
+7. NZ_KB822575
+Source: Nocardioides sp. Iso805N H036DRAFT_scaffold00001.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4693
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	H036_RS0101685	78	560	100.0	1.5e-157
+ctg1_27	H036_RS0101690	58	488	101.83673469387755	6.4e-136
+ctg1_28	H036_RS0101695	63	816	98.73617693522907	1.7e-234
+ctg1_29	H036_RS0101700	52	307	106.25	1.4e-81
+ctg1_30	H036_RS0101705	57	456	99.33481152993349	2.5e-126
+ctg1_31	H036_RS0101710	61	327	100.69930069930071	1.4e-87
+ctg1_31	H036_RS0101715	33	111	80.76923076923077	1.2e-22
+ctg1_32	H036_RS0101715	50	237	90.66666666666666	1.6e-60
+ctg1_32	H036_RS0101710	33	80	81.66666666666667	3.2e-13
+ctg1_33	H036_RS0101720	51	347	95.30864197530863	2.5e-93
+ctg1_34	H036_RS24145	45	479	97.08588957055214	5.2e-133
+ctg1_36	H036_RS21510	46	225	88.0	6.7e-57
+ctg1_37	H036_RS0101735	58	260	98.81422924901186	2.5e-67
+
+
+
+>>
+8. NZ_JNYD01000007
+Source: Pseudonocardia autotrophica strain NRRL B-16064 contig7.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 3971
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	OQ00_RS14870	78	558	99.10179640718563	4.5e-157
+ctg1_27	OQ00_RS14875	68	592	101.42857142857142	5.4e-167
+ctg1_28	OQ00_RS14880	74	938	99.68404423380727	4e-271
+ctg1_29	OQ00_RS14885	66	392	96.13095238095238	5.6e-107
+ctg1_30	OQ00_RS39965	58	465	100.66518847006651	9.1e-129
+ctg1_31	OQ00_RS14900	38	117	79.02097902097903	3e-24
+ctg1_32	OQ00_RS14900	51	233	95.33333333333334	3.9e-59
+ctg1_33	OQ00_RS14905	53	396	96.54320987654322	3.6e-108
+ctg1_36	OQ00_RS14850	33	87	88.61538461538461	3.7e-15
+ctg1_37	OQ00_RS14845	50	193	98.81422924901186	2.2e-47
+
+
+
+>>
+9. NZ_FNQB01000001
+Source: Asanoa ishikariensis strain DSM 44718, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4551
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLV39_RS10485	BLV39_RS10485	2217427	2218311	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	BLV39_RS10445	81	583	99.40119760479041	1.3e-164
+ctg1_27	BLV39_RS10450	63	547	100.20408163265306	1.5e-153
+ctg1_28	BLV39_RS10455	70	899	100.63191153238546	1.6e-259
+ctg1_29	BLV39_RS10460	60	359	100.89285714285714	4e-97
+ctg1_30	BLV39_RS10465	59	464	95.78713968957871	1.2e-128
+ctg1_31	BLV39_RS10470	67	371	97.9020979020979	8.7e-101
+ctg1_31	BLV39_RS10475	34	105	80.06993006993007	8.9e-21
+ctg1_32	BLV39_RS10475	56	283	95.33333333333334	2.5e-74
+ctg1_34	BLV39_RS10480	44	441	93.09815950920245	1.2e-121
+ctg1_36	BLV39_RS10485	50	234	87.38461538461539	1.4e-59
+ctg1_37	BLV39_RS10490	58	265	99.60474308300395	7.8e-69
+
+
+
+>>
+10. NC_015312
+Source: Pseudonocardia dioxanivorans CB1190, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4359
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	PSED_RS18380	80	567	99.10179640718563	1.3e-159
+ctg1_27	PSED_RS18375	64	571	101.22448979591836	7.5e-161
+ctg1_28	PSED_RS18370	71	926	99.68404423380727	1.2e-267
+ctg1_29	PSED_RS18365	65	387	97.91666666666666	1.8e-105
+ctg1_30	PSED_RS18360	61	497	102.88248337028824	2.2e-138
+ctg1_31	PSED_RS18355	64	348	103.4965034965035	7.9e-94
+ctg1_32	PSED_RS18350	49	249	101.66666666666666	4e-64
+ctg1_32	PSED_RS18355	35	91	82.0	2.4e-16
+ctg1_33	PSED_RS18345	56	418	99.75308641975309	8.8e-115
+ctg1_36	PSED_RS18400	32	85	89.53846153846153	1.4e-14
+ctg1_37	PSED_RS18405	56	220	96.83794466403161	1.7e-55
+
+
+
+>>
+11. NZ_FNBE01000003
+Source: Pseudonocardia oroxyli strain CGMCC 4.3143, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4216
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	BLS43_RS06245	77	560	100.0	1.5e-157
+ctg1_27	BLS43_RS06240	65	565	101.22448979591836	5.4e-159
+ctg1_28	BLS43_RS06235	74	904	96.99842022116904	4.8e-261
+ctg1_29	BLS43_RS06230	64	385	97.61904761904762	6.8e-105
+ctg1_30	BLS43_RS06225	57	407	91.35254988913526	2.3e-111
+ctg1_31	BLS43_RS06220	60	330	105.94405594405593	2.2e-88
+ctg1_31	BLS43_RS06215	37	119	87.41258741258741	6e-25
+ctg1_32	BLS43_RS06215	51	223	90.33333333333333	2.4e-56
+ctg1_32	BLS43_RS06220	34	96	85.66666666666667	4.3e-18
+ctg1_33	BLS43_RS06210	56	385	91.35802469135803	6.3e-105
+ctg1_36	BLS43_RS06265	32	86	88.61538461538461	4.9e-15
+ctg1_37	BLS43_RS06270	48	156	95.65217391304348	3.9e-36
+
+
+
+>>
+12. NZ_ASXG01000139
+Source: Amycolatopsis orientalis DSM 43388 contig_12, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4667
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	L942_RS28765	85	598	99.40119760479041	3.9e-169
+ctg1_27	L942_RS28770	66	593	100.0	1.8e-167
+ctg1_28	L942_RS28775	72	908	99.21011058451816	5.7e-262
+ctg1_29	L942_RS28780	69	412	98.21428571428571	4e-113
+ctg1_30	L942_RS28785	66	507	90.46563192904657	2.1e-141
+ctg1_31	L942_RS28790	69	378	99.3006993006993	7.1e-103
+ctg1_31	L942_RS28795	37	111	81.81818181818183	1.6e-22
+ctg1_32	L942_RS28795	55	272	89.66666666666666	4.4e-71
+ctg1_32	L942_RS28790	34	104	74.0	2.1e-20
+ctg1_33	L942_RS28800	57	416	97.53086419753086	4.4e-114
+ctg1_36	L942_RS28815	31	83	85.84615384615385	4.1e-14
+ctg1_37	L942_RS28805	62	285	96.04743083003953	7.3e-75
+
+
+
+>>
+13. NZ_FOEF01000003
+Source: Amycolatopsis saalfeldensis strain DSM 44993, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4644
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	BMY97_RS09430	82	582	99.40119760479041	2.9e-164
+ctg1_27	BMY97_RS09435	64	571	99.79591836734694	9.8e-161
+ctg1_28	BMY97_RS09440	73	920	100.15797788309638	1.5e-265
+ctg1_29	BMY97_RS09445	69	425	98.51190476190477	7.8e-117
+ctg1_30	BMY97_RS09450	65	488	89.3569844789357	7.7e-136
+ctg1_31	BMY97_RS09455	70	394	97.9020979020979	9.6e-108
+ctg1_31	BMY97_RS09460	33	106	81.81818181818183	6.8e-21
+ctg1_32	BMY97_RS09460	58	289	94.0	6e-76
+ctg1_32	BMY97_RS09455	37	98	59.0	1.5e-18
+ctg1_33	BMY97_RS09465	55	405	96.79012345679013	5.9e-111
+ctg1_36	BMY97_RS09480	31	85	83.38461538461537	1.1e-14
+ctg1_37	BMY97_RS09470	61	281	98.02371541501977	1e-73
+
+
+
+>>
+14. NZ_JOIQ01000032
+Source: Streptomyces sp. NRRL F-3213 contig32.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4640
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF70_RS40935	IF70_RS40935	29837	31504	+	hypothetical_protein
+IF70_RS40940	IF70_RS40940	31704	32687	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	IF70_RS40880	85	602	99.40119760479041	3.5e-170
+ctg1_27	IF70_RS40885	66	587	100.20408163265306	1.7e-165
+ctg1_28	IF70_RS40890	72	898	99.21011058451816	5.9e-259
+ctg1_29	IF70_RS40895	69	409	100.0	4.4e-112
+ctg1_30	IF70_RS40900	67	509	90.46563192904657	3.2e-142
+ctg1_31	IF70_RS40905	67	372	98.25174825174825	5.1e-101
+ctg1_31	IF70_RS40910	33	98	93.7062937062937	1.1e-18
+ctg1_32	IF70_RS40910	56	272	89.66666666666666	5.8e-71
+ctg1_32	IF70_RS40905	34	105	74.0	9.4e-21
+ctg1_33	IF70_RS40915	57	416	95.55555555555556	4.4e-114
+ctg1_36	IF70_RS40930	31	82	85.84615384615385	9.2e-14
+ctg1_37	IF70_RS40920	63	290	96.04743083003953	1.7e-76
+
+
+
+>>
+15. NZ_ASXH01000101
+Source: Amycolatopsis orientalis DSM 46075 contig_8, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4638
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	L943_RS22495	85	603	99.40119760479041	1.2e-170
+ctg1_27	L943_RS22490	66	585	100.20408163265306	5e-165
+ctg1_28	L943_RS22485	72	898	99.21011058451816	3.5e-259
+ctg1_29	L943_RS22480	69	410	100.0	2.6e-112
+ctg1_30	L943_RS22475	67	507	90.46563192904657	1.6e-141
+ctg1_31	L943_RS22470	68	373	98.25174825174825	1.8e-101
+ctg1_31	L943_RS22465	34	102	93.7062937062937	5.8e-20
+ctg1_32	L943_RS22465	55	272	89.66666666666666	4.4e-71
+ctg1_32	L943_RS22470	34	106	74.0	7.2e-21
+ctg1_33	L943_RS22460	57	413	95.55555555555556	2.8e-113
+ctg1_36	L943_RS22445	31	82	85.84615384615385	9.2e-14
+ctg1_37	L943_RS22455	62	287	96.04743083003953	1.5e-75
+
+
+
+>>
+16. NZ_KB912942
+Source: Amycolatopsis benzoatilytica AK 16/65 AmybeDRAFT_scaffold1.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4192
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMYBE_RS0106410	AMYBE_RS0106410	1329502	1330044	-	4-hydroxy-3-methylbut-2-enyl_diphosphate_reductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	AMYBE_RS0106405	86	604	99.40119760479041	7.1e-171
+ctg1_27	AMYBE_RS0106410	53	147	35.91836734693877	3.5e-33
+ctg1_28	AMYBE_RS0106415	73	913	99.52606635071089	1e-263
+ctg1_29	AMYBE_RS0106420	67	396	98.21428571428571	3e-108
+ctg1_30	AMYBE_RS0106425	67	510	90.9090909090909	1.5e-142
+ctg1_31	AMYBE_RS0106430	69	377	98.25174825174825	1.2e-102
+ctg1_31	AMYBE_RS0106435	36	107	80.76923076923077	2.3e-21
+ctg1_32	AMYBE_RS0106435	56	277	90.0	1.8e-72
+ctg1_32	AMYBE_RS0106430	34	100	74.0	3e-19
+ctg1_33	AMYBE_RS0106440	55	404	97.53086419753086	1e-110
+ctg1_36	AMYBE_RS40975	31	87	86.15384615384616	2.9e-15
+ctg1_37	AMYBE_RS0106445	61	270	96.04743083003953	2.4e-70
+
+
+
+>>
+17. NZ_AUII01000011
+Source: Pseudonocardia asaccharolytica DSM 44247 = NBRC 16224 strain DSM 44247 G567DRAFT_scaffold00011.11_C, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3977
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	G567_RS0114030	78	561	99.10179640718563	9.1e-158
+ctg1_27	G567_RS0114035	66	577	100.81632653061226	1.8e-162
+ctg1_28	G567_RS0114040	72	891	99.52606635071089	5.5e-257
+ctg1_29	G567_RS0114045	70	420	97.61904761904762	1.9e-115
+ctg1_30	G567_RS0114050	62	506	98.89135254988913	2.7e-141
+ctg1_31	G567_RS0114055	66	369	100.34965034965036	3.3e-100
+ctg1_32	G567_RS28770	56	274	94.0	1.5e-71
+ctg1_32	G567_RS0114055	33	86	79.33333333333333	7.7e-15
+ctg1_36	G567_RS0114010	32	81	88.92307692307693	2e-13
+ctg1_37	G567_RS0114005	54	212	98.81422924901186	7.8e-53
+
+
+
+>>
+18. NZ_LT594324
+Source: Micromonospora narathiwatensis strain DSM 45248 genome assembly, chromosome: I
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 3772
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	GA0070621_RS08485	69	499	98.80239520958084	3.2e-139
+ctg1_27	GA0070621_RS08480	56	482	102.04081632653062	6e-134
+ctg1_28	GA0070621_RS08475	68	816	96.99842022116904	3e-234
+ctg1_29	GA0070621_RS08470	56	326	98.21428571428571	3.8e-87
+ctg1_30	GA0070621_RS08465	52	382	95.78713968957871	7.8e-104
+ctg1_31	GA0070621_RS08460	60	321	98.95104895104895	7.9e-86
+ctg1_31	GA0070621_RS08455	37	123	91.95804195804196	5.4e-26
+ctg1_32	GA0070621_RS08455	49	230	93.33333333333333	2.5e-58
+ctg1_32	GA0070621_RS08460	37	102	81.0	6.1e-20
+ctg1_34	GA0070621_RS08495	32	163	67.48466257668711	6.3e-38
+ctg1_36	GA0070621_RS08505	31	61	68.3076923076923	1.7e-07
+ctg1_37	GA0070621_RS08490	60	267	98.81422924901186	2e-69
+
+
+
+>>
+19. NZ_LT607411
+Source: Micromonospora viridifaciens strain DSM 43909 genome assembly, chromosome: I
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 3729
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	GA0074695_RS16285	70	500	98.80239520958084	1.1e-139
+ctg1_27	GA0074695_RS16280	54	451	102.04081632653062	1.5e-124
+ctg1_28	GA0074695_RS16275	68	817	96.99842022116904	1.3e-234
+ctg1_29	GA0074695_RS16270	56	319	95.53571428571429	4.6e-85
+ctg1_30	GA0074695_RS16265	52	384	96.23059866962306	1.6e-104
+ctg1_31	GA0074695_RS16260	58	304	98.25174825174825	1e-80
+ctg1_31	GA0074695_RS16255	36	124	84.61538461538461	2.4e-26
+ctg1_32	GA0074695_RS16255	49	235	93.33333333333333	1e-59
+ctg1_32	GA0074695_RS16260	38	102	77.33333333333333	7.9e-20
+ctg1_34	GA0074695_RS16295	31	160	65.49079754601227	9.1e-37
+ctg1_36	GA0074695_RS16305	31	64	78.76923076923077	2.6e-08
+ctg1_37	GA0074695_RS16290	61	269	98.81422924901186	3.2e-70
+
+
+
+>>
+20. NZ_CM001439
+Source: Saccharomonospora marina XMU15 chromosome, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3598
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	SACMADRAFT_RS13105	69	497	99.7005988023952	1.6e-138
+ctg1_27	SACMADRAFT_RS13100	55	483	100.40816326530613	2.7e-134
+ctg1_28	SACMADRAFT_RS13095	71	868	96.84044233807268	6.6e-250
+ctg1_29	SACMADRAFT_RS13090	51	296	100.29761904761905	4.2e-78
+ctg1_30	SACMADRAFT_RS13085	54	410	96.67405764966742	3.5e-112
+ctg1_31	SACMADRAFT_RS13080	58	290	97.55244755244755	2e-76
+ctg1_31	SACMADRAFT_RS13075	31	106	105.24475524475525	4e-21
+ctg1_32	SACMADRAFT_RS13075	51	233	92.33333333333333	3.9e-59
+ctg1_32	SACMADRAFT_RS13080	38	96	60.0	7.4e-18
+ctg1_36	SACMADRAFT_RS13115	32	83	92.92307692307692	5.4e-14
+ctg1_37	SACMADRAFT_RS13110	56	236	97.23320158102767	3e-60
+
+
+
+>>
+21. NZ_CP016353
+Source: Prauserella marina strain DSM 45268 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3560
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	BAY61_RS14145	69	495	99.7005988023952	6.1e-138
+ctg1_27	BAY61_RS14140	57	482	100.81632653061226	7.8e-134
+ctg1_28	BAY61_RS14135	70	858	97.1563981042654	4e-247
+ctg1_29	BAY61_RS14130	53	300	96.72619047619048	2.2e-79
+ctg1_30	BAY61_RS14125	54	404	97.33924611973393	1.9e-110
+ctg1_31	BAY61_RS14120	59	299	97.2027972027972	5.5e-79
+ctg1_31	BAY61_RS14115	35	108	81.46853146853147	1.4e-21
+ctg1_32	BAY61_RS14115	50	241	88.0	1.4e-61
+ctg1_32	BAY61_RS14120	37	102	76.66666666666667	1e-19
+ctg1_36	BAY61_RS14160	31	78	91.07692307692308	1.7e-12
+ctg1_37	BAY61_RS14155	47	193	97.62845849802372	2.2e-47
+
+
+
+>>
+22. NZ_FMZE01000001
+Source: Prauserella marina strain CGMCC 4.5506, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3560
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	BLR89_RS05865	69	495	99.7005988023952	6.1e-138
+ctg1_27	BLR89_RS05860	57	482	100.81632653061226	7.8e-134
+ctg1_28	BLR89_RS05855	70	858	97.1563981042654	4e-247
+ctg1_29	BLR89_RS05850	53	300	96.72619047619048	2.2e-79
+ctg1_30	BLR89_RS05845	54	404	97.33924611973393	1.9e-110
+ctg1_31	BLR89_RS05840	59	299	97.2027972027972	5.5e-79
+ctg1_31	BLR89_RS05835	35	108	81.46853146853147	1.4e-21
+ctg1_32	BLR89_RS05835	50	241	88.0	1.4e-61
+ctg1_32	BLR89_RS05840	37	102	76.66666666666667	1e-19
+ctg1_36	BLR89_RS05880	31	78	91.07692307692308	1.7e-12
+ctg1_37	BLR89_RS05875	47	193	97.62845849802372	2.2e-47
+
+
+
+>>
+23. NZ_FPAT01000011
+Source: Actinopolyspora righensis strain DSM 45501, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3188
+
+Table of genes, locations, strands and annotations of subject cluster:
+BM394_RS18100	BM394_RS18100	108868	109503	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	BM394_RS18095	70	507	98.80239520958084	1.2e-141
+ctg1_27	BM394_RS18090	45	113	40.40816326530612	7.3e-23
+ctg1_28	BM394_RS18085	67	866	96.2085308056872	1.9e-249
+ctg1_29	BM394_RS18080	50	292	99.70238095238095	6e-77
+ctg1_30	BM394_RS18075	50	378	97.33924611973393	1.5e-102
+ctg1_31	BM394_RS18070	58	309	97.9020979020979	5.3e-82
+ctg1_31	BM394_RS18180	34	134	100.0	2.3e-29
+ctg1_32	BM394_RS18070	45	214	94.33333333333334	1.9e-53
+ctg1_32	BM394_RS18180	32	101	85.0	2.3e-19
+ctg1_36	BM394_RS18110	32	93	88.0	4e-17
+ctg1_37	BM394_RS18105	47	181	97.23320158102767	1.5e-43
+
+
+
+>>
+24. NZ_CP007155
+Source: Kutzneria albida DSM 43870, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3140
+
+Table of genes, locations, strands and annotations of subject cluster:
+KALB_RS19985	KALB_RS19985	4565816	4566684	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	KALB_RS20000	65	468	99.40119760479041	4.7e-130
+ctg1_27	KALB_RS44050	45	123	40.20408163265306	7.1e-26
+ctg1_28	KALB_RS20010	69	857	98.89415481832543	8.9e-247
+ctg1_29	KALB_RS20015	52	294	100.0	1.6e-77
+ctg1_30	KALB_RS20020	53	386	96.23059866962306	4.1e-105
+ctg1_31	KALB_RS20025	54	274	97.9020979020979	1.9e-71
+ctg1_31	KALB_RS20030	36	109	83.56643356643356	8.1e-22
+ctg1_32	KALB_RS20030	48	224	90.0	1.4e-56
+ctg1_32	KALB_RS20025	36	106	78.0	5.5e-21
+ctg1_36	KALB_RS19985	32	73	71.6923076923077	5.6e-11
+ctg1_37	KALB_RS19990	53	226	97.23320158102767	3.1e-57
+
+
+
+>>
+25. NZ_AQUI01000002
+Source: Actinopolyspora halophila DSM 43834 ActhaDRAFT_contig1.1_C, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3068
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	ACTHA_RS0111905	70	506	98.80239520958084	2e-141
+ctg1_27	ACTHA_RS0111900	45	122	36.53061224489796	1.2e-25
+ctg1_28	ACTHA_RS0111895	62	814	97.47235387045814	1.1e-233
+ctg1_29	ACTHA_RS0111890	51	306	99.70238095238095	3.1e-81
+ctg1_30	ACTHA_RS0111885	50	374	97.33924611973393	1.2e-101
+ctg1_31	ACTHA_RS28830	56	299	98.6013986013986	3.2e-79
+ctg1_31	ACTHA_RS0111990	36	141	98.6013986013986	1.9e-31
+ctg1_32	ACTHA_RS28830	44	204	94.33333333333334	1.5e-50
+ctg1_36	ACTHA_RS0111920	33	97	88.0	2.8e-18
+ctg1_37	ACTHA_RS0111915	49	205	98.02371541501977	7.3e-51
+
+
+
+>>
+26. NZ_FNKO01000001
+Source: Actinopolyspora saharensis strain DSM 45459, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3067
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLR67_RS06285	BLR67_RS06285	1425932	1427720	-	copper_resistance_protein_CopD
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	BLR67_RS06400	69	506	98.80239520958084	2e-141
+ctg1_27	BLR67_RS06405	44	118	39.795918367346935	1.7e-24
+ctg1_28	BLR67_RS06410	66	819	97.47235387045814	2.7e-235
+ctg1_29	BLR67_RS06415	52	307	99.70238095238095	2.4e-81
+ctg1_30	BLR67_RS06420	51	381	97.33924611973393	1.7e-103
+ctg1_31	BLR67_RS06425	56	294	97.9020979020979	1e-77
+ctg1_31	BLR67_RS06315	36	146	101.3986013986014	6e-33
+ctg1_32	BLR67_RS06425	43	198	96.33333333333334	1.1e-48
+ctg1_36	BLR67_RS06385	33	97	88.92307692307693	2.8e-18
+ctg1_37	BLR67_RS06390	49	201	98.41897233201581	8.1e-50
+
+
+
+>>
+27. NZ_LBDA02000056
+Source: Streptomyces malaysiense strain MUSC 136, whole genome shotgun sequence
+Type: thiopeptide-terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2818
+
+Table of genes, locations, strands and annotations of subject cluster:
+VT52_RS23940	VT52_RS23940	99577	99884	+	4-hydroxy-3-methylbut-2-en-1-yl_diphosphate_synthase
+VT52_RS35955	VT52_RS35955	105321	105602	+	hypothetical_protein
+VT52_RS24055	VT52_RS24055	129234	130895	+	ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_20	VT52_RS24015	43	196	99.02597402597402	4.1e-48
+ctg1_26	VT52_RS23935	73	514	98.80239520958084	1.3e-143
+ctg1_27	VT52_RS23930	46	107	34.08163265306122	4e-21
+ctg1_28	VT52_RS23925	59	739	96.99842022116904	2.7e-211
+ctg1_29	VT52_RS23920	54	323	99.70238095238095	3.2e-86
+ctg1_30	VT52_RS23915	57	441	96.0088691796009	1.1e-121
+ctg1_31	VT52_RS23910	52	275	102.79720279720279	8.5e-72
+ctg1_32	VT52_RS23905	47	223	92.66666666666666	2.4e-56
+
+
+
+>>
+28. NZ_JOFU01000023
+Source: Streptomyces griseofuscus strain NRRL B-5429 contig23.1, whole genome shotgun sequence
+Type: thiopeptide-terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2810
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF34_RS21315	IF34_RS21315	70591	72228	-	ATP-binding_protein
+IF34_RS21325	IF34_RS21325	72811	73481	+	TetR_family_transcriptional_regulator
+IF34_RS21500	IF34_RS21500	116044	116469	-	nucleotide_sugar-1-phosphate_transferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_20	IF34_RS21365	48	197	74.67532467532467	2.4e-48
+ctg1_26	IF34_RS21440	72	510	98.80239520958084	1.4e-142
+ctg1_27	IF34_RS21445	47	107	34.08163265306122	5.2e-21
+ctg1_28	IF34_RS21450	62	743	96.99842022116904	2.4e-212
+ctg1_29	IF34_RS21455	53	321	99.70238095238095	1.6e-85
+ctg1_30	IF34_RS21460	56	433	96.0088691796009	2.3e-119
+ctg1_31	IF34_RS21465	53	277	102.79720279720279	2.2e-72
+ctg1_32	IF34_RS21470	48	222	92.66666666666666	5.2e-56
+
+
+
+>>
+29. NZ_FMDH01000117
+Source: Streptomyces sp. LamerLS-31b, whole genome shotgun sequence
+Type: thiopeptide-terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2806
+
+Table of genes, locations, strands and annotations of subject cluster:
+GA0115258_RS16815	GA0115258_RS16815	1	302	-	ATP-binding_protein
+GA0115258_RS16820	GA0115258_RS16820	624	936	-	cupin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_20	GA0115258_RS16865	42	198	99.02597402597402	1.1e-48
+ctg1_26	GA0115258_RS16940	72	510	98.80239520958084	1.4e-142
+ctg1_27	GA0115258_RS16945	47	107	34.08163265306122	5.2e-21
+ctg1_28	GA0115258_RS16950	62	742	96.99842022116904	3.2e-212
+ctg1_29	GA0115258_RS16955	53	321	99.70238095238095	1.6e-85
+ctg1_30	GA0115258_RS16960	56	430	96.0088691796009	1.9e-118
+ctg1_31	GA0115258_RS16965	53	277	102.79720279720279	1.7e-72
+ctg1_32	GA0115258_RS16970	47	221	92.66666666666666	1.5e-55
+
+
+
+>>
+30. NZ_LISX01000007
+Source: Kitasatospora sp. CB01950 scaffold7, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2805
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMK19_RS34415	AMK19_RS34415	46339	46983	+	phosphoesterase_PA-phosphatase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	AMK19_RS18875	73	515	99.10179640718563	5.7e-144
+ctg1_27	AMK19_RS18880	45	116	34.08163265306122	8.7e-24
+ctg1_28	AMK19_RS18885	68	857	100.0	6.8e-247
+ctg1_29	AMK19_RS18890	56	328	102.08333333333333	7.6e-88
+ctg1_30	AMK19_RS18895	56	416	97.33924611973393	4.9e-114
+ctg1_31	AMK19_RS18900	55	280	98.6013986013986	1.5e-73
+ctg1_32	AMK19_RS18905	43	212	99.33333333333333	9.3e-53
+ctg1_37	AMK19_RS18840	36	81	73.91304347826086	2.1e-13
+
+
+
+>>
+31. NZ_JTHL01000001
+Source: Streptomyces sp. 150FB scaffold00001, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2747
+
+Table of genes, locations, strands and annotations of subject cluster:
+QR77_RS36130	QR77_RS36130	8432867	8433235	+	4-hydroxy-3-methylbut-2-en-1-yl_diphosphate_synthase
+QR77_RS36155	QR77_RS36155	8439609	8440244	-	ABC_transporter_ATP-binding_protein
+QR77_RS36160	QR77_RS36160	8440262	8440667	-	GntR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_20	QR77_RS36155	37	119	67.53246753246754	4.9e-25
+ctg1_26	QR77_RS36125	73	510	99.10179640718563	1.4e-142
+ctg1_27	QR77_RS36120	42	112	40.0	1.2e-22
+ctg1_28	QR77_RS36115	63	762	96.84044233807268	3e-218
+ctg1_29	QR77_RS36110	53	323	99.70238095238095	3.2e-86
+ctg1_30	QR77_RS36105	59	437	96.45232815964523	1.6e-120
+ctg1_31	QR77_RS36100	54	284	102.44755244755244	1.1e-74
+ctg1_32	QR77_RS36095	43	200	95.0	2.8e-49
+
+
+
+>>
+32. NZ_LGDO01000347
+Source: Streptomyces sp. XY431 P412contig40.1, whole genome shotgun sequence
+Type: t3pks-terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2739
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	ADK60_RS25945	73	519	98.80239520958084	2.3e-145
+ctg1_27	ADK60_RS25950	39	93	34.89795918367347	6e-17
+ctg1_28	ADK60_RS25955	66	815	100.78988941548184	5e-234
+ctg1_29	ADK60_RS25960	55	317	102.38095238095238	1.3e-84
+ctg1_30	ADK60_RS25965	58	446	99.33481152993349	2.6e-123
+ctg1_31	ADK60_RS25970	53	272	98.6013986013986	5.5e-71
+ctg1_32	ADK60_RS25975	40	193	108.0	3.4e-47
+ctg1_37	ADK60_RS25920	35	84	74.70355731225297	2.5e-14
+
+
+
+>>
+33. NZ_LT629775
+Source: Streptomyces sp. TLI_053 genome assembly, chromosome: I
+Type: t3pks-terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2737
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	BLU95_RS08570	73	518	98.80239520958084	6.7e-145
+ctg1_27	BLU95_RS08575	40	100	34.89795918367347	6.4e-19
+ctg1_28	BLU95_RS08580	67	816	97.94628751974723	2.3e-234
+ctg1_29	BLU95_RS08585	55	319	102.38095238095238	3.5e-85
+ctg1_30	BLU95_RS08590	57	443	99.33481152993349	2.8e-122
+ctg1_31	BLU95_RS08595	53	272	98.95104895104895	5.5e-71
+ctg1_32	BLU95_RS08600	38	184	112.00000000000001	2.1e-44
+ctg1_37	BLU95_RS08545	36	85	74.70355731225297	1.1e-14
+
+
+
+>>
+34. NZ_JOHN01000018
+Source: Streptomyces sp. NRRL F-6131 contig18.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2735
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF39_RS46185	IF39_RS46185	90934	91362	+	MarR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	IF39_RS0115355	73	517	98.80239520958084	1.1e-144
+ctg1_27	IF39_RS0115350	40	99	34.89795918367347	8.4e-19
+ctg1_28	IF39_RS0115345	67	815	97.94628751974723	3.9e-234
+ctg1_29	IF39_RS0115340	55	320	102.38095238095238	2.7e-85
+ctg1_30	IF39_RS0115335	58	441	98.89135254988913	8.3e-122
+ctg1_31	IF39_RS0115330	54	276	98.95104895104895	3.8e-72
+ctg1_32	IF39_RS0115325	38	181	107.66666666666667	1e-43
+ctg1_37	IF39_RS0115385	37	86	74.70355731225297	6.5e-15
+
+
+
+>>
+35. NZ_JNWR01000009
+Source: Kitasatospora aureofaciens strain NRRL B-1286 contig9.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2734
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	OP17_RS10125	74	519	99.10179640718563	3e-145
+ctg1_27	OP17_RS10120	43	113	38.36734693877551	9.6e-23
+ctg1_28	OP17_RS10115	65	812	100.15797788309638	2.5e-233
+ctg1_29	OP17_RS10110	55	316	102.38095238095238	3.9e-84
+ctg1_30	OP17_RS10105	56	422	98.66962305986696	6.8e-116
+ctg1_31	OP17_RS10100	54	279	98.95104895104895	3.4e-73
+ctg1_32	OP17_RS10095	42	191	97.0	9.9e-47
+ctg1_37	OP17_RS10155	32	82	85.7707509881423	9.3e-14
+
+
+
+>>
+36. NZ_CP020567
+Source: Kitasatospora aureofaciens strain DM-1 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2734
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	B6264_RS00535	74	518	99.10179640718563	6.7e-145
+ctg1_27	B6264_RS00540	43	114	38.36734693877551	4.3e-23
+ctg1_28	B6264_RS00545	65	813	100.15797788309638	1.5e-233
+ctg1_29	B6264_RS00550	55	316	100.89285714285714	5.1e-84
+ctg1_30	B6264_RS00555	56	422	98.66962305986696	6.8e-116
+ctg1_31	B6264_RS00560	54	279	98.95104895104895	4.5e-73
+ctg1_32	B6264_RS00565	42	191	97.0	9.9e-47
+ctg1_37	B6264_RS00505	32	81	85.7707509881423	1.6e-13
+
+
+
+>>
+37. NZ_JOGG01000008
+Source: Streptomyces sp. NRRL B-5680 contig8.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2734
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	IF25_RS0108545	74	518	99.10179640718563	6.7e-145
+ctg1_27	IF25_RS0108540	43	114	38.36734693877551	4.3e-23
+ctg1_28	IF25_RS0108535	65	813	100.15797788309638	1.5e-233
+ctg1_29	IF25_RS0108530	55	316	100.89285714285714	5.1e-84
+ctg1_30	IF25_RS0108525	56	422	98.66962305986696	6.8e-116
+ctg1_31	IF25_RS0108520	54	279	98.95104895104895	4.5e-73
+ctg1_32	IF25_RS0108515	42	191	97.0	9.9e-47
+ctg1_37	IF25_RS0108575	32	81	85.7707509881423	1.6e-13
+
+
+
+>>
+38. NZ_JPRF03000013
+Source: Kitasatospora aureofaciens strain ATCC 10762 contig_12, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2734
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	HS99_RS06305	74	518	99.10179640718563	6.7e-145
+ctg1_27	HS99_RS06310	43	114	38.36734693877551	4.3e-23
+ctg1_28	HS99_RS06315	65	813	100.15797788309638	1.5e-233
+ctg1_29	HS99_RS06320	55	316	100.89285714285714	5.1e-84
+ctg1_30	HS99_RS06325	56	422	98.66962305986696	6.8e-116
+ctg1_31	HS99_RS06330	54	279	98.95104895104895	4.5e-73
+ctg1_32	HS99_RS06335	42	191	97.0	9.9e-47
+ctg1_37	HS99_RS06275	32	81	85.7707509881423	1.6e-13
+
+
+
+>>
+39. NZ_JOAY01000025
+Source: Streptomyces pyridomyceticus strain NRRL ISP-5024 contig25.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2734
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	IF05_RS0115715	73	515	99.10179640718563	3.3e-144
+ctg1_27	IF05_RS0115710	44	106	34.48979591836735	6.9e-21
+ctg1_28	IF05_RS0115705	65	807	101.10584518167455	8.1e-232
+ctg1_29	IF05_RS0115700	54	319	102.38095238095238	6e-85
+ctg1_30	IF05_RS0115695	56	432	98.66962305986696	6.6e-119
+ctg1_31	IF05_RS0115690	54	278	98.95104895104895	1e-72
+ctg1_32	IF05_RS0115685	42	198	100.0	1.4e-48
+ctg1_37	IF05_RS0115745	34	79	74.70355731225297	4.6e-13
+
+
+
+>>
+40. NZ_JODS01000002
+Source: Kitasatospora purpeofusca strain NRRL B-1817 contig2.1, whole genome shotgun sequence
+Type: t3pks-terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2732
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF01_RS47370	IF01_RS47370	620587	621015	+	MarR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	IF01_RS0105770	73	517	98.80239520958084	1.1e-144
+ctg1_27	IF01_RS0105765	40	98	34.89795918367347	1.9e-18
+ctg1_28	IF01_RS0105760	66	813	100.78988941548184	1.5e-233
+ctg1_29	IF01_RS0105755	55	319	102.38095238095238	4.6e-85
+ctg1_30	IF01_RS0105750	57	443	99.33481152993349	3.7e-122
+ctg1_31	IF01_RS0105740	53	272	98.95104895104895	5.5e-71
+ctg1_32	IF01_RS0105735	39	186	109.00000000000001	3.2e-45
+ctg1_37	IF01_RS0105795	35	84	74.70355731225297	2.5e-14
+
+
+
+>>
+41. NZ_JOCF01000029
+Source: Streptomyces sp. NRRL WC-3742 contig29.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2730
+
+Table of genes, locations, strands and annotations of subject cluster:
+IH61_RS44595	IH61_RS44595	34027	34464	+	MarR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	IH61_RS0117495	74	522	99.10179640718563	4.7e-146
+ctg1_27	IH61_RS0117490	43	99	34.48979591836735	8.4e-19
+ctg1_28	IH61_RS0117485	65	806	99.52606635071089	2.3e-231
+ctg1_29	IH61_RS0117480	55	319	102.38095238095238	3.5e-85
+ctg1_30	IH61_RS0117475	56	418	99.1130820399113	9.8e-115
+ctg1_31	IH61_RS0117470	54	282	98.95104895104895	4.1e-74
+ctg1_32	IH61_RS0117465	42	198	105.33333333333333	8.1e-49
+ctg1_37	IH61_RS0117525	35	86	74.70355731225297	5e-15
+
+
+
+>>
+42. NZ_LWLA01000017
+Source: Streptomyces sp. CB03911 scaffold24, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2707
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	A6A07_RS21050	72	507	99.10179640718563	1.6e-141
+ctg1_27	A6A07_RS21045	39	100	36.53061224489796	4.9e-19
+ctg1_28	A6A07_RS21040	65	808	100.63191153238546	6.2e-232
+ctg1_29	A6A07_RS21035	55	292	93.45238095238095	4.6e-77
+ctg1_30	A6A07_RS21030	57	436	98.4478935698448	4.5e-120
+ctg1_31	A6A07_RS21025	55	286	98.95104895104895	3.7e-75
+ctg1_32	A6A07_RS21020	41	194	100.66666666666666	1.5e-47
+ctg1_37	A6A07_RS21090	37	84	74.70355731225297	1.9e-14
+
+
+
+>>
+43. NZ_LIPD01000009
+Source: Streptomyces sp. CB02056 scaffold9, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2689
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMK13_RS42150	AMK13_RS42150	606632	606736	-	PspC_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	AMK13_RS26675	73	512	99.10179640718563	4.8e-143
+ctg1_27	AMK13_RS26670	43	104	34.89795918367347	4.4e-20
+ctg1_28	AMK13_RS26665	64	807	101.10584518167455	8.1e-232
+ctg1_29	AMK13_RS26660	55	319	102.38095238095238	6e-85
+ctg1_30	AMK13_RS26655	54	393	98.66962305986696	3.4e-107
+ctg1_31	AMK13_RS26650	54	280	98.95104895104895	2.6e-73
+ctg1_32	AMK13_RS26645	41	192	102.33333333333334	7.6e-47
+ctg1_37	AMK13_RS26705	35	82	74.70355731225297	7.1e-14
+
+
+
+>>
+44. NZ_MKJX01000088
+Source: Pseudonocardia sp. CNS-139 NODE_17_length_92898_cov_139.034_ID_63, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 2493
+
+Table of genes, locations, strands and annotations of subject cluster:
+BJF78_RS08560	BJF78_RS08560	5116	6088	+	aldo/keto_reductase
+BJF78_RS08565	BJF78_RS08565	6092	6839	-	short-chain_dehydrogenase
+BJF78_RS38125	BJF78_RS38125	9765	10430	-	hypothetical_protein
+BJF78_RS08605	BJF78_RS08605	11466	12127	-	hypothetical_protein
+BJF78_RS08610	BJF78_RS08610	12275	13277	-	hopanoid_biosynthesis_associated_radical_SAM_protein_HpnH
+BJF78_RS08615	BJF78_RS08615	13281	14683	-	4-hydroxy-3-methylbut-2-enyl_diphosphate_reductase
+BJF78_RS08620	BJF78_RS08620	14770	16540	-	squalene--hopene_cyclase
+BJF78_RS08630	BJF78_RS08630	17745	19177	-	phytoene_dehydrogenase
+BJF78_RS38135	BJF78_RS38135	21203	22406	+	transcriptional_regulator
+BJF78_RS08660	BJF78_RS08660	22421	23253	-	NADPH-dependent_oxidoreductase
+BJF78_RS38140	BJF78_RS38140	28072	30352	-	ATP-dependent_Clp_protease_ATP-binding_subunit
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	BJF78_RS08610	65	71	15.269461077844312	1.7e-10
+ctg1_27	BJF78_RS08615	71	508	80.61224489795919	7.8e-142
+ctg1_28	BJF78_RS08620	76	512	49.92101105845181	5.4e-143
+ctg1_29	BJF78_RS08625	66	397	97.61904761904762	1.3e-108
+ctg1_30	BJF78_RS08630	67	290	54.1019955654102	2.4e-76
+ctg1_31	BJF78_RS38130	64	362	102.44755244755244	4e-98
+ctg1_32	BJF78_RS38130	58	126	38.0	3.9e-27
+ctg1_33	BJF78_RS38135	54	227	55.80246913580247	2.9e-57
+
+
+
+>>
+45. NZ_CP024894
+Source: Amycolatopsis sp. AA4 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 4555
+
+Table of genes, locations, strands and annotations of subject cluster:
+CU254_RS13880	CU254_RS13880	2944511	2944603	+	organic_hydroperoxide_resistance_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	CU254_RS13905	86	604	99.40119760479041	7.1e-171
+ctg1_27	CU254_RS13910	66	585	100.20408163265306	5e-165
+ctg1_28	CU254_RS13915	72	902	99.36808846761454	2.4e-260
+ctg1_29	CU254_RS13920	68	406	100.0	2.2e-111
+ctg1_30	CU254_RS13925	67	510	90.9090909090909	1.5e-142
+ctg1_31	CU254_RS13930	68	372	98.25174825174825	3.9e-101
+ctg1_31	CU254_RS13935	36	106	75.87412587412588	4e-21
+ctg1_32	CU254_RS13935	56	274	89.66666666666666	1.2e-71
+ctg1_32	CU254_RS13930	34	102	74.0	1e-19
+ctg1_33	CU254_RS13940	57	415	95.55555555555556	5.7e-114
+ctg1_37	CU254_RS13945	61	279	96.04743083003953	4e-73
+
+
+
+>>
+46. NZ_GG657746
+Source: Streptomyces sp. AA4 supercont1.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 4555
+
+Table of genes, locations, strands and annotations of subject cluster:
+SSMG_RS44750	SSMG_RS44750	2945761	2945853	+	organic_hydroperoxide_resistance_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	SSMG_RS13690	86	604	99.40119760479041	7.1e-171
+ctg1_27	SSMG_RS13695	66	585	100.20408163265306	5e-165
+ctg1_28	SSMG_RS13700	72	902	99.36808846761454	2.4e-260
+ctg1_29	SSMG_RS13705	68	406	100.0	2.2e-111
+ctg1_30	SSMG_RS13710	67	510	90.9090909090909	1.5e-142
+ctg1_31	SSMG_RS13715	68	372	98.25174825174825	3.9e-101
+ctg1_31	SSMG_RS13720	36	106	75.87412587412588	4e-21
+ctg1_32	SSMG_RS13720	56	274	89.66666666666666	1.2e-71
+ctg1_32	SSMG_RS13715	34	102	74.0	1e-19
+ctg1_33	SSMG_RS13725	57	415	95.55555555555556	5.7e-114
+ctg1_37	SSMG_RS13730	61	279	96.04743083003953	4e-73
+
+
+
+>>
+47. NZ_JNYZ01000007
+Source: Amycolatopsis jejuensis strain NRRL B-24427 contig7.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 4518
+
+Table of genes, locations, strands and annotations of subject cluster:
+OO71_RS11030	OO71_RS11030	213271	213894	-	TetR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	OO71_RS11015	86	604	99.40119760479041	9.3e-171
+ctg1_27	OO71_RS11010	65	572	99.18367346938776	5.8e-161
+ctg1_28	OO71_RS11005	71	890	99.68404423380727	1.2e-256
+ctg1_29	OO71_RS11000	68	415	99.70238095238095	6.2e-114
+ctg1_30	OO71_RS10995	66	502	90.02217294900223	4e-140
+ctg1_31	OO71_RS10990	68	374	98.25174825174825	7.9e-102
+ctg1_31	OO71_RS10985	37	104	81.81818181818183	1.5e-20
+ctg1_32	OO71_RS10985	56	274	89.66666666666666	1.2e-71
+ctg1_32	OO71_RS10990	33	103	74.0	3.6e-20
+ctg1_33	OO71_RS10980	55	404	96.29629629629629	1e-110
+ctg1_37	OO71_RS10975	61	276	96.04743083003953	2.6e-72
+
+
+
+>>
+48. NZ_JIAI01000003
+Source: Pseudonocardia acaciae DSM 45401 N912DRAFT_scaffold00003.3_C, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 4415
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	N912_RS0119650	82	589	99.7005988023952	2.4e-166
+ctg1_27	N912_RS0119645	62	551	100.81632653061226	1.1e-154
+ctg1_28	N912_RS0119640	73	925	100.63191153238546	2.7e-267
+ctg1_29	N912_RS0119635	66	411	100.89285714285714	1.2e-112
+ctg1_30	N912_RS0119630	65	512	96.67405764966742	3.8e-143
+ctg1_31	N912_RS0119625	68	372	99.3006993006993	5.1e-101
+ctg1_31	N912_RS53170	32	102	87.76223776223776	5.8e-20
+ctg1_32	N912_RS53170	57	287	92.33333333333333	1.3e-75
+ctg1_32	N912_RS0119625	35	89	64.66666666666666	5.3e-16
+ctg1_33	N912_RS53165	54	386	102.22222222222221	4.8e-105
+ctg1_37	N912_RS0119600	48	191	98.81422924901186	8.4e-47
+
+
+
+>>
+49. NZ_KB903246
+Source: Actinomycetospora chiangmaiensis DSM 45062 A3CODRAFT_scaffold_7.8, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3869
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	A3CO_RS0126275	78	561	99.40119760479041	6.9e-158
+ctg1_27	A3CO_RS0126270	58	499	105.10204081632652	4.7e-139
+ctg1_28	A3CO_RS0126265	68	827	100.0	9.8e-238
+ctg1_29	A3CO_RS0126260	60	350	100.59523809523809	1.9e-94
+ctg1_30	A3CO_RS35085	56	415	96.67405764966742	1.1e-113
+ctg1_31	A3CO_RS0126250	60	328	106.2937062937063	8.5e-88
+ctg1_31	A3CO_RS34420	35	74	56.64335664335665	2.2e-11
+ctg1_32	A3CO_RS34420	47	205	96.66666666666667	8.7e-51
+ctg1_32	A3CO_RS0126250	35	81	66.33333333333333	2.5e-13
+ctg1_33	A3CO_RS0126240	51	348	94.5679012345679	8.6e-94
+ctg1_37	A3CO_RS0126300	53	181	94.86166007905138	1.1e-43
+
+
+
+>>
+50. NZ_FMHY01000002
+Source: Micromonospora eburnea strain DSM 44814, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3699
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg1_26	GA0070604_RS13480	70	503	98.80239520958084	1.7e-140
+ctg1_27	GA0070604_RS13475	56	487	101.83673469387755	1.9e-135
+ctg1_28	GA0070604_RS13470	68	814	96.99842022116904	6.6e-234
+ctg1_29	GA0070604_RS13465	56	326	98.21428571428571	3.8e-87
+ctg1_30	GA0070604_RS13460	51	371	95.78713968957871	1.1e-100
+ctg1_31	GA0070604_RS13455	59	314	100.34965034965036	9.7e-84
+ctg1_31	GA0070604_RS13450	36	126	97.55244755244755	6.4e-27
+ctg1_32	GA0070604_RS13450	49	227	93.33333333333333	1.6e-57
+ctg1_32	GA0070604_RS13455	37	96	77.33333333333333	5.7e-18
+ctg1_34	GA0070604_RS13490	31	164	65.6441717791411	4.8e-38
+ctg1_37	GA0070604_RS13485	62	271	98.81422924901186	8.3e-71
+

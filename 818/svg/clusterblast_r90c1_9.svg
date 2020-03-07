@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="118,35 123,30 169,30 169,40 123,40 118,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_1&lt;/b&gt;&lt;br&gt;ctg90 1&lt;br&gt;Location: 2 - 1100" locus_tag="ctg90_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="170,35 175,30 224,30 224,40 175,40 170,35 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_2&lt;/b&gt;&lt;br&gt;ctg90 2&lt;br&gt;Location: 1119 - 2289" locus_tag="ctg90_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="242,40 258,40 263,35 258,30 242,30 242,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_3&lt;/b&gt;&lt;br&gt;ctg90 3&lt;br&gt;Location: 2680 - 3148" locus_tag="ctg90_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="263,35 268,30 331,30 331,40 268,40 263,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_4&lt;/b&gt;&lt;br&gt;ctg90 4&lt;br&gt;Location: 3138 - 4605" locus_tag="ctg90_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="331,35 336,30 371,30 371,40 336,40 331,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_5&lt;/b&gt;&lt;br&gt;ctg90 5&lt;br&gt;Location: 4609 - 5473" locus_tag="ctg90_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="376,35 381,30 434,30 434,40 381,40 376,35 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_6&lt;/b&gt;&lt;br&gt;ctg90 6&lt;br&gt;Location: 5583 - 6834" locus_tag="ctg90_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="436,35 441,30 445,30 445,40 441,40 436,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_7&lt;/b&gt;&lt;br&gt;ctg90 7&lt;br&gt;Location: 6874 - 7057" locus_tag="ctg90_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="442,35 447,30 461,30 461,40 447,40 442,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_8&lt;/b&gt;&lt;br&gt;ctg90 8&lt;br&gt;Location: 6996 - 7407" locus_tag="ctg90_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="496,40 520,40 525,35 520,30 496,30 496,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_9&lt;/b&gt;&lt;br&gt;ctg90 9&lt;br&gt;Location: 8172 - 8793" locus_tag="ctg90_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="524,40 537,40 542,35 537,30 524,30 524,40 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_10&lt;/b&gt;&lt;br&gt;ctg90 10&lt;br&gt;Location: 8767 - 9154" locus_tag="ctg90_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+<polygon points="541,40 556,40 561,35 556,30 541,30 541,40 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_11&lt;/b&gt;&lt;br&gt;ctg90 11&lt;br&gt;Location: 9150 - 9564" locus_tag="ctg90_11" class="clusterblast-orf" id="dummy-1_q10_0_all"  />
+<polygon points="563,35 568,30 596,30 596,40 568,40 563,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_12&lt;/b&gt;&lt;br&gt;ctg90 12&lt;br&gt;Location: 9610 - 10336" locus_tag="ctg90_12" class="clusterblast-orf" id="dummy-1_q11_0_all"  />
+<polygon points="596,35 601,30 662,30 662,40 601,40 596,35 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_13&lt;/b&gt;&lt;br&gt;ctg90 13&lt;br&gt;Location: 10332 - 11754" locus_tag="ctg90_13" class="clusterblast-orf" id="dummy-1_q12_0_all"  />
+</g>
+<g label="NZ_LWLC01000003" description="NZ_LWLC01000003_c3: Saccharothrix sp. CB00851 scaffold11, whole genome shotgu... (18% of genes show similarity), indole" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LWLC01000003/3" target="_blank">NZ_LWLC01000003_c3</a>: Saccharothrix sp. CB00851 scaffold11, whole genome shotgu... (18% of genes show similarity), indole</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 38,90 43,85 38,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS06040&lt;/b&gt;&lt;br&gt;superoxide dismutase&lt;br&gt;Location: 157262 - 156333" locus_tag="A6A25_RS06040" class="clusterblast-orf" id="dummy-1_h1_9_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="52,90 161,90 166,85 161,80 52,80 52,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS06035&lt;/b&gt;&lt;br&gt;HAMP domain-containing protein&lt;br&gt;Location: 156120 - 153673" locus_tag="A6A25_RS06035" class="clusterblast-orf" id="dummy-1_h1_9_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="168,90 183,90 188,85 183,80 168,80 168,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS06030&lt;/b&gt;&lt;br&gt;dynein regulation protein LC7&lt;br&gt;Location: 153628 - 153191" locus_tag="A6A25_RS06030" class="clusterblast-orf" id="dummy-1_h1_9_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="188,90 200,90 205,85 200,80 188,80 188,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS06025&lt;/b&gt;&lt;br&gt;DUF742 domain-containing protein&lt;br&gt;Location: 153191 - 152820" locus_tag="A6A25_RS06025" class="clusterblast-orf" id="dummy-1_h1_9_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="204,90 227,90 232,85 227,80 204,80 204,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS06020&lt;/b&gt;&lt;br&gt;ATP/GTP-binding protein&lt;br&gt;Location: 152839 - 152246" locus_tag="A6A25_RS06020" class="clusterblast-orf" id="dummy-1_h1_9_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="234,85 239,80 297,80 297,90 239,90 234,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS06015&lt;/b&gt;&lt;br&gt;tyrosine phenol-lyase&lt;br&gt;Location: 152200 - 150833&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_1&lt;/b&gt;&lt;br&gt;Percentage identity: 66&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 474&lt;br&gt;E-value: 1.2e-131" locus_tag="A6A25_RS06015" class="clusterblast-orf" id="dummy-1_h1_9_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="298,85 303,80 346,80 346,90 303,90 298,85 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS06010&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 150817 - 149789&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_2&lt;/b&gt;&lt;br&gt;Percentage identity: 44&lt;br&gt;Percentage coverage: 87&lt;br&gt;BLAST bit score: 281&lt;br&gt;E-value: 1.6e-73" locus_tag="A6A25_RS06010" class="clusterblast-orf" id="dummy-1_h1_9_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="369,85 374,80 409,80 409,90 374,90 369,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS06005&lt;/b&gt;&lt;br&gt;3-hydroxybutyryl-CoA dehydrogenase&lt;br&gt;Location: 149287 - 148424" locus_tag="A6A25_RS06005" class="clusterblast-orf" id="dummy-1_h1_9_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="414,90 457,90 462,85 457,80 414,80 414,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS06000&lt;/b&gt;&lt;br&gt;alkaline D-peptidase&lt;br&gt;Location: 148305 - 147271" locus_tag="A6A25_RS06000" class="clusterblast-orf" id="dummy-1_h1_9_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="465,85 470,80 486,80 486,90 470,90 465,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS05995&lt;/b&gt;&lt;br&gt;CAP domain-containing protein&lt;br&gt;Location: 147215 - 146754" locus_tag="A6A25_RS05995" class="clusterblast-orf" id="dummy-1_h1_9_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="493,90 512,90 517,85 512,80 493,80 493,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS05990&lt;/b&gt;&lt;br&gt;E family RNA polymerase sigma-70 factor&lt;br&gt;Location: 146609 - 146094" locus_tag="A6A25_RS05990" class="clusterblast-orf" id="dummy-1_h1_9_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="517,90 542,90 547,85 542,80 517,80 517,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS05985&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 146097 - 145447" locus_tag="A6A25_RS05985" class="clusterblast-orf" id="dummy-1_h1_9_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="549,85 554,80 614,80 614,90 554,90 549,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS05980&lt;/b&gt;&lt;br&gt;ethanolamine permease&lt;br&gt;Location: 145401 - 143986" locus_tag="A6A25_RS05980" class="clusterblast-orf" id="dummy-1_h1_9_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="623,90 680,90 685,85 680,80 623,80 623,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS05975&lt;/b&gt;&lt;br&gt;glutamine synthetase&lt;br&gt;Location: 143807 - 142467" locus_tag="A6A25_RS05975" class="clusterblast-orf" id="dummy-1_h1_9_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="684,90 712,90 717,85 712,80 684,80 684,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS05970&lt;/b&gt;&lt;br&gt;gamma-glutamyl-gamma-aminobutyrate hydrolase family protein&lt;br&gt;Location: 142486 - 141776" locus_tag="A6A25_RS05970" class="clusterblast-orf" id="dummy-1_h1_9_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="717,90 775,90 780,85 775,80 717,80 717,90 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A25_RS05965&lt;/b&gt;&lt;br&gt;aldehyde dehydrogenase&lt;br&gt;Location: 141779 - 140421&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_13&lt;/b&gt;&lt;br&gt;Percentage identity: 35&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 235&lt;br&gt;E-value: 9.4e-60" locus_tag="A6A25_RS05965" class="clusterblast-orf" id="dummy-1_h1_9_15"  />
+</g>
+</svg>

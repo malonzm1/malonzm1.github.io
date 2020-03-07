@@ -1,0 +1,974 @@
+ClusterBlast scores for c00068_NODE_68..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg68_3	1428	1599	-		
+ctg68_4	2015	4208	-		
+ctg68_5	4204	5329	-		
+ctg68_6	5328	5637	-		
+ctg68_7	5623	5878	-		
+ctg68_8	5877	6321	-		
+ctg68_9	6320	6608	-		
+ctg68_10	6747	7104	+		
+ctg68_11	7161	7422	+		
+ctg68_12	7466	8609	+		
+ctg68_13	8594	9296	-		
+ctg68_14	9343	10384	+		
+ctg68_15	10516	10708	+		
+ctg68_16	10633	11551	-		
+ctg68_17	11572	11800	+		
+ctg68_18	11796	11991	+		
+ctg68_19	12546	12792	+		
+ctg68_20	12788	12974	-		
+ctg68_21	13157	13622	-		
+ctg68_22	13709	14369	+		
+ctg68_23	14434	14860	+		
+ctg68_24	14985	15846	+		
+ctg68_25	15892	16660	-		
+ctg68_26	16703	17762	+		
+ctg68_27	17719	20455	-		
+ctg68_28	20646	21807	+		
+ctg68_29	21877	23023	+		
+ctg68_30	23032	23809	+		
+ctg68_31	23805	24678	-		
+ctg68_32	24766	25333	+		
+ctg68_33	25417	26599	+		
+ctg68_34	26775	27492	+		
+ctg68_35	27526	28924	-		
+ctg68_36	29186	30044	+		
+ctg68_37	30080	30926	+		
+ctg68_38	31092	31260	-		
+ctg68_39	31256	31700	-		
+ctg68_40	31875	32127	+		
+ctg68_41	32224	32830	-		
+ctg68_42	32930	33749	+		
+ctg68_43	33726	35223	+		
+ctg68_44	35301	36537	+		
+ctg68_45	36552	38403	+		
+ctg68_46	38751	40503	+		
+
+
+Significant hits: 
+1. NZ_AFWY03000010	Amycolatopsis sp. ATCC 39116 strain 75iv2 Amy_contig00090.10_C, whole genome shotgun sequence
+2. NZ_KI421511	Amycolatopsis thermoflava N1165 AmythDRAFT_Scaffold1.2, whole genome shotgun sequence
+3. NZ_FORP01000008	Amycolatopsis sacchari strain DSM 44468, whole genome shotgun sequence
+4. NZ_FOKG01000001	Amycolatopsis marina strain CGMCC 4.3568, whole genome shotgun sequence
+5. NC_013159	Saccharomonospora viridis DSM 43017, complete genome
+6. NZ_BBOJ01000003	Lechevalieria aerocolonigenes strain NBRC 13195, whole genome shotgun sequence
+7. NC_009142	Saccharopolyspora erythraea NRRL2338 complete genome
+8. NZ_AOHO01000074	Amycolatopsis decaplanina DSM 44594 Contig0074, whole genome shotgun sequence
+9. NZ_CP016174	Amycolatopsis orientalis strain B-37, complete genome
+10. NZ_JPLW01000007	Amycolatopsis sp. MJM2582 contig00007, whole genome shotgun sequence
+11. NZ_ASJB01000046	Amycolatopsis orientalis DSM 40040 = KCTC 9412 contig_26, whole genome shotgun sequence
+12. NZ_LIWC01000005	Amycolatopsis sp. CB00013 scaffold5, whole genome shotgun sequence
+13. NZ_FNTA01000004	Amycolatopsis lurida strain DSM 43134, whole genome shotgun sequence
+14. NZ_CP008953	Amycolatopsis japonica strain MG417-CF17, complete genome
+15. NC_021252	Amycolatopsis orientalis HCCB10007, complete genome
+16. NZ_FOPQ01000005	Amycolatopsis regifaucium strain DSM 45072, whole genome shotgun sequence
+17. NZ_LT629789	Amycolatopsis keratiniphila strain FH 1893 genome assembly, chromosome: I
+18. NZ_LQMT02000030	Amycolatopsis keratiniphila subsp. keratiniphila strain DSM 44409 contig_30, whole genome shotgun sequence
+19. NZ_CP017780	Amycolatopsis sp. BJA-103 chromosome, complete genome
+20. NZ_BDBU01000027	Nocardia jejuensis NBRC 103114, whole genome shotgun sequence
+21. NZ_MQUQ01000006	Amycolatopsis coloradensis strain DSM 44225 contig_6, whole genome shotgun sequence
+22. NZ_JXYP01000035	Williamsia herbipolensis strain ARP1 contig20, whole genome shotgun sequence
+23. NZ_LMPL01000001	Williamsia sp. Leaf354 contig_1, whole genome shotgun sequence
+24. NZ_LMPL01000001	Williamsia sp. Leaf354 contig_1, whole genome shotgun sequence
+25. NZ_CP015220	Rhodococcus sp. PBTS2, complete genome
+26. NZ_LFDS01000006	Rhodococcus fascians strain F7 contig00006, whole genome shotgun sequence
+27. NZ_JXYP01000038	Williamsia herbipolensis strain ARP1 contig8, whole genome shotgun sequence
+28. NZ_JMER01000005	Rhodococcus fascians GIC36 contig6, whole genome shotgun sequence
+29. NZ_JMES01000045	Rhodococcus fascians GIC26 contig87, whole genome shotgun sequence
+30. NZ_CDME01000002	Kibdelosporangium sp. MJ126-NF4, whole genome shotgun sequence
+31. NZ_BDBG01000018	Nocardia cummidelens NBRC 100378, whole genome shotgun sequence
+32. NZ_LMFE01000014	Nocardia sp. Root136 contig_9, whole genome shotgun sequence
+33. NZ_BDBR01000013	Nocardia salmonicida NBRC 13393, whole genome shotgun sequence
+34. NZ_FOTX01000010	Nocardia asteroides strain DSM 43373, whole genome shotgun sequence
+35. NZ_BAGK01000091	Nocardia thailandica NBRC 100428, whole genome shotgun sequence
+36. NZ_BDAX01000029	Nocardia alba NBRC 108234, whole genome shotgun sequence
+37. NZ_BBOJ01000005	Lechevalieria aerocolonigenes strain NBRC 13195, whole genome shotgun sequence
+38. NZ_CM001439	Saccharomonospora marina XMU15 chromosome, whole genome shotgun sequence
+39. NZ_ARVW01000001	Amycolatopsis nigrescens CSC17Ta-90 AmyniDRAFT_Contig68.1_C, whole genome shotgun sequence
+40. NZ_CM001484	Saccharomonospora glauca K62 chromosome, whole genome shotgun sequence
+41. NZ_JYJG01000109	Lechevalieria aerocolonigenes strain NRRL B-16140 contig23.9, whole genome shotgun sequence
+42. NZ_CM001466	Saccharomonospora azurea NA-128 chromosome, whole genome shotgun sequence
+43. NZ_CM001440	Saccharomonospora cyanea NA-134 chromosome, whole genome shotgun sequence
+44. NZ_AZUM01000002	Saccharomonospora sp. CNQ490 B126DRAFT_scaffold_1.2_C, whole genome shotgun sequence
+45. NZ_MSIF01000001	Actinophytocola xinjiangensis strain CGMCC 4.4663 contig1, whole genome shotgun sequence
+46. NZ_JH636049	Saccharomonospora xinjiangensis XJ-54 Sacxiscaffold_2, whole genome shotgun sequence
+47. NZ_FOYL01000012	Lentzea waywayandensis strain DSM 44232, whole genome shotgun sequence
+48. NZ_CP016353	Prauserella marina strain DSM 45268 chromosome, complete genome
+49. NZ_FMZE01000006	Prauserella marina strain CGMCC 4.5506, whole genome shotgun sequence
+50. NZ_FOFV01000007	Lentzea albida strain DSM 44437, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_AFWY03000010
+Source: Amycolatopsis sp. ATCC 39116 strain 75iv2 Amy_contig00090.10_C, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 20
+Cumulative BLAST score: 12348
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMY39116_RS0313890	AMY39116_RS0313890	1	1272	-	DNA_polymerase_III_subunit_gamma_and_tau
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_23	AMY39116_RS0314015	76	230	99.29078014184397	1.5e-58
+ctg68_25	AMY39116_RS0314000	86	466	100.0	2.3e-129
+ctg68_26	AMY39116_RS0313995	90	640	100.0	9.5e-182
+ctg68_27	AMY39116_RS0313990	92	1646	99.89023051591658	0.0
+ctg68_28	AMY39116_RS0313985	92	724	98.70466321243524	5.5e-207
+ctg68_29	AMY39116_RS0313980	94	720	98.16272965879264	7.8e-206
+ctg68_30	AMY39116_RS0313975	95	472	100.0	4.3e-131
+ctg68_33	AMY39116_RS0313960	94	761	100.0	5.4e-218
+ctg68_34	AMY39116_RS0313955	77	372	100.0	4.2e-101
+ctg68_35	AMY39116_RS0313950	96	898	100.0	4.3e-259
+ctg68_36	AMY39116_RS0313945	95	554	100.0	7.2e-156
+ctg68_37	AMY39116_RS0313940	82	448	93.23843416370107	5.5e-124
+ctg68_39	AMY39116_RS44700	82	246	95.91836734693877	2.2e-63
+ctg68_40	AMY39116_RS0313925	89	159	100.0	2e-37
+ctg68_41	AMY39116_RS0313920	78	181	82.08955223880598	9e-44
+ctg68_42	AMY39116_RS0313915	97	468	91.54411764705883	3.8e-130
+ctg68_43	AMY39116_RS0313910	92	882	100.0	2e-254
+ctg68_44	AMY39116_RS0313905	91	725	100.0	3.4e-207
+ctg68_45	AMY39116_RS0313900	85	972	100.16233766233766	3.1e-281
+ctg68_46	AMY39116_RS0313890	95	784	73.28767123287672	8.8e-225
+
+
+
+>>
+2. NZ_KI421511
+Source: Amycolatopsis thermoflava N1165 AmythDRAFT_Scaffold1.2, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 20
+Cumulative BLAST score: 12514
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMYTH_RS46015	AMYTH_RS46015	6256021	6256846	-	hypothetical_protein
+AMYTH_RS46025	AMYTH_RS46025	6264442	6264783	-	TetR_family_transcriptional_regulator
+AMYTH_RS46030	AMYTH_RS46030	6264898	6265362	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_23	AMYTH_RS0130975	76	230	99.29078014184397	1.5e-58
+ctg68_25	AMYTH_RS0130990	85	463	100.0	2e-128
+ctg68_26	AMYTH_RS46035	90	637	100.0	8e-181
+ctg68_27	AMYTH_RS0131000	92	1651	99.89023051591658	0.0
+ctg68_28	AMYTH_RS0131005	93	730	98.70466321243524	7.6e-209
+ctg68_29	AMYTH_RS0131010	95	721	98.16272965879264	4.6e-206
+ctg68_30	AMYTH_RS0131015	95	472	100.0	4.3e-131
+ctg68_33	AMYTH_RS0131030	94	761	100.0	5.4e-218
+ctg68_34	AMYTH_RS0131035	77	374	100.0	8.6e-102
+ctg68_35	AMYTH_RS0131040	96	901	100.0	3.9e-260
+ctg68_36	AMYTH_RS0131045	95	555	100.0	3.2e-156
+ctg68_37	AMYTH_RS0131050	81	462	96.79715302491103	3.7e-128
+ctg68_39	AMYTH_RS47240	84	250	95.91836734693877	1.2e-64
+ctg68_40	AMYTH_RS0131065	90	158	98.79518072289156	4.4e-37
+ctg68_41	AMYTH_RS0131070	77	179	82.08955223880598	4.5e-43
+ctg68_42	AMYTH_RS0131075	96	468	91.54411764705883	6.5e-130
+ctg68_43	AMYTH_RS0131080	92	880	100.60240963855422	1e-253
+ctg68_44	AMYTH_RS0131085	92	732	100.0	2.1e-209
+ctg68_45	AMYTH_RS0131090	86	985	100.48701298701299	2.1e-285
+ctg68_46	AMYTH_RS0131100	88	905	101.54109589041096	3.4e-261
+
+
+
+>>
+3. NZ_FORP01000008
+Source: Amycolatopsis sacchari strain DSM 44468, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 21
+Cumulative BLAST score: 10928
+
+Table of genes, locations, strands and annotations of subject cluster:
+BMZ92_RS16425	BMZ92_RS16425	174910	175155	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_4	BMZ92_RS16320	35	341	99.31506849315068	2.5e-91
+ctg68_5	BMZ92_RS16325	66	373	101.33689839572193	2.3e-101
+ctg68_7	BMZ92_RS16340	64	101	100.0	3.8e-20
+ctg68_25	BMZ92_RS16435	68	367	98.82352941176471	1.1e-99
+ctg68_26	BMZ92_RS16440	75	487	92.04545454545455	1.8e-135
+ctg68_27	BMZ92_RS16450	74	1296	99.78046103183314	0.0
+ctg68_28	BMZ92_RS16455	82	657	100.0	8.2e-187
+ctg68_29	BMZ92_RS16465	86	658	97.9002624671916	4.8e-187
+ctg68_30	BMZ92_RS16470	89	432	99.6124031007752	2.9e-119
+ctg68_33	BMZ92_RS16475	87	706	99.74554707379136	1.6e-201
+ctg68_34	BMZ92_RS16480	74	336	99.57983193277312	2.6e-90
+ctg68_35	BMZ92_RS16485	91	857	100.0	5e-247
+ctg68_36	BMZ92_RS16490	92	529	99.64912280701755	1.9e-148
+ctg68_39	BMZ92_RS16495	60	156	85.03401360544217	2.3e-36
+ctg68_40	BMZ92_RS16500	85	150	98.79518072289156	9.2e-35
+ctg68_41	BMZ92_RS16505	63	115	83.08457711442786	7.9e-24
+ctg68_42	BMZ92_RS16510	90	437	91.17647058823529	1.2e-120
+ctg68_43	BMZ92_RS16515	72	644	97.18875502008032	1.2e-182
+ctg68_44	BMZ92_RS16520	84	663	100.0	2.1e-188
+ctg68_45	BMZ92_RS16525	71	804	100.32467532467533	1.1e-230
+ctg68_46	BMZ92_RS16535	84	819	97.77397260273972	2.5e-235
+
+
+
+>>
+4. NZ_FOKG01000001
+Source: Amycolatopsis marina strain CGMCC 4.3568, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2727
+
+Table of genes, locations, strands and annotations of subject cluster:
+BM199_RS00235	BM199_RS00235	54938	57225	-	LuxR_family_transcriptional_regulator
+BM199_RS00290	BM199_RS00290	68328	69166	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_35	BM199_RS00155	88	831	100.0	3.8e-239
+ctg68_36	BM199_RS00150	88	512	99.29824561403508	4.1e-143
+ctg68_37	BM199_RS00145	48	277	96.79715302491103	1.7e-72
+ctg68_40	BM199_RS00140	73	121	98.79518072289156	4.6e-26
+ctg68_42	BM199_RS00260	40	147	83.82352941176471	1.9e-33
+ctg68_43	BM199_RS00255	31	99	56.62650602409639	1.1e-18
+ctg68_46	BM199_RS00120	77	740	98.11643835616438	1.9e-211
+
+
+
+>>
+5. NC_013159
+Source: Saccharomonospora viridis DSM 43017, complete genome
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1812
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_23	SVIR_RS18170	66	194	98.58156028368793	7.2e-48
+ctg68_27	SVIR_RS18145	62	1074	100.10976948408343	6.3e-312
+ctg68_28	SVIR_RS18140	67	544	103.62694300518133	1e-152
+
+
+
+>>
+6. NZ_BBOJ01000003
+Source: Lechevalieria aerocolonigenes strain NBRC 13195, whole genome shotgun sequence
+Type: arylpolyene-nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1740
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_26	AOM45_RS07415	44	81	23.863636363636363	2.2e-13
+ctg68_27	AOM45_RS07680	61	1055	100.0	2.4e-306
+ctg68_28	AOM45_RS07675	77	604	99.74093264248705	1.1e-170
+
+
+
+>>
+7. NC_009142
+Source: Saccharopolyspora erythraea NRRL2338 complete genome
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1651
+
+Table of genes, locations, strands and annotations of subject cluster:
+SACE_RS14310	SACE_RS14310	3232357	3234719	-	ATP-dependent_Clp_protease_ATP-binding_subunit
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	SACE_RS14405	57	979	99.67069154774973	2.2e-283
+ctg68_28	SACE_RS14400	71	544	97.66839378238342	7.8e-153
+ctg68_34	SACE_RS14310	47	128	59.66386554621849	1.4e-27
+
+
+
+>>
+8. NZ_AOHO01000074
+Source: Amycolatopsis decaplanina DSM 44594 Contig0074, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1420
+
+Table of genes, locations, strands and annotations of subject cluster:
+H074_RS32340	H074_RS32340	515616	515804	-	hypothetical_protein
+H074_RS32395	H074_RS32395	524289	524567	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	H074_RS32290	52	749	86.2788144895719	3.7e-214
+ctg68_28	H074_RS32295	54	399	97.15025906735751	4e-109
+ctg68_33	H074_RS32310	43	272	99.74554707379136	7.6e-71
+
+
+
+>>
+9. NZ_CP016174
+Source: Amycolatopsis orientalis strain B-37, complete genome
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1420
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	SD37_RS34640	52	747	86.2788144895719	1.9e-213
+ctg68_28	SD37_RS34645	53	399	97.15025906735751	4e-109
+ctg68_33	SD37_RS34660	42	274	98.72773536895674	2e-71
+
+
+
+>>
+10. NZ_JPLW01000007
+Source: Amycolatopsis sp. MJM2582 contig00007, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1419
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	ED92_RS35145	52	748	86.05927552140506	6.4e-214
+ctg68_28	ED92_RS35140	53	398	97.92746113989638	1.2e-108
+ctg68_33	ED92_RS35125	42	273	99.74554707379136	4.4e-71
+
+
+
+>>
+11. NZ_ASJB01000046
+Source: Amycolatopsis orientalis DSM 40040 = KCTC 9412 contig_26, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1419
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	L324_RS15305	52	745	86.2788144895719	5.4e-213
+ctg68_28	L324_RS15300	53	400	97.15025906735751	2.4e-109
+ctg68_33	L324_RS15285	42	274	98.72773536895674	2e-71
+
+
+
+>>
+12. NZ_LIWC01000005
+Source: Amycolatopsis sp. CB00013 scaffold5, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1413
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	AMK34_RS32940	52	743	86.05927552140506	2.7e-212
+ctg68_28	AMK34_RS32945	53	398	97.92746113989638	6.9e-109
+ctg68_33	AMK34_RS32960	42	272	99.74554707379136	5.8e-71
+
+
+
+>>
+13. NZ_FNTA01000004
+Source: Amycolatopsis lurida strain DSM 43134, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1412
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLW75_RS17265	BLW75_RS17265	2655975	2656898	-	GTP_cyclohydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BLW75_RS17310	52	747	85.18111964873765	2.4e-213
+ctg68_28	BLW75_RS17315	53	393	97.15025906735751	3.8e-107
+ctg68_33	BLW75_RS17330	42	272	98.72773536895674	9.9e-71
+
+
+
+>>
+14. NZ_CP008953
+Source: Amycolatopsis japonica strain MG417-CF17, complete genome
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1411
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	AJAP_RS32545	52	743	86.05927552140506	2.7e-212
+ctg68_28	AJAP_RS32550	53	398	97.92746113989638	6.9e-109
+ctg68_33	AJAP_RS32565	42	270	99.74554707379136	3.8e-70
+
+
+
+>>
+15. NC_021252
+Source: Amycolatopsis orientalis HCCB10007, complete genome
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1406
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	AORI_RS47570	51	738	86.2788144895719	8.6e-211
+ctg68_28	AORI_RS47565	53	396	97.15025906735751	3.4e-108
+ctg68_33	AORI_RS47550	42	272	99.74554707379136	7.6e-71
+
+
+
+>>
+16. NZ_FOPQ01000005
+Source: Amycolatopsis regifaucium strain DSM 45072, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1405
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BM104_RS14500	52	736	86.05927552140506	3.3e-210
+ctg68_28	BM104_RS14495	53	399	97.15025906735751	5.3e-109
+ctg68_33	BM104_RS14480	42	270	98.9821882951654	2.2e-70
+
+
+
+>>
+17. NZ_LT629789
+Source: Amycolatopsis keratiniphila strain FH 1893 genome assembly, chromosome: I
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1399
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BLU53_RS22420	51	733	86.2788144895719	2.8e-209
+ctg68_28	BLU53_RS22425	54	396	97.15025906735751	2.6e-108
+ctg68_33	BLU53_RS22440	42	270	99.74554707379136	2.9e-70
+
+
+
+>>
+18. NZ_LQMT02000030
+Source: Amycolatopsis keratiniphila subsp. keratiniphila strain DSM 44409 contig_30, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1398
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	AVR91_RS28860	51	732	86.2788144895719	4.7e-209
+ctg68_28	AVR91_RS28865	54	396	97.15025906735751	2.6e-108
+ctg68_33	AVR91_RS28880	42	270	99.74554707379136	2.9e-70
+
+
+
+>>
+19. NZ_CP017780
+Source: Amycolatopsis sp. BJA-103 chromosome, complete genome
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1387
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BKN51_RS41180	51	723	86.2788144895719	2.9e-206
+ctg68_28	BKN51_RS41175	52	389	97.15025906735751	4.2e-106
+ctg68_33	BKN51_RS41160	41	275	98.72773536895674	1.2e-71
+
+
+
+>>
+20. NZ_BDBU01000027
+Source: Nocardia jejuensis NBRC 103114, whole genome shotgun sequence
+Type: t3pks-arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1379
+
+Table of genes, locations, strands and annotations of subject cluster:
+NJ1_RS22230	NJ1_RS22230	143781	144467	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	NJ1_RS22210	39	324	57.738748627881456	3e-86
+ctg68_28	NJ1_RS22215	58	449	98.18652849740933	3.4e-124
+ctg68_35	NJ1_RS22250	65	606	100.0	2e-171
+
+
+
+>>
+21. NZ_MQUQ01000006
+Source: Amycolatopsis coloradensis strain DSM 44225 contig_6, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1378
+
+Table of genes, locations, strands and annotations of subject cluster:
+BS329_RS14895	BS329_RS14895	334726	335280	+	Zeta_toxin
+BS329_RS14935	BS329_RS14935	343269	344154	+	ABC_transporter_ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BS329_RS14880	52	735	85.40065861690451	7.3e-210
+ctg68_28	BS329_RS14885	51	382	97.15025906735751	6.7e-104
+ctg68_33	BS329_RS14900	41	261	99.23664122137404	1.3e-67
+
+
+
+>>
+22. NZ_JXYP01000035
+Source: Williamsia herbipolensis strain ARP1 contig20, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1128
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	TU34_RS18325	44	561	86.7178924259056	1.9e-157
+ctg68_28	TU34_RS18320	58	447	98.18652849740933	1.3e-123
+ctg68_34	TU34_RS18375	45	120	59.66386554621849	2.2e-25
+
+
+
+>>
+23. NZ_LMPL01000001
+Source: Williamsia sp. Leaf354 contig_1, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1125
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	ASG12_RS05880	44	561	86.05927552140506	1.4e-157
+ctg68_28	ASG12_RS05885	58	444	98.18652849740933	1.4e-122
+ctg68_34	ASG12_RS05815	45	120	59.66386554621849	2.2e-25
+
+
+
+>>
+24. NZ_LMPL01000001
+Source: Williamsia sp. Leaf354 contig_1, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 974
+
+Table of genes, locations, strands and annotations of subject cluster:
+ASG12_RS03405	ASG12_RS03405	717295	717672	+	hypothetical_protein
+ASG12_RS21085	ASG12_RS21085	747252	747503	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_26	ASG12_RS03410	43	253	92.32954545454545	4.3e-65
+ctg68_27	ASG12_RS03500	34	249	58.507135016465426	1.2e-63
+ctg68_28	ASG12_RS03505	64	472	98.18652849740933	3.7e-131
+
+
+
+>>
+25. NZ_CP015220
+Source: Rhodococcus sp. PBTS2, complete genome
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 956
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	A3Q41_RS14770	42	353	58.17782656421515	6e-95
+ctg68_28	A3Q41_RS14765	67	511	99.48186528497409	9.5e-143
+ctg68_43	A3Q41_RS14695	31	92	60.6425702811245	1.8e-16
+
+
+
+>>
+26. NZ_LFDS01000006
+Source: Rhodococcus fascians strain F7 contig00006, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 956
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	ACG96_RS18440	42	353	58.17782656421515	6e-95
+ctg68_28	ACG96_RS18435	67	511	99.48186528497409	9.5e-143
+ctg68_43	ACG96_RS18365	31	92	60.6425702811245	1.8e-16
+
+
+
+>>
+27. NZ_JXYP01000038
+Source: Williamsia herbipolensis strain ARP1 contig8, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 954
+
+Table of genes, locations, strands and annotations of subject cluster:
+TU34_RS19940	TU34_RS19940	85357	86520	-	RNA_polymerase_subunit_sigma-24
+TU34_RS20105	TU34_RS20105	119000	119377	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_26	TU34_RS20100	43	253	89.20454545454545	3.3e-65
+ctg68_27	TU34_RS20010	33	241	58.397365532382	4.3e-61
+ctg68_28	TU34_RS20005	62	460	98.18652849740933	1.5e-127
+
+
+
+>>
+28. NZ_JMER01000005
+Source: Rhodococcus fascians GIC36 contig6, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 951
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BI01_RS0105485	42	353	58.17782656421515	6e-95
+ctg68_28	BI01_RS0105490	67	508	99.48186528497409	6.2e-142
+ctg68_43	BI01_RS0105560	31	90	60.6425702811245	5.2e-16
+
+
+
+>>
+29. NZ_JMES01000045
+Source: Rhodococcus fascians GIC26 contig87, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 950
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BI00_RS0122265	43	351	56.6410537870472	2.3e-94
+ctg68_28	BI00_RS0122260	67	508	99.48186528497409	4.7e-142
+ctg68_43	BI00_RS0122190	31	91	60.6425702811245	2.3e-16
+
+
+
+>>
+30. NZ_CDME01000002
+Source: Kibdelosporangium sp. MJ126-NF4, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 929
+
+Table of genes, locations, strands and annotations of subject cluster:
+BN1199_RS54490	BN1199_RS54490	2191101	2193287	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_28	BN1199_RS09845	31	116	92.2279792746114	5.2e-24
+ctg68_42	BN1199_RS09925	61	266	81.98529411764706	3.8e-69
+ctg68_43	BN1199_RS09920	36	252	101.40562248995984	1.3e-64
+ctg68_45	BN1199_RS09930	34	295	107.46753246753246	1.3e-77
+
+
+
+>>
+31. NZ_BDBG01000018
+Source: Nocardia cummidelens NBRC 100378, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 898
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_21	NC5_RS20625	51	143	82.46753246753246	2.1e-32
+ctg68_27	NC5_RS20695	39	321	57.29967069154775	4.3e-85
+ctg68_28	NC5_RS20690	57	434	98.44559585492227	1.1e-119
+
+
+
+>>
+32. NZ_LMFE01000014
+Source: Nocardia sp. Root136 contig_9, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 896
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_21	ASD42_RS32660	50	141	82.46753246753246	1e-31
+ctg68_27	ASD42_RS32730	39	321	57.29967069154775	4.3e-85
+ctg68_28	ASD42_RS32725	57	434	98.44559585492227	1.1e-119
+
+
+
+>>
+33. NZ_BDBR01000013
+Source: Nocardia salmonicida NBRC 13393, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 884
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_21	NS1_RS16355	50	140	82.46753246753246	1.8e-31
+ctg68_27	NS1_RS16280	38	311	57.29967069154775	3.4e-82
+ctg68_28	NS1_RS16285	56	433	98.44559585492227	1.9e-119
+
+
+
+>>
+34. NZ_FOTX01000010
+Source: Nocardia asteroides strain DSM 43373, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 882
+
+Table of genes, locations, strands and annotations of subject cluster:
+BM168_RS32245	BM168_RS32245	106068	106304	+	hypothetical_protein
+BM168_RS28490	BM168_RS28490	135114	135527	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_21	BM168_RS28490	50	117	78.57142857142857	1.6e-24
+ctg68_27	BM168_RS28425	40	321	57.0801317233809	3.3e-85
+ctg68_28	BM168_RS28430	59	444	98.44559585492227	1.4e-122
+
+
+
+>>
+35. NZ_BAGK01000091
+Source: Nocardia thailandica NBRC 100428, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 881
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_26	ON36_RS09405	37	162	88.92045454545455	7.6e-38
+ctg68_27	ON36_RS09435	39	318	56.97036223929748	2.8e-84
+ctg68_28	ON36_RS09440	54	401	98.44559585492227	1.1e-109
+
+
+
+>>
+36. NZ_BDAX01000029
+Source: Nocardia alba NBRC 108234, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 833
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_21	NA12_RS27185	49	141	85.71428571428571	1e-31
+ctg68_27	NA12_RS27250	42	257	45.77387486278815	5.8e-66
+ctg68_28	NA12_RS27245	57	435	98.44559585492227	5.1e-120
+
+
+
+>>
+37. NZ_BBOJ01000005
+Source: Lechevalieria aerocolonigenes strain NBRC 13195, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1859
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	AOM45_RS11840	57	973	98.2436882546652	1.2e-281
+ctg68_28	AOM45_RS11830	73	566	98.70466321243524	2.5e-159
+ctg68_42	AOM45_RS11800	42	98	43.38235294117647	1.4e-18
+ctg68_43	AOM45_RS11820	35	116	42.168674698795186	8.8e-24
+ctg68_43	AOM45_RS11815	37	106	42.77108433734939	1.2e-20
+
+
+
+>>
+38. NZ_CM001439
+Source: Saccharomonospora marina XMU15 chromosome, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1690
+
+Table of genes, locations, strands and annotations of subject cluster:
+SACMADRAFT_RS29410	SACMADRAFT_RS29410	5347504	5347701	+	peptidase_M23
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	SACMADRAFT_RS25295	64	1093	99.12184412733261	0.0
+ctg68_28	SACMADRAFT_RS25290	78	597	98.18652849740933	1e-168
+
+
+
+>>
+39. NZ_ARVW01000001
+Source: Amycolatopsis nigrescens CSC17Ta-90 AmyniDRAFT_Contig68.1_C, whole genome shotgun sequence
+Type: arylpolyene-siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1684
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	AMYNI_RS0130900	66	1144	101.31723380900111	0.0
+ctg68_28	AMYNI_RS0130905	72	540	94.30051813471503	1.5e-151
+
+
+
+>>
+40. NZ_CM001484
+Source: Saccharomonospora glauca K62 chromosome, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1661
+
+Table of genes, locations, strands and annotations of subject cluster:
+SACGLDRAFT_RS19745	SACGLDRAFT_RS19745	4232751	4233713	+	prephenate_dehydrogenase
+SACGLDRAFT_RS19755	SACGLDRAFT_RS19755	4234015	4235978	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	SACGLDRAFT_RS19845	63	1077	99.01207464324918	0.0
+ctg68_28	SACGLDRAFT_RS19840	75	584	99.48186528497409	1.2e-164
+
+
+
+>>
+41. NZ_JYJG01000109
+Source: Lechevalieria aerocolonigenes strain NRRL B-16140 contig23.9, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1648
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	UK23_RS17115	61	1037	100.4390779363337	6.9e-301
+ctg68_28	UK23_RS17120	76	611	100.0	6.7e-173
+
+
+
+>>
+42. NZ_CM001466
+Source: Saccharomonospora azurea NA-128 chromosome, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1647
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	SACAZDRAFT_RS11995	63	1071	98.79253567508232	5.7e-311
+ctg68_28	SACAZDRAFT_RS11990	73	576	99.74093264248705	2.4e-162
+
+
+
+>>
+43. NZ_CM001440
+Source: Saccharomonospora cyanea NA-134 chromosome, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1645
+
+Table of genes, locations, strands and annotations of subject cluster:
+SACCYDRAFT_RS26145	SACCYDRAFT_RS26145	5051607	5052104	-	hypothetical_protein
+SACCYDRAFT_RS23675	SACCYDRAFT_RS23675	5073548	5074928	+	ATPase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	SACCYDRAFT_RS23670	63	1069	99.23161361141602	1.6e-310
+ctg68_28	SACCYDRAFT_RS23665	72	576	101.81347150259069	3.1e-162
+
+
+
+>>
+44. NZ_AZUM01000002
+Source: Saccharomonospora sp. CNQ490 B126DRAFT_scaffold_1.2_C, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1620
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	B126_RS0109935	61	1054	101.09769484083424	9.3e-306
+ctg68_28	B126_RS0109930	71	566	100.25906735751295	3.3e-159
+
+
+
+>>
+45. NZ_MSIF01000001
+Source: Actinophytocola xinjiangensis strain CGMCC 4.4663 contig1, whole genome shotgun sequence
+Type: nrps-arylpolyene-ladderane
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1618
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BLA60_RS02320	61	1050	98.2436882546652	1e-304
+ctg68_28	BLA60_RS02325	71	568	100.0	5e-160
+
+
+
+>>
+46. NZ_JH636049
+Source: Saccharomonospora xinjiangensis XJ-54 Sacxiscaffold_2, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1607
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	SACXIDRAFT_RS11605	61	1052	99.01207464324918	2.1e-305
+ctg68_28	SACXIDRAFT_RS11610	69	555	104.66321243523315	4.4e-156
+
+
+
+>>
+47. NZ_FOYL01000012
+Source: Lentzea waywayandensis strain DSM 44232, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1606
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BM417_RS35530	61	1032	100.32930845225027	2.9e-299
+ctg68_28	BM417_RS35535	73	574	100.0	9.1e-162
+
+
+
+>>
+48. NZ_CP016353
+Source: Prauserella marina strain DSM 45268 chromosome, complete genome
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1586
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BAY61_RS30015	59	1010	98.35345773874863	1.5e-292
+ctg68_28	BAY61_RS30010	74	576	98.96373056994818	3.1e-162
+
+
+
+>>
+49. NZ_FMZE01000006
+Source: Prauserella marina strain CGMCC 4.5506, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1586
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BLR89_RS17975	59	1010	98.35345773874863	1.5e-292
+ctg68_28	BLR89_RS17970	74	576	98.96373056994818	3.1e-162
+
+
+
+>>
+50. NZ_FOFV01000007
+Source: Lentzea albida strain DSM 44437, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1578
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg68_27	BMY74_RS19945	59	983	98.35345773874863	2e-284
+ctg68_28	BMY74_RS19940	75	595	98.70466321243524	3.8e-168
+

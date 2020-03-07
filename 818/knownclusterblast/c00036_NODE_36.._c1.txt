@@ -1,0 +1,2010 @@
+ClusterBlast scores for c00036_NODE_36..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg36_7	3104	3671	+		
+ctg36_8	3661	4210	+		
+ctg36_9	4256	4646	+		
+ctg36_10	4642	4978	+		
+ctg36_11	5080	5554	+		
+ctg36_12	5550	5844	+		
+ctg36_13	5875	6052	+		
+ctg36_14	6058	6448	+		
+ctg36_15	6444	6978	+		
+ctg36_16	6977	7553	+		
+ctg36_17	7565	7922	-		
+ctg36_18	7990	8212	+		
+ctg36_19	8457	8949	-		
+ctg36_20	9380	10028	-		
+ctg36_21	10106	10841	+		
+ctg36_22	10837	11695	+		
+ctg36_23	11667	13809	-		
+ctg36_24	13817	14096	-		
+ctg36_25	14269	14974	+		
+ctg36_26	15016	16327	+		
+ctg36_27	16323	17439	+		
+ctg36_28	17432	18143	+		
+ctg36_29	18181	19726	+		
+ctg36_30	19722	20682	+		
+ctg36_31	20678	21482	+		
+ctg36_32	21478	22984	+		
+ctg36_33	22980	28428	+		
+ctg36_34	28430	30248	+		
+ctg36_35	30244	31987	+		
+ctg36_36	31983	33072	+		
+ctg36_37	33068	35528	+		
+ctg36_38	35544	37386	+		
+ctg36_39	37397	38612	+		
+ctg36_40	38608	40204	+		
+ctg36_41	40196	41381	+		
+ctg36_42	41409	47793	+		
+ctg36_43	47809	48424	+		
+ctg36_44	48427	49078	+		
+ctg36_45	49074	50019	+		
+ctg36_46	50015	50828	+		
+ctg36_47	50824	51223	+		
+ctg36_48	51219	51432	+		
+ctg36_49	51447	52263	-		
+ctg36_50	52381	52657	+		
+ctg36_51	52830	53007	+		
+ctg36_52	53324	53690	-		
+ctg36_53	53824	54319	-		
+ctg36_54	54386	54995	-		
+ctg36_55	55341	55686	+		
+ctg36_56	56327	56840	+		
+ctg36_57	57479	59060	-		
+ctg36_58	59056	59470	-		
+ctg36_59	59550	60195	+		
+ctg36_60	60191	61127	+		
+ctg36_61	61123	61921	+		
+ctg36_62	61947	62076	+		
+ctg36_63	62088	62604	-		
+ctg36_64	62656	62956	-		
+
+
+Significant hits: 
+1. BGC0001801	Thiazostatin / watasemycin A / watasemycin B / 2-hydroxyphenylthiazoline enantiopyochelin / isopyochelin
+2. BGC0000324	Coelibactin
+3. BGC0001351	Cahuitamycins
+4. BGC0000300	Amychelin
+5. BGC0001213	Nataxazole
+6. BGC0001292	A33853
+7. BGC0001061	Polyketomycin
+8. BGC0000366	Gobichelin
+9. BGC0000269	SF2575
+10. BGC0001021	Mycobactin
+11. BGC0001409	Dutomycin
+12. BGC0001444	Caboxamycin
+13. BGC0001538	Caboxamycin
+14. BGC0001676	Mycemycin A / mycemycin B / mycemycin C / mycemycin D / mycemycin E
+15. BGC0001676	Mycemycin A / mycemycin B / mycemycin C / mycemycin D / mycemycin E
+16. BGC0001225	Celesticetin
+17. BGC0000450	Triostin A
+18. BGC0000434	SW-163
+19. BGC0000081	Kedarcidin
+20. BGC0001101	Leinamycin
+21. BGC0001199	Akaeolide
+22. BGC0001658	Macrotermycins
+23. BGC0000279	Xantholipin
+24. BGC0001046	Streptolydigin
+25. BGC0000035	Chalcomycin
+26. BGC0000047	Dihydrochalcomycin
+27. BGC0001396	Aldgamycin
+28. BGC0000266	Rubromycin
+29. BGC0001042	Sanglifehrin A
+30. BGC0000074	Herbimycin
+31. BGC0000078	Incednine
+32. BGC0001052	Tirandamycin
+33. BGC0001060	Dynemicin
+34. BGC0001522	Auroramycin
+35. BGC0001452	Sipanmycin
+36. BGC0001666	Microansamycin
+37. BGC0000055	Erythromycin
+38. BGC0001619	Ibomycin
+39. BGC0000034	Candicidin
+40. BGC0000061	FR-008
+41. BGC0001359	PM100117 / PM100118
+42. BGC0001690	Natamycin
+
+
+Details:
+
+>>
+1. BGC0001801
+Source: Thiazostatin / watasemycin A / watasemycin B / 2-hydroxyphenylthiazoline enantiopyochelin / isopyochelin
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4706
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_26	SVEN_0506	49	350	98.1651376146789	3.3e-96
+ctg36_33	SVEN_0517	47	1443	101.32231404958678	0.0
+ctg36_34	SVEN_0514	46	465	96.8595041322314	1.3e-130
+ctg36_35	SVEN_0513	47	443	97.06896551724138	5e-124
+ctg36_40	SVEN_0510	53	499	98.87005649717514	7e-141
+ctg36_42	SVEN_0512	49	796	46.3093559003291	1.1e-229
+ctg36_42	SVEN_0517	48	710	42.45416078984485	8e-204
+
+
+
+>>
+2. BGC0000324
+Source: Coelibactin
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 3081
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAC17498.1	CAC17498.1	1	1662	-	putative_AMP-binding_ligase
+CAC17499.1	CAC17499.1	1823	8512	+	putative_non-ribosomal_peptide_synthase
+CAC17500.1	CAC17500.1	8509	14037	+	putative_non-ribosomal_peptide_synthase
+CAC17501.1	CAC17501.1	14034	15185	+	conserved_hypothetical_protein
+CAC17502.1	CAC17502.1	15182	17215	+	conserved_hypothetical_protein
+CAC17503.1	CAC17503.1	17224	18459	+	putative_cytochrome_P450
+CAC17504.1	CAC17504.1	18456	19289	+	putative_thioesterase
+CAC17505.1	CAC17505.1	19300	20028	+	conserved_hypothetical_protein
+CAC17506.1	CAC17506.1	20061	21887	+	putative_ABC_transporter_ATP-binding_protein
+CAC17507.1	CAC17507.1	21884	23647	+	putative_ABC_transporter_ATP-binding_protein
+CAC17508.1	CAC17508.1	23706	25121	+	putative_lyase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_26	CAC17508.1	46	310	100.68807339449542	3.8e-84
+ctg36_27	CAC17502.1	48	333	97.84366576819407	4.6e-91
+ctg36_40	CAC17498.1	49	446	101.69491525423729	7e-125
+ctg36_42	CAC17499.1	53	1992	104.41937000470145	0.0
+
+
+
+>>
+3. BGC0001351
+Source: Cahuitamycins
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2076
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMK48246.1	AMK48246.1	1	1326	-	L-ornithine-5-monooxygenase
+AMK48223.1	AMK48223.1	1410	2363	+	formyltransferase
+AMK48224.1	AMK48224.1	2808	3824	+	putative_iron(III)/siderophore_ABC_transporter_substrate_binding_protein
+AMK48225.1	AMK48225.1	3889	7368	-	nonribosomal_peptide_synthetase
+AMK48226.1	AMK48226.1	7426	15306	-	nonribosomal_peptide_synthetase
+AMK48227.1	AMK48227.1	15303	19814	-	nonribosomal_peptide_synthetas
+AMK48228.1	AMK48228.1	19811	22984	-	nonribosomal_peptide_synthetase
+AMK48229.1	AMK48229.1	22984	23202	-	MbtH-like_protein
+AMK48230.1	AMK48230.1	23206	23694	-	aspartate_1-decarboxylase
+AMK48231.1	AMK48231.1	23736	24548	-	alpha-beta_hydrolase
+AMK48232.1	AMK48232.1	24576	25865	-	siderophore_export_protein
+AMK48233.1	AMK48233.1	25874	27208	-	salicylate_synthase
+AMK48234.1	AMK48234.1	27449	29083	+	salicylate-AMP_ligase
+AMK48235.1	AMK48235.1	29073	30131	+	iron_ABC_transporter_permease
+AMK48236.1	AMK48236.1	30128	31189	+	iron_ABC_transporter_permease
+AMK48237.1	AMK48237.1	31284	33128	-	FAD/iron_sulfur_cluster_binding_oxidoreductase
+AMK48238.1	AMK48238.1	33113	34198	-	putative_peptidase_C45,_acyl-coenzyme_A/6-aminopenicillanic_acid_acyl-transferase
+AMK48239.1	AMK48239.1	34183	35217	-	putative_6-aminohexanoate-oligomer_hydrolase
+AMK48243.1	AMK48243.1	35214	35969	-	putative_ABC_transporter_ATPase
+AMK48242.1	AMK48242.1	35966	36955	-	putative_ABC_transporter_ATPase
+AMK48241.1	AMK48241.1	36952	37812	-	putative_ABC_transporter_permease
+AMK48240.1	AMK48240.1	37809	38780	-	putative_ABC_transporter_permease
+AMK48244.1	AMK48244.1	38787	40343	-	putative_extracellular_solute-binding_protein
+AMK48245.1	AMK48245.1	40607	41608	-	LacI-family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_26	AMK48233.1	50	345	100.91743119266054	1.1e-94
+ctg36_40	AMK48234.1	60	610	99.2467043314501	2.8e-174
+ctg36_42	AMK48225.1	56	1121	53.40855665256229	0.0
+
+
+
+>>
+4. BGC0000300
+Source: Amychelin
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2043
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_26	SSMG_02545	51	342	97.01834862385321	1.2e-93
+ctg36_40	SSMG_02542	58	575	99.43502824858757	1e-163
+ctg36_42	SSMG_02535	56	1126	51.85707569346497	0.0
+
+
+
+>>
+5. BGC0001213
+Source: Nataxazole
+Type: polyketide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1520
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_34	CF54_07315	49	509	92.39669421487604	5.9e-144
+ctg36_35	CF54_07310	51	506	99.82758620689656	4.8e-143
+ctg36_40	CF54_07370	52	505	99.62335216572504	9.8e-143
+
+
+
+>>
+6. BGC0001292
+Source: A33853
+Type: other
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1497
+
+Table of genes, locations, strands and annotations of subject cluster:
+ALE27491.1	ALE27491.1	5469	6320	+	SARP_family_pathway_specific_regulator
+ALE27492.1	ALE27492.1	6467	7225	+	cobaltochelatase
+ALE27493.1	ALE27493.1	7504	8025	-	FMN_reductase
+ALE27494.1	ALE27494.1	8084	9226	-	FAD-dependent_dehydrogenase
+ALE27495.1	ALE27495.1	9436	10149	+	transcriptional_regulator
+ALE27496.1	ALE27496.1	10159	11214	-	flavin-dependent_hydroxylase
+ALE27497.1	ALE27497.1	11449	12735	+	L-lysin_2-aminotransferase
+ALE27498.1	ALE27498.1	12722	12928	+	4-oxalocrotonate_tautomerase
+ALE27499.1	ALE27499.1	12994	14856	-	ABC_transporter
+ALE27500.1	ALE27500.1	14739	16556	-	ABC_transporter
+ALE27501.1	ALE27501.1	16661	17458	+	transcriptional_regulator
+ALE27502.1	ALE27502.1	18063	19349	-	Phenylacetate-coenzyme_A_ligase
+ALE27503.1	ALE27503.1	19598	20677	+	beta-ketoacyl-ACP_synthase
+ALE27504.1	ALE27504.1	20677	22356	+	3-HPA:AMP_ligase
+ALE27505.1	ALE27505.1	22454	22735	+	PCP
+ALE27506.1	ALE27506.1	22756	24252	+	amidohydrolase
+ALE27507.1	ALE27507.1	24258	25085	+	2,3-dihydro-3-hydroxyanthranilic_acid_dehydrogenase
+ALE27508.1	ALE27508.1	25176	25862	+	isochorismatase
+ALE27509.1	ALE27509.1	25859	27145	+	anthranilate_synthase
+ALE27510.1	ALE27510.1	27801	29036	+	3-deoxy-D-arabino-heptulosonate_7-phosphate_synthase
+ALE27511.1	ALE27511.1	28615	30384	-	LuxR_family_transcriptional_regulator
+ALE27512.1	ALE27512.1	32872	33795	+	putative_thioesterase
+ALE27513.1	ALE27513.1	33792	37257	+	putative_polyketide_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_34	ALE27500.1	50	520	96.36363636363636	4.4e-147
+ctg36_35	ALE27499.1	50	499	99.13793103448276	5.9e-141
+ctg36_40	ALE27504.1	50	478	101.31826741996232	9.8e-135
+
+
+
+>>
+7. BGC0001061
+Source: Polyketomycin
+Type: t1pks+t2pks-saccharide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 986
+
+Table of genes, locations, strands and annotations of subject cluster:
+ACN64816.1	ACN64816.1	1	358	+	PokSAMS
+ACN64817.1	ACN64817.1	395	1375	+	PokR3
+ACN64818.1	ACN64818.1	1372	2619	+	PokS8
+ACN64819.1	ACN64819.1	2700	5897	+	PokR1
+ACN64820.1	ACN64820.1	5940	7088	-	PokGT2
+ACN64821.1	ACN64821.1	7101	7910	-	PokABC2
+ACN64822.1	ACN64822.1	7907	8839	-	PokABC1
+ACN64823.1	ACN64823.1	9073	10266	+	PokGT1
+ACN64824.1	ACN64824.1	10263	11291	+	PokS6
+ACN64825.1	ACN64825.1	11296	12594	+	PokS5
+ACN64826.1	ACN64826.1	12678	13832	-	PokU2
+ACN64827.1	ACN64827.1	13829	14350	-	PokU2
+ACN64828.1	ACN64828.1	14347	15348	-	PokS4
+ACN64829.1	ACN64829.1	15342	16772	-	PokS3
+ACN64830.1	ACN64830.1	16769	18424	-	PokM3
+ACN64831.1	ACN64831.1	18421	23640	-	PokM1
+ACN64832.1	ACN64832.1	23637	24665	-	PokM2
+ACN64833.1	ACN64833.1	24720	25763	-	PokMT1
+ACN64834.1	ACN64834.1	25972	27240	+	PokP1
+ACN64835.1	ACN64835.1	27237	28460	+	PokP2
+ACN64836.1	ACN64836.1	28501	28758	+	PokP3
+ACN64837.1	ACN64837.1	28755	30494	+	PokAC1
+ACN64838.1	ACN64838.1	30499	31035	+	PokAC3
+ACN64839.1	ACN64839.1	31042	32454	+	PokAC2
+ACN64840.1	ACN64840.1	32469	33533	+	PokS1
+ACN64841.1	ACN64841.1	33530	34519	+	PokS2
+ACN64842.1	ACN64842.1	34713	35525	+	PokR2
+ACN64843.1	ACN64843.1	35677	36714	-	PokMT2
+ACN64844.1	ACN64844.1	37159	37938	+	PokT1
+ACN64845.1	ACN64845.1	37950	39179	+	PokO1
+ACN64846.1	ACN64846.1	39186	39971	+	PokC2
+ACN64847.1	ACN64847.1	39977	41092	+	PokMT3
+ACN64848.1	ACN64848.1	41211	41663	+	PokC1
+ACN64849.1	ACN64849.1	41747	42076	-	PokO3
+ACN64850.1	ACN64850.1	42073	43560	-	PokL
+ACN64851.1	ACN64851.1	43553	44497	-	PokC3
+ACN64852.1	ACN64852.1	44547	45302	-	PokT2
+ACN64853.1	ACN64853.1	45312	46937	-	PokO2
+ACN64854.1	ACN64854.1	47306	48826	+	PokO4
+ACN64855.1	ACN64855.1	48823	49437	+	PokS7
+ACN64856.1	ACN64856.1	49434	50393	+	PokS9
+ACN64857.1	ACN64857.1	50634	51608	+	PokU3
+ACN64858.1	ACN64858.1	51876	52164	+	PokX1
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_40	ACN64830.1	48	444	101.31826741996232	2e-124
+ctg36_60	ACN64822.1	54	301	99.03536977491962	1.6e-81
+ctg36_61	ACN64821.1	51	241	98.86792452830188	1.7e-63
+
+
+
+>>
+8. BGC0000366
+Source: Gobichelin
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1636
+
+Table of genes, locations, strands and annotations of subject cluster:
+AGE11883.1	AGE11883.1	183	806	+	TetR_transcriptional_regulator
+AGE11884.1	AGE11884.1	1044	1874	-	NH3_dependent_NAD+_synthase
+AGE11885.1	AGE11885.1	2103	2756	-	hypothetical_protein
+AGE11886.1	AGE11886.1	2990	3457	-	acetyltransferase
+AGE11887.1	AGE11887.1	3803	4459	+	isochorismatase
+AGE11888.1	AGE11888.1	4479	4775	+	hypothetical_protein
+AGE11889.1	AGE11889.1	5111	5713	+	amidinotransferase
+AGE11890.1	AGE11890.1	5869	7338	-	salicylate_synthase
+AGE11891.1	AGE11891.1	8437	12144	-	nonribosomal_peptide_synthetase
+AGE11892.1	AGE11892.1	12184	13917	+	2,3-dihydroxybenzoate-AMP_ligase
+AGE11893.1	AGE11893.1	13945	14187	+	MbtH
+AGE11894.1	AGE11894.1	14251	15312	-	iron_siderophore_uptake_ABC_system
+AGE11895.1	AGE11895.1	15407	16243	-	ABC_transporter
+AGE11896.1	AGE11896.1	16246	17331	-	ABC_transporter
+AGE11897.1	AGE11897.1	17335	18396	+	iron_siderophore_transporter
+AGE11898.1	AGE11898.1	20174	27922	+	nonribosomal_peptide_synthetase
+AGE11899.1	AGE11899.1	27919	34965	+	nonribosomal_peptide_synthetase
+AGE11900.1	AGE11900.1	35036	36463	-	L-ornithine_5-monooxygenase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_40	AGE11892.1	56	529	98.49340866290018	4.8e-150
+ctg36_42	AGE11891.1	56	1107	54.25481899388811	0.0
+
+
+
+>>
+9. BGC0000269
+Source: SF2575
+Type: t2pks-saccharide-other
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1466
+
+Table of genes, locations, strands and annotations of subject cluster:
+ADE34480.1	ADE34480.1	50	1327	+	cysteine_desulferase
+ADE34481.1	ADE34481.1	1344	1808	+	SUF_system_FeS_assembly_protein
+ADE34482.1	ADE34482.1	1805	2143	+	hypothetical_protein
+ADE34483.1	ADE34483.1	2224	3879	-	SsfO2
+ADE34484.1	ADE34484.1	4053	5084	+	SsfM4
+ADE34485.1	ADE34485.1	5087	6079	+	SsfV
+ADE34486.1	ADE34486.1	6217	6588	-	SsfY4
+ADE34487.1	ADE34487.1	6827	7876	+	SsfM3
+ADE34488.1	ADE34488.1	7873	8748	+	SsfY3
+ADE34489.1	ADE34489.1	8817	9749	+	SsfY2
+ADE34490.1	ADE34490.1	9830	10774	-	SsfY1
+ADE34491.1	ADE34491.1	10815	11600	-	SsfU
+ADE34492.1	ADE34492.1	11711	12715	+	SsfS5
+ADE34493.1	ADE34493.1	12718	14319	+	SsfL2
+ADE34494.1	ADE34494.1	14417	15514	-	SsfX3
+ADE34495.1	ADE34495.1	15623	17254	-	SsfL1
+ADE34496.1	ADE34496.1	17303	18319	-	SsfX2
+ADE34497.1	ADE34497.1	18406	19614	-	SsfQ
+ADE34498.1	ADE34498.1	19848	20843	-	SsfM2
+ADE34499.1	ADE34499.1	20880	22424	-	SsfO1
+ADE34500.1	ADE34500.1	22528	23382	+	SsfP
+ADE34501.1	ADE34501.1	23407	25044	-	SsfR
+ADE34502.1	ADE34502.1	25137	25766	+	SsfT2
+ADE34503.1	ADE34503.1	26113	26991	+	SsfN
+ADE34504.1	ADE34504.1	27008	27748	+	SsfK
+ADE34505.1	ADE34505.1	27739	28533	+	SsfJ
+ADE34506.1	ADE34506.1	28569	29816	-	SsfI
+ADE34507.1	ADE34507.1	30132	31457	-	SsfH
+ADE34508.1	ADE34508.1	31776	32774	-	SsfM1
+ADE34509.1	ADE34509.1	33010	34029	+	SsfG
+ADE34510.1	ADE34510.1	34103	35506	+	SsfS3
+ADE34511.1	ADE34511.1	35503	36438	+	SsfS4
+ADE34512.1	ADE34512.1	36669	37820	-	SsfS6
+ADE34525.1	ADE34525.1	38005	38976	+	SsfF
+ADE34513.1	ADE34513.1	39023	40654	+	SsfE
+ADE34514.1	ADE34514.1	40698	40919	+	SsfX1
+ADE34515.1	ADE34515.1	41065	42132	+	SsfS1
+ADE34516.1	ADE34516.1	42129	43112	+	SsfS2
+ADE34517.1	ADE34517.1	43176	43988	-	SsfT1
+ADE34518.1	ADE34518.1	44931	46205	+	SsfA
+ADE34519.1	ADE34519.1	46202	47440	+	SsfB
+ADE34520.1	ADE34520.1	47491	47748	+	SsfC
+ADE34521.1	ADE34521.1	47938	49791	+	SsfD
+ADE34522.1	ADE34522.1	49988	51838	+	hypothetical_protein
+ADE34523.1	ADE34523.1	51841	52236	-	hypothetical_protein
+ADE34524.1	ADE34524.1	52287	53255	+	AraC_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_26	ADE34507.1	52	375	96.78899082568807	9.6e-104
+ctg36_38	ADE34521.1	55	643	99.836867862969	4.5e-184
+ctg36_40	ADE34495.1	48	448	101.5065913370998	1.1e-125
+
+
+
+>>
+10. BGC0001021
+Source: Mycobactin
+Type: nrps-t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1379
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_40	Rv2384	48	453	101.88323917137477	3.4e-127
+ctg36_42	Rv2383c	49	926	52.233192289609775	5.4e-269
+
+
+
+>>
+11. BGC0001409
+Source: Dutomycin
+Type: t2pks
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1247
+
+Table of genes, locations, strands and annotations of subject cluster:
+AKD43489.1	AKD43489.1	426	827	-	hypothetical_protein
+AKD43490.1	AKD43490.1	824	1861	-	NADPH-quinone_reductase
+AKD43491.1	AKD43491.1	1879	2820	+	LysR_family_transcriptional_regulator
+AKD43492.1	AKD43492.1	3060	4250	-	acyl-CoA_dehydrogenase
+AKD43493.1	AKD43493.1	4377	5309	-	NAD-dependent_epimerase/dehydratase
+AKD43494.1	AKD43494.1	5306	5911	-	dTDP-4-dehydrorhamnose_3,5-epimerase
+AKD43495.1	AKD43495.1	5917	7440	-	Monooxygenase
+AKD43496.1	AKD43496.1	7781	9409	+	Monooxygenase
+AKD43498.1	AKD43498.1	9419	10174	+	3-Ketoacyl-(acyl-carrier-protein)_reductase
+AKD43497.1	AKD43497.1	10239	11168	+	Aromatase
+AKD43499.1	AKD43499.1	11161	12648	+	Acyl-CoA_ligase
+AKD43500.1	AKD43500.1	12686	12973	+	Monooxygenase
+AKD43501.1	AKD43501.1	13034	13486	-	Cyclase
+AKD43502.1	AKD43502.1	13593	14645	-	O-Methyltransferase
+AKD43503.1	AKD43503.1	14651	15436	-	Cyclase
+AKD43504.1	AKD43504.1	15443	16666	-	Monooxygenase
+AKD43505.1	AKD43505.1	16679	17458	-	Ketoreductase
+AKD43506.1	AKD43506.1	17739	18752	+	Methtyltransferase
+AKD43507.1	AKD43507.1	18910	19722	-	SARP_family_regulator
+AKD43508.1	AKD43508.1	19926	20906	-	NDP-glucose_4,6-dehydratase
+AKD43509.1	AKD43509.1	20903	21967	-	NDP-glucose_synthase
+AKD43510.1	AKD43510.1	21982	23394	-	Biotin_carboxylase
+AKD43511.1	AKD43511.1	23401	23928	-	Acetyl-CoA_carboxylase
+AKD43537.1	AKD43537.1	23933	25630	-	acetyl-CoA_carboxylase
+AKD43512.1	AKD43512.1	25627	25884	-	Acyl_carrier_protein
+AKD43513.1	AKD43513.1	25922	27145	-	Chain_length_factor
+AKD43514.1	AKD43514.1	27142	28395	-	Ketoacyl_synthase
+AKD43515.1	AKD43515.1	28624	30054	+	NDP-hexose_2,3-dehydratase
+AKD43516.1	AKD43516.1	30051	31049	+	NDP-hexose_3-ketoreductase
+AKD43517.1	AKD43517.1	31046	31648	+	Flavin_reductase
+AKD43518.1	AKD43518.1	31578	32732	+	Acyl-CoA_dehydrogenase
+AKD43519.1	AKD43519.1	32792	34087	-	NDP-hexose_3,4-dehydratase
+AKD43520.1	AKD43520.1	34092	35042	-	NDP-4-keto-6-deoxyhexose_reductase
+AKD43521.1	AKD43521.1	35039	36223	-	Glycosyltransferase
+AKD43522.1	AKD43522.1	36246	42776	-	Type_I_polyketide_synthase
+AKD43523.1	AKD43523.1	42844	43881	-	ACP_shuttle-type_acyltransferase
+AKD43524.1	AKD43524.1	44100	45029	+	ABC_transporter
+AKD43525.1	AKD43525.1	45026	45832	+	ABC_transporter
+AKD43526.1	AKD43526.1	45845	46993	+	Glycosyltransferase
+AKD43527.1	AKD43527.1	47024	50218	-	SARP_family_transcriptional_regulator
+AKD43528.1	AKD43528.1	50278	51510	-	NDP-hexose_3-C-methyltransferase
+AKD43529.1	AKD43529.1	51507	52487	-	Carbohydrate_kinase
+AKD43530.1	AKD43530.1	52525	53688	-	S-Adenosylmethionine_synthase
+AKD43531.1	AKD43531.1	53834	55390	-	Copper_oxidase
+AKD43532.1	AKD43532.1	55387	55836	-	Hypothetical_protein
+AKD43533.1	AKD43533.1	55940	56872	+	Acetyltransferase
+AKD43534.1	AKD43534.1	56869	57522	+	TetR_family_transcriptional_regulator
+AKD43535.1	AKD43535.1	57575	58300	-	Membrane_protein
+AKD43536.1	AKD43536.1	58365	58586	-	Cobalt_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_57	AKD43531.1	58	619	98.28897338403041	6e-177
+ctg36_58	AKD43532.1	51	86	70.8029197080292	4.8e-17
+ctg36_60	AKD43524.1	53	303	97.7491961414791	4.3e-82
+ctg36_61	AKD43525.1	50	239	99.24528301886792	5e-63
+
+
+
+>>
+12. BGC0001444
+Source: Caboxamycin
+Type: other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 856
+
+Table of genes, locations, strands and annotations of subject cluster:
+DT87_RS23320	DT87_RS23320	5697	7535	+	2,3-dihydroxybenzoate-AMP_ligase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_26	DT87_RS23310	51	371	97.70642201834863	2.4e-102
+ctg36_40	DT87_RS23320	50	485	100.75329566854991	1e-136
+
+
+
+>>
+13. BGC0001538
+Source: Caboxamycin
+Type: nrps-polyketide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 856
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_26	DT87_23840	51	371	97.70642201834863	2.4e-102
+ctg36_40	DT87_23850	50	485	100.75329566854991	1e-136
+
+
+
+>>
+14. BGC0001676
+Source: Mycemycin A / mycemycin B / mycemycin C / mycemycin D / mycemycin E
+Type: alkaloid
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 830
+
+Table of genes, locations, strands and annotations of subject cluster:
+AVR52585.1	AVR52585.1	5065	5148	+	hypothetical_protein
+AVR52586.1	AVR52586.1	5288	5905	+	LuxR_family_transcriptional_regulator
+AVR52587.1	AVR52587.1	6327	7169	-	SAM-dependent_methyltransferase
+AVR52588.1	AVR52588.1	7325	8329	+	Lrp/AsnC_family_transcriptional_regulator
+AVR52589.1	AVR52589.1	8466	9995	+	multidrug_MFS_transporter
+AVR52590.1	AVR52590.1	10589	12619	-	SARP_family_transcriptional_regulator
+AVR52591.1	AVR52591.1	13376	14056	+	TetR_family_transcriptional_regulator
+AVR52592.1	AVR52592.1	14250	15785	+	tryptophan_halogenase
+AVR52593.1	AVR52593.1	15782	16327	+	flavin_reductase
+AVR52594.1	AVR52594.1	16364	17029	+	sodium/hydrogen_exchanger_family
+AVR52595.1	AVR52595.1	17080	18450	+	salicylate_synthase
+AVR52596.1	AVR52596.1	18447	19499	+	3-oxoacyl-ACP_synthase
+AVR52597.1	AVR52597.1	19579	21144	+	2,3-dihydroxybenzoate-AMP_ligase
+AVR52598.1	AVR52598.1	21228	21512	+	hypothetical_protein
+AVR52599.1	AVR52599.1	21559	23115	+	amidohydrolase
+AVR52600.1	AVR52600.1	23182	24414	+	phospho-2-dehydro-3-deoxyheptonate_aldolase
+AVR52601.1	AVR52601.1	24467	25237	+	2,3-dihydro-2,3-dihydroxybenzoate_dehydrogenase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_26	AVR52595.1	53	379	97.93577981651376	5.1e-105
+ctg36_40	AVR52597.1	51	451	96.23352165725048	1.7e-126
+
+
+
+>>
+15. BGC0001676
+Source: Mycemycin A / mycemycin B / mycemycin C / mycemycin D / mycemycin E
+Type: alkaloid
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 823
+
+Table of genes, locations, strands and annotations of subject cluster:
+AVR52602.1	AVR52602.1	2703	3398	-	hypothetical_protein
+AVR52603.1	AVR52603.1	3418	3654	-	hypothetical_protein
+AVR52604.1	AVR52604.1	3713	5077	+	salicylate_synthase
+AVR52605.1	AVR52605.1	5168	6223	-	methyltransferase
+AVR52606.1	AVR52606.1	6276	7085	-	tryptophan_2,_3-dioxygenase
+AVR52607.1	AVR52607.1	7121	8662	-	amidohydrolase
+AVR52608.1	AVR52608.1	8659	8907	-	phosphopantetheine-binding_protein
+AVR52609.1	AVR52609.1	8904	10547	-	AMP-dependent_synthetase
+AVR52610.1	AVR52610.1	10568	11587	-	3-oxoacyl-ACP_synthase
+AVR52611.1	AVR52611.1	11646	12308	-	hypothetical_protein
+AVR52612.1	AVR52612.1	12392	13456	-	3-deoxy-7-phosphoheptulonate_synthase
+AVR52613.1	AVR52613.1	13577	14422	-	SAM-dependent_methyltransferase
+AVR52614.1	AVR52614.1	14644	15633	+	Lrp/AsnC_family_transcriptional_regulator
+AVR52615.1	AVR52615.1	15605	17296	+	multidrug_MFS_transporter
+AVR52616.1	AVR52616.1	17436	18320	-	alpha/beta_hydrolase
+AVR52617.1	AVR52617.1	18366	21584	-	SARP_family_transcriptional_regulator
+AVR52618.1	AVR52618.1	21602	23137	-	tryptophan_halogenase
+AVR52619.1	AVR52619.1	23152	24546	-	sodium/hydrogen_exchanger_family
+AVR52620.1	AVR52620.1	24600	25127	-	flavin_reductase
+AVR52621.1	AVR52621.1	25166	26758	-	tryptophan_halogenase
+AVR52622.1	AVR52622.1	26932	28167	-	kynureninase
+AVR52623.1	AVR52623.1	28205	30280	-	SARP_family_transcriptional_regulator
+AVR52624.1	AVR52624.1	30336	30452	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_26	AVR52604.1	50	341	98.1651376146789	2e-93
+ctg36_40	AVR52609.1	51	482	101.88323917137477	8.9e-136
+
+
+
+>>
+16. BGC0001225
+Source: Celesticetin
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 812
+
+Table of genes, locations, strands and annotations of subject cluster:
+ADB92556.1	ADB92556.1	1	1026	+	Ccr1
+ADB92557.1	ADB92557.1	1552	3006	-	CcbIH
+ADB92558.1	ADB92558.1	3003	3773	-	CcbJ
+ADB92559.1	ADB92559.1	3884	5197	-	Ccb1
+ADB92560.1	ADB92560.1	5226	5783	+	CcbK
+ADB92561.1	ADB92561.1	5799	7109	-	CcbL
+ADB92562.1	ADB92562.1	7106	8083	-	CcbM
+ADB92563.1	ADB92563.1	8080	8688	-	CcbN
+ADB92564.1	ADB92564.1	8713	9996	-	CcbZ
+ADB92565.1	ADB92565.1	10023	11273	-	CcbF
+ADB92566.1	ADB92566.1	11393	12217	+	CcbE
+ADB92567.1	ADB92567.1	12226	13293	-	CcbD
+ADB92568.1	ADB92568.1	13292	14809	+	CcbC
+ADB92569.1	ADB92569.1	14817	15788	-	CcbP
+ADB92570.1	ADB92570.1	15785	16483	-	CcbO
+ADB92571.1	ADB92571.1	16490	17650	-	CcbS
+ADB92572.1	ADB92572.1	17647	18315	-	CcbR
+ADB92573.1	ADB92573.1	18381	19538	-	CcbQ
+ADB92574.1	ADB92574.1	19568	20875	-	CcbT
+ADB92575.1	ADB92575.1	20904	21617	-	CcbV
+ADB92576.1	ADB92576.1	22079	23725	+	Ccb2
+ADB92577.1	ADB92577.1	23722	25089	+	Ccb3
+ADB92578.1	ADB92578.1	25166	26275	+	Ccb4
+ADB92579.1	ADB92579.1	26299	27354	+	Ccb5
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_26	ADB92577.1	47	347	99.54128440366972	3.6e-95
+ctg36_40	ADB92576.1	49	465	101.31826741996232	1.1e-130
+
+
+
+>>
+17. BGC0000450
+Source: Triostin A
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 750
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAH04156.1	BAH04156.1	1	984	+	putative_ABC_transporter
+BAH04157.1	BAH04157.1	981	1805	+	putative_ABC_transporter
+BAH04158.1	BAH04158.1	1912	3117	+	putative_esterase
+BAH04159.1	BAH04159.1	3236	3739	-	putative_DNA-binding_response_regulator
+BAH04160.1	BAH04160.1	3883	4095	-	MbtH-like_protein
+BAH04161.1	BAH04161.1	4142	13600	-	putative_non-ribosomal_peptide_synthetase
+BAH04162.1	BAH04162.1	13608	21665	-	trsJ
+BAH04163.1	BAH04163.1	21676	22374	+	putative_SAM-dependent_methyltransferase
+BAH04164.1	BAH04164.1	22438	23823	+	hypothetical_protein
+BAH04165.1	BAH04165.1	24008	26386	+	UvrA-like_protein
+BAH04166.1	BAH04166.1	26468	27406	+	putative_oxidoreductase
+BAH04167.1	BAH04167.1	27803	29182	-	putative_FAD-dependent_oxidoreductase
+BAH04168.1	BAH04168.1	29169	30257	-	putative_dehydrogenase
+BAH04169.1	BAH04169.1	30254	31000	-	putative_thioesterase
+BAH04170.1	BAH04170.1	31154	32359	+	putative_cytochrome_P450
+BAH04171.1	BAH04171.1	32373	33956	+	AMP-binding_ligase
+BAH04172.1	BAH04172.1	34035	34778	-	putative_tryptophan_2,3-dioxygenase
+BAH04173.1	BAH04173.1	34968	36746	+	putative_non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_40	BAH04171.1	48	477	98.87005649717514	3.7e-134
+ctg36_60	BAH04156.1	46	273	99.03536977491962	4.8e-73
+
+
+
+>>
+18. BGC0000434
+Source: SW-163
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 723
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAI63266.1	BAI63266.1	165	2399	+	putative_oxidoreductase
+BAI63267.1	BAI63267.1	3228	6521	-	hypothetical_protein
+BAI63268.1	BAI63268.1	8593	8793	+	putative_integral_membrane_protein
+BAI63269.1	BAI63269.1	8921	9919	-	putative_2-nitropropane_dioxygenase
+BAI63270.1	BAI63270.1	10431	11810	-	hypothetical_protein
+BAI63271.1	BAI63271.1	12010	12426	-	hypothetical_protein
+BAI63272.1	BAI63272.1	13117	14178	+	hypothetical_protein
+BAI63273.1	BAI63273.1	14832	16079	-	putative_kynurenine_aminotransferase
+BAI63274.1	BAI63274.1	16199	16954	-	putative_oxidoreductase
+BAI63275.1	BAI63275.1	17013	17795	-	putative_transcription_regulator
+BAI63276.1	BAI63276.1	17971	18960	+	putative_ABC_transporter
+BAI63277.1	BAI63277.1	18951	19781	+	putative_ABC_transporter
+BAI63278.1	BAI63278.1	19824	20993	-	putative_aminotransferase
+BAI63279.1	BAI63279.1	20990	22426	-	hypothetical_protein
+BAI63280.1	BAI63280.1	23253	23939	+	putative_SAM-dependent_methyltransferase
+BAI63281.1	BAI63281.1	23981	26020	+	putative_Mg-protoporphyrin_IX_monooxidative_cyclase
+BAI63282.1	BAI63282.1	26066	26761	+	putative_tryptophan_2,3-dioxygenase
+BAI63283.1	BAI63283.1	26823	28571	-	putative_non-ribosomal_peptide_synthetase
+BAI63284.1	BAI63284.1	28689	30275	-	putative_peptide_arylation_enzyme
+BAI63285.1	BAI63285.1	30122	31492	-	putative_cytochrome_P450
+BAI63286.1	BAI63286.1	31651	32397	+	putative_thioesterase
+BAI63287.1	BAI63287.1	32468	34846	-	UvrA-like_protein
+BAI63288.1	BAI63288.1	35089	42852	+	putative_non-ribosomal_peptide_synthetase
+BAI63289.1	BAI63289.1	42861	52334	+	putative_non-ribosomal_peptide_synthetase
+BAI63290.1	BAI63290.1	52369	52581	+	MbtH-like_protein
+BAI63291.1	BAI63291.1	52668	53180	+	putative_OmpR-family_regulator
+BAI63292.1	BAI63292.1	53285	54223	-	putative_oxidoreductase
+BAI63293.1	BAI63293.1	54264	55697	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_40	BAI63284.1	47	442	98.68173258003766	7.8e-124
+ctg36_60	BAI63276.1	48	281	97.7491961414791	1.8e-75
+
+
+
+>>
+19. BGC0000081
+Source: Kedarcidin
+Type: t1pks+t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 713
+
+Table of genes, locations, strands and annotations of subject cluster:
+AFV52099.1	AFV52099.1	1834	2256	-	hypothetical_protein
+AFV52100.1	AFV52100.1	2265	2420	-	hypothetical_protein
+AFV52101.1	AFV52101.1	2617	2991	-	hypothetical_protein
+AFV52102.1	AFV52102.1	3093	4097	+	hypothetical_protein
+AFV52103.1	AFV52103.1	4291	5286	+	putative_O-methyltransferase
+AFV52104.1	AFV52104.1	5630	5989	+	hypothetical_protein
+AFV52105.1	AFV52105.1	6036	6518	-	hypothetical_protein
+AFV52106.1	AFV52106.1	6515	7009	-	putative_flavin_reductase
+AFV52107.1	AFV52107.1	7003	7962	-	putative_monooxygenase
+AFV52108.1	AFV52108.1	8093	8704	+	putative_TetR_transcriptional_regulator
+AFV52109.1	AFV52109.1	8849	9790	-	hypothetical_protein
+AFV52110.1	AFV52110.1	9953	10621	+	hypothetical_protein
+AFV52111.1	AFV52111.1	10777	11385	+	hypothetical_protein
+AFV52112.1	AFV52112.1	11382	11942	+	hypothetical_protein
+AFV52113.1	AFV52113.1	12343	13569	+	putative_transporter
+AFV52114.1	AFV52114.1	13566	14351	+	hypothetical_protein
+AFV52115.1	AFV52115.1	14348	14944	-	hypothetical_protein_DUF1470
+AFV52116.1	AFV52116.1	15212	16102	+	putative_LysR_transcriptional_regulator
+AFV52117.1	AFV52117.1	16189	16485	+	hypothetical_protein
+AFV52118.1	AFV52118.1	16608	18056	+	putative_GntR_transcriptional_regulator/aminotransferase
+AFV52119.1	AFV52119.1	18116	19228	-	phenylalanine_aminotransferase
+AFV52120.1	AFV52120.1	19255	20298	-	DAHP_synthase
+AFV52121.1	AFV52121.1	20316	20546	-	chorismate_mutase
+AFV52122.1	AFV52122.1	20642	21265	-	ADC_synthase_II
+AFV52123.1	AFV52123.1	21246	22769	-	ADC_synthase_I
+AFV52124.1	AFV52124.1	22766	23443	-	ADIC_dehydrogenase
+AFV52125.1	AFV52125.1	23714	23896	+	4-oxalocrotonate_tatuomerase
+AFV52126.1	AFV52126.1	23933	24316	+	chorismate_mutase-like_protein
+AFV52127.1	AFV52127.1	24778	25929	+	peptidase
+AFV52128.1	AFV52128.1	26002	26571	-	TetR-like_transcriptional_regulator
+AFV52129.1	AFV52129.1	26729	27571	+	epoxide_hydrolase-like_protein
+AFV52130.1	AFV52130.1	27640	28845	-	hypothetical_protein_DUF297
+AFV52131.1	AFV52131.1	29457	30257	-	hypothetical_protein
+AFV52132.1	AFV52132.1	30348	31352	-	hypothetical_protein
+AFV52133.1	AFV52133.1	31374	32036	-	hypothetical_protein
+AFV52134.1	AFV52134.1	32015	32560	-	hypothetical_protein
+AFV52135.1	AFV52135.1	32557	34194	-	putative_ketoreductase
+AFV52136.1	AFV52136.1	34191	34760	-	hypothetical_protein
+AFV52137.1	AFV52137.1	35246	36022	+	AraC-like_transcriptional_regulator
+AFV52138.1	AFV52138.1	36055	37395	-	P450_monooxygenase
+AFV52139.1	AFV52139.1	37392	37760	-	hypothetical_protein
+AFV52140.1	AFV52140.1	37757	38809	-	hypothetical_protein
+AFV52141.1	AFV52141.1	38814	40760	-	hypothetical_protein
+AFV52142.1	AFV52142.1	40757	41740	-	hypothetical_protein
+AFV52143.1	AFV52143.1	41806	42831	-	hypothetical_protein
+AFV52144.1	AFV52144.1	42875	43834	-	hypothetical_protein
+AFV52145.1	AFV52145.1	44355	50111	+	polyketide_synthase
+AFV52146.1	AFV52146.1	50113	50556	+	hotdog_fold_thioesterase
+AFV52147.1	AFV52147.1	50553	51044	+	flavin_reductase
+AFV52148.1	AFV52148.1	51325	52497	+	putative_enoyl_reductase
+AFV52149.1	AFV52149.1	52521	52943	+	hypothetical_protein
+AFV52150.1	AFV52150.1	52933	54324	+	FAD_dependent_monooxygenase
+AFV52151.1	AFV52151.1	54373	55599	-	P450_monooxygenase
+AFV52152.1	AFV52152.1	55633	56787	-	epoxide_hydrolase
+AFV52153.1	AFV52153.1	57336	58055	+	hypothetical_protein
+AFV52154.1	AFV52154.1	58182	60449	+	efflux_pump
+AFV52155.1	AFV52155.1	60497	61870	-	NDP-hexose_2,3-dehydratase
+AFV52156.1	AFV52156.1	61867	63408	-	aryl-ACP_hydroxylase
+AFV52157.1	AFV52157.1	63643	64644	+	O-methyltransferase
+AFV52158.1	AFV52158.1	64685	65833	+	sugar_aminotransferase
+AFV52159.1	AFV52159.1	65833	66579	+	N-methyltransferase
+AFV52160.1	AFV52160.1	66576	67307	+	N-methyltransferase
+AFV52161.1	AFV52161.1	67596	68879	+	glycosyltransferase
+AFV52162.1	AFV52162.1	69115	72378	+	transcriptional_regulator
+AFV52163.1	AFV52163.1	72974	74854	+	radical_SAM_C-methyltransferase
+AFV52164.1	AFV52164.1	74851	76125	+	acyl-CoA_N-acyltransferase
+AFV52165.1	AFV52165.1	76141	77391	+	glycosyltransferase
+AFV52166.1	AFV52166.1	77513	77731	+	hypothetical_protein
+AFV52167.1	AFV52167.1	77966	79066	-	monooxygenase
+AFV52168.1	AFV52168.1	79063	80046	-	enoyl_reductase
+AFV52169.1	AFV52169.1	80055	81203	-	enoyl_reductase
+AFV52170.1	AFV52170.1	81336	82526	+	acyltransferase
+AFV52171.1	AFV52171.1	82535	83755	+	CoA_transferase
+AFV52172.1	AFV52172.1	83841	84581	+	ketoreductase
+AFV52173.1	AFV52173.1	84578	85033	+	dehydratase
+AFV52174.1	AFV52174.1	85023	85505	+	dehydratase
+AFV52175.1	AFV52175.1	85567	85800	+	acyl-carrier_protein
+AFV52176.1	AFV52176.1	85804	87009	+	ketosynthase
+AFV52177.1	AFV52177.1	87006	88064	+	ketosynthase
+AFV52178.1	AFV52178.1	88064	89188	+	ketosynthase
+AFV52179.1	AFV52179.1	89185	90054	+	ketosynthase
+AFV52180.1	AFV52180.1	90047	90841	+	hypothetical_protein
+AFV52181.1	AFV52181.1	90838	91758	+	thioesterase
+AFV52182.1	AFV52182.1	91755	92390	+	isomerase
+AFV52183.1	AFV52183.1	92506	93243	+	aldolase
+AFV52184.1	AFV52184.1	93277	96402	+	acyl-CoA_synthetase/P450_monooxygenase
+AFV52185.1	AFV52185.1	96406	97383	+	NDP-hexose_oxidoreductase
+AFV52186.1	AFV52186.1	97727	99007	-	C-methyltransferase
+AFV52187.1	AFV52187.1	99007	100665	-	acyl-CoA_synthetase
+AFV52188.1	AFV52188.1	100944	101381	-	kedarcidin_apoprotein
+AFV52189.1	AFV52189.1	101584	103266	-	efflux_pump
+AFV52190.1	AFV52190.1	103443	105059	-	tyrosine_aminomutase
+AFV52191.1	AFV52191.1	105061	108576	-	NRPS_adenylation_domain
+AFV52192.1	AFV52192.1	108573	109928	-	NRPS_condensation_domain
+AFV52193.1	AFV52193.1	110231	111721	+	enoyl_reductase
+AFV52194.1	AFV52194.1	111718	112884	+	enoyl_reductase
+AFV52195.1	AFV52195.1	112881	114341	+	acyl-CoA_synthetase
+AFV52196.1	AFV52196.1	114343	114618	+	acyl-carrier_protein
+AFV52197.1	AFV52197.1	114615	115505	+	hypothetical_protein
+AFV52198.1	AFV52198.1	115507	116247	+	dihydropicolinate_reductase
+AFV52199.1	AFV52199.1	116244	118142	+	acyl-ACP_synthetase
+AFV52200.1	AFV52200.1	118139	123547	+	polyketide_synthase_module
+AFV52201.1	AFV52201.1	123544	124440	+	enoyl_reductase
+AFV52202.1	AFV52202.1	124437	124712	+	acyl-carrier_protein
+AFV52203.1	AFV52203.1	124709	125911	+	enoyl_reductase
+AFV52204.1	AFV52204.1	125908	126975	+	hypothetical_protein
+AFV52205.1	AFV52205.1	126972	127715	+	thioesterase
+AFV52206.1	AFV52206.1	127729	128277	+	hypothetical_protein
+AFV52207.1	AFV52207.1	128252	129478	+	P450_monooxygenase
+AFV52208.1	AFV52208.1	129934	130710	+	transcriptional_regulator
+AFV52209.1	AFV52209.1	130765	131034	-	NRPS_peptidyl-carrier_protein
+AFV52210.1	AFV52210.1	131302	132777	+	aryl-ACP_halogenase
+AFV52211.1	AFV52211.1	132774	133772	+	NDP-hexose_oxidoreductase
+AFV52212.1	AFV52212.1	133780	134376	+	NDP-hexose_epimerase
+AFV52213.1	AFV52213.1	134395	134829	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_39	AFV52207.1	47	309	95.04950495049505	7.8e-84
+ctg36_40	AFV52187.1	46	404	101.12994350282484	3.1e-112
+
+
+
+>>
+20. BGC0001101
+Source: Leinamycin
+Type: nrps-t1pks+transatpks
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 879
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAN85479.1	AAN85479.1	3489	4358	+	putative_antibiotic_resistance_protein
+AAN85480.1	AAN85480.1	5108	6616	+	putative_FAD-dependent_oxygenase
+AAN85481.1	AAN85481.1	7431	11144	+	subtilisin-like_secreted_protease
+AAN85482.1	AAN85482.1	11024	11812	+	hypothetical_protein
+AAN85483.1	AAN85483.1	11809	13014	+	putative_NADH_dehydrogenase_II
+AAN85484.1	AAN85484.1	13011	13931	+	RNA_polymerase_ECF-type_sigma_factor
+AAN85485.1	AAN85485.1	14271	15254	+	putative_macrolide_2'-phosphotransferase
+AAN85486.1	AAN85486.1	15681	16277	-	putative_tetR-family_transcriptional_regulator
+AAN85487.1	AAN85487.1	16467	18083	+	antibiotic_efflux_protein
+AAN85488.1	AAN85488.1	18480	19382	+	putative_hydroxylase
+AAN85489.1	AAN85489.1	19784	20377	-	putative_cyanamide_hydratase
+AAN85490.1	AAN85490.1	20662	21723	+	histidinol-phosphate_aminotransferase
+AAN85491.1	AAN85491.1	21994	24318	+	putative_transcriptional_regulator
+AAN85492.1	AAN85492.1	24524	24742	+	MbtH-like_protein
+AAN85493.1	AAN85493.1	24778	28095	+	nonribosomal_peptide_synthetase
+AAN85494.1	AAN85494.1	28128	29120	+	putative_regulatory_protein
+AAN85495.1	AAN85495.1	29117	30124	+	putative_regulatory_protein
+AAN85496.1	AAN85496.1	30172	31113	+	hypothetical_protein
+AAN85497.1	AAN85497.1	31140	32165	+	putative_fatty_acid_desaturase
+AAN85498.1	AAN85498.1	32199	33500	+	diaminopimelase_decarboxylase
+AAN85499.1	AAN85499.1	33600	35984	-	putative_peptidase
+AAN85500.1	AAN85500.1	36015	37313	-	antibiotic_transport_protein
+AAN85501.1	AAN85501.1	37317	40721	-	nonribosomal_peptide_synthetase
+AAN85502.1	AAN85502.1	40718	41548	-	conserved_hypothetical_protein
+AAN85503.1	AAN85503.1	41709	43358	+	nonribosomal_peptide_synthetase
+AAN85504.1	AAN85504.1	43412	44119	+	thioesterase
+AAN85505.1	AAN85505.1	44116	44946	+	short-chain_dehydrogenase/reductase
+AAN85506.1	AAN85506.1	44970	47732	+	nonribosomal_peptide_synthetase
+AAN85507.1	AAN85507.1	47820	48407	+	putative_N-carbomoyl-sarcosine_amidase
+AAN85508.1	AAN85508.1	48545	49576	+	hydrogenase_expression/formation_protein
+AAN85509.1	AAN85509.1	49599	51974	+	hydrogenase_maturation_protein
+AAN85510.1	AAN85510.1	52006	53349	+	serine_hydroxymethyltransferase
+AAN85511.1	AAN85511.1	53346	54062	+	putative_glutamine_amidotransferase
+AAN85512.1	AAN85512.1	54157	59394	+	nonribosomal_peptide_synthetase
+AAN85513.1	AAN85513.1	59420	60808	+	nonribosomal_peptide_synthetase
+AAN85514.1	AAN85514.1	60948	62147	+	cytochrome_P450_hydroxylase
+AAN85515.1	AAN85515.1	62159	62395	+	ferredoxin
+AAN85516.1	AAN85516.1	62682	63029	+	hypothetical_protein
+AAN85517.1	AAN85517.1	63116	64432	+	putative_hydrolase/decarboxylase
+AAN85518.1	AAN85518.1	64500	65423	+	hypothetical_protein
+AAN85519.1	AAN85519.1	65441	66238	+	putative_enoyl-CoA_hydratase
+AAN85520.1	AAN85520.1	66268	68655	+	acyltransferase/oxidoreductase
+AAN85521.1	AAN85521.1	68725	69549	+	hypothetical_protein
+AAN85522.1	AAN85522.1	69681	82994	+	hybrid_nonribosomal_peptide_synthetase_/_polyketide_synthase
+AAN85523.1	AAN85523.1	82991	105040	+	polyketide_synthase
+AAN85524.1	AAN85524.1	105037	105996	+	conserved_hypthetical_protein
+AAN85525.1	AAN85525.1	105993	106253	+	acyl_carrier_protein_type_II
+AAN85526.1	AAN85526.1	106250	107500	+	FabH-like_condensation_enzyme
+AAN85527.1	AAN85527.1	107557	108360	+	thioesterase_type_II
+AAN85528.1	AAN85528.1	108395	109078	+	putative_transcriptional_activator
+AAN85529.1	AAN85529.1	109122	109370	+	peptidyl_carrier_protein_type_II
+AAN85530.1	AAN85530.1	109367	110917	+	nonribosomal_peptide_synthetase,_discrete_adenylation_domain
+AAN85531.1	AAN85531.1	110973	112700	-	ABC_transporter_component,_ATP_hydrolase
+AAN85532.1	AAN85532.1	112697	113560	-	ABC_transporter_component,_membrane_spanning_protein
+AAN85533.1	AAN85533.1	113557	114522	-	ABC_transporter_component,_membrane_spanning_protein
+AAN85534.1	AAN85534.1	114519	116060	-	ABC_transporter_component,_periplasmic_oligopeptide_binding_protein
+AAN85535.1	AAN85535.1	116132	116494	-	hypothetical_protein
+AAN85536.1	AAN85536.1	116491	118041	-	4-coumarate:CoA_ligase
+AAN85537.1	AAN85537.1	118049	118780	-	conserved_hypothetical_protein
+AAN85538.1	AAN85538.1	118815	120239	-	antibiotic_efflux_protein
+AAN85539.1	AAN85539.1	120436	121638	-	cytochrome_P450_hydroxylase
+AAN85540.1	AAN85540.1	121757	122161	+	hypothetical_protein
+AAN85541.1	AAN85541.1	122182	122832	-	conserved_hypothetical_protein
+AAN85542.1	AAN85542.1	122846	123664	-	thioesterase
+AAN85543.1	AAN85543.1	123898	124935	+	conserved_hypothetical_protein
+AAN85544.1	AAN85544.1	124806	125516	-	putative_tetR-family_transcriptional_regulartory
+AAN85545.1	AAN85545.1	125637	127256	+	antibiotic_resistance_protein
+AAN85546.1	AAN85546.1	127231	128199	+	putative_hydrolase/lactonase
+AAN85547.1	AAN85547.1	128316	129971	-	ABC_transporter
+AAN85548.1	AAN85548.1	130318	131727	-	adenosylhomocysteinase
+AAN85549.1	AAN85549.1	131705	132616	-	5,10-methylenetetrahydrofolate_reductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	AAN85527.1	47	176	91.02564102564102	3.5e-44
+ctg36_32	AAN85531.1	46	341	99.00199600798403	1.8e-93
+ctg36_41	AAN85539.1	51	362	98.98477157360406	7.6e-100
+
+
+
+>>
+21. BGC0001199
+Source: Akaeolide
+Type: polyketide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 873
+
+Table of genes, locations, strands and annotations of subject cluster:
+ctg1_orf512	ctg1_orf512	1	1242	+	
+ctg1_orf513	ctg1_orf513	1293	2021	+	
+ctg1_orf514	ctg1_orf514	2151	3098	+	
+ctg1_orf515	ctg1_orf515	3225	3971	+	
+ctg1_orf516	ctg1_orf516	4005	4889	+	
+ctg1_orf517	ctg1_orf517	4889	5380	+	
+ctg1_orf518	ctg1_orf518	5564	7162	+	
+ctg1_orf519	ctg1_orf519	7231	10074	+	
+ctg1_orf520	ctg1_orf520	10671	12269	+	
+ctg1_orf521	ctg1_orf521	13403	28156	+	
+ctg1_orf522	ctg1_orf522	28212	39017	+	
+ctg1_orf523	ctg1_orf523	39062	47767	+	
+ctg1_orf524	ctg1_orf524	47787	51755	+	
+ctg1_orf525	ctg1_orf525	51785	52981	+	
+ctg1_orf526	ctg1_orf526	53055	53402	+	
+ctg1_orf527	ctg1_orf527	53539	53775	+	
+ctg1_orf528	ctg1_orf528	53795	55003	+	
+ctg1_orf529	ctg1_orf529	55229	55918	+	
+ctg1_orf530	ctg1_orf530	56043	57539	+	
+ctg1_orf531	ctg1_orf531	57662	58312	+	
+ctg1_orf532	ctg1_orf532	58444	58773	+	
+ctg1_orf533	ctg1_orf533	59086	60459	+	
+ctg1_orf534	ctg1_orf534	60462	61484	+	
+ctg1_orf535	ctg1_orf535	61481	62341	+	
+ctg1_orf536	ctg1_orf536	62381	63400	+	
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	ctg1_orf515	48	213	94.44444444444444	2.6e-55
+ctg36_39	ctg1_orf525	46	328	98.01980198019803	1.2e-89
+ctg36_41	ctg1_orf528	47	332	101.5228426395939	1.1e-90
+
+
+
+>>
+22. BGC0001658
+Source: Macrotermycins
+Type: polyketide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 795
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	A4R44_03190	46	211	98.71794871794873	1.3e-54
+ctg36_41	A4R44_03186	47	325	99.49238578680203	1.3e-88
+ctg36_60	A4R44_03198	49	259	98.39228295819936	5.5e-69
+
+
+
+>>
+23. BGC0000279
+Source: Xantholipin
+Type: t2pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1051
+
+Table of genes, locations, strands and annotations of subject cluster:
+ADE22275.1	ADE22275.1	1	1419	-	putative_adenosylhomocysteinase
+ADE22276.1	ADE22276.1	1397	2299	-	5,10-methylenetetrahydrofolate_reductase
+ADE22277.1	ADE22277.1	2305	5802	-	methionine_synthase
+ADE22278.1	ADE22278.1	5799	6791	-	carbohydrate_kinase
+ADE22279.1	ADE22279.1	6817	8037	-	S-adenosylmethionine_synthetase
+ADE22280.1	ADE22280.1	8146	8583	-	putative_oxygenase
+ADE22281.1	ADE22281.1	8580	9803	-	putative_dehydrogenase
+ADE22282.1	ADE22282.1	9867	10595	+	hypothetical_protein
+ADE22283.1	ADE22283.1	10592	12211	+	putative_spore_coat_protein
+ADE22284.1	ADE22284.1	12379	13554	+	putative_inactive_gylcosyltransferase
+ADE22285.1	ADE22285.1	13542	15386	+	putative_asparagine_synthase
+ADE22286.1	ADE22286.1	15392	16075	+	putative_transcriptional_regulator
+ADE22287.1	ADE22287.1	16114	17316	+	putative_cytochrome_P450_hydroxylase
+ADE22288.1	ADE22288.1	17333	17602	+	putative_3Fe-S_ferredoxin
+ADE22289.1	ADE22289.1	17599	19728	+	putative_antibiotic_transporter
+ADE22290.1	ADE22290.1	19908	21086	+	FAD-binding_monooxygenase
+ADE22291.1	ADE22291.1	21147	21707	-	putative_lactoylglutathione_lyase
+ADE22292.1	ADE22292.1	22057	23472	+	putative_non-heme_halogenase
+ADE22293.1	ADE22293.1	23469	25070	+	putative_peptide_transporter
+ADE22294.1	ADE22294.1	25067	26086	+	putative_O-methyltransferase
+ADE22295.1	ADE22295.1	26651	27508	+	putative_F420-dependent_reductase
+ADE22296.1	ADE22296.1	27593	28888	-	putative_integral_membrane_ion_antiporter
+ADE22297.1	ADE22297.1	28985	29473	-	hypothetical_protein
+ADE22298.1	ADE22298.1	29600	30061	+	putative_transcriptional_regulator
+ADE22299.1	ADE22299.1	30083	31105	-	putative_O-methyltransferase
+ADE22300.1	ADE22300.1	31120	32742	-	putative_FAD-binding_monooxygenase
+ADE22301.1	ADE22301.1	33084	34118	+	putative_methyltransferase
+ADE22302.1	ADE22302.1	34203	35798	+	putative_FAD-binding_monooxygenase
+ADE22303.1	ADE22303.1	35868	36554	+	putative_short-chain_dehydrogenase/reductase_SDR
+ADE22304.1	ADE22304.1	36759	37667	-	putative_oxidoreductase
+ADE22305.1	ADE22305.1	37715	38722	+	putative_transcriptional_regulator
+ADE22306.1	ADE22306.1	38844	40187	-	biotin_carboxylase
+ADE22307.1	ADE22307.1	40190	40714	-	biotin_carboxyl_carrier_protein
+ADE22308.1	ADE22308.1	40774	42468	-	carboxyl_transferase
+ADE22309.1	ADE22309.1	42546	42857	-	putative_monooxygenase
+ADE22310.1	ADE22310.1	42847	43194	-	putative_monooxygenase
+ADE22311.1	ADE22311.1	43194	43946	-	putative_3-oxoacyl-ACP_reductase
+ADE22312.1	ADE22312.1	43970	44431	-	putative_monooxygenase
+ADE22313.1	ADE22313.1	44442	44909	-	putative_polyketide_cyclase
+ADE22314.1	ADE22314.1	45017	46303	-	putative_polyketide_beta-ketoacyl_synthase_beta
+ADE22315.1	ADE22315.1	46306	47583	-	putative_polyketide_beta-ketoacyl_synthase_alpha
+ADE22316.1	ADE22316.1	47580	48014	-	putative_polyketide_cyclase
+ADE22317.1	ADE22317.1	48198	48584	+	CurD-like_protein
+ADE22318.1	ADE22318.1	48596	50014	+	oxidase-like_protein
+ADE22319.1	ADE22319.1	50067	50513	-	putative_monooxygenase
+ADE22320.1	ADE22320.1	50528	50908	-	hypothetical_protein
+ADE22321.1	ADE22321.1	50908	51663	-	3-oxoacyl-ACP_reductase
+ADE22322.1	ADE22322.1	51660	51920	-	acyl_carrier_protein
+ADE22323.1	ADE22323.1	51917	52255	-	putative_polyketide_cyclase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_38	ADE22285.1	48	550	99.673735725938	3.1e-156
+ctg36_57	ADE22283.1	50	501	102.28136882129277	1.4e-141
+
+
+
+>>
+24. BGC0001046
+Source: Streptolydigin
+Type: nrps-t1pks-saccharide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 953
+
+Table of genes, locations, strands and annotations of subject cluster:
+CBA11554.1	CBA11554.1	1	438	+	putative_glycerophosphoryl_diester_phosphodiesterase
+CBA11555.1	CBA11555.1	808	1194	+	hypothetical_protein
+CBA11556.1	CBA11556.1	1429	4260	+	LuxR-family_transcriptional_regulator
+CBA11557.1	CBA11557.1	4318	6441	-	non-ribosomal_peptide_synthetase
+CBA11558.1	CBA11558.1	6495	7337	-	hypothetical_protein
+CBA11559.1	CBA11559.1	7392	8672	-	methyltransferase
+CBA11560.1	CBA11560.1	8767	9423	-	NDP-hexose-3,5-epimerase
+CBA11561.1	CBA11561.1	9405	10709	-	NDP-hexose-3,4-dehydratase
+CBA11562.1	CBA11562.1	10720	11742	-	NDP-4-keto-6-deoxyhexose_reductase
+CBA11563.1	CBA11563.1	11739	12755	-	NDP-hexose-3-ketoreductase
+CBA11564.1	CBA11564.1	12752	14104	-	NDP-hexose-2,3-dehydratase
+CBA11565.1	CBA11565.1	14101	15342	-	cytochrome_P450
+CBA11566.1	CBA11566.1	15339	16193	-	putative_secreted_hydrolase
+CBA11567.1	CBA11567.1	16402	17577	+	glycosyltransferase
+CBA11568.1	CBA11568.1	18302	19282	+	asparaginyl-tRNA_synthetase-like
+CBA11569.1	CBA11569.1	19279	20601	+	ferredoxin-dependent_glutamate_synthase
+CBA11570.1	CBA11570.1	20598	22301	+	non-ribosomal_peptide_synthetase
+CBA11571.1	CBA11571.1	22449	23435	-	NDP-glucose-4,6-dehydratase
+CBA11572.1	CBA11572.1	23432	24499	-	NDP-glucose_synthase
+CBA11573.1	CBA11573.1	24496	25845	-	glutamate_mutase-E_chain
+CBA11574.1	CBA11574.1	25842	26303	-	glutamate_mutase_S-chain
+CBA11575.1	CBA11575.1	26650	28749	+	putative_ATP/GTP_binding-protein
+CBA11576.1	CBA11576.1	28862	29524	-	TetR-family_transcriptional_regulator
+CBA11577.1	CBA11577.1	29625	31172	+	putative_transport_integral_membrain_protein
+CBA11578.1	CBA11578.1	31294	32538	+	cytochrome_P450
+CBA11579.1	CBA11579.1	32589	34136	-	putative_ent-copalyl_diphosphate_synthase
+CBA11580.1	CBA11580.1	34133	35035	-	putative_secreted_hydrolase
+CBA11581.1	CBA11581.1	35032	35814	-	thioesterase_type_II
+CBA11582.1	CBA11582.1	35811	46154	-	polyketide_synthase_type_I
+CBA11583.1	CBA11583.1	46319	56758	-	polyketide_synthase_type_I
+CBA11584.1	CBA11584.1	56865	75380	-	polyketide_synthase_type_I
+CBA11585.1	CBA11585.1	75897	76637	+	putative_integral_membrane_protein
+CBA11586.1	CBA11586.1	76841	77776	+	putative_integral_membrane_protein
+CBA11587.1	CBA11587.1	77818	78480	+	putative_integral_membrane_protein
+CBA11588.1	CBA11588.1	78477	79205	+	putative_hydrolase
+CBA11589.1	CBA11589.1	79234	79632	-	hypothetical_protein
+CBA11590.1	CBA11590.1	79840	80457	+	putative_TetR-family_transcriptional_regulator
+CBA11591.1	CBA11591.1	80468	80893	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	CBA11581.1	48	200	97.00854700854701	3e-51
+ctg36_39	CBA11565.1	54	396	98.26732673267327	6.3e-110
+ctg36_39	CBA11578.1	50	357	99.25742574257426	3.3e-98
+
+
+
+>>
+25. BGC0000035
+Source: Chalcomycin
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 938
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAS79439.1	AAS79439.1	1	1009	-	conserved_hypothetical_protein
+AAS79440.1	AAS79440.1	1121	1963	-	conserved_hypothetical_protein
+AAS79441.1	AAS79441.1	3008	3889	-	conserved_hypothetical_protein
+AAS79442.1	AAS79442.1	3991	5208	-	putative_D-chalcose_pathway_component
+AAS79443.1	AAS79443.1	5339	6118	-	putative_O-methyltransferase_in_D-chalcose_pathway
+AAS79444.1	AAS79444.1	6239	7696	-	putative_D-chalcose_pathway_component
+AAS79445.1	AAS79445.1	7761	10271	-	putative_beta-glucosidase
+AAS79446.1	AAS79446.1	10306	11511	-	P450
+AAS79447.1	AAS79447.1	11549	12772	-	P450
+AAS79448.1	AAS79448.1	12762	13610	-	putative_thioesterase_TEII_family
+AAS79449.1	AAS79449.1	13631	14602	-	putative_TDP-glucose_4,6-dehydratase
+AAS79450.1	AAS79450.1	14645	15562	-	putative_TDP-glucose_synthase
+AAS79451.1	AAS79451.1	15869	16459	-	putative_3-epimerase_in_D-allose_pathway
+AAS79452.1	AAS79452.1	16523	17290	-	putative_3'OH-methyltransferase_in_D-mycinose_pathway
+AAS79453.1	AAS79453.1	17551	18813	+	P450
+AAS79454.1	AAS79454.1	18831	19052	+	ferredoxin
+AAS79455.1	AAS79455.1	19049	20029	+	putative_4-ketoreductase_in_D-allose_pathway
+AAS79456.1	AAS79456.1	20062	21273	+	putative_2'OH-methyltransferase_in_D-mycinose_pathway
+AAS79457.1	AAS79457.1	21329	22585	+	putative_D-allose_glycosyltransferase
+AAS79458.1	AAS79458.1	22653	23495	-	putative_resistance_determinant
+AAS79459.1	AAS79459.1	23622	36947	+	polyketide_synthase_subunit
+AAS79460.1	AAS79460.1	37041	42965	+	polyketide_synthase_subunit
+AAS79461.1	AAS79461.1	43022	54388	+	polyketide_synthase_subunit
+AAS79462.1	AAS79462.1	54439	59277	+	polyketide_synthase_subunit
+AAS79463.1	AAS79463.1	59387	63439	+	polyketide_synthase_subunit
+AAS79464.1	AAS79464.1	63522	64760	+	putative_NDP-hexose_3,4-isomerase
+AAS79465.1	AAS79465.1	64804	66081	+	putative_chalcose_glycosyltransferase
+AAS79466.1	AAS79466.1	66194	66940	+	putative_post-PKS_ketoreductase
+AAS79467.1	AAS79467.1	67323	68471	-	putative_permease
+AAS79468.1	AAS79468.1	68733	70196	-	conserved_hypothetical_protein
+AAS79469.1	AAS79469.1	70193	70888	-	putative_D-alanyl-D-alanine_carboxypeptidase
+AAS79470.1	AAS79470.1	71382	72542	-	sensory_histidine_kinase
+AAS79471.1	AAS79471.1	72638	73324	-	putative_two-component_system_response_regulator
+AAS79472.1	AAS79472.1	73651	75081	-	putative_permease
+AAS79473.1	AAS79473.1	75401	76117	-	conserved_hypothetical_protein
+AAS79474.1	AAS79474.1	76537	78375	+	putative_permease
+AAS79475.1	AAS79475.1	78521	79192	+	putative_merR-family_transcriptional_regulator
+AAS79476.1	AAS79476.1	79228	79983	-	thioesterase_TEII_family
+AAS79477.1	AAS79477.1	80489	81439	-	hypothetical_protein
+AAS79478.1	AAS79478.1	81806	82528	+	putative_response_regulator
+AAS79479.1	AAS79479.1	82712	85912	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	AAS79448.1	47	196	98.29059829059828	5.6e-50
+ctg36_41	AAS79446.1	55	406	99.23857868020305	3.5e-113
+ctg36_41	AAS79447.1	47	336	99.49238578680203	5.8e-92
+
+
+
+>>
+26. BGC0000047
+Source: Dihydrochalcomycin
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 926
+
+Table of genes, locations, strands and annotations of subject cluster:
+ABB52538.1	ABB52538.1	580	2118	-	putative_transferase_protein
+ABB52537.1	ABB52537.1	2419	4473	-	hypothetical_protein
+ABB52536.1	ABB52536.1	4661	5656	-	hypothetical_protein
+ABB52535.1	ABB52535.1	5808	6812	-	hypothetical_protein
+ABB52534.1	ABB52534.1	6859	7863	-	putative_oxidoreductase
+ABB52533.1	ABB52533.1	7964	9181	-	3,4-dehydratase-like_protein
+ABB52532.1	ABB52532.1	9314	10129	-	sugar-O-methyltransferase
+ABB52531.1	ABB52531.1	10291	11748	-	NDP-4,6-dideoxyhexose-3,4-enoyl_reductase
+ABB52530.1	ABB52530.1	11834	14305	-	beta_glucosidase
+ABB52529.1	ABB52529.1	14467	15672	-	cytochrome_P-450
+ABB52528.1	ABB52528.1	15738	16961	-	cytochrome_P-450
+ABB52527.1	ABB52527.1	16976	17800	-	type_II_thioesterase
+ABB52526.1	ABB52526.1	17821	18783	-	dTDP-glucose-4,6-dehydratase
+ABB52525.1	ABB52525.1	18835	19722	-	alpha-D-glucose-1-phosphate_thymidylyltransferase
+ABB52524.1	ABB52524.1	20062	20652	-	NDP-hexose-3-epimerase
+ABB52523.1	ABB52523.1	20718	21485	-	3-O-methyltransferase
+ABB52539.1	ABB52539.1	21746	23008	+	cytochrome_P-450
+ABB52540.1	ABB52540.1	23026	23247	+	ferredoxin
+ABB52541.1	ABB52541.1	23244	24224	+	hexose-4-ketoreductase
+ABB52542.1	ABB52542.1	24256	25467	+	O-methyltransferase
+ABB52543.1	ABB52543.1	25523	26779	+	6-deoxy-D-allosyltransferase
+ABB52522.1	ABB52522.1	26850	27692	-	23S_rRNA-methyltransferase
+AAM81584.2	AAM81584.2	27962	41125	+	putative_type_I_polyketide_synthase
+AAM81585.1	AAM81585.1	41222	47152	+	putative_type_I_polyketide_synthase
+AAM81586.2	AAM81586.2	47282	58486	+	putative_type_I_polyketide_synthase
+ABB52544.1	ABB52544.1	58537	63393	+	putative_type_I_polyketide_synthase
+ABB52545.1	ABB52545.1	63500	67573	+	putative_type_I_polyketide_synthase
+ABB52546.1	ABB52546.1	67655	68869	+	NDP-hexose-3,4-isomerase
+ABB52547.1	ABB52547.1	68913	70190	+	chalcosyltransferase
+ABB52548.1	ABB52548.1	70304	71050	+	3-oxoacyl-(acyl-carrier-protein)-reductase
+ABB52549.1	ABB52549.1	73062	74804	+	putative_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	ABB52527.1	47	196	98.29059829059828	3.3e-50
+ctg36_41	ABB52529.1	55	401	99.23857868020305	1.1e-111
+ctg36_41	ABB52528.1	46	329	101.26903553299493	5.4e-90
+
+
+
+>>
+27. BGC0001396
+Source: Aldgamycin
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 925
+
+Table of genes, locations, strands and annotations of subject cluster:
+ANC94957.1	ANC94957.1	1	1092	-	hypothetical_protein
+ANC94958.1	ANC94958.1	1134	1352	-	hypothetical_protein
+ANC94959.1	ANC94959.1	1349	2095	-	AlmK
+ANC94960.1	ANC94960.1	2209	3486	-	AlmTI
+ANC94961.1	ANC94961.1	3530	4687	-	AlmBI
+ANC94962.1	ANC94962.1	4826	8899	-	AlmHV
+ANC94963.1	ANC94963.1	9006	13862	-	AlmHIV
+ANC94964.1	ANC94964.1	13915	24987	-	AlmHIII
+ANC94965.1	ANC94965.1	25057	30987	-	AlmHII
+ANC94966.1	ANC94966.1	31084	48720	-	AlmHI
+ANC94967.1	ANC94967.1	48990	49832	+	AlmRI
+ANC94968.1	ANC94968.1	49903	51159	-	AlmTII
+ANC94969.1	ANC94969.1	51215	52426	-	AlmEIV
+ANC94970.1	ANC94970.1	52458	53438	-	AlmEII
+ANC94971.1	ANC94971.1	53435	53602	-	AlmN
+ANC94973.1	ANC94973.1	53674	54705	-	AlmPI
+ANC94972.1	ANC94972.1	55197	55964	+	AlmEIII
+ANC94974.1	ANC94974.1	56156	56620	+	AlmEI
+ANC94975.1	ANC94975.1	56999	57847	+	AlmAI
+ANC94976.1	ANC94976.1	57890	58861	+	AlmAII
+ANC94977.1	ANC94977.1	58858	59730	+	AlmM
+ANC94978.1	ANC94978.1	59720	60943	+	AlmPIII
+ANC94979.1	ANC94979.1	60940	62214	+	AlmPII
+ANC94980.1	ANC94980.1	62377	64848	+	AlmRII
+ANC94981.1	ANC94981.1	64934	66391	+	AlmBIII
+ANC94982.1	ANC94982.1	66646	67368	+	AlmCII
+ANC94983.1	ANC94983.1	67508	68719	+	AlmBII
+ANC94984.1	ANC94984.1	68820	69824	+	AlmCI
+ANC94985.1	ANC94985.1	69937	70875	+	AlmUI
+ANC94986.1	ANC94986.1	70997	72022	+	AlmUII
+ANC94987.1	ANC94987.1	72024	74264	+	AlmUIII
+ANC94988.1	ANC94988.1	74277	76103	+	AlmDIV
+ANC94989.1	ANC94989.1	76130	76288	+	AlmUIV
+ANC94990.1	ANC94990.1	76328	77305	+	AlmDI
+ANC94991.1	ANC94991.1	77332	78375	+	AlmDII
+ANC94992.1	ANC94992.1	78407	79078	+	AlmDIII
+ANC94993.1	ANC94993.1	79394	80170	+	putative_serine/threonine_protein_kinase
+ANC94994.1	ANC94994.1	80312	80773	+	putative_Nudix_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	ANC94977.1	47	193	98.29059829059828	3.6e-49
+ctg36_41	ANC94979.1	55	403	99.23857868020305	5.1e-112
+ctg36_41	ANC94978.1	46	329	101.26903553299493	5.4e-90
+
+
+
+>>
+28. BGC0000266
+Source: Rubromycin
+Type: t2pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 866
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAM97372.1	AAM97372.1	768	2321	+	RubI
+AAM97360.1	AAM97360.1	2318	3091	+	RubJ
+AAM97361.1	AAM97361.1	4337	5176	+	RubK
+AAM97362.1	AAM97362.1	5227	6894	+	RubL
+AAM97363.1	AAM97363.1	6976	7464	-	RubM
+AAM97364.1	AAM97364.1	7614	9170	+	RubN
+AAM97365.1	AAM97365.1	9322	10749	+	RubO
+AAM97366.1	AAM97366.1	10920	12497	-	RubP
+AAM97373.1	AAM97373.1	12702	13148	+	RubQ
+AAM97367.1	AAM97367.1	13145	13678	+	RubW
+AAM97368.1	AAM97368.1	13675	15546	+	RubR
+AAM97369.1	AAM97369.1	15807	17792	+	RubS
+AAG03065.2	AAG03065.2	17953	18324	+	putative_cyclaseI
+AAG03066.1	AAG03066.1	18321	18752	+	putative_cyclase_II
+AAG03067.1	AAG03067.1	18749	20035	+	ketosynthase_alpha_subunit
+AAG03068.1	AAG03068.1	20032	21300	+	ketosynthase_beta_subunit
+AAG03069.1	AAG03069.1	21339	21602	+	acyl_carrier_protein
+AAG03070.2	AAG03070.2	21602	22798	+	RubF
+AAG03071.1	AAG03071.1	22829	23578	+	putative_reductase
+AAG03072.1	AAG03072.1	23580	23906	+	hypthetical_protein
+AAM97374.1	AAM97374.1	23903	24256	+	RubT
+AAM97370.1	AAM97370.1	24259	25518	+	RubU
+AAM97375.1	AAM97375.1	25557	26396	+	hypothetical_protein
+AAM97376.1	AAM97376.1	26403	27905	+	putative_transporter
+AAM97371.1	AAM97371.1	29882	31063	+	DNA_methylase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_38	AAM97368.1	46	515	102.12071778140293	8.3e-146
+ctg36_39	AAM97370.1	49	351	98.26732673267327	1.4e-96
+
+
+
+>>
+29. BGC0001042
+Source: Sanglifehrin A
+Type: nrps-t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 818
+
+Table of genes, locations, strands and annotations of subject cluster:
+ACY06266.1	ACY06266.1	1	1199	+	cytochrome_P450_monooxygenase
+ACY06267.1	ACY06267.1	1297	2505	+	hypothetical_protein
+ACY06268.1	ACY06268.1	2578	2853	+	acyl_carrier_protein
+ACY06269.1	ACY06269.1	2850	4502	+	CoA_ligase
+ACY06270.1	ACY06270.1	4627	5496	+	methyltransferase
+ACY06271.1	ACY06271.1	5748	6896	+	putative_p450_monooxygenase
+ACY06272.1	ACY06272.1	7389	8048	+	deoxyadenosine_kinase
+ACY06273.1	ACY06273.1	8587	9585	-	dehydrogenase
+ACY06274.1	ACY06274.1	9708	10583	+	LysR_family_regulator
+ACY06275.1	ACY06275.1	10602	10940	+	putative_protein_kinase
+ACY06276.1	ACY06276.1	11553	12338	+	hypothetical_protein
+ACY06277.1	ACY06277.1	12370	13284	-	hypothetical_protein
+ACY06278.1	ACY06278.1	13385	14017	+	TetR-like_family_regulator
+ACY06279.1	ACY06279.1	14498	14764	+	transglycosylase-associated_protein
+ACY06280.1	ACY06280.1	14973	15413	-	Ser/Arg-related_nuclear_matrix-like_protein
+ACY06281.1	ACY06281.1	15596	16063	+	chimeric_AFGP/trypsinogen-like_serine_protease_precursor
+ACY06282.1	ACY06282.1	17024	17854	+	tyrosine_3-monooxygenase
+ACY06283.1	ACY06283.1	17851	19191	+	L-lysine_6-monooxygenase
+ACY06284.1	ACY06284.1	19193	19888	+	negative_transcriptional_regulator
+ACY06285.1	ACY06285.1	19885	30714	+	non-ribosomal_peptide_synthetase
+ACY06286.1	ACY06286.1	30707	37360	+	polyketide_synthase
+ACY06287.1	ACY06287.1	37394	50014	+	type_I_polyketide_synthase
+ACY06288.1	ACY06288.1	50017	60903	+	type_I_polyketide_synthase
+ACY06289.1	ACY06289.1	60918	85823	+	type_I_polyketide_synthase
+ACY06290.1	ACY06290.1	85823	96040	+	type_I_polyketide_synthase
+ACY06291.1	ACY06291.1	96225	97391	+	zinc-binding_dehydrogenase
+ACY06292.1	ACY06292.1	97396	101943	+	modular_polyketide_synthase
+ACY06293.1	ACY06293.1	101936	103213	+	acyltransferase
+ACY06294.1	ACY06294.1	103210	103929	+	short-chain_dehydrogenase/reductase
+ACY06295.1	ACY06295.1	104001	105023	+	3-oxoacyl-(acyl-carrier-protein)_synthase_III
+ACY06296.1	ACY06296.1	104941	105345	+	acyl_carrier_protein
+ACY06297.1	ACY06297.1	105366	107216	+	asparagine_synthase
+ACY06298.1	ACY06298.1	107366	108145	+	thioesterase
+ACY06299.1	ACY06299.1	108150	109511	+	crotonyl_CoA_reductase
+ACY06300.1	ACY06300.1	109583	109798	+	putative_MbtH_family_protein
+ACY06301.1	ACY06301.1	109776	110312	+	hypothetical_protein
+ACY06302.1	ACY06302.1	111285	111743	-	hypothetical_protein
+ACY06303.1	ACY06303.1	112218	112652	+	hypothetical_protein
+ACY06304.1	ACY06304.1	112763	113296	+	transposase
+ACY06305.1	ACY06305.1	113783	114043	+	transposase
+ACY06307.1	ACY06307.1	114808	115536	+	hypothetical_protein
+ACY06306.1	ACY06306.1	115616	116281	-	TetR-family_transcriptional_regulator
+ACY06308.1	ACY06308.1	116347	117870	+	FAD-dependent_monooxygenase
+ACY06309.1	ACY06309.1	117873	118372	+	putative_endoribonuclease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	ACY06298.1	46	208	96.58119658119658	1.1e-53
+ctg36_38	ACY06297.1	53	610	99.673735725938	3.2e-174
+
+
+
+>>
+30. BGC0000074
+Source: Herbimycin
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 741
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAY28209.1	AAY28209.1	71	2359	-	unknown
+AAY28210.1	AAY28210.1	2359	2775	-	unknown
+AAY28211.1	AAY28211.1	2762	3745	-	unknown
+AAY28212.1	AAY28212.1	3757	5013	-	unknown
+AAY28213.1	AAY28213.1	5026	6852	-	unknown
+AAY28214.1	AAY28214.1	6887	8317	-	putative_transmembrane_efflux_protein
+AAY28215.1	AAY28215.1	8437	9207	-	unknown
+AAY28216.1	AAY28216.1	9204	10286	-	FtrD
+AAY28217.1	AAY28217.1	10286	11362	-	lipoprotein
+AAY28218.1	AAY28218.1	18360	19043	-	unknown
+AAY28219.1	AAY28219.1	21063	21965	-	putative_secreted_protein
+AAY28220.1	AAY28220.1	22155	22946	-	putative_hydrolase
+AAY28221.1	AAY28221.1	23100	23984	+	putative_transcriptional_regulator
+AAY28222.1	AAY28222.1	24036	24797	-	putative_transcriptional_regulator
+AAY28223.1	AAY28223.1	24781	26277	+	HbmL
+AAY28224.1	AAY28224.1	26325	26795	-	HbmX
+AAY28225.1	AAY28225.1	27677	48139	+	HbmAI
+AAY28226.1	AAY28226.1	48197	58492	+	HbmAII
+AAY28227.1	AAY28227.1	58519	70125	+	HbmAIII
+AAY28228.1	AAY28228.1	70662	72719	-	HbmN
+AAY28229.1	AAY28229.1	72781	73893	-	HbmH
+AAY28230.1	AAY28230.1	73890	75002	-	HbmI
+AAY28231.1	AAY28231.1	74999	75274	-	HbmJ
+AAY28232.1	AAY28232.1	75271	76137	-	HbmK
+AAY28233.1	AAY28233.1	76381	77037	+	HbmG
+AAY28234.1	AAY28234.1	77137	79917	-	HbmRII
+AAY28235.1	AAY28235.1	80193	81257	-	HbmO
+AAY28236.1	AAY28236.1	81334	81528	-	HbmFdx
+AAY28237.1	AAY28237.1	81571	82764	-	HbmP
+AAY28238.1	AAY28238.1	82921	85764	-	HbmRI
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_38	AAY28213.1	53	601	100.65252854812398	1.2e-171
+ctg36_56	AAY28218.1	51	140	98.23529411764706	2e-33
+
+
+
+>>
+31. BGC0000078
+Source: Incednine
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 592
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAP34699.1	BAP34699.1	1	2069	+	superfamily_I_DNA_and_RNA_helicase-like_protein
+BAP34700.1	BAP34700.1	2126	2521	-	hypothetical_protein
+BAP34701.1	BAP34701.1	2644	3135	-	hypothetical_protein
+BAP34702.1	BAP34702.1	3362	3583	-	MbtH-like_protein
+BAP34703.1	BAP34703.1	4554	5216	+	LmbE_family_protein
+BAP34704.1	BAP34704.1	5408	6820	+	UDP-glucose/GDP-mannose_dehydrogenase
+BAP34705.1	BAP34705.1	6885	7841	+	NAD-dependent_epimerase/dehydratase
+BAP34706.1	BAP34706.1	8085	10994	+	LuxR-family_transcriptional_regulator
+BAP34707.1	BAP34707.1	11307	12905	+	AMP-dependent_synthetase_and_ligase
+BAP34708.1	BAP34708.1	13073	14182	-	malonyl-CoA-ACP_transacylase
+BAP34709.1	BAP34709.1	14197	15483	-	(PLP)-dependent_aspartate_aminotransferase_superfamily
+BAP34710.1	BAP34710.1	15517	16878	-	radical-SAM_L-lysine_2,3-aminomutase
+BAP34711.1	BAP34711.1	17000	17929	-	proline_iminopeptidase
+BAP34712.1	BAP34712.1	18316	19644	+	glycosyltransferase
+BAP34713.1	BAP34713.1	19828	21036	-	methyltransferase
+BAP34714.1	BAP34714.1	21287	22261	-	dTDP-glucose_4,6-dehydratase
+BAP34715.1	BAP34715.1	22258	23325	-	glucose-1-phosphate_thymidylyltransferase
+BAP34716.1	BAP34716.1	23395	24132	-	N-methyltransferase
+BAP34717.1	BAP34717.1	24577	24816	-	acyl_carrier_protein
+BAP34718.1	BAP34718.1	24954	26522	+	AMP-dependent_synthetase_and_ligase
+BAP34719.1	BAP34719.1	26677	27882	+	cytochrome_P450
+BAP34720.1	BAP34720.1	28673	29308	+	transcriptional_regulator
+BAP34721.1	BAP34721.1	29779	30123	+	hypothetical_protein
+BAP34722.1	BAP34722.1	30120	31583	+	hypothetical_protein
+BAP34723.1	BAP34723.1	31628	32032	+	hypothetical_protein
+BAP34724.1	BAP34724.1	32138	32599	+	Putative_hydrolase
+BAP34725.1	BAP34725.1	32596	32952	+	hypothetical_protein
+BAP34726.1	BAP34726.1	32960	33982	+	thymidylate_synthase
+BAP34727.1	BAP34727.1	33979	35007	+	nucleoside_diphosphate_kinase
+BAP34728.1	BAP34728.1	34997	36175	+	hypothetical_protein
+BAP34729.1	BAP34729.1	36172	36774	+	DNA_polymerase_III
+BAP34730.1	BAP34730.1	36768	37376	+	hypothetical_protein
+BAP34731.1	BAP34731.1	37373	38023	+	oxidoreductase
+BAP34732.1	BAP34732.1	38154	38669	+	hypothetical_protein
+BAP34733.1	BAP34733.1	39077	50023	-	type_I_polyketide_synthase
+BAP34734.1	BAP34734.1	50108	66139	-	type_I_polyketide_synthase
+BAP34735.1	BAP34735.1	66380	67210	+	thioesterase_involved_in_non-ribosomal_peptide_biosynthesis
+BAP34736.1	BAP34736.1	67450	68247	-	ABC-type_multidrug_transport_system
+BAP34737.1	BAP34737.1	68244	69200	-	ABC-type_multidrug_transport_system
+BAP34738.1	BAP34738.1	69310	70158	+	regulatory_protein_TetR
+BAP34739.1	BAP34739.1	70616	82201	-	type_I_polyketide_synthase
+BAP34740.1	BAP34740.1	82241	87412	-	type_I_polyketide_synthase
+BAP34741.1	BAP34741.1	88093	89280	-	glycosyltransferase
+BAP34742.1	BAP34742.1	89781	91136	+	NDP-hexose_2,3-dehydratase
+BAP34743.1	BAP34743.1	91214	92230	+	NDP-hexose-3-ketoreductase
+BAP34744.1	BAP34744.1	92233	93567	+	NDP-hexose-3,4-dehydratase
+BAP34745.1	BAP34745.1	93557	94852	+	aminotransferase
+BAP34746.1	BAP34746.1	94907	96184	-	glycosyltransferase
+BAP34747.1	BAP34747.1	96199	97470	-	cytochrome_P450
+BAP34748.1	BAP34748.1	97467	98396	-	glycosyltransferase
+BAP34749.1	BAP34749.1	100768	102102	-	glutamate-1-semialdehyde_aminotransferase
+BAP34750.1	BAP34750.1	102204	102950	+	dehydrogenase
+BAP34751.1	BAP34751.1	102813	103463	-	hypothetical_protein
+BAP34752.1	BAP34752.1	103460	104269	-	phytanoyl-CoA_dioxygenase
+BAP34753.1	BAP34753.1	106414	107517	-	hypothetical_protein
+BAP34754.1	BAP34754.1	107471	108973	-	hypothetical_protein
+BAP34755.1	BAP34755.1	109004	109738	+	hypothetical_protein
+BAP34756.1	BAP34756.1	109890	110147	-	hypothetical_protein
+BAP34757.1	BAP34757.1	112262	112504	-	hypothetical_protein
+BAP34758.1	BAP34758.1	112454	112819	+	hypothetical_protein
+BAP34759.1	BAP34759.1	113029	113415	+	hypothetical_protein
+BAP34760.1	BAP34760.1	113419	114375	+	hypothetical_protein
+BAP34761.1	BAP34761.1	114372	115568	+	O-methyltransferase
+BAP34762.1	BAP34762.1	116103	116555	-	secreted_protein
+BAP34763.1	BAP34763.1	116795	128485	-	type_I_polyketide_synthase
+BAP34764.1	BAP34764.1	129343	130209	+	glyceryl-ACP_oxidoreductase
+BAP34765.1	BAP34765.1	130206	130502	+	acyl_carrier_protein
+BAP34766.1	BAP34766.1	130495	131727	+	acyl-CoA_dehydrogenase
+BAP34767.1	BAP34767.1	131744	132865	+	FkbH-like_protein
+BAP34768.1	BAP34768.1	133147	133809	-	O-methyltransferase
+BAP34769.1	BAP34769.1	134104	134511	+	hypothetical_protein
+BAP34770.1	BAP34770.1	134598	136205	-	spermidine_synthase
+BAP34771.1	BAP34771.1	136213	136650	-	hypothetical_protein
+BAP34772.1	BAP34772.1	136709	137125	-	hypothetical_protein
+BAP34773.1	BAP34773.1	137122	137706	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_41	BAP34719.1	51	342	100.0	1.1e-93
+ctg36_60	BAP34737.1	47	250	98.71382636655949	3.3e-66
+
+
+
+>>
+32. BGC0001052
+Source: Tirandamycin
+Type: nrps-t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 590
+
+Table of genes, locations, strands and annotations of subject cluster:
+ADC79635.1	ADC79635.1	1	636	-	TamM
+ADC79636.1	ADC79636.1	770	2272	+	TamL
+ADC79637.1	ADC79637.1	2478	19964	+	TamAI
+ADC79638.1	ADC79638.1	20104	30201	+	TamAII
+ADC79639.1	ADC79639.1	30206	38611	+	TamAIII
+ADC79640.1	ADC79640.1	38608	39384	+	TamB
+ADC79641.1	ADC79641.1	39576	40406	+	TamC
+ADC79642.1	ADC79642.1	40523	43678	+	TamD
+ADC79643.1	ADC79643.1	43702	44532	+	TamE
+ADC79644.1	ADC79644.1	44529	46067	+	TamF
+ADC79645.1	ADC79645.1	46558	48651	+	TamG
+ADC79646.1	ADC79646.1	48917	51730	+	TamH
+ADC79647.1	ADC79647.1	51684	52925	-	TamI
+ADC79648.1	ADC79648.1	53232	54728	-	TamJ
+ADC79649.1	ADC79649.1	54890	55522	+	TamK
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	ADC79640.1	49	212	95.2991452991453	9.8e-55
+ctg36_39	ADC79647.1	50	378	100.0	1.8e-104
+
+
+
+>>
+33. BGC0001060
+Source: Dynemicin
+Type: t1pks+t2pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 581
+
+Table of genes, locations, strands and annotations of subject cluster:
+ACB47031.1	ACB47031.1	2116	3345	+	hypothetical_protein
+ACB47032.1	ACB47032.1	3364	4284	-	NTP_pyrophosphohydrolase
+ACB47033.1	ACB47033.1	4478	6295	+	hypothetical_protein
+ACB47034.1	ACB47034.1	6369	7016	-	hypothetical_protein
+ACB47035.1	ACB47035.1	13044	13523	+	GntT-like_protein
+ACB47036.1	ACB47036.1	13423	13773	-	TobX-like_protein
+ACB47037.1	ACB47037.1	14054	14521	-	unkown_protein
+ACB47038.1	ACB47038.1	14799	15254	+	hypothetical_protein
+ACB47039.1	ACB47039.1	15598	16656	+	putative_tryptophanyl-tRNA_synthetase
+ACB47040.1	ACB47040.1	16939	18657	+	putative_class_Ic_arginyl-tRNA_synthetase
+ACB47041.1	ACB47041.1	18716	19150	-	hypothetical_protein
+ACB47042.1	ACB47042.1	19092	20252	-	putative_xanthine/CO_dehydrogenases_maturation_factor
+ACB47043.1	ACB47043.1	20194	20781	-	hypothetical_protein
+ACB47044.1	ACB47044.1	20782	22653	-	CalR2-like_protein
+ACB47045.1	ACB47045.1	22855	23841	+	DynU15
+ACB47046.1	ACB47046.1	23898	25796	+	DynU14
+ACB47047.1	ACB47047.1	25826	26815	+	DynT3
+ACB47048.1	ACB47048.1	26849	32551	+	DynE8
+ACB47049.1	ACB47049.1	32556	32990	+	DynE7
+ACB47050.1	ACB47050.1	32987	33646	+	DynS6
+ACB47051.1	ACB47051.1	33652	34326	-	DynU8
+ACB47052.1	ACB47052.1	34396	35319	+	DynU6
+ACB47053.1	ACB47053.1	35283	37166	-	DynR2
+ACB47054.1	ACB47054.1	37274	38638	+	DynR3
+ACB47055.1	ACB47055.1	38660	39226	+	DynU21
+ACB47056.1	ACB47056.1	39223	39798	+	unkown_protein
+ACB47057.1	ACB47057.1	39828	41045	-	unkown_protein
+ACB47058.1	ACB47058.1	41055	41687	-	unkown_protein
+ACB47059.1	ACB47059.1	41709	43034	-	PBS_lyase_HEAT-like_repeat_protein
+ACB47060.1	ACB47060.1	43124	44674	+	ketone_reductase
+ACB47061.1	ACB47061.1	44713	45564	+	unkown_protein
+ACB47062.1	ACB47062.1	45570	46421	+	DynR7
+ACB47063.1	ACB47063.1	46468	47724	-	hypothetical_protein
+ACB47064.1	ACB47064.1	47735	48871	-	FAD-dependent_oxidoreductase
+ACB47065.1	ACB47065.1	49086	49514	+	putative_hydroxylase
+ACB47066.1	ACB47066.1	49551	50054	+	putative_hydroxylase
+ACB47067.1	ACB47067.1	50182	51078	-	conserved_hypothetical_protein
+ACB47068.1	ACB47068.1	51075	52604	-	putative_secreted_hydrolase
+ACB47069.1	ACB47069.1	52523	53635	-	putative_methyltransferase
+ACB47070.1	ACB47070.1	53691	54902	-	putative_cytochrome_P450_hydroxylase
+ACB47071.1	ACB47071.1	54945	56147	-	putative_cytochrome_P450_hydroxylase
+ACB47072.1	ACB47072.1	56283	56723	-	hypothetical_protein
+ACB47073.1	ACB47073.1	56720	57064	-	putative_transcriptional_regulator
+ACB47074.1	ACB47074.1	57068	57439	-	hypothetical_protein
+ACB47075.1	ACB47075.1	57582	58391	-	putative_integral_membrane_transport_protein
+ACB47076.1	ACB47076.1	58388	59389	-	DynT5
+ACB47077.1	ACB47077.1	59513	59884	-	hypothetical_protein
+ACB47078.1	ACB47078.1	59911	62271	-	putative_carbon_monoxide_dehydrogenase_large_subunit
+ACB47079.1	ACB47079.1	62268	62762	-	putative_carbon_monoxide_dehydrogenase_small_subunit
+ACB47080.1	ACB47080.1	62778	63656	-	putative_carbon_monoxide_dehydrogenase_medium_subunit
+ACB47081.1	ACB47081.1	63682	64731	-	DynO6
+ACB47082.1	ACB47082.1	64871	65890	-	putative_transmembrane_transport_protein
+ACB47083.1	ACB47083.1	65887	66804	-	putative_ABC_transporter_ATP-binding_protein
+ACB47084.1	ACB47084.1	66977	67972	-	putative_transmembrane_transport_protein
+ACB47085.1	ACB47085.1	68128	68697	+	putative_2-component_system_sensor_kinase
+ACB47086.1	ACB47086.1	68795	69451	+	hypothetical_protein
+ACB47087.1	ACB47087.1	69668	70093	+	hypothetical_protein
+ACB47088.1	ACB47088.1	70161	70586	+	unkown_protein
+ACB47089.1	ACB47089.1	71495	74911	-	type_I_site-specific_deoxyribonuclease_protein_R
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_41	ACB47071.1	48	321	99.74619289340102	1.5e-87
+ctg36_60	ACB47076.1	46	260	96.14147909967846	4.2e-69
+
+
+
+>>
+34. BGC0001522
+Source: Auroramycin
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 541
+
+Table of genes, locations, strands and annotations of subject cluster:
+AWR88379.1	AWR88379.1	1	1829	-	hypothetical_protein
+AWR88380.1	AWR88380.1	2122	3504	+	hypothetical_protein
+AWR88381.1	AWR88381.1	3531	4901	+	hypothetical_protein
+AWR88382.1	AWR88382.1	5326	6141	+	hypothetical_protein
+AWR88383.1	AWR88383.1	6322	7029	+	putative_GntR_family_transcriptional_regulator
+AWR88384.1	AWR88384.1	7214	7495	-	hypothetical_protein
+AWR88385.1	AWR88385.1	7592	10519	+	putative_GCN5-related_N-acetyltransferase
+AWR88386.1	AWR88386.1	10577	11173	+	hypothetical_protein
+AWR88387.1	AWR88387.1	11173	12360	+	hypothetical_protein
+AWR88388.1	AWR88388.1	12407	13057	+	hypothetical_protein
+AWR88389.1	AWR88389.1	13082	15976	-	putative_LuxR_family_transcriptional_regulator
+AWR88390.1	AWR88390.1	16258	17244	-	putative_NAD-dependent_epimerase/dehydratase
+AWR88391.1	AWR88391.1	17267	18490	-	putative_nucleotide_sugar_dehydrogenase
+AWR88392.1	AWR88392.1	18682	19362	-	hypothetical_protein
+AWR88393.1	AWR88393.1	19662	31130	+	putative_beta-ketoacyl_synthase
+AWR88394.1	AWR88394.1	31162	32499	+	putative_crotonyl-CoA_reductase_/_alcohol_dehydrogenase
+AWR88395.1	AWR88395.1	32496	33506	+	putative_3-oxoacyl-(acyl_carrier_protein)_synthase_III
+AWR88396.1	AWR88396.1	33503	34363	+	putative_3-hydroxybutyryl-CoA_dehydrogenase
+AWR88397.1	AWR88397.1	34440	35423	+	putative_glycosyltransferase,_MGT_family
+AWR88398.1	AWR88398.1	35485	40416	+	putative_beta-ketoacyl_synthase
+AWR88399.1	AWR88399.1	40544	51436	+	putative_beta-ketoacyl_synthase
+AWR88400.1	AWR88400.1	51457	52224	-	putative_TetR_family_transcriptional_regulator
+AWR88401.1	AWR88401.1	52320	53330	+	putative_ABC_transporter_ATP-binding_protein
+AWR88402.1	AWR88402.1	53327	54124	+	putative_ABC-2_type_transporter
+AWR88403.1	AWR88403.1	54207	54983	-	putative_thioesterase
+AWR88404.1	AWR88404.1	55358	71611	+	putative_beta-ketoacyl_synthase
+AWR88405.1	AWR88405.1	71617	82992	+	putative_phosphopantetheine-binding_domain-_containing_prot_ein
+AWR88406.1	AWR88406.1	83195	84391	-	putative_cytochrome_P450
+AWR88407.1	AWR88407.1	84388	86028	-	putative_AMP-dependent_synthetase_and_ligase
+AWR88408.1	AWR88408.1	86170	86409	+	putative_acyl_carrier_protein
+AWR88409.1	AWR88409.1	86493	88169	+	putative_AMP-dependent_synthetase_and_ligase
+AWR88410.1	AWR88410.1	88111	89100	-	putative_malonyl_CoA-acyl_carrier_protein_transacylase
+AWR88411.1	AWR88411.1	89191	90585	-	putative_aminotransferase
+AWR88412.1	AWR88412.1	90606	91952	-	hypothetical_protein
+AWR88413.1	AWR88413.1	91987	92904	-	putative_haloalkane_dehalogenase
+AWR88414.1	AWR88414.1	93108	94403	+	putative_glycosyltransferase,_MGT_family
+AWR88415.1	AWR88415.1	94551	95621	+	putative_glucose-1-phosphate_adenylyl/_thymidylyltransferas_e
+AWR88416.1	AWR88416.1	95618	96667	+	putative_NAD-dependent_epimerase/dehydratase
+AWR88417.1	AWR88417.1	96664	98028	+	hypothetical_protein
+AWR88418.1	AWR88418.1	98097	98825	-	putative_methyltransferase
+AWR88419.1	AWR88419.1	99031	100023	+	putative_glycosyltransferase,_MGT_family
+AWR88420.1	AWR88420.1	100058	101326	-	hypothetical_protein
+AWR88421.1	AWR88421.1	101465	102781	+	putative_cytochrome_P450
+AWR88422.1	AWR88422.1	102804	104093	+	putative_glycosyltransferase,_MGT_family
+AWR88423.1	AWR88423.1	104090	105106	+	putative_oxidoreductase
+AWR88424.1	AWR88424.1	105096	106286	+	putative_DegT/DnrJ/EryC1/StrS_aminotransferase
+AWR88425.1	AWR88425.1	106383	107720	-	putative_ABC_transporter,_permease_component
+AWR88426.1	AWR88426.1	107724	108536	-	putative_ABC_transporter_ATP-binding_protein
+AWR88427.1	AWR88427.1	108956	109300	+	hypothetical_protein
+AWR88428.1	AWR88428.1	109387	110163	-	hypothetical_protein
+AWR88429.1	AWR88429.1	110400	111230	+	putative_rhodanese_domain-containing_protein
+AWR88430.1	AWR88430.1	111315	112772	-	hypothetical_protein
+AWR88431.1	AWR88431.1	112822	113994	+	hypothetical_protein
+AWR88432.1	AWR88432.1	114080	115399	-	hypothetical_protein
+AWR88433.1	AWR88433.1	115359	116603	-	putative_major_facilitator_transporter
+AWR88434.1	AWR88434.1	116755	117927	+	hypothetical_protein
+AWR88435.1	AWR88435.1	117978	118778	+	putative_inositol_monophosphatase
+AWR88436.1	AWR88436.1	118871	119044	-	hypothetical_protein
+AWR88437.1	AWR88437.1	119427	120080	+	putative_response_regulator
+AWR88438.1	AWR88438.1	120086	121318	+	putative_sensor_histidine_kinase
+AWR88439.1	AWR88439.1	121722	122018	+	hypothetical_protein
+AWR88440.1	AWR88440.1	122032	122994	+	hypothetical_protein
+AWR88441.1	AWR88441.1	123045	123503	-	hypothetical_protein
+AWR88442.1	AWR88442.1	123712	124146	+	hypothetical_protein
+AWR88443.1	AWR88443.1	124280	124672	+	hypothetical_protein
+AWR88444.1	AWR88444.1	125158	125445	+	hypothetical_protein
+AWR88445.1	AWR88445.1	125600	126292	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	AWR88403.1	47	205	94.44444444444444	7e-53
+ctg36_41	AWR88406.1	49	336	99.23857868020305	4.5e-92
+
+
+
+>>
+35. BGC0001452
+Source: Sipanmycin
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 541
+
+Table of genes, locations, strands and annotations of subject cluster:
+sipR1	sipR1	1	2895	-	LuxR_family_transcriptional_regulator
+sipS3	sipS3	3176	4162	-	Nucleoside-diphosphate_sugar_epimerase
+sipS2	sipS2	4185	5408	-	nucleotide-glucose-dehydrogenase
+sipS1	sipS1	5610	6290	-	N-acetylglucosaminyl_deacetilase
+sipP5	sipP5	6584	18019	+	Type_I_Modular_PKS
+sipIB3	sipIB3	18054	19391	+	crotonyl-CoA_carboxylase_/_reductase
+sipIB1	sipIB1	19388	20398	+	3-oxoacyl-(acyl_carrier_protein)_synthase_III
+SipIB2	SipIB2	20395	21246	+	3-hydroxybutyryl-CoA_dehydrogenase
+sipS15	sipS15	21322	22305	+	glycosyltransferase,_MGT_family
+sipP4	sipP4	22367	27247	+	Type_I_Modular_PKS
+sipP3	sipP3	27301	38199	+	Type_I_Modular_PKS
+sipR2	sipR2	38220	38987	-	TetR_family_transcriptional_regulator
+sipT2	sipT2	39083	40093	+	ABC_transporter_ATP-binding_protein
+sipT1	sipT1	40090	40887	+	ABC-2_type_transporter
+sipB	sipB	40972	41760	-	thioesterase
+sipP2	sipP2	42122	58708	+	Type_I_Modular_PKS
+sipP1	sipP1	58714	70164	+	Type_I_Modular_PKS
+sipO1	sipO1	70327	71523	-	cytochrome_P450
+sipL7	sipL7	71520	73169	-	AMP-dependent_synthetase_and_ligase
+sipL6	sipL6	73312	73551	+	acyl_carrier_protein
+sipL1	sipL1	73645	75324	+	AMP-dependent_synthetase_and_ligase
+sipL2	sipL2	75266	76264	-	malonyl_CoA-acyl_carrier_protein_transacylase
+sipL3	sipL3	76335	77729	-	aminotransferase
+sipL4	sipL4	77750	79099	-	lysine_2,3-aminomutase
+sipL5	sipL5	79134	80051	-	L-proline_amide_hydrolase
+sipS4	sipS4	80255	81550	+	glycosyltransferase,_MGT_family
+sipS7	sipS7	81699	82769	+	glucose-1-phosphate_thymidylyltransferase
+sipS6	sipS6	82766	83815	+	dTDP-glucose_4,6-dehydratase
+sipS10	sipS10	83812	85176	+	NDP-hexose_2,3-dehydratase
+sipS8	sipS8	85245	85973	-	N-methyltransferase
+sipS9	sipS9	86005	87171	+	glycosyltransferase,_MGT_family
+sipS5a	sipS5a	87206	88474	-	C-methyltransferase
+sipO2	sipO2	88613	89929	+	cytochrome_P450
+sipS14	sipS14	89952	91241	+	glycosyltransferase,_MGT_family
+sipS11	sipS11	91238	92254	+	NDP-hexose-3-ketoreductase
+sipS13	sipS13	92244	93434	+	dTDP-4-dehydro-6-deoxyglucose_aminotransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	sipB	47	203	94.44444444444444	2.7e-52
+ctg36_41	sipO1	49	338	99.23857868020305	1.2e-92
+
+
+
+>>
+36. BGC0001666
+Source: Microansamycin
+Type: polyketide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 497
+
+Table of genes, locations, strands and annotations of subject cluster:
+ATY46582.1	ATY46582.1	164	1681	-	FAD-linked_oxidase_domain_protein
+ATY46583.1	ATY46583.1	1782	2618	-	shikimate_dehydrogenase
+ATY46584.1	ATY46584.1	2615	4930	-	LuxR_family_transcriptional_regulator
+ATY46585.1	ATY46585.1	5845	6681	+	kinase
+ATY46586.1	ATY46586.1	6637	7719	-	aDHQ_synthase
+ATY46587.1	ATY46587.1	7959	22766	+	polyketide_synthase
+ATY46588.1	ATY46588.1	22780	23703	+	monooxygenase
+ATY46589.1	ATY46589.1	24264	25481	+	acyltransferase
+ATY46590.1	ATY46590.1	25507	26727	+	cytochrome_P450
+ATY46591.1	ATY46591.1	26673	26969	+	ferredoxin
+ATY46592.1	ATY46592.1	27042	28568	-	monooxygenase_FAD-binding_protein
+ATY46593.1	ATY46593.1	28815	29597	-	amide_synthase
+ATY46594.1	ATY46594.1	29597	32698	-	polyketide_synthase
+ATY46595.1	ATY46595.1	32736	38057	-	polyketide_synthase
+ATY46596.1	ATY46596.1	38672	41293	+	SARP_regulator
+ATY46597.1	ATY46597.1	41343	42266	-	NADPH:quinone_reductase
+ATY46598.1	ATY46598.1	42368	43558	-	cytochrome_P450
+ATY46599.1	ATY46599.1	43981	45450	-	drug_resistance_transporter
+ATY46600.1	ATY46600.1	45531	45938	+	HxlR_family_transcriptional_regulator
+ATY46601.1	ATY46601.1	46067	46501	-	aminoDHQ_dehydratase
+ATY46602.1	ATY46602.1	46772	47938	+	AHBA_synthase
+ATY46603.1	ATY46603.1	48004	49074	+	oxidoreductase
+ATY46604.1	ATY46604.1	49077	49742	+	phosphatase
+ATY46605.1	ATY46605.1	49819	51162	-	aDAHP_synthase
+ATY46606.1	ATY46606.1	51642	52208	+	type_II_thioesterase
+ATY46607.1	ATY46607.1	52205	52966	-	putative_phosphate_acyltransferase
+ATY46608.1	ATY46608.1	52999	53592	-	TetR_family_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	ATY46606.1	51	172	73.50427350427351	8.6e-43
+ctg36_41	ATY46590.1	47	325	101.01522842639594	1.3e-88
+
+
+
+>>
+37. BGC0000055
+Source: Erythromycin
+Type: t1pks-saccharide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 480
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	SACE_0729	47	178	97.43589743589743	1.2e-44
+ctg36_39	SACE_0730	46	302	99.5049504950495	7.3e-82
+
+
+
+>>
+38. BGC0001619
+Source: Ibomycin
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 478
+
+Table of genes, locations, strands and annotations of subject cluster:
+AKA59073.1	AKA59073.1	155541	156227	-	hydrolase
+AKA59074.1	AKA59074.1	157363	158193	+	metallophosphoesterase
+AKA59075.1	AKA59075.1	158268	159086	+	4'-phosphopantetheinyl_transferase
+AKA59076.1	AKA59076.1	159175	160137	+	NDP-glucose_4,6-dehydratase
+AKA59077.1	AKA59077.1	160216	161487	-	cytochrome_P450
+AKA59078.1	AKA59078.1	161688	162911	-	glycosyltransferase
+AKA59079.1	AKA59079.1	162908	164161	-	glycosyltransferase
+AKA59080.1	AKA59080.1	164158	165045	-	NDP-glucose_synthase
+AKA59081.1	AKA59081.1	165053	166267	-	glycosyltransferase
+AKA59082.1	AKA59082.1	166554	168209	+	beta-N-acetylhexosaminidase
+AKA59083.1	AKA59083.1	168599	169402	-	ABC_transporter
+AKA59084.1	AKA59084.1	169399	170382	-	ABC_transporter
+AKA59085.1	AKA59085.1	170387	171643	-	glycosyltransferase
+AKA59086.1	AKA59086.1	171942	172697	-	thioesterase
+AKA59087.1	AKA59087.1	173382	174776	+	NDP-hexose_2,3-dehydratase
+AKA59088.1	AKA59088.1	175191	187340	+	type-I_PKS
+AKA59089.1	AKA59089.1	187340	202438	+	type-I_PKS
+AKA59090.1	AKA59090.1	213316	227694	+	type-I_PKS
+AKA59091.1	AKA59091.1	227769	247544	+	type-I_PKS
+AKA59092.1	AKA59092.1	247541	261832	+	type-I_PKS
+AKA59093.1	AKA59093.1	261829	273732	+	type-I_PKS
+AKA59094.1	AKA59094.1	274110	274622	-	hypothetical_protein
+AKA59095.1	AKA59095.1	274790	276058	+	sensor_histidine_kinase
+AKA59096.1	AKA59096.1	276062	276712	+	LuxR-family_response_regulator
+AKA59097.1	AKA59097.1	276753	278027	-	glycosyltransferase
+AKA59098.1	AKA59098.1	278251	279207	+	NDP-hexose_4-ketoreductase
+AKA59099.1	AKA59099.1	279376	280686	+	NDP-hexose-3-dehydratase
+AKA59100.1	AKA59100.1	280820	281836	+	NDP-hexose-3-reductase
+AKA59101.1	AKA59101.1	281823	283079	+	glycosyltransferase
+AKA59102.1	AKA59102.1	283159	284355	+	glycosyltransferase
+AKA59103.1	AKA59103.1	284424	284522	+	hypothetical_protein
+AKV63202.1	AKV63202.1	285352	289350	-	hypothetical_protein
+AKA59104.1	AKA59104.1	289431	291716	-	LuxR-family_transcriptional_regulator
+AKA59105.1	AKA59105.1	292481	295309	+	LuxR-family_transcriptional_regulator
+AKA59106.1	AKA59106.1	296289	297035	+	LuxR-family_transcriptional_regulator
+AKA59107.1	AKA59107.1	297151	297843	+	two-component_system_regulator
+AKA59108.1	AKA59108.1	297970	298407	-	DNA-binding_protein
+AKA59109.1	AKA59109.1	298818	299921	-	endochitinase
+AKA59110.1	AKA59110.1	300169	301053	-	hypothetical_protein
+AKA59111.1	AKA59111.1	301212	301898	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	AKA59086.1	46	203	98.29059829059828	4.6e-52
+ctg36_60	AKA59084.1	48	275	98.71382636655949	7.4e-74
+
+
+
+>>
+39. BGC0000034
+Source: Candicidin
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 478
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAQ82549.1	AAQ82549.1	574	1950	-	FscO
+AAQ82550.2	AAQ82550.2	2264	3037	-	PabC
+AAQ82551.1	AAQ82551.1	3150	3818	-	FscRI
+AAQ82552.1	AAQ82552.1	4377	7205	-	FscRII
+AAQ82553.1	AAQ82553.1	7210	10254	-	FscRIII
+AAQ82554.1	AAQ82554.1	10298	13315	-	FscRIV
+AAQ82555.1	AAQ82555.1	13522	14898	+	FscMI
+AAQ82556.1	AAQ82556.1	14953	16011	+	FscMII
+AAQ82557.1	AAQ82557.1	16106	17287	+	FscP
+AAQ82558.1	AAQ82558.1	17334	17528	+	FscFE
+AAQ82559.1	AAQ82559.1	17556	18413	+	FscTE
+AAQ82560.1	AAQ82560.1	18610	20781	+	PabAB
+AAQ82561.1	AAQ82561.1	20927	26158	+	FscA
+AAQ82562.1	AAQ82562.1	26333	27340	+	FscTI
+AAQ82563.1	AAQ82563.1	27561	28280	+	FscTII
+AAQ82564.1	AAQ82564.1	28983	60860	-	FscC
+AAQ82565.1	AAQ82565.1	60962	77587	-	FscB
+AAQ82566.1	AAQ82566.1	77983	84132	-	FscF
+AAQ82567.1	AAQ82567.1	84170	107485	-	FscE
+AAQ82568.1	AAQ82568.1	107496	136148	-	FscD
+AAQ82569.1	AAQ82569.1	136558	137766	-	FscMIII
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	AAQ82559.1	46	195	96.58119658119658	7.3e-50
+ctg36_60	AAQ82562.1	50	283	99.35691318327974	4.6e-76
+
+
+
+>>
+40. BGC0000061
+Source: FR-008
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 478
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAQ82549.1	AAQ82549.1	574	1950	-	FscO
+AAQ82550.2	AAQ82550.2	2264	3037	-	PabC
+AAQ82551.1	AAQ82551.1	3150	3818	-	FscRI
+AAQ82552.1	AAQ82552.1	4377	7205	-	FscRII
+AAQ82553.1	AAQ82553.1	7210	10254	-	FscRIII
+AAQ82554.1	AAQ82554.1	10298	13315	-	FscRIV
+AAQ82555.1	AAQ82555.1	13522	14898	+	FscMI
+AAQ82556.1	AAQ82556.1	14953	16011	+	FscMII
+AAQ82557.1	AAQ82557.1	16106	17287	+	FscP
+AAQ82558.1	AAQ82558.1	17334	17528	+	FscFE
+AAQ82559.1	AAQ82559.1	17556	18413	+	FscTE
+AAQ82560.1	AAQ82560.1	18610	20781	+	PabAB
+AAQ82561.1	AAQ82561.1	20927	26158	+	FscA
+AAQ82562.1	AAQ82562.1	26333	27340	+	FscTI
+AAQ82563.1	AAQ82563.1	27561	28280	+	FscTII
+AAQ82564.1	AAQ82564.1	28983	60860	-	FscC
+AAQ82565.1	AAQ82565.1	60962	77587	-	FscB
+AAQ82566.1	AAQ82566.1	77983	84132	-	FscF
+AAQ82567.1	AAQ82567.1	84170	107485	-	FscE
+AAQ82568.1	AAQ82568.1	107496	136148	-	FscD
+AAQ82569.1	AAQ82569.1	136558	137766	-	FscMIII
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	AAQ82559.1	46	195	96.58119658119658	7.3e-50
+ctg36_60	AAQ82562.1	50	283	99.35691318327974	4.6e-76
+
+
+
+>>
+41. BGC0001359
+Source: PM100117 / PM100118
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 450
+
+Table of genes, locations, strands and annotations of subject cluster:
+CUW01176.1	CUW01176.1	43	15786	+	Type_I_polyketide_synthase
+CUW01177.1	CUW01177.1	15830	26755	+	Type_I_polyketide_synthase
+CUW01178.1	CUW01178.1	26910	27113	+	ferredoxin
+CUW01179.1	CUW01179.1	27306	28553	+	glycosyltransferase
+CUW01180.1	CUW01180.1	28611	29687	+	glucose-1-phosphate_thymidyltransferase
+CUW01181.1	CUW01181.1	29791	30792	+	dTDP-glucose_4,6-dehydratasse
+CUW01182.1	CUW01182.1	30786	31856	+	NAD-dependent_dehydratase
+CUW01183.1	CUW01183.1	31945	33171	+	glycosyltransferase
+CUW01184.1	CUW01184.1	33256	34557	-	NDP-hexose-3,4-dehydratase
+CUW01185.1	CUW01185.1	34976	38299	+	AMP-dependent_synthetase_and_ligase
+CUW01186.1	CUW01186.1	38336	39379	+	2-oxoacyl-ACP_synthase_III
+CUW01187.1	CUW01187.1	39475	39915	+	cold-shock_DNA-binding_domain_protein
+CUW01188.1	CUW01188.1	40169	41377	+	glycosyltransferase
+CUW01189.1	CUW01189.1	41767	42804	+	methylase
+CUW01190.1	CUW01190.1	42898	43932	-	3-oxoacyl-ACP_synthase_III
+CUW01191.1	CUW01191.1	43973	51199	-	Type_I_polyketide_synthase
+CUW01192.1	CUW01192.1	51687	52838	+	glycosyltransferase
+CUW01193.1	CUW01193.1	52868	53728	-	ABC_transporter_permease
+CUW01194.1	CUW01194.1	53754	54536	-	ABC_transporter_permease
+CUW01195.1	CUW01195.1	54647	55627	-	dTDP-4-keto-2,3,6-tridexyhexulose_reductase
+CUW01196.1	CUW01196.1	55620	56255	-	dTDP-4-deoxyglucose_3,5-epimerase
+CUW01197.1	CUW01197.1	56556	57788	-	NDP-hexose-3-C-methyltrasferase
+CUW01198.1	CUW01198.1	58198	58956	+	hypothetical_protein
+CUW01199.1	CUW01199.1	59203	59973	+	thioesterase
+CUW01200.1	CUW01200.1	60020	60925	+	chorismate_dehydratase
+CUW01201.1	CUW01201.1	60971	62194	+	dehypoxanthine_futalosine_cyclase
+CUW01202.1	CUW01202.1	62441	62746	-	ferredoxin
+CUW01203.1	CUW01203.1	62813	63976	-	aminofutalosine_synthase
+CUW01204.1	CUW01204.1	64340	65215	+	1,4-dihydroxy-6-naphthoate_synthase
+CUW01205.1	CUW01205.1	65251	66345	-	NDP-hexose_3-ketoreductase
+CUW01206.1	CUW01206.1	66454	67902	-	cytochrome_P450
+CUW01207.1	CUW01207.1	68173	68988	-	putative_3-oxoacyl-ACP_reductase
+CUW01208.1	CUW01208.1	69371	69757	-	putative_HxlR-family_transcripitonal_regulator
+CUW01209.1	CUW01209.1	70067	70591	-	hypothetical_membrane_protein
+CUW01210.1	CUW01210.1	71086	72144	+	putative_NADPH:quinone_reductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	CUW01199.1	52	233	99.14529914529915	2.4e-61
+ctg36_60	CUW01194.1	49	217	76.84887459807074	2.4e-56
+
+
+
+>>
+42. BGC0001690
+Source: Natamycin
+Type: t1pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 344
+
+Table of genes, locations, strands and annotations of subject cluster:
+AQT01379.1	AQT01379.1	39	1235	+	hypothetical_protein
+AQT01380.1	AQT01380.1	1232	2605	+	SgnH
+AQT01381.1	AQT01381.1	2853	4046	-	SgnD
+AQT01382.1	AQT01382.1	4313	24730	+	SgnS1
+AQT01383.1	AQT01383.1	24835	25551	-	SgnL
+AQT01384.1	AQT01384.1	25637	30934	-	SgnS0
+AQT01385.1	AQT01385.1	31017	31208	-	SgnF
+AQT01386.1	AQT01386.1	31262	32458	-	SgnG
+AQT01387.1	AQT01387.1	32487	33545	-	SgnC
+AQT01388.1	AQT01388.1	33634	35283	-	SgnE
+AQT01389.1	AQT01389.1	35298	37178	-	SgnB
+AQT01390.1	AQT01390.1	37156	38982	-	SgnA
+AQT01391.1	AQT01391.1	39307	40338	+	SgnJ
+AQT01392.1	AQT01392.1	40556	41323	+	SgnI
+AQT01393.1	AQT01393.1	41496	70037	+	SgnS2
+AQT01394.1	AQT01394.1	70049	75475	+	SgnS3
+AQT01395.1	AQT01395.1	75511	81585	+	SgnS4
+AQT01396.1	AQT01396.1	81681	83057	-	SgnK
+AQT01397.1	AQT01397.1	83161	86679	-	SgnR
+AQT01398.1	AQT01398.1	87154	87732	+	SgnM
+AQT01399.1	AQT01399.1	89109	89753	+	SgnT
+AQT01400.1	AQT01400.1	90049	91329	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg36_25	AQT01392.1	47	201	94.87179487179486	1.3e-51
+ctg36_56	AQT01399.1	54	143	98.82352941176471	3.1e-34
+

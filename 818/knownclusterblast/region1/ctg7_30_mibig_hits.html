@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ABS50456.1</td>
+              <td>NapR2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001079/1">BGC0001079</a></td>
+              <td>t3pks-terpene</td>
+              <td>57.0</td>
+              <td>101.2</td>
+              <td>400.0</td>
+              <td>3.4e-111</td>
+          </tr>
+    
+          <tr>
+              <td>ABS50484.1</td>
+              <td>NapR2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000652/1">BGC0000652</a></td>
+              <td>terpene</td>
+              <td>57.0</td>
+              <td>101.2</td>
+              <td>399.0</td>
+              <td>7.5e-111</td>
+          </tr>
+    
+          <tr>
+              <td>ADE22296.1</td>
+              <td>putative_integral_membrane_ion_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000279/1">BGC0000279</a></td>
+              <td>t2pks</td>
+              <td>53.0</td>
+              <td>100.7</td>
+              <td>365.0</td>
+              <td>1.2e-100</td>
+          </tr>
+    
+          <tr>
+              <td>CCA54202.1</td>
+              <td>Na+_or_H+_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000893/1">BGC0000893</a></td>
+              <td>nrps</td>
+              <td>51.0</td>
+              <td>107.2</td>
+              <td>364.0</td>
+              <td>2e-100</td>
+          </tr>
+    
+          <tr>
+              <td>BAD38870.1</td>
+              <td>putative_ion_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000111/1">BGC0000111</a></td>
+              <td>t1pks</td>
+              <td>55.0</td>
+              <td>98.8</td>
+              <td>354.0</td>
+              <td>2.1e-97</td>
+          </tr>
+    
+          <tr>
+              <td>CCA53791.1</td>
+              <td>Na+_or_H+_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001801/1">BGC0001801</a></td>
+              <td>nrps</td>
+              <td>51.0</td>
+              <td>101.2</td>
+              <td>352.0</td>
+              <td>8e-97</td>
+          </tr>
+    
+          <tr>
+              <td>WP_030269235.1</td>
+              <td>sodium:proton_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001308/1">BGC0001308</a></td>
+              <td>t2pks</td>
+              <td>53.0</td>
+              <td>96.3</td>
+              <td>349.0</td>
+              <td>6.8e-96</td>
+          </tr>
+    
+          <tr>
+              <td>AEU17895.1</td>
+              <td>putative_Na/H_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001072/1">BGC0001072</a></td>
+              <td>t1pks+t2pks-saccharide-other</td>
+              <td>52.0</td>
+              <td>100.2</td>
+              <td>346.0</td>
+              <td>4.4e-95</td>
+          </tr>
+    
+          <tr>
+              <td>AQZ37090.1</td>
+              <td>Na+/H+_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001511/1">BGC0001511</a></td>
+              <td>t1pks</td>
+              <td>49.0</td>
+              <td>99.5</td>
+              <td>310.0</td>
+              <td>4.6e-84</td>
+          </tr>
+    
+          <tr>
+              <td>AAM54083.1</td>
+              <td>Na+/H+_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000020/1">BGC0000020</a></td>
+              <td>t1pks</td>
+              <td>48.0</td>
+              <td>99.5</td>
+              <td>307.0</td>
+              <td>3.9e-83</td>
+          </tr>
+    
+          <tr>
+              <td>ACN38357.1</td>
+              <td>putative_cation_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000714/1">BGC0000714</a></td>
+              <td>saccharide</td>
+              <td>47.0</td>
+              <td>101.7</td>
+              <td>304.0</td>
+              <td>2.5e-82</td>
+          </tr>
+    
+          <tr>
+              <td>CAF31446.1</td>
+              <td>putative_kation_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000696/1">BGC0000696</a></td>
+              <td>saccharide</td>
+              <td>46.0</td>
+              <td>101.7</td>
+              <td>302.0</td>
+              <td>7.3e-82</td>
+          </tr>
+    
+          <tr>
+              <td>AAR98563.1</td>
+              <td>GntQ</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000697/1">BGC0000697</a></td>
+              <td>saccharide</td>
+              <td>46.0</td>
+              <td>101.7</td>
+              <td>302.0</td>
+              <td>7.3e-82</td>
+          </tr>
+    
+          <tr>
+              <td>ARV75723.1</td>
+              <td>putative_membrane_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001603/1">BGC0001603</a></td>
+              <td>saccharide</td>
+              <td>46.0</td>
+              <td>101.7</td>
+              <td>302.0</td>
+              <td>7.3e-82</td>
+          </tr>
+    
+          <tr>
+              <td>ABO15842.1</td>
+              <td>membrane_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000130/1">BGC0000130</a></td>
+              <td>t1pks</td>
+              <td>46.0</td>
+              <td>103.2</td>
+              <td>296.0</td>
+              <td>5.2e-80</td>
+          </tr>
+    
+          <tr>
+              <td>AHA12088.1</td>
+              <td>Na/H_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001172/1">BGC0001172</a></td>
+              <td>nrps-t1pks</td>
+              <td>44.0</td>
+              <td>98.3</td>
+              <td>290.0</td>
+              <td>4.9e-78</td>
+          </tr>
+    
+          <tr>
+              <td>ANW12121.1</td>
+              <td>putative_Na+/H+_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001374/1">BGC0001374</a></td>
+              <td>other</td>
+              <td>44.0</td>
+              <td>99.8</td>
+              <td>290.0</td>
+              <td>4.9e-78</td>
+          </tr>
+    
+          <tr>
+              <td>AEH41797.1</td>
+              <td>HrmU</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000374/1">BGC0000374</a></td>
+              <td>nrps</td>
+              <td>54.0</td>
+              <td>79.2</td>
+              <td>288.0</td>
+              <td>1.9e-77</td>
+          </tr>
+    
+          <tr>
+              <td>AAM80527.1</td>
+              <td>StaN</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000290/1">BGC0000290</a></td>
+              <td>nrps</td>
+              <td>46.0</td>
+              <td>99.5</td>
+              <td>284.0</td>
+              <td>3.5e-76</td>
+          </tr>
+    
+          <tr>
+              <td>ADK32565.1</td>
+              <td>integral_membrane_ion_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000529/1">BGC0000529</a></td>
+              <td>lanthipeptide</td>
+              <td>46.0</td>
+              <td>101.5</td>
+              <td>282.0</td>
+              <td>7.8e-76</td>
+          </tr>
+    
+          <tr>
+              <td>orf1</td>
+              <td>cation/H(+)_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001431/1">BGC0001431</a></td>
+              <td>nrps-t1pks</td>
+              <td>45.0</td>
+              <td>99.5</td>
+              <td>272.0</td>
+              <td>8.1e-73</td>
+          </tr>
+    
+          <tr>
+              <td>AMX23345.1</td>
+              <td>high-affinity_Na(+)/H(+)_antiporter_NhaS3</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001500/1">BGC0001500</a></td>
+              <td>polyketide</td>
+              <td>44.0</td>
+              <td>99.0</td>
+              <td>280.0</td>
+              <td>3e-75</td>
+          </tr>
+    
+          <tr>
+              <td>ADU86006.1</td>
+              <td>putative_membrane_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000165/1">BGC0000165</a></td>
+              <td>t1pks</td>
+              <td>44.0</td>
+              <td>102.5</td>
+              <td>269.0</td>
+              <td>6.9e-72</td>
+          </tr>
+    
+          <tr>
+              <td>AGC24263.1</td>
+              <td>PrlI</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001038/1">BGC0001038</a></td>
+              <td>nrps-t1pks</td>
+              <td>48.0</td>
+              <td>98.5</td>
+              <td>266.0</td>
+              <td>5.8e-71</td>
+          </tr>
+    
+          <tr>
+              <td>ABO15873.1</td>
+              <td>membrane_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000131/1">BGC0000131</a></td>
+              <td>t1pks</td>
+              <td>43.0</td>
+              <td>102.7</td>
+              <td>264.0</td>
+              <td>2.9e-70</td>
+          </tr>
+    
+          <tr>
+              <td>AEI98668.1</td>
+              <td>CtcY</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000209/1">BGC0000209</a></td>
+              <td>t2pks</td>
+              <td>47.0</td>
+              <td>97.8</td>
+              <td>263.0</td>
+              <td>6.4e-70</td>
+          </tr>
+    
+          <tr>
+              <td>IF33_RS0114760</td>
+              <td>potassium_transporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001368/1">BGC0001368</a></td>
+              <td>nrps</td>
+              <td>46.0</td>
+              <td>102.0</td>
+              <td>263.0</td>
+              <td>6.4e-70</td>
+          </tr>
+    
+          <tr>
+              <td>AAK81829.1</td>
+              <td>integral_membrane_ion_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000326/1">BGC0000326</a></td>
+              <td>nrps</td>
+              <td>43.0</td>
+              <td>101.7</td>
+              <td>262.0</td>
+              <td>8.4e-70</td>
+          </tr>
+    
+          <tr>
+              <td>CAF34031.1</td>
+              <td>putative_integral_membrane_inon_antiporter_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000689/1">BGC0000689</a></td>
+              <td>saccharide</td>
+              <td>44.0</td>
+              <td>91.6</td>
+              <td>260.0</td>
+              <td>5.4e-69</td>
+          </tr>
+    
+          <tr>
+              <td>CAF31532.1</td>
+              <td>ForY</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000695/1">BGC0000695</a></td>
+              <td>saccharide</td>
+              <td>43.0</td>
+              <td>101.7</td>
+              <td>251.0</td>
+              <td>1.9e-66</td>
+          </tr>
+    
+          <tr>
+              <td>AAK83177.1</td>
+              <td>putative_transporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000026/1">BGC0000026</a></td>
+              <td>saccharide</td>
+              <td>41.0</td>
+              <td>102.7</td>
+              <td>246.0</td>
+              <td>6.2e-65</td>
+          </tr>
+    
+          <tr>
+              <td>AQP25555.1</td>
+              <td>Na+/H+_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001590/1">BGC0001590</a></td>
+              <td>t2pks</td>
+              <td>43.0</td>
+              <td>97.5</td>
+              <td>242.0</td>
+              <td>9e-64</td>
+          </tr>
+    
+          <tr>
+              <td>AVR52619.1</td>
+              <td>sodium/hydrogen_exchanger_family</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001676/3">BGC0001676</a></td>
+              <td>alkaloid</td>
+              <td>41.0</td>
+              <td>101.0</td>
+              <td>239.0</td>
+              <td>9.9e-63</td>
+          </tr>
+    
+          <tr>
+              <td>ACU71629.1</td>
+              <td>sodium/hydrogen_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001154/1">BGC0001154</a></td>
+              <td>other</td>
+              <td>40.0</td>
+              <td>101.0</td>
+              <td>238.0</td>
+              <td>1.7e-62</td>
+          </tr>
+    
+          <tr>
+              <td>BAP16691.1</td>
+              <td>integral_membrane_ion_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000376/1">BGC0000376</a></td>
+              <td>nrps</td>
+              <td>40.0</td>
+              <td>99.0</td>
+              <td>232.0</td>
+              <td>9.3e-61</td>
+          </tr>
+    
+          <tr>
+              <td>BAC10681.1</td>
+              <td>putative_membrane_transporter_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000821/1">BGC0000821</a></td>
+              <td>other</td>
+              <td>40.0</td>
+              <td>99.3</td>
+              <td>214.0</td>
+              <td>2.6e-55</td>
+          </tr>
+    
+          <tr>
+              <td>CAC93721.1</td>
+              <td>putative_integral_membrane_transporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000822/1">BGC0000822</a></td>
+              <td>alkaloid</td>
+              <td>40.0</td>
+              <td>99.3</td>
+              <td>214.0</td>
+              <td>2.6e-55</td>
+          </tr>
+    
+          <tr>
+              <td>BAC15757.1</td>
+              <td>Na+/H+_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000823/1">BGC0000823</a></td>
+              <td>alkaloid</td>
+              <td>40.0</td>
+              <td>99.3</td>
+              <td>214.0</td>
+              <td>2.6e-55</td>
+          </tr>
+    
+          <tr>
+              <td>AKQ99283.1</td>
+              <td>cation/H(+)_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001484/1">BGC0001484</a></td>
+              <td>other</td>
+              <td>38.0</td>
+              <td>99.0</td>
+              <td>204.0</td>
+              <td>3.5e-52</td>
+          </tr>
+    
+          <tr>
+              <td>OKA09440.1</td>
+              <td>cation/H(+)_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001459/1">BGC0001459</a></td>
+              <td>nrps</td>
+              <td>39.0</td>
+              <td>101.5</td>
+              <td>200.0</td>
+              <td>6.7e-51</td>
+          </tr>
+    
+          <tr>
+              <td>ATV95625.1</td>
+              <td>sodium:proton_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001503/1">BGC0001503</a></td>
+              <td>t1pks</td>
+              <td>39.0</td>
+              <td>97.3</td>
+              <td>196.0</td>
+              <td>5.7e-50</td>
+          </tr>
+    
+          <tr>
+              <td>AFU65890.1</td>
+              <td>DacR3</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000216/1">BGC0000216</a></td>
+              <td>t2pks</td>
+              <td>39.0</td>
+              <td>98.8</td>
+              <td>196.0</td>
+              <td>7.4e-50</td>
+          </tr>
+    
+          <tr>
+              <td>CAE53375.1</td>
+              <td>membrane_ion_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000440/1">BGC0000440</a></td>
+              <td>nrps</td>
+              <td>37.0</td>
+              <td>101.0</td>
+              <td>195.0</td>
+              <td>1.6e-49</td>
+          </tr>
+    
+          <tr>
+              <td>CAG15033.1</td>
+              <td>Na+-H+_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000441/1">BGC0000441</a></td>
+              <td>nrps</td>
+              <td>37.0</td>
+              <td>101.0</td>
+              <td>195.0</td>
+              <td>1.6e-49</td>
+          </tr>
+    
+          <tr>
+              <td>OLZ50903.1</td>
+              <td>cation/H(+)_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001461/1">BGC0001461</a></td>
+              <td>nrps</td>
+              <td>37.0</td>
+              <td>101.2</td>
+              <td>193.0</td>
+              <td>4.8e-49</td>
+          </tr>
+    
+          <tr>
+              <td>BAQ25489.1</td>
+              <td>sodium:proton_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001288/1">BGC0001288</a></td>
+              <td>t1pks</td>
+              <td>38.0</td>
+              <td>100.0</td>
+              <td>189.0</td>
+              <td>9e-48</td>
+          </tr>
+    
+          <tr>
+              <td>AGS77335.1</td>
+              <td>Membrane_ion_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001178/1">BGC0001178</a></td>
+              <td>nrps</td>
+              <td>38.0</td>
+              <td>101.7</td>
+              <td>189.0</td>
+              <td>1.2e-47</td>
+          </tr>
+    
+          <tr>
+              <td>ABC02797.1</td>
+              <td>putative_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000809/1">BGC0000809</a></td>
+              <td>alkaloid</td>
+              <td>36.0</td>
+              <td>101.0</td>
+              <td>188.0</td>
+              <td>2e-47</td>
+          </tr>
+    
+          <tr>
+              <td>AAL06655.1</td>
+              <td>Na/H_efflux_pump</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000965/1">BGC0000965</a></td>
+              <td>t1pks+t1pks</td>
+              <td>37.0</td>
+              <td>100.5</td>
+              <td>188.0</td>
+              <td>2.6e-47</td>
+          </tr>
+    
+          <tr>
+              <td>ALU98420.1</td>
+              <td>sodium:proton_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001397/1">BGC0001397</a></td>
+              <td>nrps-t1pks</td>
+              <td>37.0</td>
+              <td>100.5</td>
+              <td>188.0</td>
+              <td>2.6e-47</td>
+          </tr>
+    
+          <tr>
+              <td>ANY94425.1</td>
+              <td>Na/H_efflux_pump</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001584/1">BGC0001584</a></td>
+              <td>polyketide</td>
+              <td>36.0</td>
+              <td>100.5</td>
+              <td>187.0</td>
+              <td>3.4e-47</td>
+          </tr>
+    
+          <tr>
+              <td>CAC48373.1</td>
+              <td>putative_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000311/1">BGC0000311</a></td>
+              <td>nrps</td>
+              <td>38.0</td>
+              <td>101.5</td>
+              <td>186.0</td>
+              <td>1e-46</td>
+          </tr>
+    
+          <tr>
+              <td>AEF32096.1</td>
+              <td>putative_cation/H+_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001333/1">BGC0001333</a></td>
+              <td>alkaloid</td>
+              <td>39.0</td>
+              <td>99.8</td>
+              <td>181.0</td>
+              <td>1.9e-45</td>
+          </tr>
+    
+          <tr>
+              <td>CAD91230.1</td>
+              <td>putative_integral_membrane_ion_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000289/1">BGC0000289</a></td>
+              <td>nrps-saccharide</td>
+              <td>37.0</td>
+              <td>100.2</td>
+              <td>178.0</td>
+              <td>1.6e-44</td>
+          </tr>
+    
+          <tr>
+              <td>ADM46372.1</td>
+              <td>membrane_ion_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000106/1">BGC0000106</a></td>
+              <td>t1pks</td>
+              <td>36.0</td>
+              <td>101.2</td>
+              <td>178.0</td>
+              <td>2.7e-44</td>
+          </tr>
+    
+          <tr>
+              <td>ABC34499.1</td>
+              <td>sodium/hydrogen_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000961/1">BGC0000961</a></td>
+              <td>nrps-t1pks</td>
+              <td>36.0</td>
+              <td>103.2</td>
+              <td>175.0</td>
+              <td>2.3e-43</td>
+          </tr>
+    
+          <tr>
+              <td>AMK51272.1</td>
+              <td>Hex15</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001376/1">BGC0001376</a></td>
+              <td>t2pks</td>
+              <td>34.0</td>
+              <td>101.2</td>
+              <td>174.0</td>
+              <td>3e-43</td>
+          </tr>
+    
+          <tr>
+              <td>OLZ52438.1</td>
+              <td>cation/H(+)_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001462/1">BGC0001462</a></td>
+              <td>nrps</td>
+              <td>35.0</td>
+              <td>102.0</td>
+              <td>169.0</td>
+              <td>9.7e-42</td>
+          </tr>
+    
+          <tr>
+              <td>AFP87521.1</td>
+              <td>sodium/hydrogen_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001159/1">BGC0001159</a></td>
+              <td>nrps-t1pks</td>
+              <td>34.0</td>
+              <td>100.2</td>
+              <td>166.0</td>
+              <td>6.3e-41</td>
+          </tr>
+    
+          <tr>
+              <td>EME52970.1</td>
+              <td>sodium/hydrogen_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001460/1">BGC0001460</a></td>
+              <td>nrps</td>
+              <td>34.0</td>
+              <td>101.7</td>
+              <td>161.0</td>
+              <td>2.6e-39</td>
+          </tr>
+    
+          <tr>
+              <td>AAF26906.1</td>
+              <td>unknown</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000988/1">BGC0000988</a></td>
+              <td>nrps-t1pks</td>
+              <td>32.0</td>
+              <td>103.2</td>
+              <td>155.0</td>
+              <td>2.5e-37</td>
+          </tr>
+    
+          <tr>
+              <td>ATU31802.1</td>
+              <td>sodium/hydrogen_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001814/1">BGC0001814</a></td>
+              <td>nrps</td>
+              <td>36.0</td>
+              <td>96.5</td>
+              <td>150.0</td>
+              <td>6.1e-36</td>
+          </tr>
+    
+          <tr>
+              <td>AUI41031.1</td>
+              <td>potassium_transporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001512/1">BGC0001512</a></td>
+              <td>polyketide</td>
+              <td>34.0</td>
+              <td>97.8</td>
+              <td>145.0</td>
+              <td>1.5e-34</td>
+          </tr>
+    
+          <tr>
+              <td>AEO12708.1</td>
+              <td>antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001334/1">BGC0001334</a></td>
+              <td>alkaloid</td>
+              <td>36.0</td>
+              <td>99.5</td>
+              <td>145.0</td>
+              <td>2e-34</td>
+          </tr>
+    
+          <tr>
+              <td>ANZ15832.1</td>
+              <td>sodium/hydrogen_exchanger</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001569/1">BGC0001569</a></td>
+              <td>nrps</td>
+              <td>34.0</td>
+              <td>98.0</td>
+              <td>138.0</td>
+              <td>1.8e-32</td>
+          </tr>
+    
+          <tr>
+              <td>AQZ69238.1</td>
+              <td>cation/H(+)_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001635/1">BGC0001635</a></td>
+              <td>nrps-t3pks</td>
+              <td>30.0</td>
+              <td>100.2</td>
+              <td>137.0</td>
+              <td>4.1e-32</td>
+          </tr>
+    
+          <tr>
+              <td>CAJ20009.1</td>
+              <td>putative_Na+/H+_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000903/1">BGC0000903</a></td>
+              <td>other</td>
+              <td>28.0</td>
+              <td>112.4</td>
+              <td>111.0</td>
+              <td>3.1e-24</td>
+          </tr>
+    
+          <tr>
+              <td>AVR52594.1</td>
+              <td>sodium/hydrogen_exchanger_family</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001676/2">BGC0001676</a></td>
+              <td>alkaloid</td>
+              <td>38.0</td>
+              <td>46.5</td>
+              <td>106.0</td>
+              <td>1e-22</td>
+          </tr>
+    
+          <tr>
+              <td>AKQ20694.1</td>
+              <td>putative_cation/H+_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001337/1">BGC0001337</a></td>
+              <td>alkaloid</td>
+              <td>46.0</td>
+              <td>38.9</td>
+              <td>104.0</td>
+              <td>3.8e-22</td>
+          </tr>
+    
+          <tr>
+              <td>AKQ20695.1</td>
+              <td>putative_cation/H+_antiporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001337/1">BGC0001337</a></td>
+              <td>alkaloid</td>
+              <td>34.0</td>
+              <td>55.4</td>
+              <td>76.0</td>
+              <td>1.1e-13</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

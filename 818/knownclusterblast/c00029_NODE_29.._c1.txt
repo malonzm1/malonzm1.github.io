@@ -1,0 +1,125 @@
+ClusterBlast scores for c00029_NODE_29..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg29_26	27339	29730	+		
+ctg29_27	29970	31569	+		
+ctg29_28	31677	34989	+		
+ctg29_29	35155	36199	+		
+ctg29_30	36429	38031	+		
+ctg29_31	38084	40034	+		
+ctg29_32	40065	40263	-		
+ctg29_33	40272	41196	-		
+ctg29_34	41311	42070	+		
+ctg29_35	42739	43954	-		
+ctg29_36	44044	45526	+		
+ctg29_37	45646	46405	+		
+ctg29_38	46813	47356	+		
+ctg29_39	47366	47570	-		
+ctg29_40	47837	48377	+		
+ctg29_41	48524	49151	-		
+
+
+Significant hits: 
+1. BGC0000415	Quinomycin
+2. BGC0000450	Triostin A
+3. BGC0000339	Echinomycin
+
+
+Details:
+
+>>
+1. BGC0000415
+Source: Quinomycin
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1460
+
+Table of genes, locations, strands and annotations of subject cluster:
+AET98900.1	AET98900.1	1	155	+	putative_ABC_transporter
+AET98901.1	AET98901.1	152	976	+	putative_ABC_transporter
+AET98902.1	AET98902.1	1083	2288	+	putative_esterase
+AET98903.1	AET98903.1	2408	2938	-	putative_DNA-binding_response_regulator
+AET98904.1	AET98904.1	3055	3267	-	MbtH-like_protein
+AET98905.1	AET98905.1	3314	12751	-	putative_non-ribosomal_peptide_synthetase
+AET98906.1	AET98906.1	12759	20753	-	putative_non-ribosomal_peptide_synthetase
+AET98907.1	AET98907.1	20818	21516	+	putative_SAM-dependent_methyltransferase
+AET98908.1	AET98908.1	23150	25528	+	UvrA-like_protein
+AET98909.1	AET98909.1	25610	26548	+	putative_oxidoreductase
+AET98910.1	AET98910.1	26945	28333	-	putative_FAD-dependent_oxidoreductase
+AET98911.1	AET98911.1	28392	29480	-	putative_dehydrogenase
+AET98912.1	AET98912.1	29477	30223	-	putative_thioesterase
+AET98913.1	AET98913.1	30377	31582	+	putative_cytochrome_P450
+AET98914.1	AET98914.1	31596	33179	+	putative_AMP-binding_ligase
+AET98915.1	AET98915.1	33254	34078	-	putative_tryptophan_2,3-dioxygenase
+AET98916.1	AET98916.1	34133	35965	+	putative_non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg29_26	AET98908.1	75	1201	100.0	0.0
+ctg29_29	AET98911.1	47	259	90.77809798270894	6.1e-69
+
+
+
+>>
+2. BGC0000450
+Source: Triostin A
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1456
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAH04156.1	BAH04156.1	1	984	+	putative_ABC_transporter
+BAH04157.1	BAH04157.1	981	1805	+	putative_ABC_transporter
+BAH04158.1	BAH04158.1	1912	3117	+	putative_esterase
+BAH04159.1	BAH04159.1	3236	3739	-	putative_DNA-binding_response_regulator
+BAH04160.1	BAH04160.1	3883	4095	-	MbtH-like_protein
+BAH04161.1	BAH04161.1	4142	13600	-	putative_non-ribosomal_peptide_synthetase
+BAH04162.1	BAH04162.1	13608	21665	-	trsJ
+BAH04163.1	BAH04163.1	21676	22374	+	putative_SAM-dependent_methyltransferase
+BAH04164.1	BAH04164.1	22438	23823	+	hypothetical_protein
+BAH04165.1	BAH04165.1	24008	26386	+	UvrA-like_protein
+BAH04166.1	BAH04166.1	26468	27406	+	putative_oxidoreductase
+BAH04167.1	BAH04167.1	27803	29182	-	putative_FAD-dependent_oxidoreductase
+BAH04168.1	BAH04168.1	29169	30257	-	putative_dehydrogenase
+BAH04169.1	BAH04169.1	30254	31000	-	putative_thioesterase
+BAH04170.1	BAH04170.1	31154	32359	+	putative_cytochrome_P450
+BAH04171.1	BAH04171.1	32373	33956	+	AMP-binding_ligase
+BAH04172.1	BAH04172.1	34035	34778	-	putative_tryptophan_2,3-dioxygenase
+BAH04173.1	BAH04173.1	34968	36746	+	putative_non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg29_26	BAH04165.1	75	1200	100.0	0.0
+ctg29_29	BAH04168.1	46	256	90.77809798270894	6.7e-68
+
+
+
+>>
+3. BGC0000339
+Source: Echinomycin
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1433
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAE98151.1	BAE98151.1	4597	6180	-	putative_AMP-binding_ligase
+BAE98152.1	BAE98152.1	6525	7271	+	putative_thioesterase
+BAE98153.1	BAE98153.1	7225	8313	+	putative_dehydrogenase
+BAE98154.1	BAE98154.1	8381	9799	+	putative_FAD-dependent_oxidoreductase
+ecm5	ecm5	10146	10942	-	putative_transposase
+BAE98155.1	BAE98155.1	11240	19069	+	putative_non-ribosomal_peptide_synthetase
+BAE98156.1	BAE98156.1	19078	28485	+	putative_non-ribosomal_peptide_synthetase
+BAE98157.1	BAE98157.1	28532	28744	+	MbtH_like_protein
+BAE98158.1	BAE98158.1	28861	29364	+	putative_DNA-binding_response_regulator
+BAE98159.1	BAE98159.1	29481	30239	+	putative_tetR_family_transcriptional_regulatory_protein
+BAE98160.1	BAE98160.1	30252	30914	-	putative_tryptophan_2,3-dioxygenase
+BAE98161.1	BAE98161.1	31136	32323	+	putative_cytochrome_P450
+BAE98162.1	BAE98162.1	32331	34127	-	putative_non-ribosomal_peptide_synthetase
+BAE98163.1	BAE98163.1	34217	35425	-	putative_esterase
+BAE98164.1	BAE98164.1	35494	36351	-	putative_transcriptional_regulator
+BAE98165.1	BAE98165.1	36429	38807	+	UvrA-like_protein
+BAE98166.1	BAE98166.1	39169	40110	+	putative_oxidoreductase
+BAE98167.1	BAE98167.1	40330	41004	+	putative_SAM-dependent_methyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg29_26	BAE98165.1	73	1173	100.0	0.0
+ctg29_29	BAE98153.1	46	260	98.55907780979827	2.7e-69
+

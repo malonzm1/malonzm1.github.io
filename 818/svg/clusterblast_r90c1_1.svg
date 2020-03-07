@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="162,35 167,30 205,30 205,40 167,40 162,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_1&lt;/b&gt;&lt;br&gt;ctg90 1&lt;br&gt;Location: 2 - 1100" locus_tag="ctg90_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="205,35 210,30 251,30 251,40 210,40 205,35 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_2&lt;/b&gt;&lt;br&gt;ctg90 2&lt;br&gt;Location: 1119 - 2289" locus_tag="ctg90_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="266,40 279,40 284,35 279,30 266,30 266,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_3&lt;/b&gt;&lt;br&gt;ctg90 3&lt;br&gt;Location: 2680 - 3148" locus_tag="ctg90_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="284,35 289,30 340,30 340,40 289,40 284,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_4&lt;/b&gt;&lt;br&gt;ctg90 4&lt;br&gt;Location: 3138 - 4605" locus_tag="ctg90_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="341,35 346,30 374,30 374,40 346,40 341,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_5&lt;/b&gt;&lt;br&gt;ctg90 5&lt;br&gt;Location: 4609 - 5473" locus_tag="ctg90_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="378,35 383,30 427,30 427,40 383,40 378,35 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_6&lt;/b&gt;&lt;br&gt;ctg90 6&lt;br&gt;Location: 5583 - 6834" locus_tag="ctg90_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="428,35 433,30 436,30 436,40 433,40 428,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_7&lt;/b&gt;&lt;br&gt;ctg90 7&lt;br&gt;Location: 6874 - 7057" locus_tag="ctg90_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="433,35 438,30 449,30 449,40 438,40 433,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_8&lt;/b&gt;&lt;br&gt;ctg90 8&lt;br&gt;Location: 6996 - 7407" locus_tag="ctg90_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="479,40 498,40 503,35 498,30 479,30 479,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_9&lt;/b&gt;&lt;br&gt;ctg90 9&lt;br&gt;Location: 8172 - 8793" locus_tag="ctg90_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="502,40 512,40 517,35 512,30 502,30 502,40 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_10&lt;/b&gt;&lt;br&gt;ctg90 10&lt;br&gt;Location: 8767 - 9154" locus_tag="ctg90_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+<polygon points="517,40 528,40 533,35 528,30 517,30 517,40 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_11&lt;/b&gt;&lt;br&gt;ctg90 11&lt;br&gt;Location: 9150 - 9564" locus_tag="ctg90_11" class="clusterblast-orf" id="dummy-1_q10_0_all"  />
+<polygon points="535,35 540,30 563,30 563,40 540,40 535,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_12&lt;/b&gt;&lt;br&gt;ctg90 12&lt;br&gt;Location: 9610 - 10336" locus_tag="ctg90_12" class="clusterblast-orf" id="dummy-1_q11_0_all"  />
+<polygon points="563,35 568,30 618,30 618,40 568,40 563,35 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg90_13&lt;/b&gt;&lt;br&gt;ctg90 13&lt;br&gt;Location: 10332 - 11754" locus_tag="ctg90_13" class="clusterblast-orf" id="dummy-1_q12_0_all"  />
+</g>
+<g label="NZ_KI421511" description="NZ_KI421511_c18: Amycolatopsis thermoflava N1165 AmythDRAFT Scaffold1.2, whol... (30% of genes show similarity), indole" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_KI421511/18" target="_blank">NZ_KI421511_c18</a>: Amycolatopsis thermoflava N1165 AmythDRAFT Scaffold1.2, whol... (30% of genes show similarity), indole</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 70,90 75,85 70,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142515&lt;/b&gt;&lt;br&gt;phospholipase C, phosphocholine-specific&lt;br&gt;Location: 8548440 - 8546485" locus_tag="AMYTH_RS0142515" class="clusterblast-orf" id="dummy-1_h1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="85,90 91,90 96,85 91,80 85,80 85,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142510&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 8546223 - 8545942" locus_tag="AMYTH_RS0142510" class="clusterblast-orf" id="dummy-1_h1_1_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="110,85 115,80 137,80 137,90 115,90 110,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142505&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 8545591 - 8544887" locus_tag="AMYTH_RS0142505" class="clusterblast-orf" id="dummy-1_h1_1_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="146,90 235,90 240,85 235,80 146,80 146,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142500&lt;/b&gt;&lt;br&gt;HAMP domain-containing protein&lt;br&gt;Location: 8544663 - 8542231" locus_tag="AMYTH_RS0142500" class="clusterblast-orf" id="dummy-1_h1_1_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="241,90 253,90 258,85 253,80 241,80 241,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142495&lt;/b&gt;&lt;br&gt;dynein regulation protein LC7&lt;br&gt;Location: 8542209 - 8541784" locus_tag="AMYTH_RS0142495" class="clusterblast-orf" id="dummy-1_h1_1_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="258,90 267,90 272,85 267,80 258,80 258,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142490&lt;/b&gt;&lt;br&gt;DUF742 domain-containing protein&lt;br&gt;Location: 8541784 - 8541419" locus_tag="AMYTH_RS0142490" class="clusterblast-orf" id="dummy-1_h1_1_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="271,90 289,90 294,85 289,80 271,80 271,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142485&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 8541438 - 8540839" locus_tag="AMYTH_RS0142485" class="clusterblast-orf" id="dummy-1_h1_1_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="306,85 311,80 360,80 360,90 311,90 306,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142480&lt;/b&gt;&lt;br&gt;tryptophanase&lt;br&gt;Location: 8540530 - 8539145&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_1&lt;/b&gt;&lt;br&gt;Percentage identity: 90&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 659&lt;br&gt;E-value: 2.7e-187" locus_tag="AMYTH_RS0142480" class="clusterblast-orf" id="dummy-1_h1_1_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="361,85 366,80 401,80 401,90 366,90 361,85 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142475&lt;/b&gt;&lt;br&gt;tryptophan dimethylallyltransferase&lt;br&gt;Location: 8539124 - 8538084&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_2&lt;/b&gt;&lt;br&gt;Percentage identity: 79&lt;br&gt;Percentage coverage: 88&lt;br&gt;BLAST bit score: 533&lt;br&gt;E-value: 1.8e-149" locus_tag="AMYTH_RS0142475" class="clusterblast-orf" id="dummy-1_h1_1_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="419,85 424,80 464,80 464,90 424,90 419,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142470&lt;/b&gt;&lt;br&gt;histidine kinase&lt;br&gt;Location: 8537615 - 8536467" locus_tag="AMYTH_RS0142470" class="clusterblast-orf" id="dummy-1_h1_1_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="464,85 469,80 496,80 496,90 469,90 464,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142465&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 8536455 - 8535646" locus_tag="AMYTH_RS0142465" class="clusterblast-orf" id="dummy-1_h1_1_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="497,85 502,80 555,80 555,90 502,90 497,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142460&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase&lt;br&gt;Location: 8535604 - 8534129&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_4&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 808&lt;br&gt;E-value: 4.8e-232" locus_tag="AMYTH_RS0142460" class="clusterblast-orf" id="dummy-1_h1_1_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="555,85 560,80 588,80 588,90 560,90 555,85 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142455&lt;/b&gt;&lt;br&gt;p-hydroxycinnamoyl CoA hydratase/lyase&lt;br&gt;Location: 8534129 - 8533266&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_5&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 567&lt;br&gt;E-value: 6.4e-160" locus_tag="AMYTH_RS0142455" class="clusterblast-orf" id="dummy-1_h1_1_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="592,90 602,90 607,85 602,80 592,80 592,90 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142450&lt;/b&gt;&lt;br&gt;zinc-binding protein&lt;br&gt;Location: 8533175 - 8532789&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_10&lt;/b&gt;&lt;br&gt;Percentage identity: 86&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 238&lt;br&gt;E-value: 3.9e-61" locus_tag="AMYTH_RS0142450" class="clusterblast-orf" id="dummy-1_h1_1_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="606,90 617,90 622,85 617,80 606,80 606,90 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142445&lt;/b&gt;&lt;br&gt;SRPBCC family protein&lt;br&gt;Location: 8532792 - 8532379&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg90_11&lt;/b&gt;&lt;br&gt;Percentage identity: 90&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 252&lt;br&gt;E-value: 2.2e-65" locus_tag="AMYTH_RS0142445" class="clusterblast-orf" id="dummy-1_h1_1_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="624,90 636,90 641,85 636,80 624,80 624,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142440&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 8532330 - 8531908" locus_tag="AMYTH_RS0142440" class="clusterblast-orf" id="dummy-1_h1_1_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="641,85 646,80 675,80 675,90 646,90 641,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142435&lt;/b&gt;&lt;br&gt;universal stress protein&lt;br&gt;Location: 8531889 - 8531011" locus_tag="AMYTH_RS0142435" class="clusterblast-orf" id="dummy-1_h1_1_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="679,85 684,80 699,80 699,90 684,90 679,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142430&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 8530915 - 8530397" locus_tag="AMYTH_RS0142430" class="clusterblast-orf" id="dummy-1_h1_1_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="705,90 747,90 752,85 747,80 705,80 705,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142425&lt;/b&gt;&lt;br&gt;acetyl-CoA C-acyltransferase&lt;br&gt;Location: 8530238 - 8529030" locus_tag="AMYTH_RS0142425" class="clusterblast-orf" id="dummy-1_h1_1_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="753,90 775,90 780,85 775,80 753,80 753,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AMYTH_RS0142420&lt;/b&gt;&lt;br&gt;short-chain dehydrogenase&lt;br&gt;Location: 8529024 - 8528329" locus_tag="AMYTH_RS0142420" class="clusterblast-orf" id="dummy-1_h1_1_19"  />
+</g>
+</svg>

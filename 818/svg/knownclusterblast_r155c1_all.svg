@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="100" width="800" viewBox="0 0 800 100" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="15,40 99,40 104,35 99,30 15,30 15,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_1&lt;/b&gt;&lt;br&gt;ctg155 1&lt;br&gt;Location: 0 - 990" locus_tag="ctg155_1" class="clusterblast-orf" id="knownclusterblast-1_q0_0_all"  />
+<polygon points="104,40 215,40 220,35 215,30 104,30 104,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_2&lt;/b&gt;&lt;br&gt;ctg155 2&lt;br&gt;Location: 986 - 2267" locus_tag="ctg155_2" class="clusterblast-orf" id="knownclusterblast-1_q1_0_all"  />
+<polygon points="220,40 374,40 379,35 374,30 220,30 220,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_3&lt;/b&gt;&lt;br&gt;ctg155 3&lt;br&gt;Location: 2269 - 4033" locus_tag="ctg155_3" class="clusterblast-orf" id="knownclusterblast-1_q2_0_all"  />
+<polygon points="378,40 493,40 498,35 493,30 378,30 378,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_4&lt;/b&gt;&lt;br&gt;ctg155 4&lt;br&gt;Location: 4026 - 5355" locus_tag="ctg155_4" class="clusterblast-orf" id="knownclusterblast-1_q3_0_all"  />
+<polygon points="495,35 500,30 606,30 606,40 500,40 495,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_5&lt;/b&gt;&lt;br&gt;ctg155 5&lt;br&gt;Location: 5314 - 6553" locus_tag="ctg155_5" class="clusterblast-orf" id="knownclusterblast-1_q4_0_all"  />
+<polygon points="645,35 650,30 748,30 748,40 650,40 645,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_6&lt;/b&gt;&lt;br&gt;ctg155 6&lt;br&gt;Location: 6976 - 8128" locus_tag="ctg155_6" class="clusterblast-orf" id="knownclusterblast-1_q5_0_all"  />
+<polygon points="747,35 752,30 766,30 766,40 752,40 747,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg155_7&lt;/b&gt;&lt;br&gt;ctg155 7&lt;br&gt;Location: 8111 - 8318" locus_tag="ctg155_7" class="clusterblast-orf" id="knownclusterblast-1_q6_0_all"  />
+</g>
+<g label="BGC0000244" description="BGC0000244_c1: Macrotetrolide (33% of genes show similarity), t2pks" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0000244/1" target="_blank">BGC0000244</a>:                                                                   Macrotetrolide (33% of genes show similarity), t2pks</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 204,90 209,85 204,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAF81245.1&lt;/b&gt;&lt;br&gt;5-methyltetrahydropteroyltriglutamate- homocysteine methyltransferase-like protein&lt;br&gt;Location: 8850 - 6526" locus_tag="AAF81245.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="220,90 302,90 307,85 302,80 220,80 220,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAF81244.1&lt;/b&gt;&lt;br&gt;unknown&lt;br&gt;Location: 6403 - 5438" locus_tag="AAF81244.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_1_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="335,90 473,90 478,85 473,80 335,80 335,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;AAF81243.1&lt;/b&gt;&lt;br&gt;amino acid decarboxylase-like protein&lt;br&gt;Location: 5129 - 3552&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_1&lt;/b&gt;&lt;br&gt;Percentage identity: 60&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 360&lt;br&gt;E-value: 2.4e-99" locus_tag="AAF81243.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_1_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="484,90 604,90 609,85 604,80 484,80 484,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AAF81242.1&lt;/b&gt;&lt;br&gt;amino acid monooxygenase-like protein&lt;br&gt;Location: 3481 - 2090&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg155_2&lt;/b&gt;&lt;br&gt;Percentage identity: 60&lt;br&gt;Percentage coverage: 102&lt;br&gt;BLAST bit score: 521&lt;br&gt;E-value: 1.4e-147" locus_tag="AAF81242.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_1_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="616,85 621,80 703,80 703,90 621,90 616,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAF81241.1&lt;/b&gt;&lt;br&gt;flavoprotein reductase&lt;br&gt;Location: 2013 - 1051" locus_tag="AAF81241.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_1_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="709,85 714,80 780,80 780,90 714,90 709,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAF81240.1&lt;/b&gt;&lt;br&gt;flavoprotein reductase nonH&lt;br&gt;Location: 990 - 205" locus_tag="AAF81240.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_1_5"  />
+</g>
+</svg>

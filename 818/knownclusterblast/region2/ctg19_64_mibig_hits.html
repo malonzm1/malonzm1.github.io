@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>BAJ19083.1</td>
+              <td>putative_luciferase_family_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000288/1">BGC0000288</a></td>
+              <td>nrps</td>
+              <td>37.0</td>
+              <td>85.9</td>
+              <td>147.0</td>
+              <td>3.7e-35</td>
+          </tr>
+    
+          <tr>
+              <td>CAE45677.1</td>
+              <td>putative_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000031/1">BGC0000031</a></td>
+              <td>t1pks</td>
+              <td>28.0</td>
+              <td>100.3</td>
+              <td>92.0</td>
+              <td>1.1e-18</td>
+          </tr>
+    
+          <tr>
+              <td>ALV82315.1</td>
+              <td>putative_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001533/1">BGC0001533</a></td>
+              <td>t1pks</td>
+              <td>28.0</td>
+              <td>100.3</td>
+              <td>92.0</td>
+              <td>1.1e-18</td>
+          </tr>
+    
+          <tr>
+              <td>ATY46588.1</td>
+              <td>monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001666/1">BGC0001666</a></td>
+              <td>polyketide</td>
+              <td>28.0</td>
+              <td>103.4</td>
+              <td>83.0</td>
+              <td>6.5e-16</td>
+          </tr>
+    
+          <tr>
+              <td>ABX00622.1</td>
+              <td>LmbY</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000907/1">BGC0000907</a></td>
+              <td>other</td>
+              <td>23.0</td>
+              <td>77.9</td>
+              <td>60.0</td>
+              <td>4.5e-09</td>
+          </tr>
+    
+          <tr>
+              <td>AAD32733.1</td>
+              <td>MmcJ</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000915/1">BGC0000915</a></td>
+              <td>other</td>
+              <td>36.0</td>
+              <td>48.6</td>
+              <td>57.0</td>
+              <td>2.9e-08</td>
+          </tr>
+    
+          <tr>
+              <td>AKC91862.1</td>
+              <td>oxidoreductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001414/1">BGC0001414</a></td>
+              <td>nrps</td>
+              <td>24.0</td>
+              <td>77.9</td>
+              <td>56.0</td>
+              <td>8.6e-08</td>
+          </tr>
+    
+          <tr>
+              <td>ARU08084.1</td>
+              <td>MlcP</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001448/1">BGC0001448</a></td>
+              <td>nrps</td>
+              <td>34.0</td>
+              <td>39.3</td>
+              <td>54.0</td>
+              <td>3.3e-07</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

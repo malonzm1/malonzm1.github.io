@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ABY66018.1</td>
+              <td>CoA_ligase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001008/1">BGC0001008</a></td>
+              <td>t1pks+t1pks</td>
+              <td>31.0</td>
+              <td>59.3</td>
+              <td>114.0</td>
+              <td>7.7e-25</td>
+          </tr>
+    
+          <tr>
+              <td>ADX66470.1</td>
+              <td>ScnS0</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000108/1">BGC0000108</a></td>
+              <td>t1pks</td>
+              <td>29.0</td>
+              <td>60.7</td>
+              <td>98.0</td>
+              <td>4.4e-20</td>
+          </tr>
+    
+          <tr>
+              <td>AAQ82561.1</td>
+              <td>FscA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000061/1">BGC0000061</a></td>
+              <td>t1pks</td>
+              <td>28.0</td>
+              <td>59.9</td>
+              <td>97.0</td>
+              <td>7.5e-20</td>
+          </tr>
+    
+          <tr>
+              <td>ACR50792.1</td>
+              <td>putative_acyl-CoA_synthase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000163/1">BGC0000163</a></td>
+              <td>t1pks</td>
+              <td>29.0</td>
+              <td>39.3</td>
+              <td>96.0</td>
+              <td>1.3e-19</td>
+          </tr>
+    
+          <tr>
+              <td>AQT01384.1</td>
+              <td>SgnS0</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001690/1">BGC0001690</a></td>
+              <td>t1pks</td>
+              <td>30.0</td>
+              <td>50.4</td>
+              <td>96.0</td>
+              <td>2.2e-19</td>
+          </tr>
+    
+          <tr>
+              <td>CAC20930.1</td>
+              <td>PimS0_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000125/1">BGC0000125</a></td>
+              <td>t1pks</td>
+              <td>30.0</td>
+              <td>48.1</td>
+              <td>95.0</td>
+              <td>3.7e-19</td>
+          </tr>
+    
+          <tr>
+              <td>ATY12791.1</td>
+              <td>long-chain_fatty_acid--CoA_ligase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001504/1">BGC0001504</a></td>
+              <td>t1pks</td>
+              <td>26.0</td>
+              <td>63.0</td>
+              <td>92.0</td>
+              <td>3.1e-18</td>
+          </tr>
+    
+          <tr>
+              <td>AIL50191.1</td>
+              <td>putative_amide_synthetase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000213/1">BGC0000213</a></td>
+              <td>t2pks</td>
+              <td>34.0</td>
+              <td>34.5</td>
+              <td>90.0</td>
+              <td>9.2e-18</td>
+          </tr>
+    
+          <tr>
+              <td>OJF16272.1</td>
+              <td>AceP1</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001491/1">BGC0001491</a></td>
+              <td>t1pks</td>
+              <td>29.0</td>
+              <td>39.3</td>
+              <td>90.0</td>
+              <td>9.2e-18</td>
+          </tr>
+    
+          <tr>
+              <td>CAE17538.1</td>
+              <td>acyl_CoA_ligase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000210/1">BGC0000210</a></td>
+              <td>t2pks-saccharide</td>
+              <td>35.0</td>
+              <td>29.1</td>
+              <td>87.0</td>
+              <td>1e-16</td>
+          </tr>
+    
+          <tr>
+              <td>ADB92576.1</td>
+              <td>Ccb2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001225/1">BGC0001225</a></td>
+              <td>nrps</td>
+              <td>28.0</td>
+              <td>51.3</td>
+              <td>87.0</td>
+              <td>1e-16</td>
+          </tr>
+    
+          <tr>
+              <td>BBA21082.1</td>
+              <td>putative_CoA_ligase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001740/1">BGC0001740</a></td>
+              <td>nrps-t1pks</td>
+              <td>30.0</td>
+              <td>54.4</td>
+              <td>87.0</td>
+              <td>1e-16</td>
+          </tr>
+    
+          <tr>
+              <td>AAR16521.1</td>
+              <td>RimA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000138/1">BGC0000138</a></td>
+              <td>t1pks</td>
+              <td>29.0</td>
+              <td>39.3</td>
+              <td>86.0</td>
+              <td>2.3e-16</td>
+          </tr>
+    
+          <tr>
+              <td>CAE17553.1</td>
+              <td>acyl_CoA_ligase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000210/1">BGC0000210</a></td>
+              <td>t2pks-saccharide</td>
+              <td>28.0</td>
+              <td>56.1</td>
+              <td>79.0</td>
+              <td>2.1e-14</td>
+          </tr>
+    
+          <tr>
+              <td>CAA16183.1</td>
+              <td>polyketide_synthase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001063/1">BGC0001063</a></td>
+              <td>nrps-t1pks+t2pks</td>
+              <td>28.0</td>
+              <td>59.9</td>
+              <td>78.0</td>
+              <td>4.7e-14</td>
+          </tr>
+    
+          <tr>
+              <td>AHF22854.1</td>
+              <td>MarL</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000091/1">BGC0000091</a></td>
+              <td>t1pks</td>
+              <td>31.0</td>
+              <td>32.8</td>
+              <td>74.0</td>
+              <td>8.9e-13</td>
+          </tr>
+    
+          <tr>
+              <td>AHH53502.1</td>
+              <td>acyl-CoA_synthetase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000439/1">BGC0000439</a></td>
+              <td>nrps</td>
+              <td>31.0</td>
+              <td>37.6</td>
+              <td>69.0</td>
+              <td>1.7e-11</td>
+          </tr>
+    
+          <tr>
+              <td>ADI58643.1</td>
+              <td>AsuA2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000187/1">BGC0000187</a></td>
+              <td>t2pks</td>
+              <td>34.0</td>
+              <td>23.3</td>
+              <td>68.0</td>
+              <td>3.7e-11</td>
+          </tr>
+    
+          <tr>
+              <td>ACN64850.1</td>
+              <td>PokL</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001061/1">BGC0001061</a></td>
+              <td>t1pks+t2pks-saccharide</td>
+              <td>27.0</td>
+              <td>52.1</td>
+              <td>68.0</td>
+              <td>4.9e-11</td>
+          </tr>
+    
+          <tr>
+              <td>BAK64635.1</td>
+              <td>putative_CoA_ligase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000135/1">BGC0000135</a></td>
+              <td>t1pks</td>
+              <td>31.0</td>
+              <td>25.6</td>
+              <td>65.0</td>
+              <td>3.2e-10</td>
+          </tr>
+    
+          <tr>
+              <td>AIL50174.1</td>
+              <td>putative_3,4-AHBA_carboxyl_group_adenylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000213/1">BGC0000213</a></td>
+              <td>t2pks</td>
+              <td>32.0</td>
+              <td>23.3</td>
+              <td>64.0</td>
+              <td>5.4e-10</td>
+          </tr>
+    
+          <tr>
+              <td>AKD43499.1</td>
+              <td>Acyl-CoA_ligase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001409/1">BGC0001409</a></td>
+              <td>t2pks</td>
+              <td>27.0</td>
+              <td>51.9</td>
+              <td>64.0</td>
+              <td>5.4e-10</td>
+          </tr>
+    
+          <tr>
+              <td>CCC21111.1</td>
+              <td>putative_peptide_synthetase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000171/1">BGC0000171</a></td>
+              <td>t1pks</td>
+              <td>33.0</td>
+              <td>24.0</td>
+              <td>63.0</td>
+              <td>1.6e-09</td>
+          </tr>
+    
+          <tr>
+              <td>AHA38199.1</td>
+              <td>GphF</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000069/1">BGC0000069</a></td>
+              <td>t1pks</td>
+              <td>30.0</td>
+              <td>29.4</td>
+              <td>62.0</td>
+              <td>3.5e-09</td>
+          </tr>
+    
+          <tr>
+              <td>OAQ83766.1</td>
+              <td>phenylacetyl-_ligase_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001358/1">BGC0001358</a></td>
+              <td>t1pks</td>
+              <td>25.0</td>
+              <td>39.9</td>
+              <td>62.0</td>
+              <td>3.5e-09</td>
+          </tr>
+    
+          <tr>
+              <td>AAZ23074.1</td>
+              <td>acyl-CoA_ligase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000291/1">BGC0000291</a></td>
+              <td>nrps</td>
+              <td>29.0</td>
+              <td>37.9</td>
+              <td>61.0</td>
+              <td>4.6e-09</td>
+          </tr>
+    
+          <tr>
+              <td>AMY15066.1</td>
+              <td>acyl-CoA_synthetase/ligase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001339/1">BGC0001339</a></td>
+              <td>t1pks</td>
+              <td>23.0</td>
+              <td>47.8</td>
+              <td>61.0</td>
+              <td>6e-09</td>
+          </tr>
+    
+          <tr>
+              <td>AKD43754.1</td>
+              <td>HerJ</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001349/1">BGC0001349</a></td>
+              <td>nrps-t1pks</td>
+              <td>31.0</td>
+              <td>28.7</td>
+              <td>61.0</td>
+              <td>6e-09</td>
+          </tr>
+    
+          <tr>
+              <td>ABC39418.1</td>
+              <td>dihydroaeruginoic_acid_synthetase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000964/1">BGC0000964</a></td>
+              <td>nrps-transatpks</td>
+              <td>30.0</td>
+              <td>24.2</td>
+              <td>61.0</td>
+              <td>7.8e-09</td>
+          </tr>
+    
+          <tr>
+              <td>AEZ53969.1</td>
+              <td>putative_AMP-binding_domain-containing_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000144/1">BGC0000144</a></td>
+              <td>t1pks</td>
+              <td>30.0</td>
+              <td>40.1</td>
+              <td>57.0</td>
+              <td>1.1e-07</td>
+          </tr>
+    
+          <tr>
+              <td>ABS90470.1</td>
+              <td>NRPS/PKS</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001106/1">BGC0001106</a></td>
+              <td>nrps-transatpks</td>
+              <td>31.0</td>
+              <td>20.2</td>
+              <td>52.0</td>
+              <td>3.6e-06</td>
+          </tr>
+    
+          <tr>
+              <td>CAQ71826.1</td>
+              <td>non_ribosomal_peptide_synthase,_antibiotic_synthesis;_contains_1_condensation_domain,_1_AMP-acid_ligases_II_domain,_PP-binding,_Phosphopantetheine_attachment_site_and_one_taurine_catabolism_dioxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001189/1">BGC0001189</a></td>
+              <td>nrps</td>
+              <td>26.0</td>
+              <td>60.9</td>
+              <td>52.0</td>
+              <td>3.6e-06</td>
+          </tr>
+    
+          <tr>
+              <td>AVH76814.1</td>
+              <td>MicE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001669/1">BGC0001669</a></td>
+              <td>ripp</td>
+              <td>28.0</td>
+              <td>41.0</td>
+              <td>50.0</td>
+              <td>8e-06</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>
