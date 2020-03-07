@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="40,40 87,40 92,35 87,30 40,30 40,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_2&lt;/b&gt;&lt;br&gt;ctg13 2&lt;br&gt;Location: 1336 - 2245" locus_tag="ctg13_2" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="91,40 138,40 143,35 138,30 91,30 91,40 " style="fill:#3cd815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_3&lt;/b&gt;&lt;br&gt;ctg13 3&lt;br&gt;Location: 2234 - 3140" locus_tag="ctg13_3" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="158,40 177,40 182,35 177,30 158,30 158,40 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_4&lt;/b&gt;&lt;br&gt;ctg13 4&lt;br&gt;Location: 3396 - 3819" locus_tag="ctg13_4" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="187,35 192,30 252,30 252,40 192,40 187,35 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_5&lt;/b&gt;&lt;br&gt;ctg13 5&lt;br&gt;Location: 3904 - 5038" locus_tag="ctg13_5" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="272,40 378,40 383,35 378,30 272,30 272,40 " style="fill:#d88a15; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_6&lt;/b&gt;&lt;br&gt;ctg13 6&lt;br&gt;Location: 5394 - 7341" locus_tag="ctg13_6" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="384,40 414,40 419,35 414,30 384,30 384,40 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_7&lt;/b&gt;&lt;br&gt;ctg13 7&lt;br&gt;Location: 7349 - 7970" locus_tag="ctg13_7" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="422,40 517,40 522,35 517,30 422,30 422,40 " style="fill:#3c15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_8&lt;/b&gt;&lt;br&gt;ctg13 8&lt;br&gt;Location: 8020 - 9766" locus_tag="ctg13_8" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="525,40 634,40 639,35 634,30 525,30 525,40 " style="fill:#d8158a; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_9&lt;/b&gt;&lt;br&gt;ctg13 9&lt;br&gt;Location: 9816 - 11814" locus_tag="ctg13_9" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="641,35 646,30 690,30 690,40 646,40 641,35 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_10&lt;/b&gt;&lt;br&gt;ctg13 10&lt;br&gt;Location: 11854 - 12697" locus_tag="ctg13_10" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="711,40 735,40 740,35 735,30 711,30 711,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_11&lt;/b&gt;&lt;br&gt;ctg13 11&lt;br&gt;Location: 13070 - 13583" locus_tag="ctg13_11" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="NZ_ALAP01000104" description="NZ_ALAP01000104_c26: Streptomyces sp. AA1529 contig00104, whole genome shotgu... (88% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_ALAP01000104/26" target="_blank">NZ_ALAP01000104_c26</a>: Streptomyces sp. AA1529 contig00104, whole genome shotgu... (88% of genes show similarity), siderophore</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 80,90 85,85 80,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A949_RS0130930&lt;/b&gt;&lt;br&gt;GTPase HflX&lt;br&gt;Location: 23176 - 24675" locus_tag="A949_RS0130930" class="clusterblast-orf" id="dummy-1_h1_8_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="92,85 97,80 160,80 160,90 97,90 92,85 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;A949_RS0130935&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 24787 - 25986&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_5&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 103&lt;br&gt;BLAST bit score: 371&lt;br&gt;E-value: 1.5e-100" locus_tag="A949_RS0130935" class="clusterblast-orf" id="dummy-1_h1_8_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="165,85 170,80 234,80 234,90 170,90 165,85 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;A949_RS0130940&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 26062 - 27279&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_5&lt;/b&gt;&lt;br&gt;Percentage identity: 48&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 323&lt;br&gt;E-value: 2.7e-86" locus_tag="A949_RS0130940" class="clusterblast-orf" id="dummy-1_h1_8_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="251,90 358,90 363,85 358,80 251,80 251,90 " style="fill:#d88a15; stroke-width:1; stroke:black; " description="&lt;b&gt;A949_RS0130945&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 27571 - 29529&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_6&lt;/b&gt;&lt;br&gt;Percentage identity: 64&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 760&lt;br&gt;E-value: 1.5e-217" locus_tag="A949_RS0130945" class="clusterblast-orf" id="dummy-1_h1_8_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="365,90 415,90 420,85 415,80 365,80 365,90 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;A949_RS0130950&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 29569 - 30525&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_7&lt;/b&gt;&lt;br&gt;Percentage identity: 64&lt;br&gt;Percentage coverage: 87&lt;br&gt;BLAST bit score: 232&lt;br&gt;E-value: 3.5e-59" locus_tag="A949_RS0130950" class="clusterblast-orf" id="dummy-1_h1_8_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="424,90 522,90 527,85 522,80 424,80 424,90 " style="fill:#3c15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;A949_RS0130955&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 30598 - 32400&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_8&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 794&lt;br&gt;E-value: 6.5e-228" locus_tag="A949_RS0130955" class="clusterblast-orf" id="dummy-1_h1_8_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="536,90 645,90 650,85 645,80 536,80 536,90 " style="fill:#d8158a; stroke-width:1; stroke:black; " description="&lt;b&gt;A949_RS0130960&lt;/b&gt;&lt;br&gt;ATP-dependent DNA helicase&lt;br&gt;Location: 32555 - 34546&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_9&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1054&lt;br&gt;E-value: 4e-306" locus_tag="A949_RS0130960" class="clusterblast-orf" id="dummy-1_h1_8_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="663,85 668,80 710,80 710,90 668,90 663,85 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;A949_RS0130965&lt;/b&gt;&lt;br&gt;transcriptional repressor LexA&lt;br&gt;Location: 34777 - 35586&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_10&lt;/b&gt;&lt;br&gt;Percentage identity: 80&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 412&lt;br&gt;E-value: 3.3e-113" locus_tag="A949_RS0130965" class="clusterblast-orf" id="dummy-1_h1_8_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="754,90 775,90 780,85 775,80 754,80 754,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;A949_RS35180&lt;/b&gt;&lt;br&gt;transcriptional repressor NrdR&lt;br&gt;Location: 36372 - 36809&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_11&lt;/b&gt;&lt;br&gt;Percentage identity: 92&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 265&lt;br&gt;E-value: 3.1e-69" locus_tag="A949_RS35180" class="clusterblast-orf" id="dummy-1_h1_8_8"  />
+</g>
+</svg>

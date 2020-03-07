@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="137,35 142,30 142,30 142,40 142,40 137,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_1&lt;/b&gt;&lt;br&gt;ctg28 1&lt;br&gt;Location: 1 - 268" locus_tag="ctg28_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="142,35 147,30 150,30 150,40 147,40 142,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_2&lt;/b&gt;&lt;br&gt;ctg28 2&lt;br&gt;Location: 267 - 792" locus_tag="ctg28_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="151,35 155,30 155,40 151,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_3&lt;/b&gt;&lt;br&gt;ctg28 3&lt;br&gt;Location: 825 - 1089" locus_tag="ctg28_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="155,35 160,30 168,30 168,40 160,40 155,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_4&lt;/b&gt;&lt;br&gt;ctg28 4&lt;br&gt;Location: 1090 - 1858" locus_tag="ctg28_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="168,35 173,30 175,30 175,40 173,40 168,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_5&lt;/b&gt;&lt;br&gt;ctg28 5&lt;br&gt;Location: 1859 - 2303" locus_tag="ctg28_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="176,35 180,30 180,40 176,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_6&lt;/b&gt;&lt;br&gt;ctg28 6&lt;br&gt;Location: 2325 - 2616" locus_tag="ctg28_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="191,40 194,35 191,30 191,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_7&lt;/b&gt;&lt;br&gt;ctg28 7&lt;br&gt;Location: 3262 - 3430" locus_tag="ctg28_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="196,40 205,40 210,35 205,30 196,30 196,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_8&lt;/b&gt;&lt;br&gt;ctg28 8&lt;br&gt;Location: 3562 - 4429" locus_tag="ctg28_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="212,35 217,30 219,30 219,40 217,40 212,35 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_9&lt;/b&gt;&lt;br&gt;ctg28 9&lt;br&gt;Location: 4518 - 4956" locus_tag="ctg28_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="221,35 226,30 249,30 249,40 226,40 221,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_10&lt;/b&gt;&lt;br&gt;ctg28 10&lt;br&gt;Location: 5075 - 6770" locus_tag="ctg28_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+<polygon points="250,35 255,30 266,30 266,40 255,40 250,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_11&lt;/b&gt;&lt;br&gt;ctg28 11&lt;br&gt;Location: 6854 - 7814" locus_tag="ctg28_11" class="clusterblast-orf" id="dummy-1_q10_0_all"  />
+<polygon points="266,35 271,30 289,30 289,40 271,40 266,35 " style="fill:#d84615; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_12&lt;/b&gt;&lt;br&gt;ctg28 12&lt;br&gt;Location: 7810 - 9211" locus_tag="ctg28_12" class="clusterblast-orf" id="dummy-1_q11_0_all"  />
+<polygon points="290,35 295,30 305,30 305,40 295,40 290,35 " style="fill:#46d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_13&lt;/b&gt;&lt;br&gt;ctg28 13&lt;br&gt;Location: 9281 - 10226" locus_tag="ctg28_13" class="clusterblast-orf" id="dummy-1_q12_0_all"  />
+<polygon points="307,35 312,30 328,30 328,40 312,40 307,35 " style="fill:#15a7d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_14&lt;/b&gt;&lt;br&gt;ctg28 14&lt;br&gt;Location: 10298 - 11603" locus_tag="ctg28_14" class="clusterblast-orf" id="dummy-1_q13_0_all"  />
+<polygon points="328,35 333,30 346,30 346,40 333,40 328,35 " style="fill:#a715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_15&lt;/b&gt;&lt;br&gt;ctg28 15&lt;br&gt;Location: 11599 - 12679" locus_tag="ctg28_15" class="clusterblast-orf" id="dummy-1_q14_0_all"  />
+<polygon points="345,35 350,30 361,30 361,40 350,40 345,35 " style="fill:#d87715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_16&lt;/b&gt;&lt;br&gt;ctg28 16&lt;br&gt;Location: 12650 - 13634" locus_tag="ctg28_16" class="clusterblast-orf" id="dummy-1_q15_0_all"  />
+<polygon points="361,35 366,30 379,30 379,40 366,40 361,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_17&lt;/b&gt;&lt;br&gt;ctg28 17&lt;br&gt;Location: 13630 - 14698" locus_tag="ctg28_17" class="clusterblast-orf" id="dummy-1_q16_0_all"  />
+<polygon points="379,35 384,30 398,30 398,40 384,40 379,35 " style="fill:#1577d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_18&lt;/b&gt;&lt;br&gt;ctg28 18&lt;br&gt;Location: 14723 - 15863" locus_tag="ctg28_18" class="clusterblast-orf" id="dummy-1_q17_0_all"  />
+<polygon points="398,35 403,30 407,30 407,40 403,40 398,35 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_19&lt;/b&gt;&lt;br&gt;ctg28 19&lt;br&gt;Location: 15859 - 16441" locus_tag="ctg28_19" class="clusterblast-orf" id="dummy-1_q18_0_all"  />
+<polygon points="407,35 412,30 427,30 427,40 412,40 407,35 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_20&lt;/b&gt;&lt;br&gt;ctg28 20&lt;br&gt;Location: 16440 - 17637" locus_tag="ctg28_20" class="clusterblast-orf" id="dummy-1_q19_0_all"  />
+<polygon points="428,35 433,30 449,30 449,40 433,40 428,35 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_21&lt;/b&gt;&lt;br&gt;ctg28 21&lt;br&gt;Location: 17665 - 18958" locus_tag="ctg28_21" class="clusterblast-orf" id="dummy-1_q20_0_all"  />
+<polygon points="450,35 455,30 470,30 470,40 455,40 450,35 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_22&lt;/b&gt;&lt;br&gt;ctg28 22&lt;br&gt;Location: 19016 - 20237" locus_tag="ctg28_22" class="clusterblast-orf" id="dummy-1_q21_0_all"  />
+<polygon points="470,35 475,30 502,30 502,40 475,40 470,35 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_23&lt;/b&gt;&lt;br&gt;ctg28 23&lt;br&gt;Location: 20245 - 22225" locus_tag="ctg28_23" class="clusterblast-orf" id="dummy-1_q22_0_all"  />
+<polygon points="502,35 507,30 518,30 518,40 507,40 502,35 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_24&lt;/b&gt;&lt;br&gt;ctg28 24&lt;br&gt;Location: 22227 - 23163" locus_tag="ctg28_24" class="clusterblast-orf" id="dummy-1_q23_0_all"  />
+<polygon points="518,35 523,30 531,30 531,40 523,40 518,35 " style="fill:#15d877; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_25&lt;/b&gt;&lt;br&gt;ctg28 25&lt;br&gt;Location: 23182 - 23968" locus_tag="ctg28_25" class="clusterblast-orf" id="dummy-1_q24_0_all"  />
+<polygon points="533,35 538,30 538,30 538,40 538,40 533,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_26&lt;/b&gt;&lt;br&gt;ctg28 26&lt;br&gt;Location: 24103 - 24373" locus_tag="ctg28_26" class="clusterblast-orf" id="dummy-1_q25_0_all"  />
+<polygon points="539,35 544,30 559,30 559,40 544,40 539,35 " style="fill:#d81577; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_27&lt;/b&gt;&lt;br&gt;ctg28 27&lt;br&gt;Location: 24460 - 25684" locus_tag="ctg28_27" class="clusterblast-orf" id="dummy-1_q26_0_all"  />
+<polygon points="559,35 564,30 580,30 580,40 564,40 559,35 " style="fill:#a7d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_28&lt;/b&gt;&lt;br&gt;ctg28 28&lt;br&gt;Location: 25680 - 26961" locus_tag="ctg28_28" class="clusterblast-orf" id="dummy-1_q27_0_all"  />
+<polygon points="580,35 584,30 584,40 580,35 " style="fill:#15d8a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_29&lt;/b&gt;&lt;br&gt;ctg28 29&lt;br&gt;Location: 26957 - 27185" locus_tag="ctg28_29" class="clusterblast-orf" id="dummy-1_q28_0_all"  />
+<polygon points="586,35 591,30 610,30 610,40 591,40 586,35 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_30&lt;/b&gt;&lt;br&gt;ctg28 30&lt;br&gt;Location: 27295 - 28783" locus_tag="ctg28_30" class="clusterblast-orf" id="dummy-1_q29_0_all"  />
+<polygon points="611,40 611,40 616,35 611,30 611,30 611,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_31&lt;/b&gt;&lt;br&gt;ctg28 31&lt;br&gt;Location: 28868 - 29126" locus_tag="ctg28_31" class="clusterblast-orf" id="dummy-1_q30_0_all"  />
+<polygon points="615,35 620,30 626,30 626,40 620,40 615,35 " style="fill:#4615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_32&lt;/b&gt;&lt;br&gt;ctg28 32&lt;br&gt;Location: 29105 - 29753" locus_tag="ctg28_32" class="clusterblast-orf" id="dummy-1_q31_0_all"  />
+<polygon points="631,35 636,30 642,30 642,40 636,40 631,35 " style="fill:#d81546; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg28_33&lt;/b&gt;&lt;br&gt;ctg28 33&lt;br&gt;Location: 30087 - 30720" locus_tag="ctg28_33" class="clusterblast-orf" id="dummy-1_q32_0_all"  />
+</g>
+<g label="BGC0000203" description="BGC0000203_c1: BE-7585A (33% of genes show similarity), t2pks" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0000203/1" target="_blank">BGC0000203</a>:                                                                         BE-7585A (33% of genes show similarity), t2pks</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 8,80 8,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71473.1&lt;/b&gt;&lt;br&gt;putative flavoprotein&lt;br&gt;Location: 47655 - 47158" locus_tag="ADI71473.1" class="clusterblast-orf" id="dummy-1_h1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="8,85 13,80 31,80 31,90 13,90 8,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71472.1&lt;/b&gt;&lt;br&gt;putative tRNA/rRNA cytosine-C5-methylase&lt;br&gt;Location: 47161 - 45737" locus_tag="ADI71472.1" class="clusterblast-orf" id="dummy-1_h1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="31,85 36,80 46,80 46,90 36,90 31,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71471.1&lt;/b&gt;&lt;br&gt;putative methionyl-tRNA formyltransferase&lt;br&gt;Location: 45740 - 44814" locus_tag="ADI71471.1" class="clusterblast-orf" id="dummy-1_h1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="48,85 53,80 77,80 77,90 53,90 48,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71470.1&lt;/b&gt;&lt;br&gt;putative gamma-glutamyltranspeptidase&lt;br&gt;Location: 44723 - 42924" locus_tag="ADI71470.1" class="clusterblast-orf" id="dummy-1_h1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="81,90 89,90 94,85 89,80 81,80 81,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71469.1&lt;/b&gt;&lt;br&gt;putative lysozyme M1 precursor&lt;br&gt;Location: 42719 - 41904" locus_tag="ADI71469.1" class="clusterblast-orf" id="dummy-1_h1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="95,90 119,90 124,85 119,80 95,80 95,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71468.1&lt;/b&gt;&lt;br&gt;putative secreted protein&lt;br&gt;Location: 41825 - 40071" locus_tag="ADI71468.1" class="clusterblast-orf" id="dummy-1_h1_10_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="127,85 132,80 149,80 149,90 132,90 127,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71467.1&lt;/b&gt;&lt;br&gt;putative glycosyltransferase&lt;br&gt;Location: 39909 - 38521" locus_tag="ADI71467.1" class="clusterblast-orf" id="dummy-1_h1_10_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="149,85 154,80 169,80 169,90 154,90 149,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71466.1&lt;/b&gt;&lt;br&gt;putative transporter&lt;br&gt;Location: 38524 - 37307" locus_tag="ADI71466.1" class="clusterblast-orf" id="dummy-1_h1_10_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="179,85 184,80 192,80 192,90 184,90 179,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71465.1&lt;/b&gt;&lt;br&gt;putative thiosugar synthase&lt;br&gt;Location: 36703 - 35933" locus_tag="ADI71465.1" class="clusterblast-orf" id="dummy-1_h1_10_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="192,85 197,80 216,80 216,90 197,90 192,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71464.1&lt;/b&gt;&lt;br&gt;putative transporter&lt;br&gt;Location: 35936 - 34488" locus_tag="ADI71464.1" class="clusterblast-orf" id="dummy-1_h1_10_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="216,85 221,80 226,80 226,90 221,90 216,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71463.1&lt;/b&gt;&lt;br&gt;putative reductase&lt;br&gt;Location: 34491 - 33880" locus_tag="ADI71463.1" class="clusterblast-orf" id="dummy-1_h1_10_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="227,90 233,90 238,85 233,80 227,80 227,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71462.1&lt;/b&gt;&lt;br&gt;putative transcriptional regulator&lt;br&gt;Location: 33777 - 33133" locus_tag="ADI71462.1" class="clusterblast-orf" id="dummy-1_h1_10_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="238,85 243,80 260,80 260,90 243,90 238,85 " style="fill:#d84615; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71461.1&lt;/b&gt;&lt;br&gt;putative sugar 2,3-dehydratase&lt;br&gt;Location: 33129 - 31810&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_12&lt;/b&gt;&lt;br&gt;Percentage identity: 54&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 441&lt;br&gt;E-value: 1.2e-123" locus_tag="ADI71461.1" class="clusterblast-orf" id="dummy-1_h1_10_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="260,85 265,80 274,80 274,90 265,90 260,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71460.1&lt;/b&gt;&lt;br&gt;putative TDP-glucose synthase&lt;br&gt;Location: 31798 - 30911" locus_tag="ADI71460.1" class="clusterblast-orf" id="dummy-1_h1_10_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="274,85 279,80 296,80 296,90 279,90 274,85 " style="fill:#15a7d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71459.1&lt;/b&gt;&lt;br&gt;putative sugar 3-dehydrase&lt;br&gt;Location: 30914 - 29601&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_14&lt;/b&gt;&lt;br&gt;Percentage identity: 76&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 689&lt;br&gt;E-value: 3e-198" locus_tag="ADI71459.1" class="clusterblast-orf" id="dummy-1_h1_10_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="296,85 301,80 312,80 312,90 301,90 296,85 " style="fill:#d87715; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71458.1&lt;/b&gt;&lt;br&gt;putative sugar 4,6-dehydratase&lt;br&gt;Location: 29591 - 28608&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_16&lt;/b&gt;&lt;br&gt;Percentage identity: 70&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 480&lt;br&gt;E-value: 1.6e-135" locus_tag="ADI71458.1" class="clusterblast-orf" id="dummy-1_h1_10_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="312,85 317,80 328,80 328,90 317,90 312,85 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71457.1&lt;/b&gt;&lt;br&gt;putative sugar 3-ketoreductase&lt;br&gt;Location: 28611 - 27631&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_11&lt;/b&gt;&lt;br&gt;Percentage identity: 53&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 286&lt;br&gt;E-value: 5.6e-77" locus_tag="ADI71457.1" class="clusterblast-orf" id="dummy-1_h1_10_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="328,85 333,80 349,80 349,90 333,90 328,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71456.1&lt;/b&gt;&lt;br&gt;putative glycosyltransferase&lt;br&gt;Location: 27634 - 26351" locus_tag="ADI71456.1" class="clusterblast-orf" id="dummy-1_h1_10_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="349,85 354,80 362,80 362,90 354,90 349,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71455.1&lt;/b&gt;&lt;br&gt;putative methyltransferase&lt;br&gt;Location: 26354 - 25593" locus_tag="ADI71455.1" class="clusterblast-orf" id="dummy-1_h1_10_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="362,85 365,80 365,90 362,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71454.1&lt;/b&gt;&lt;br&gt;putative ferredoxin&lt;br&gt;Location: 25596 - 25375" locus_tag="ADI71454.1" class="clusterblast-orf" id="dummy-1_h1_10_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="365,85 370,80 385,80 385,90 370,90 365,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71453.1&lt;/b&gt;&lt;br&gt;putative hydroxylase&lt;br&gt;Location: 25378 - 24158" locus_tag="ADI71453.1" class="clusterblast-orf" id="dummy-1_h1_10_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="385,85 390,80 396,80 396,90 390,90 385,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71452.1&lt;/b&gt;&lt;br&gt;putative oxygenase&lt;br&gt;Location: 24156 - 23509" locus_tag="ADI71452.1" class="clusterblast-orf" id="dummy-1_h1_10_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="396,85 401,80 411,80 411,90 401,90 396,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71451.1&lt;/b&gt;&lt;br&gt;putative sugar epimerase/reductase&lt;br&gt;Location: 23512 - 22595" locus_tag="ADI71451.1" class="clusterblast-orf" id="dummy-1_h1_10_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="411,85 416,80 429,80 429,90 416,90 411,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71450.1&lt;/b&gt;&lt;br&gt;putative carboxyl transferase&lt;br&gt;Location: 22598 - 21498" locus_tag="ADI71450.1" class="clusterblast-orf" id="dummy-1_h1_10_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="429,85 434,80 449,80 449,90 434,90 429,85 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71449.1&lt;/b&gt;&lt;br&gt;putative transporter&lt;br&gt;Location: 21501 - 20308&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_22&lt;/b&gt;&lt;br&gt;Percentage identity: 48&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 268&lt;br&gt;E-value: 2e-71" locus_tag="ADI71449.1" class="clusterblast-orf" id="dummy-1_h1_10_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="449,85 454,80 481,80 481,90 454,90 449,85 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71448.1&lt;/b&gt;&lt;br&gt;putative oxygenase-reductase&lt;br&gt;Location: 20302 - 18344&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_23&lt;/b&gt;&lt;br&gt;Percentage identity: 65&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 787&lt;br&gt;E-value: 1.6e-227" locus_tag="ADI71448.1" class="clusterblast-orf" id="dummy-1_h1_10_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="481,85 486,80 496,80 496,90 486,90 481,85 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71447.1&lt;/b&gt;&lt;br&gt;putative cyclase&lt;br&gt;Location: 18347 - 17418&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_24&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 413&lt;br&gt;E-value: 2.3e-115" locus_tag="ADI71447.1" class="clusterblast-orf" id="dummy-1_h1_10_26"  />
+</g>
+<g id="a1_0027"  >
+<polygon points="496,85 501,80 509,80 509,90 501,90 496,85 " style="fill:#15d877; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71446.1&lt;/b&gt;&lt;br&gt;putative ketoreductase&lt;br&gt;Location: 17390 - 16605&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_25&lt;/b&gt;&lt;br&gt;Percentage identity: 75&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 376&lt;br&gt;E-value: 4.4e-104" locus_tag="ADI71446.1" class="clusterblast-orf" id="dummy-1_h1_10_27"  />
+</g>
+<g id="a1_0028"  >
+<polygon points="510,85 514,80 514,90 510,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71445.1&lt;/b&gt;&lt;br&gt;putative acyl carrier protein&lt;br&gt;Location: 16573 - 16313&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_26&lt;/b&gt;&lt;br&gt;Percentage identity: 55&lt;br&gt;Percentage coverage: 84&lt;br&gt;BLAST bit score: 75&lt;br&gt;E-value: 5.5e-14" locus_tag="ADI71445.1" class="clusterblast-orf" id="dummy-1_h1_10_28"  />
+</g>
+<g id="a1_0029"  >
+<polygon points="514,85 519,80 535,80 535,90 519,90 514,85 " style="fill:#d81577; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71444.1&lt;/b&gt;&lt;br&gt;putative ketosynthase beta subunit&lt;br&gt;Location: 16310 - 15039&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_27&lt;/b&gt;&lt;br&gt;Percentage identity: 70&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 542&lt;br&gt;E-value: 4.2e-154" locus_tag="ADI71444.1" class="clusterblast-orf" id="dummy-1_h1_10_29"  />
+</g>
+<g id="a1_0030"  >
+<polygon points="535,85 540,80 556,80 556,90 540,90 535,85 " style="fill:#a7d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71443.1&lt;/b&gt;&lt;br&gt;putative ketosynthase alpha subunit&lt;br&gt;Location: 15042 - 13774&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_28&lt;/b&gt;&lt;br&gt;Percentage identity: 86&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 715&lt;br&gt;E-value: 6.5e-206" locus_tag="ADI71443.1" class="clusterblast-orf" id="dummy-1_h1_10_30"  />
+</g>
+<g id="a1_0031"  >
+<polygon points="556,85 561,80 561,80 561,90 561,90 556,85 " style="fill:#15d8a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71442.1&lt;/b&gt;&lt;br&gt;putative cyclase&lt;br&gt;Location: 13777 - 13451&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_29&lt;/b&gt;&lt;br&gt;Percentage identity: 80&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 127&lt;br&gt;E-value: 7.8e-30" locus_tag="ADI71442.1" class="clusterblast-orf" id="dummy-1_h1_10_31"  />
+</g>
+<g id="a1_0032"  >
+<polygon points="562,85 567,80 586,80 586,90 567,90 562,85 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71441.1&lt;/b&gt;&lt;br&gt;putative oxygenase&lt;br&gt;Location: 13427 - 11964&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_23&lt;/b&gt;&lt;br&gt;Percentage identity: 47&lt;br&gt;Percentage coverage: 58&lt;br&gt;BLAST bit score: 299&lt;br&gt;E-value: 1.7e-80&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_30&lt;/b&gt;&lt;br&gt;Percentage identity: 72&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 695&lt;br&gt;E-value: 8.1e-200" locus_tag="ADI71441.1" class="clusterblast-orf" id="dummy-1_h1_10_32"  />
+</g>
+<g id="a1_0033"  >
+<polygon points="590,85 595,80 601,80 601,90 595,90 590,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71440.1&lt;/b&gt;&lt;br&gt;putative transcriptional regulator&lt;br&gt;Location: 11689 - 11012&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg28_8&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 76&lt;br&gt;BLAST bit score: 202&lt;br&gt;E-value: 9.6e-52" locus_tag="ADI71440.1" class="clusterblast-orf" id="dummy-1_h1_10_33"  />
+</g>
+<g id="a1_0034"  >
+<polygon points="612,85 617,80 646,80 646,90 617,90 612,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71439.1&lt;/b&gt;&lt;br&gt;putative primosomal protein N'&lt;br&gt;Location: 10360 - 8264" locus_tag="ADI71439.1" class="clusterblast-orf" id="dummy-1_h1_10_34"  />
+</g>
+<g id="a1_0035"  >
+<polygon points="648,85 653,80 668,80 668,90 653,90 648,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71438.1&lt;/b&gt;&lt;br&gt;putative methionine adenosyltransferase&lt;br&gt;Location: 8159 - 6957" locus_tag="ADI71438.1" class="clusterblast-orf" id="dummy-1_h1_10_35"  />
+</g>
+<g id="a1_0036"  >
+<polygon points="669,85 674,80 689,80 689,90 674,90 669,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71437.1&lt;/b&gt;&lt;br&gt;putative phosphopantothenoylcysteine synthase/decarboxylase&lt;br&gt;Location: 6863 - 5643" locus_tag="ADI71437.1" class="clusterblast-orf" id="dummy-1_h1_10_36"  />
+</g>
+<g id="a1_0037"  >
+<polygon points="689,85 694,80 694,80 694,90 694,90 689,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71436.1&lt;/b&gt;&lt;br&gt;putative DNA-directed RNA polymerase omega subunit&lt;br&gt;Location: 5650 - 5381" locus_tag="ADI71436.1" class="clusterblast-orf" id="dummy-1_h1_10_37"  />
+</g>
+<g id="a1_0038"  >
+<polygon points="694,85 699,80 704,80 704,90 699,90 694,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71435.1&lt;/b&gt;&lt;br&gt;putative guanylate kinase&lt;br&gt;Location: 5384 - 4731" locus_tag="ADI71435.1" class="clusterblast-orf" id="dummy-1_h1_10_38"  />
+</g>
+<g id="a1_0039"  >
+<polygon points="704,85 709,80 709,80 709,90 709,90 704,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71434.1&lt;/b&gt;&lt;br&gt;putative integration host factor&lt;br&gt;Location: 4734 - 4417" locus_tag="ADI71434.1" class="clusterblast-orf" id="dummy-1_h1_10_39"  />
+</g>
+<g id="a1_0040"  >
+<polygon points="711,85 716,80 725,80 725,90 716,90 711,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71433.1&lt;/b&gt;&lt;br&gt;putative orotidine 5'-phosphate decarboxylase subfamily 2&lt;br&gt;Location: 4309 - 3461" locus_tag="ADI71433.1" class="clusterblast-orf" id="dummy-1_h1_10_40"  />
+</g>
+<g id="a1_0041"  >
+<polygon points="725,85 730,80 780,80 780,90 730,90 725,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADI71432.1&lt;/b&gt;&lt;br&gt;putative carbamoyl-phosphate synthase large subunit&lt;br&gt;Location: 3464 - 150" locus_tag="ADI71432.1" class="clusterblast-orf" id="dummy-1_h1_10_41"  />
+</g>
+</svg>

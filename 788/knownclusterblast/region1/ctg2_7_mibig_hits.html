@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ATY72528.1</td>
+              <td>taurine_catabolism_dioxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001574/1">BGC0001574</a></td>
+              <td>nrps</td>
+              <td>58.0</td>
+              <td>100.0</td>
+              <td>349.0</td>
+              <td>6.3e-96</td>
+          </tr>
+    
+          <tr>
+              <td>ATY12796.1</td>
+              <td>TauD/TfdA_family_dioxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001504/1">BGC0001504</a></td>
+              <td>t1pks</td>
+              <td>60.0</td>
+              <td>96.2</td>
+              <td>335.0</td>
+              <td>7.2e-92</td>
+          </tr>
+    
+          <tr>
+              <td>ACR50790.1</td>
+              <td>putative_oxidoreductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000163/1">BGC0000163</a></td>
+              <td>t1pks</td>
+              <td>56.0</td>
+              <td>96.5</td>
+              <td>329.0</td>
+              <td>6.7e-90</td>
+          </tr>
+    
+          <tr>
+              <td>CCP42822.1</td>
+              <td>Possible_oxidoreductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001627/1">BGC0001627</a></td>
+              <td>nrps</td>
+              <td>45.0</td>
+              <td>98.3</td>
+              <td>257.0</td>
+              <td>3.3e-68</td>
+          </tr>
+    
+          <tr>
+              <td>AAG05698.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000287/1">BGC0000287</a></td>
+              <td>nrps</td>
+              <td>28.0</td>
+              <td>96.5</td>
+              <td>120.0</td>
+              <td>4.8e-27</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

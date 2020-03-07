@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="93,40 683,40 688,35 683,30 93,30 93,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg322_1&lt;/b&gt;&lt;br&gt;ctg322 1&lt;br&gt;Location: 2 - 6017" locus_tag="ctg322_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+</g>
+<g label="NZ_MAIH01000166" description="NZ_MAIH01000166_c21: Mycolicibacterium sp. (ex Dasyatis americana) strain Das... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_MAIH01000166/21" target="_blank">NZ_MAIH01000166_c21</a>: Mycolicibacterium sp. (ex Dasyatis americana) strain Das... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 775,90 780,85 775,80 0,80 0,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BA059_RS27115&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 11 - 7906&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg322_1&lt;/b&gt;&lt;br&gt;Percentage identity: 45&lt;br&gt;Percentage coverage: 107&lt;br&gt;BLAST bit score: 1619&lt;br&gt;E-value: 0.0" locus_tag="BA059_RS27115" class="clusterblast-orf" id="dummy-1_h1_10_0"  />
+</g>
+</svg>

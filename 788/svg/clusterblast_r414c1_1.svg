@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="131,40 646,40 651,35 646,30 131,30 131,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg414_1&lt;/b&gt;&lt;br&gt;ctg414 1&lt;br&gt;Location: 2 - 3626" locus_tag="ctg414_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+</g>
+<g label="NZ_MVFC01000071" description="NZ_MVFC01000071_c38: Streptomyces tsukubensis strain F601 Scaffold70 1, whole... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_MVFC01000071/38" target="_blank">NZ_MVFC01000071_c38</a>: Streptomyces tsukubensis strain F601 Scaffold70 1, whole... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 775,90 780,85 775,80 0,80 0,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;B1H18_RS34635&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 1 - 5432&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg414_1&lt;/b&gt;&lt;br&gt;Percentage identity: 54&lt;br&gt;Percentage coverage: 104&lt;br&gt;BLAST bit score: 1178&lt;br&gt;E-value: 0.0" locus_tag="B1H18_RS34635" class="clusterblast-orf" id="dummy-1_h1_1_0"  />
+</g>
+</svg>

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="264,40 363,40 368,35 363,30 264,30 264,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg147_1&lt;/b&gt;&lt;br&gt;ctg147 1&lt;br&gt;Location: 2 - 5192" locus_tag="ctg147_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="370,40 383,40 388,35 383,30 370,30 370,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg147_2&lt;/b&gt;&lt;br&gt;ctg147 2&lt;br&gt;Location: 5287 - 6163" locus_tag="ctg147_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="388,40 399,40 404,35 399,30 388,30 388,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg147_3&lt;/b&gt;&lt;br&gt;ctg147 3&lt;br&gt;Location: 6162 - 6969" locus_tag="ctg147_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="405,35 410,30 433,30 433,40 410,40 405,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg147_4&lt;/b&gt;&lt;br&gt;ctg147 4&lt;br&gt;Location: 7041 - 8427" locus_tag="ctg147_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="443,35 448,30 465,30 465,40 448,40 443,35 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg147_5&lt;/b&gt;&lt;br&gt;ctg147 5&lt;br&gt;Location: 8908 - 10027" locus_tag="ctg147_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="467,35 472,30 499,30 499,40 472,40 467,35 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg147_6&lt;/b&gt;&lt;br&gt;ctg147 6&lt;br&gt;Location: 10127 - 11711" locus_tag="ctg147_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="500,35 505,30 512,30 512,40 505,40 500,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg147_7&lt;/b&gt;&lt;br&gt;ctg147 7&lt;br&gt;Location: 11741 - 12341" locus_tag="ctg147_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="514,40 516,35 514,30 514,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg147_8&lt;/b&gt;&lt;br&gt;ctg147 8&lt;br&gt;Location: 12461 - 12533" locus_tag="ctg147_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+</g>
+<g label="BGC0001172" description="BGC0001172_c1: Chlorizidine A (7% of genes show similarity), nrps-t1pks" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0001172/1" target="_blank">BGC0001172</a>:                                                                   Chlorizidine A (7% of genes show similarity), nrps-t1pks</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 31,80 31,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12073.1&lt;/b&gt;&lt;br&gt;sugar kinase&lt;br&gt;Location: 38 - 1588" locus_tag="AHA12073.1" class="clusterblast-orf" id="dummy-1_h1_6_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="34,85 39,80 45,80 45,90 39,90 34,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12074.1&lt;/b&gt;&lt;br&gt;putative sterol carrier protein&lt;br&gt;Location: 1743 - 2318" locus_tag="AHA12074.1" class="clusterblast-orf" id="dummy-1_h1_6_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="46,90 57,90 62,85 57,80 46,80 46,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12075.1&lt;/b&gt;&lt;br&gt;enoyl-acyl carrier protein reductase&lt;br&gt;Location: 2346 - 3143" locus_tag="AHA12075.1" class="clusterblast-orf" id="dummy-1_h1_6_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="65,90 84,90 89,85 84,80 65,80 65,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12076.1&lt;/b&gt;&lt;br&gt;crotonyl-CoA carboxylase reductase&lt;br&gt;Location: 3301 - 4482" locus_tag="AHA12076.1" class="clusterblast-orf" id="dummy-1_h1_6_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="89,90 111,90 116,85 111,80 89,80 89,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12077.1&lt;/b&gt;&lt;br&gt;flavin-dependent halogenase&lt;br&gt;Location: 4499 - 5845" locus_tag="AHA12077.1" class="clusterblast-orf" id="dummy-1_h1_6_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="117,90 291,90 296,85 291,80 117,80 117,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12078.1&lt;/b&gt;&lt;br&gt;polyketide synthase type 1&lt;br&gt;Location: 5891 - 14785" locus_tag="AHA12078.1" class="clusterblast-orf" id="dummy-1_h1_6_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="296,90 377,90 382,85 377,80 296,80 296,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12079.1&lt;/b&gt;&lt;br&gt;polyketide synthase type 1&lt;br&gt;Location: 14782 - 19080" locus_tag="AHA12079.1" class="clusterblast-orf" id="dummy-1_h1_6_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="382,90 410,90 415,85 410,80 382,80 382,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12080.1&lt;/b&gt;&lt;br&gt;flavin-dependent halogenase&lt;br&gt;Location: 19077 - 20714" locus_tag="AHA12080.1" class="clusterblast-orf" id="dummy-1_h1_6_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="415,90 440,90 445,85 440,80 415,80 415,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12081.1&lt;/b&gt;&lt;br&gt;flavin-dependent oxidase&lt;br&gt;Location: 20711 - 22231" locus_tag="AHA12081.1" class="clusterblast-orf" id="dummy-1_h1_6_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="447,90 447,90 452,85 447,80 447,80 447,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12082.1&lt;/b&gt;&lt;br&gt;acyl carrier protein&lt;br&gt;Location: 22334 - 22588" locus_tag="AHA12082.1" class="clusterblast-orf" id="dummy-1_h1_6_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="452,90 473,90 478,85 473,80 452,80 452,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12083.1&lt;/b&gt;&lt;br&gt;3-oxoacyl-acyl carrier protein synthase&lt;br&gt;Location: 22585 - 23868" locus_tag="AHA12083.1" class="clusterblast-orf" id="dummy-1_h1_6_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="484,90 492,90 497,85 492,80 484,80 484,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12084.1&lt;/b&gt;&lt;br&gt;transcriptional regulator&lt;br&gt;Location: 24163 - 24828" locus_tag="AHA12084.1" class="clusterblast-orf" id="dummy-1_h1_6_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="507,90 514,90 519,85 514,80 507,80 507,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12085.1&lt;/b&gt;&lt;br&gt;transcriptional regulator&lt;br&gt;Location: 25283 - 25915" locus_tag="AHA12085.1" class="clusterblast-orf" id="dummy-1_h1_6_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="522,85 527,80 551,80 551,90 527,90 522,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12086.1&lt;/b&gt;&lt;br&gt;amino acid adenyltransferase&lt;br&gt;Location: 26027 - 27490" locus_tag="AHA12086.1" class="clusterblast-orf" id="dummy-1_h1_6_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="551,85 556,80 574,80 574,90 556,90 551,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12087.1&lt;/b&gt;&lt;br&gt;acyl-CoA dehydrogenase&lt;br&gt;Location: 27487 - 28626" locus_tag="AHA12087.1" class="clusterblast-orf" id="dummy-1_h1_6_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="586,90 608,90 613,85 608,80 586,80 586,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12088.1&lt;/b&gt;&lt;br&gt;Na/H exchanger&lt;br&gt;Location: 29241 - 30584" locus_tag="AHA12088.1" class="clusterblast-orf" id="dummy-1_h1_6_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="613,90 624,90 629,85 624,80 613,80 613,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12089.1&lt;/b&gt;&lt;br&gt;phosphopantetheinyl transferase&lt;br&gt;Location: 30581 - 31387" locus_tag="AHA12089.1" class="clusterblast-orf" id="dummy-1_h1_6_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="630,90 631,90 636,85 631,80 630,80 630,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12090.1&lt;/b&gt;&lt;br&gt;L-proline carrier protein&lt;br&gt;Location: 31415 - 31705" locus_tag="AHA12090.1" class="clusterblast-orf" id="dummy-1_h1_6_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="642,90 651,90 656,85 651,80 642,80 642,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12091.1&lt;/b&gt;&lt;br&gt;transcriptional regulator&lt;br&gt;Location: 32032 - 32736" locus_tag="AHA12091.1" class="clusterblast-orf" id="dummy-1_h1_6_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="656,90 663,90 668,85 663,80 656,80 656,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12092.1&lt;/b&gt;&lt;br&gt;transcriptional regulator&lt;br&gt;Location: 32720 - 33343" locus_tag="AHA12092.1" class="clusterblast-orf" id="dummy-1_h1_6_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="670,90 679,90 684,85 679,80 670,80 670,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12093.1&lt;/b&gt;&lt;br&gt;thioesterase&lt;br&gt;Location: 33394 - 34113" locus_tag="AHA12093.1" class="clusterblast-orf" id="dummy-1_h1_6_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="687,85 692,80 704,80 704,90 692,90 687,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12094.1&lt;/b&gt;&lt;br&gt;trypsin-like protease&lt;br&gt;Location: 34250 - 35128" locus_tag="AHA12094.1" class="clusterblast-orf" id="dummy-1_h1_6_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="706,85 711,80 737,80 737,90 711,90 706,85 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12095.1&lt;/b&gt;&lt;br&gt;transporter&lt;br&gt;Location: 35227 - 36741&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg147_6&lt;/b&gt;&lt;br&gt;Percentage identity: 54&lt;br&gt;Percentage coverage: 86&lt;br&gt;BLAST bit score: 439&lt;br&gt;E-value: 8.5e-123" locus_tag="AHA12095.1" class="clusterblast-orf" id="dummy-1_h1_6_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="739,85 744,80 751,80 751,90 744,90 739,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12096.1&lt;/b&gt;&lt;br&gt;NADPH-dependent FMN reductase&lt;br&gt;Location: 36838 - 37434&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg147_7&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 279&lt;br&gt;E-value: 4.3e-75" locus_tag="AHA12096.1" class="clusterblast-orf" id="dummy-1_h1_6_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="753,90 763,90 768,85 763,80 753,80 753,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12097.1&lt;/b&gt;&lt;br&gt;transcriptional regulator&lt;br&gt;Location: 37562 - 38299" locus_tag="AHA12097.1" class="clusterblast-orf" id="dummy-1_h1_6_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="770,90 775,90 780,85 775,80 770,80 770,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AHA12098.1&lt;/b&gt;&lt;br&gt;transposase&lt;br&gt;Location: 38399 - 38869" locus_tag="AHA12098.1" class="clusterblast-orf" id="dummy-1_h1_6_25"  />
+</g>
+</svg>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>WP_067426793.1</td>
+              <td>argininosuccinate_synthase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001567/1">BGC0001567</a></td>
+              <td>nrps</td>
+              <td>94.0</td>
+              <td>100.0</td>
+              <td>911.0</td>
+              <td>5.4e-265</td>
+          </tr>
+    
+          <tr>
+              <td>ABC87501.1</td>
+              <td>argininosuccinate_synthase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001011/1">BGC0001011</a></td>
+              <td>nrps-t1pks</td>
+              <td>89.0</td>
+              <td>92.7</td>
+              <td>807.0</td>
+              <td>1.4e-233</td>
+          </tr>
+    
+          <tr>
+              <td>EFE73298.1</td>
+              <td>argininosuccinate_synthase_ArgG</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000431/1">BGC0000431</a></td>
+              <td>nrps</td>
+              <td>30.0</td>
+              <td>75.5</td>
+              <td>141.0</td>
+              <td>4.4e-33</td>
+          </tr>
+    
+          <tr>
+              <td>CAH94388.1</td>
+              <td>argininosuccinate_synthase_ArgG</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000717/1">BGC0000717</a></td>
+              <td>saccharide</td>
+              <td>30.0</td>
+              <td>75.3</td>
+              <td>141.0</td>
+              <td>4.4e-33</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

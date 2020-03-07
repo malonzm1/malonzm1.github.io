@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="268,40 310,40 315,35 310,30 268,30 268,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg381_1&lt;/b&gt;&lt;br&gt;ctg381 1&lt;br&gt;Location: 48 - 888" locus_tag="ctg381_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="322,40 342,40 347,35 342,30 322,30 322,40 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg381_2&lt;/b&gt;&lt;br&gt;ctg381 2&lt;br&gt;Location: 1009 - 1459" locus_tag="ctg381_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="344,35 349,30 353,30 353,40 349,40 344,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg381_3&lt;/b&gt;&lt;br&gt;ctg381 3&lt;br&gt;Location: 1409 - 1562" locus_tag="ctg381_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="353,35 358,30 375,30 375,40 358,40 353,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg381_4&lt;/b&gt;&lt;br&gt;ctg381 4&lt;br&gt;Location: 1564 - 1963" locus_tag="ctg381_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="385,40 429,40 434,35 429,30 385,30 385,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg381_5&lt;/b&gt;&lt;br&gt;ctg381 5&lt;br&gt;Location: 2142 - 3012" locus_tag="ctg381_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="433,35 438,30 492,30 492,40 438,40 433,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg381_6&lt;/b&gt;&lt;br&gt;ctg381 6&lt;br&gt;Location: 2995 - 4036" locus_tag="ctg381_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="501,40 507,40 512,35 507,30 501,30 501,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg381_7&lt;/b&gt;&lt;br&gt;ctg381 7&lt;br&gt;Location: 4206 - 4404" locus_tag="ctg381_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+</g>
+<g label="NZ_FPAB01000019" description="NZ_FPAB01000019_c21: Streptomyces harbinensis strain CGMCC 4.7047, whole geno... (11% of genes show similarity), t3pks" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FPAB01000019/21" target="_blank">NZ_FPAB01000019_c21</a>: Streptomyces harbinensis strain CGMCC 4.7047, whole geno... (11% of genes show similarity), t3pks</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 35,80 35,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26060&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 13901 - 13260" locus_tag="BM385_RS26060" class="clusterblast-orf" id="dummy-1_h1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="63,85 68,80 76,80 76,90 68,90 63,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26055&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 12762 - 12544" locus_tag="BM385_RS26055" class="clusterblast-orf" id="dummy-1_h1_1_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="82,85 87,80 180,80 180,90 87,90 82,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26050&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 12438 - 10684" locus_tag="BM385_RS26050" class="clusterblast-orf" id="dummy-1_h1_1_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="187,85 192,80 210,80 210,90 192,90 187,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26045&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 10564 - 10142" locus_tag="BM385_RS26045" class="clusterblast-orf" id="dummy-1_h1_1_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="223,90 271,90 276,85 271,80 223,80 223,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26040&lt;/b&gt;&lt;br&gt;XRE family transcriptional regulator&lt;br&gt;Location: 9925 - 8981&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg381_5&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 297&lt;br&gt;E-value: 2.1e-78" locus_tag="BM385_RS26040" class="clusterblast-orf" id="dummy-1_h1_1_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="273,85 278,80 331,80 331,90 278,90 273,85 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26035&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 9032 - 7995&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg381_6&lt;/b&gt;&lt;br&gt;Percentage identity: 64&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 423&lt;br&gt;E-value: 1.8e-116" locus_tag="BM385_RS26035" class="clusterblast-orf" id="dummy-1_h1_1_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="328,90 360,90 365,85 360,80 328,80 328,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26030&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 8039 - 7380" locus_tag="BM385_RS26030" class="clusterblast-orf" id="dummy-1_h1_1_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="369,85 374,80 386,80 386,90 374,90 369,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26025&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7309 - 7013" locus_tag="BM385_RS26025" class="clusterblast-orf" id="dummy-1_h1_1_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="397,85 402,80 408,80 408,90 402,90 397,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26020&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6819 - 6625" locus_tag="BM385_RS26020" class="clusterblast-orf" id="dummy-1_h1_1_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="411,85 416,80 442,80 442,90 416,90 411,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26015&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6575 - 6015" locus_tag="BM385_RS26015" class="clusterblast-orf" id="dummy-1_h1_1_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="442,85 447,80 566,80 566,90 447,90 442,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26010&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6015 - 3811" locus_tag="BM385_RS26010" class="clusterblast-orf" id="dummy-1_h1_1_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="569,85 574,80 626,80 626,90 574,90 569,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26005&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3744 - 2731" locus_tag="BM385_RS26005" class="clusterblast-orf" id="dummy-1_h1_1_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="640,85 645,80 655,80 655,90 645,90 640,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26000&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2485 - 2228" locus_tag="BM385_RS26000" class="clusterblast-orf" id="dummy-1_h1_1_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="666,90 700,90 705,85 700,80 666,80 666,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS25995&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2027 - 1329" locus_tag="BM385_RS25995" class="clusterblast-orf" id="dummy-1_h1_1_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="716,90 724,90 729,85 724,80 716,80 716,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS25990&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1137 - 904" locus_tag="BM385_RS25990" class="clusterblast-orf" id="dummy-1_h1_1_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="732,85 737,80 745,80 745,90 737,90 732,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS25985&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 845 - 615" locus_tag="BM385_RS25985" class="clusterblast-orf" id="dummy-1_h1_1_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="744,85 749,80 780,80 780,90 749,90 744,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS25980&lt;/b&gt;&lt;br&gt;XRE family transcriptional regulator&lt;br&gt;Location: 627 - 1" locus_tag="BM385_RS25980" class="clusterblast-orf" id="dummy-1_h1_1_16"  />
+</g>
+</svg>

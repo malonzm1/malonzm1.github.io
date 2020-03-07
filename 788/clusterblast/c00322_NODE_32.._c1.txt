@@ -1,0 +1,805 @@
+ClusterBlast scores for c00322_NODE_32..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg322_1	2	6017	+		
+
+
+Significant hits: 
+1. NZ_LYDS01000154	Streptomyces acidiscabies strain 98-48 9848_154, whole genome shotgun sequence
+2. NZ_BCMK01000125	Streptomyces acidiscabies strain a10, whole genome shotgun sequence
+3. NZ_BCML01000129	Streptomyces acidiscabies strain a2, whole genome shotgun sequence
+4. NZ_FKJH01000060	Streptomyces sp. F-7 isolate Streptomyces sp. F7, whole genome shotgun sequence
+5. NZ_LWLE01000031	Streptomyces sp. TSRI0281 scaffold37, whole genome shotgun sequence
+6. NZ_LZLN01000161	Mycolicibacterium conceptionense strain 1165613.5 contig_243, whole genome shotgun sequence
+7. NZ_LZSY01000033	Mycolicibacterium peregrinum strain 852002-10433_SCH5171157 contig_128, whole genome shotgun sequence
+8. NZ_LZIB01000060	Mycolicibacterium peregrinum strain ACS819 contig_63, whole genome shotgun sequence
+9. NZ_AUKW01000033	Streptomyces sp. TAA204 H343DRAFT_scaffold00028.28_C, whole genome shotgun sequence
+10. NZ_MAIH01000166	Mycolicibacterium sp. (ex Dasyatis americana) strain Dasyatis americana 721, whole genome shotgun sequence
+11. NZ_JTJW01000015	Mycolicibacterium setense strain DSM 45070 NODE_13, whole genome shotgun sequence
+12. NZ_MBDZ01000002	Mycobacterium intracellulare subsp. yongonense strain E3170 contig_10, whole genome shotgun sequence
+13. NZ_LZHT01000064	Mycobacterium sp. 852002-10029_SCH5224772 contig_34, whole genome shotgun sequence
+14. NZ_AYNT01000268	Mycobacterium avium 10-5581 contig000268, whole genome shotgun sequence
+15. NZ_LZSL01000076	Mycolicibacterium setense strain 852014-10208_SCH5295773 contig_77, whole genome shotgun sequence
+16. NZ_MBEI01000007	Mycobacterium colombiense strain NS-7390 contig_15, whole genome shotgun sequence
+17. NZ_MBEI01000012	Mycobacterium colombiense strain NS-7390 contig_2, whole genome shotgun sequence
+18. NZ_LZKZ01000162	Mycobacterium colombiense strain 1245829.5 contig_244, whole genome shotgun sequence
+19. NZ_LZLI01000088	Mycobacterium sp. 1165549.7 contig_178, whole genome shotgun sequence
+20. NZ_LZIF01000094	Mycobacterium sp. 852002-51971_SCH5477799-a contig_67, whole genome shotgun sequence
+21. NZ_LZSG01000003	Mycobacterium sp. 1164966.3 contig_11, whole genome shotgun sequence
+22. NZ_BCSZ01000027	Mycolicibacterium fortuitum subsp. acetamidolyticum strain JCM6368, whole genome shotgun sequence
+23. NZ_LZIJ01000105	Mycobacterium sp. 852002-51163_SCH5372311 contig_193, whole genome shotgun sequence
+24. NZ_LZSR01000016	Mycolicibacterium fortuitum strain 852002-53395_SCH5661144-a contig_112, whole genome shotgun sequence
+25. NZ_MVFC01000071	Streptomyces tsukubensis strain F601 Scaffold70_1, whole genome shotgun sequence
+26. NZ_LZIV01000104	Mycolicibacterium fortuitum strain E1141 contig_41, whole genome shotgun sequence
+27. NZ_LZLZ01000243	Mycolicibacterium fortuitum strain 1242461.0 contig_317, whole genome shotgun sequence
+28. NZ_LZLO01000018	Mycolicibacterium fortuitum strain 1089381.4 contig_25, whole genome shotgun sequence
+29. NZ_LZIV01000161	Mycolicibacterium fortuitum strain E1141 contig_93, whole genome shotgun sequence
+30. NZ_LMVZ01000091	Mycobacterium avium subsp. hominissuis strain MAH-E-106 MAH-E-106_S12_NODE_211, whole genome shotgun sequence
+31. NZ_MBER01000127	Mycolicibacterium fortuitum strain GA-0871 contig_41, whole genome shotgun sequence
+32. NZ_LZKO01000153	Mycolicibacterium fortuitum strain E3337 contig_67, whole genome shotgun sequence
+33. NZ_LZIO01000123	Mycobacterium intracellulare strain 852002-53206_SCH5915646 contig_51, whole genome shotgun sequence
+34. NZ_MAIH01000155	Mycolicibacterium sp. (ex Dasyatis americana) strain Dasyatis americana 709, whole genome shotgun sequence
+35. NZ_LGDU01000054	Streptomyces sp. AS58 P432contig145.1, whole genome shotgun sequence
+36. NZ_LZSJ01000227	Mycolicibacterium fortuitum strain E1336 contig_75, whole genome shotgun sequence
+37. NZ_AUKN01000044	Streptomyces sp. CNT318 H296DRAFT_scaffold00041.41_C, whole genome shotgun sequence
+38. NZ_LT592238	[Mycobacterium] acapulcensis strain CSURP1424, whole genome shotgun sequence
+39. NZ_FRBK01000059	Streptomyces yunnanensis strain CGMCC 4.3555, whole genome shotgun sequence
+40. NZ_AWOO02000117	Actinomadura madurae LIID-AJ290 contig00117, whole genome shotgun sequence
+41. NZ_JOEL01000101	Streptomyces celluloflavus strain NRRL B-2493 contig101.1, whole genome shotgun sequence
+42. NZ_FMZZ01000034	Alloactinosynnema iranicum strain IBRC-M 10403, whole genome shotgun sequence
+43. NZ_MKJY01000301	Actinomadura sp. CNU-125 NODE_371_length_6002_cov_57.4309_ID_15195, whole genome shotgun sequence
+44. NZ_MLYP01000122	Streptomyces sp. MUSC 93, whole genome shotgun sequence
+45. NZ_AULB01000064	Actinomadura rifamycini DSM 43936 H505DRAFT_scaffold00061.61_C, whole genome shotgun sequence
+46. NZ_AULB01000065	Actinomadura rifamycini DSM 43936 H505DRAFT_scaffold00062.62_C, whole genome shotgun sequence
+47. NZ_JOGB01000112	Streptomyces sp. NRRL S-87 contig112.1, whole genome shotgun sequence
+48. NZ_LMCT01000051	Kitasatospora sp. Root107 contig_55, whole genome shotgun sequence
+49. NZ_MCBM01000125	Ralstonia solanacearum CaRs-Mep scaffold125_size6453, whole genome shotgun sequence
+50. NZ_LN929788	Streptomyces specialis strain type strain: GW41-1564, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_LYDS01000154
+Source: Streptomyces acidiscabies strain 98-48 9848_154, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1945
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	BWI70_RS07060	54	1945	102.29426433915212	0.0
+
+
+
+>>
+2. NZ_BCMK01000125
+Source: Streptomyces acidiscabies strain a10, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1910
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	AV125_RS41845	53	1910	102.8428927680798	0.0
+
+
+
+>>
+3. NZ_BCML01000129
+Source: Streptomyces acidiscabies strain a2, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1906
+
+Table of genes, locations, strands and annotations of subject cluster:
+AV141_RS42570	AV141_RS42570	85	22431	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	AV141_RS42570	53	1906	102.8428927680798	0.0
+
+
+
+>>
+4. NZ_FKJH01000060
+Source: Streptomyces sp. F-7 isolate Streptomyces sp. F7, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1843
+
+Table of genes, locations, strands and annotations of subject cluster:
+STEPF7_RS28950	STEPF7_RS28950	1	7181	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	STEPF7_RS28950	53	1843	101.94513715710723	0.0
+
+
+
+>>
+5. NZ_LWLE01000031
+Source: Streptomyces sp. TSRI0281 scaffold37, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1796
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A6A29_RS29100	49	1796	106.53366583541145	0.0
+
+
+
+>>
+6. NZ_LZLN01000161
+Source: Mycolicibacterium conceptionense strain 1165613.5 contig_243, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1625
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5639_RS20545	A5639_RS20545	18	7556	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5639_RS20545	45	1625	107.28179551122194	0.0
+
+
+
+>>
+7. NZ_LZSY01000033
+Source: Mycolicibacterium peregrinum strain 852002-10433_SCH5171157 contig_128, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1624
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5779_RS05300	A5779_RS05300	9	7325	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5779_RS05300	45	1624	106.63341645885286	0.0
+
+
+
+>>
+8. NZ_LZIB01000060
+Source: Mycolicibacterium peregrinum strain ACS819 contig_63, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1624
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5719_RS27170	A5719_RS27170	7	7036	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5719_RS27170	45	1624	106.98254364089776	0.0
+
+
+
+>>
+9. NZ_AUKW01000033
+Source: Streptomyces sp. TAA204 H343DRAFT_scaffold00028.28_C, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1619
+
+Table of genes, locations, strands and annotations of subject cluster:
+H343_RS32700	H343_RS32700	1	7736	+	non-ribosomal_peptide_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	H343_RS32700	49	1619	98.45386533665835	0.0
+
+
+
+>>
+10. NZ_MAIH01000166
+Source: Mycolicibacterium sp. (ex Dasyatis americana) strain Dasyatis americana 721, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1619
+
+Table of genes, locations, strands and annotations of subject cluster:
+BA059_RS27115	BA059_RS27115	11	7906	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	BA059_RS27115	45	1619	107.18204488778056	0.0
+
+
+
+>>
+11. NZ_JTJW01000015
+Source: Mycolicibacterium setense strain DSM 45070 NODE_13, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1616
+
+Table of genes, locations, strands and annotations of subject cluster:
+QQ25_RS29585	QQ25_RS29585	1	7606	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	QQ25_RS29585	45	1616	106.93266832917705	0.0
+
+
+
+>>
+12. NZ_MBDZ01000002
+Source: Mycobacterium intracellulare subsp. yongonense strain E3170 contig_10, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1616
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5689_RS00010	A5689_RS00010	1	8543	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5689_RS00010	46	1616	105.4862842892768	0.0
+
+
+
+>>
+13. NZ_LZHT01000064
+Source: Mycobacterium sp. 852002-10029_SCH5224772 contig_34, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1611
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5775_RS11580	A5775_RS11580	1	10283	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5775_RS11580	45	1611	105.4862842892768	0.0
+
+
+
+>>
+14. NZ_AYNT01000268
+Source: Mycobacterium avium 10-5581 contig000268, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1611
+
+Table of genes, locations, strands and annotations of subject cluster:
+O982_RS52730	O982_RS52730	21	10754	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	O982_RS52730	46	1611	105.33665835411472	0.0
+
+
+
+>>
+15. NZ_LZSL01000076
+Source: Mycolicibacterium setense strain 852014-10208_SCH5295773 contig_77, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1609
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5761_RS21790	A5761_RS21790	4	7378	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5761_RS21790	44	1609	106.98254364089776	0.0
+
+
+
+>>
+16. NZ_MBEI01000007
+Source: Mycobacterium colombiense strain NS-7390 contig_15, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1609
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5732_RS01645	A5732_RS01645	6	8294	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5732_RS01645	45	1609	105.73566084788031	0.0
+
+
+
+>>
+17. NZ_MBEI01000012
+Source: Mycobacterium colombiense strain NS-7390 contig_2, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1599
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5732_RS02670	A5732_RS02670	1	8273	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5732_RS02670	45	1599	105.13715710723193	0.0
+
+
+
+>>
+18. NZ_LZKZ01000162
+Source: Mycobacterium colombiense strain 1245829.5 contig_244, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1598
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5621_RS10475	A5621_RS10475	26	13738	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5621_RS10475	45	1598	105.286783042394	0.0
+
+
+
+>>
+19. NZ_LZLI01000088
+Source: Mycobacterium sp. 1165549.7 contig_178, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1593
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5626_RS09940	A5626_RS09940	1	8434	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5626_RS09940	45	1593	105.53615960099751	0.0
+
+
+
+>>
+20. NZ_LZIF01000094
+Source: Mycobacterium sp. 852002-51971_SCH5477799-a contig_67, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1583
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5753_RS13665	A5753_RS13665	10	9632	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5753_RS13665	44	1583	106.08478802992518	0.0
+
+
+
+>>
+21. NZ_LZSG01000003
+Source: Mycobacterium sp. 1164966.3 contig_11, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1582
+
+Table of genes, locations, strands and annotations of subject cluster:
+A9W99_RS01765	A9W99_RS01765	16	11831	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A9W99_RS01765	45	1582	106.03491271820448	0.0
+
+
+
+>>
+22. NZ_BCSZ01000027
+Source: Mycolicibacterium fortuitum subsp. acetamidolyticum strain JCM6368, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1580
+
+Table of genes, locations, strands and annotations of subject cluster:
+APK39_RS13365	APK39_RS13365	1	7456	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	APK39_RS13365	45	1580	104.83790523690773	0.0
+
+
+
+>>
+23. NZ_LZIJ01000105
+Source: Mycobacterium sp. 852002-51163_SCH5372311 contig_193, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1579
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5791_RS13650	A5791_RS13650	1	12109	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5791_RS13650	45	1579	105.83541147132169	0.0
+
+
+
+>>
+24. NZ_LZSR01000016
+Source: Mycolicibacterium fortuitum strain 852002-53395_SCH5661144-a contig_112, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1568
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5754_RS04955	A5754_RS04955	15	6138	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5754_RS04955	45	1568	101.09725685785536	0.0
+
+
+
+>>
+25. NZ_MVFC01000071
+Source: Streptomyces tsukubensis strain F601 Scaffold70_1, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1568
+
+Table of genes, locations, strands and annotations of subject cluster:
+B1H18_RS34635	B1H18_RS34635	1	5432	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	B1H18_RS34635	49	1568	93.16708229426433	0.0
+
+
+
+>>
+26. NZ_LZIV01000104
+Source: Mycolicibacterium fortuitum strain E1141 contig_41, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1561
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5670_RS19080	A5670_RS19080	1	6604	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5670_RS19080	45	1561	101.54613466334163	0.0
+
+
+
+>>
+27. NZ_LZLZ01000243
+Source: Mycolicibacterium fortuitum strain 1242461.0 contig_317, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1560
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5654_RS23845	A5654_RS23845	7	6386	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5654_RS23845	45	1560	101.54613466334163	0.0
+
+
+
+>>
+28. NZ_LZLO01000018
+Source: Mycolicibacterium fortuitum strain 1089381.4 contig_25, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1558
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5638_RS03480	A5638_RS03480	6	6450	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5638_RS03480	45	1558	101.54613466334163	0.0
+
+
+
+>>
+29. NZ_LZIV01000161
+Source: Mycolicibacterium fortuitum strain E1141 contig_93, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1554
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5670_RS30560	A5670_RS30560	12	11911	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5670_RS30560	46	1554	99.80049875311721	0.0
+
+
+
+>>
+30. NZ_LMVZ01000091
+Source: Mycobacterium avium subsp. hominissuis strain MAH-E-106 MAH-E-106_S12_NODE_211, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1553
+
+Table of genes, locations, strands and annotations of subject cluster:
+A4U34_RS22800	A4U34_RS22800	1	9962	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A4U34_RS22800	46	1553	100.3491271820449	0.0
+
+
+
+>>
+31. NZ_MBER01000127
+Source: Mycolicibacterium fortuitum strain GA-0871 contig_41, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1552
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5742_RS23040	A5742_RS23040	1	6064	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5742_RS23040	45	1552	100.69825436408976	0.0
+
+
+
+>>
+32. NZ_LZKO01000153
+Source: Mycolicibacterium fortuitum strain E3337 contig_67, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1547
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5664_RS31480	A5664_RS31480	10	13598	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5664_RS31480	46	1547	99.80049875311721	0.0
+
+
+
+>>
+33. NZ_LZIO01000123
+Source: Mycobacterium intracellulare strain 852002-53206_SCH5915646 contig_51, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1542
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5769_RS18725	A5769_RS18725	1	5999	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5769_RS18725	46	1542	99.9501246882793	0.0
+
+
+
+>>
+34. NZ_MAIH01000155
+Source: Mycolicibacterium sp. (ex Dasyatis americana) strain Dasyatis americana 709, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1524
+
+Table of genes, locations, strands and annotations of subject cluster:
+BA059_RS23725	BA059_RS23725	6	8194	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	BA059_RS23725	44	1524	100.24937655860349	0.0
+
+
+
+>>
+35. NZ_LGDU01000054
+Source: Streptomyces sp. AS58 P432contig145.1, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1493
+
+Table of genes, locations, strands and annotations of subject cluster:
+ADL00_RS08515	ADL00_RS08515	1	9549	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	ADL00_RS08515	44	1493	102.44389027431421	0.0
+
+
+
+>>
+36. NZ_LZSJ01000227
+Source: Mycolicibacterium fortuitum strain E1336 contig_75, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1454
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5668_RS28725	A5668_RS28725	24	5915	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	A5668_RS28725	45	1454	95.21197007481297	0.0
+
+
+
+>>
+37. NZ_AUKN01000044
+Source: Streptomyces sp. CNT318 H296DRAFT_scaffold00041.41_C, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1416
+
+Table of genes, locations, strands and annotations of subject cluster:
+H296_RS0128280	H296_RS0128280	1	6650	+	non-ribosomal_peptide_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	H296_RS0128280	47	1416	87.23192019950125	0.0
+
+
+
+>>
+38. NZ_LT592238
+Source: [Mycobacterium] acapulcensis strain CSURP1424, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1408
+
+Table of genes, locations, strands and annotations of subject cluster:
+BN8058_RS25295	BN8058_RS25295	12	6985	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	BN8058_RS25295	44	1408	96.75810473815461	0.0
+
+
+
+>>
+39. NZ_FRBK01000059
+Source: Streptomyces yunnanensis strain CGMCC 4.3555, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1403
+
+Table of genes, locations, strands and annotations of subject cluster:
+BUE49_RS41510	BUE49_RS41510	1	6277	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	BUE49_RS41510	43	1403	100.64837905236908	0.0
+
+
+
+>>
+40. NZ_AWOO02000117
+Source: Actinomadura madurae LIID-AJ290 contig00117, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1402
+
+Table of genes, locations, strands and annotations of subject cluster:
+DZ96_RS0247995	DZ96_RS0247995	1	6245	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	DZ96_RS0247995	43	1402	102.14463840399002	0.0
+
+
+
+>>
+41. NZ_JOEL01000101
+Source: Streptomyces celluloflavus strain NRRL B-2493 contig101.1, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1389
+
+Table of genes, locations, strands and annotations of subject cluster:
+IH09_RS35865	IH09_RS35865	1	5417	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	IH09_RS35865	43	1389	102.7431421446384	0.0
+
+
+
+>>
+42. NZ_FMZZ01000034
+Source: Alloactinosynnema iranicum strain IBRC-M 10403, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1386
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLS56_RS30255	BLS56_RS30255	1	6158	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	BLS56_RS30255	44	1386	101.49625935162095	0.0
+
+
+
+>>
+43. NZ_MKJY01000301
+Source: Actinomadura sp. CNU-125 NODE_371_length_6002_cov_57.4309_ID_15195, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1359
+
+Table of genes, locations, strands and annotations of subject cluster:
+BJF79_RS30030	BJF79_RS30030	1	6002	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	BJF79_RS30030	42	1359	104.68827930174565	0.0
+
+
+
+>>
+44. NZ_MLYP01000122
+Source: Streptomyces sp. MUSC 93, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1355
+
+Table of genes, locations, strands and annotations of subject cluster:
+BIV24_RS30325	BIV24_RS30325	1	4487	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	BIV24_RS30325	44	1355	92.41895261845386	0.0
+
+
+
+>>
+45. NZ_AULB01000064
+Source: Actinomadura rifamycini DSM 43936 H505DRAFT_scaffold00061.61_C, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1351
+
+Table of genes, locations, strands and annotations of subject cluster:
+H505_RS46045	H505_RS46045	1	6106	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	H505_RS46045	42	1351	103.0423940149626	0.0
+
+
+
+>>
+46. NZ_AULB01000065
+Source: Actinomadura rifamycini DSM 43936 H505DRAFT_scaffold00062.62_C, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1347
+
+Table of genes, locations, strands and annotations of subject cluster:
+H505_RS0133250	H505_RS0133250	19	5655	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	H505_RS0133250	42	1347	102.54364089775561	0.0
+
+
+
+>>
+47. NZ_JOGB01000112
+Source: Streptomyces sp. NRRL S-87 contig112.1, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1344
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF43_RS0134970	IF43_RS0134970	1	6350	-	non-ribosomal_peptide_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	IF43_RS0134970	42	1344	104.48877805486285	0.0
+
+
+
+>>
+48. NZ_LMCT01000051
+Source: Kitasatospora sp. Root107 contig_55, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1340
+
+Table of genes, locations, strands and annotations of subject cluster:
+ASC99_RS30150	ASC99_RS30150	1	6396	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	ASC99_RS30150	41	1340	102.6932668329177	0.0
+
+
+
+>>
+49. NZ_MCBM01000125
+Source: Ralstonia solanacearum CaRs-Mep scaffold125_size6453, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1331
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	L817_RS23920	41	1331	103.89027431421447	0.0
+
+
+
+>>
+50. NZ_LN929788
+Source: Streptomyces specialis strain type strain: GW41-1564, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 1325
+
+Table of genes, locations, strands and annotations of subject cluster:
+BN2279_RS07070	BN2279_RS07070	203	5689	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg322_1	BN2279_RS07070	43	1325	97.75561097256858	0.0
+

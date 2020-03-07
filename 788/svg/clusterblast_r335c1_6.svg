@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="271,40 316,40 321,35 316,30 271,30 271,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_1&lt;/b&gt;&lt;br&gt;ctg335 1&lt;br&gt;Location: 2 - 1154" locus_tag="ctg335_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="321,40 371,40 376,35 371,30 321,30 321,40 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_2&lt;/b&gt;&lt;br&gt;ctg335 2&lt;br&gt;Location: 1150 - 2404" locus_tag="ctg335_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="384,35 389,30 421,30 421,40 389,40 384,35 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_3&lt;/b&gt;&lt;br&gt;ctg335 3&lt;br&gt;Location: 2595 - 3435" locus_tag="ctg335_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="421,35 426,30 461,30 461,40 426,40 421,35 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_4&lt;/b&gt;&lt;br&gt;ctg335 4&lt;br&gt;Location: 3452 - 4349" locus_tag="ctg335_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="476,40 504,40 509,35 504,30 476,30 476,40 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_5&lt;/b&gt;&lt;br&gt;ctg335 5&lt;br&gt;Location: 4695 - 5463" locus_tag="ctg335_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+</g>
+<g label="NZ_FOUP01000033" description="NZ_FOUP01000033_c1: Saccharopolyspora antimicrobica strain CPCC 201259, whole... (13% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FOUP01000033/1" target="_blank">NZ_FOUP01000033_c1</a>: Saccharopolyspora antimicrobica strain CPCC 201259, whole... (13% of genes show similarity), terpene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 18,90 23,85 18,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37305&lt;/b&gt;&lt;br&gt;beta-galactosidase&lt;br&gt;Location: 21442 - 21985" locus_tag="BM016_RS37305" class="clusterblast-orf" id="dummy-1_h1_6_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="43,90 92,90 97,85 92,80 43,80 43,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37310&lt;/b&gt;&lt;br&gt;phosphatase PAP2 family protein&lt;br&gt;Location: 22427 - 23680" locus_tag="BM016_RS37310" class="clusterblast-orf" id="dummy-1_h1_6_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="100,85 105,80 121,80 121,90 105,90 100,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37315&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 23738 - 24220" locus_tag="BM016_RS37315" class="clusterblast-orf" id="dummy-1_h1_6_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="128,90 145,90 150,85 145,80 128,80 128,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37320&lt;/b&gt;&lt;br&gt;RNA polymerase subunit sigma&lt;br&gt;Location: 24375 - 24884" locus_tag="BM016_RS37320" class="clusterblast-orf" id="dummy-1_h1_6_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="148,90 172,90 177,85 172,80 148,80 148,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37325&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 24842 - 25516" locus_tag="BM016_RS37325" class="clusterblast-orf" id="dummy-1_h1_6_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="277,90 322,90 327,85 322,80 277,80 277,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37330&lt;/b&gt;&lt;br&gt;4-hydroxyphenylpyruvate dioxygenase&lt;br&gt;Location: 27785 - 28930" locus_tag="BM016_RS37330" class="clusterblast-orf" id="dummy-1_h1_6_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="328,90 369,90 374,85 369,80 328,80 328,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37335&lt;/b&gt;&lt;br&gt;prenyltransferase&lt;br&gt;Location: 28960 - 30009" locus_tag="BM016_RS37335" class="clusterblast-orf" id="dummy-1_h1_6_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="376,90 416,90 421,85 416,80 376,80 376,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37340&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 30053 - 31093" locus_tag="BM016_RS37340" class="clusterblast-orf" id="dummy-1_h1_6_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="417,90 490,90 495,85 490,80 417,80 417,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37345&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 31009 - 32775&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg335_1&lt;/b&gt;&lt;br&gt;Percentage identity: 45&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 285&lt;br&gt;E-value: 8.4e-75" locus_tag="BM016_RS37345" class="clusterblast-orf" id="dummy-1_h1_6_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="494,90 544,90 549,85 544,80 494,80 494,90 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37350&lt;/b&gt;&lt;br&gt;FAD-dependent monooxygenase&lt;br&gt;Location: 32768 - 34030&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg335_2&lt;/b&gt;&lt;br&gt;Percentage identity: 55&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 426&lt;br&gt;E-value: 3.3e-117" locus_tag="BM016_RS37350" class="clusterblast-orf" id="dummy-1_h1_6_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="551,90 606,90 611,85 606,80 551,80 551,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37355&lt;/b&gt;&lt;br&gt;fumarate reductase/succinate dehydrogenase flavoprotein subunit&lt;br&gt;Location: 34069 - 35433" locus_tag="BM016_RS37355" class="clusterblast-orf" id="dummy-1_h1_6_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="611,90 641,90 646,85 641,80 611,80 611,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37360&lt;/b&gt;&lt;br&gt;bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE&lt;br&gt;Location: 35430 - 36233" locus_tag="BM016_RS37360" class="clusterblast-orf" id="dummy-1_h1_6_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="650,90 685,90 690,85 685,80 650,80 650,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37365&lt;/b&gt;&lt;br&gt;methyltransferase domain-containing protein&lt;br&gt;Location: 36328 - 37239" locus_tag="BM016_RS37365" class="clusterblast-orf" id="dummy-1_h1_6_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="689,90 736,90 741,85 736,80 689,80 689,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37370&lt;/b&gt;&lt;br&gt;cytochrome P450&lt;br&gt;Location: 37236 - 38420" locus_tag="BM016_RS37370" class="clusterblast-orf" id="dummy-1_h1_6_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="742,90 775,90 780,85 775,80 742,80 742,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM016_RS37375&lt;/b&gt;&lt;br&gt;cytochrome P450&lt;br&gt;Location: 38434 - 39299" locus_tag="BM016_RS37375" class="clusterblast-orf" id="dummy-1_h1_6_14"  />
+</g>
+</svg>

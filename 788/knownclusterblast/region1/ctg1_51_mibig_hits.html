@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>CAE45693.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000031/1">BGC0000031</a></td>
+              <td>t1pks</td>
+              <td>43.0</td>
+              <td>97.3</td>
+              <td>186.0</td>
+              <td>8.3e-47</td>
+          </tr>
+    
+          <tr>
+              <td>BAK64639.1</td>
+              <td>putative_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000135/1">BGC0000135</a></td>
+              <td>t1pks</td>
+              <td>34.0</td>
+              <td>98.5</td>
+              <td>166.0</td>
+              <td>8.9e-41</td>
+          </tr>
+    
+          <tr>
+              <td>CBJ83014.1</td>
+              <td>alcohol_dehydrogenase_class_III</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000189/1">BGC0000189</a></td>
+              <td>t3pks</td>
+              <td>38.0</td>
+              <td>42.9</td>
+              <td>91.0</td>
+              <td>2.1e-18</td>
+          </tr>
+    
+          <tr>
+              <td>CDG17990.1</td>
+              <td>S-(hydroxymethyl)glutathione_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000464/1">BGC0000464</a></td>
+              <td>nrps</td>
+              <td>38.0</td>
+              <td>42.9</td>
+              <td>85.0</td>
+              <td>2e-16</td>
+          </tr>
+    
+          <tr>
+              <td>WP_013310333.1</td>
+              <td>dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001728/1">BGC0001728</a></td>
+              <td>nrps-t1pks</td>
+              <td>34.0</td>
+              <td>25.6</td>
+              <td>54.0</td>
+              <td>3.8e-07</td>
+          </tr>
+    
+          <tr>
+              <td>CCP20039.1</td>
+              <td>divC_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001119/1">BGC0001119</a></td>
+              <td>t1pks</td>
+              <td>41.0</td>
+              <td>21.7</td>
+              <td>49.0</td>
+              <td>9.3e-06</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

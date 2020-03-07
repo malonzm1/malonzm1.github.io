@@ -1,0 +1,819 @@
+ClusterBlast scores for c00400_NODE_40..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg400_1	0	1851	+		
+ctg400_2	1937	2579	-		
+ctg400_3	2578	3556	-		
+
+
+Significant hits: 
+1. NZ_FPAB01000002	Streptomyces harbinensis strain CGMCC 4.7047, whole genome shotgun sequence
+2. NZ_ALNP01000015	Streptomyces sp. AA0539 contig00015, whole genome shotgun sequence
+3. NZ_JOIG01000002	Streptomyces sp. NRRL F-2890 contig2.1, whole genome shotgun sequence
+4. NZ_CP009922	Streptomyces xiamenensis strain 318, complete genome
+5. NZ_LZNS01000001	Streptomyces sp. MP131-18 scaf_01, whole genome shotgun sequence
+6. NZ_CP017157	Streptomyces lydicus strain 103 chromosome, complete genome
+7. NZ_JNWX01000009	Streptomyces rimosus subsp. rimosus strain NRRL B-16073 contig9.1, whole genome shotgun sequence
+8. NZ_LGCW01000001	Streptomyces sp. NRRL F-5755 P309contig1.1, whole genome shotgun sequence
+9. NZ_JOBO01000027	Streptomyces rimosus subsp. rimosus strain NRRL WC-3927 contig27.1, whole genome shotgun sequence
+10. NZ_CP019457	Streptomyces lydicus strain GS93 isolate 23 chromosome, complete genome
+11. NZ_JOBW01000073	Streptomyces rimosus subsp. rimosus strain NRRL WC-3924 contig73.1, whole genome shotgun sequence
+12. NZ_JOCK01000005	Streptomyces peucetius strain NRRL WC-3868 contig5.1, whole genome shotgun sequence
+13. NZ_LMZE01000034	Streptomyces albus subsp. albus strain NRRL F-4371 P384contig129.1, whole genome shotgun sequence
+14. NZ_JOBV01000085	Streptomyces rimosus subsp. rimosus strain NRRL WC-3560 contig85.1, whole genome shotgun sequence
+15. NZ_CP019779	Streptomyces sp. MOE7 chromosome, complete genome
+16. NZ_JOCQ01000074	Streptomyces rimosus subsp. rimosus strain NRRL WC-3904 contig74.1, whole genome shotgun sequence
+17. NZ_LGCV01000419	Streptomyces rimosus subsp. pseudoverticillatus strain NRRL WC-3896 P270contig83.1, whole genome shotgun sequence
+18. NZ_JNYR01000002	Streptomyces rimosus subsp. rimosus strain NRRL ISP-5260 contig2.1, whole genome shotgun sequence
+19. NZ_LWKZ01000027	Streptomyces sp. CB02923 scaffold7, whole genome shotgun sequence
+20. NZ_JOGE01000112	Streptomyces sp. NRRL S-1448 contig112.1, whole genome shotgun sequence
+21. NZ_JOBP01000003	Streptomyces rimosus subsp. rimosus strain NRRL WC-3930 contig3.1, whole genome shotgun sequence
+22. NZ_JH725389	Streptomyces auratus AGR0001 Scaffold3, whole genome shotgun sequence
+23. NZ_FNSG01000001	Streptomyces sp. 2112.2, whole genome shotgun sequence
+24. NZ_LT907981	Streptomyces sp. 2323.1 genome assembly, chromosome: I
+25. NZ_FNSB01000002	Streptomyces sp. 2224.1, whole genome shotgun sequence
+26. NZ_FNTM01000001	Streptomyces sp. 2133.1, whole genome shotgun sequence
+27. NZ_FNTP01000001	Streptomyces sp. 2112.3, whole genome shotgun sequence
+28. NZ_BBNO01000006	Streptomyces sp. NBRC 110027, whole genome shotgun sequence
+29. NZ_LLZI01000285	Streptomyces sp. NRRL F-4489 P373contig88.1, whole genome shotgun sequence
+30. NZ_LGUU01000001	Streptomyces decoyicus strain NRRL 2666 P029contig1.1, whole genome shotgun sequence
+31. NZ_KB891855	Streptomyces sp. MspMP-M5 B073DRAFT_scaffold_10.11, whole genome shotgun sequence
+32. NZ_JRKI01000017	Streptomyces natalensis ATCC 27448 Scaffold_24, whole genome shotgun sequence
+33. NZ_BBUY01000002	Streptomyces sp. NBRC 110611, whole genome shotgun sequence
+34. NZ_CP020569	Streptomyces gilvosporeus strain F607, complete genome
+35. NZ_JOIX01000107	Streptomyces sp. NRRL S-337 contig107.1, whole genome shotgun sequence
+36. NZ_AUKW01000011	Streptomyces sp. TAA204 H343DRAFT_scaffold00010.10_C, whole genome shotgun sequence
+37. NZ_CP011533	Streptomyces noursei ATCC 11455, complete genome
+38. NZ_CP021121	Streptomyces sp. SCSIO 03032 chromosome, complete genome
+39. NZ_JOHB01000024	Streptomyces sp. NRRL S-1813 contig24.1, whole genome shotgun sequence
+40. NZ_JOEK01000008	Streptomyces avicenniae strain NRRL B-24776 contig8.1, whole genome shotgun sequence
+41. NZ_AQWO01000002	Streptomyces sp. FxanaC1 B074DRAFT_scaffold_1.2_C, whole genome shotgun sequence
+42. NZ_KN708638	Streptomyces sp. CT34 Scaffold1, whole genome shotgun sequence
+43. NZ_JOGD01000006	Streptomyces sp. NRRL S-1868 contig6.1, whole genome shotgun sequence
+44. NZ_JOHT01000039	Streptomyces sp. NRRL F-5053 contig39.1, whole genome shotgun sequence
+45. NZ_LJGT01000036	Streptomyces abyssalis strain SCSIO 10390 scaffold5, whole genome shotgun sequence
+46. NZ_FMHL01000078	Streptomyces sp. SceaMP-e96, whole genome shotgun sequence
+47. NZ_FOGO01000005	Streptomyces qinglanensis strain CGMCC 4.6825, whole genome shotgun sequence
+48. NZ_LAND01000024	Streptomyces sp. WMMB 714 H181DRAFT_scaffold00023.23_C, whole genome shotgun sequence
+49. NZ_CP003987	Streptomyces sp. 769, complete genome
+50. NZ_FRBK01000008	Streptomyces yunnanensis strain CGMCC 4.3555, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_FPAB01000002
+Source: Streptomyces harbinensis strain CGMCC 4.7047, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1621
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	BM385_RS04275	98	1218	100.0	0.0
+ctg400_2	BM385_RS04270	100	403	100.0	1.2e-110
+
+
+
+>>
+2. NZ_ALNP01000015
+Source: Streptomyces sp. AA0539 contig00015, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1613
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	B311_RS0116665	97	1210	100.0	0.0
+ctg400_2	B311_RS0116670	100	403	100.0	1.2e-110
+
+
+
+>>
+3. NZ_JOIG01000002
+Source: Streptomyces sp. NRRL F-2890 contig2.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1440
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF79_RS0105985	IF79_RS0105985	633061	633275	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IF79_RS0106005	83	1040	99.18831168831169	9.4e-302
+ctg400_2	IF79_RS0106010	99	400	100.0	1e-109
+
+
+
+>>
+4. NZ_CP009922
+Source: Streptomyces xiamenensis strain 318, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1439
+
+Table of genes, locations, strands and annotations of subject cluster:
+SXIM_RS03755	SXIM_RS03755	858584	858798	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	SXIM_RS03775	83	1039	99.18831168831169	1.6e-301
+ctg400_2	SXIM_RS03780	99	400	100.0	1e-109
+
+
+
+>>
+5. NZ_LZNS01000001
+Source: Streptomyces sp. MP131-18 scaf_01, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1172
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	STBA_RS30155	67	826	99.18831168831169	2.8e-237
+ctg400_2	STBA_RS30150	84	346	100.0	2.2e-93
+
+
+
+>>
+6. NZ_CP017157
+Source: Streptomyces lydicus strain 103 chromosome, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1167
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	SL103_RS10265	69	843	98.37662337662337	1.3e-242
+ctg400_2	SL103_RS35865	81	324	96.71361502347418	1.2e-86
+
+
+
+>>
+7. NZ_JNWX01000009
+Source: Streptomyces rimosus subsp. rimosus strain NRRL B-16073 contig9.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1163
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	NH06_RS0111635	67	836	100.48701298701299	1.6e-240
+ctg400_2	NH06_RS41710	82	327	96.71361502347418	1.1e-87
+
+
+
+>>
+8. NZ_LGCW01000001
+Source: Streptomyces sp. NRRL F-5755 P309contig1.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1163
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	ADK86_RS00015	67	834	100.48701298701299	6e-240
+ctg400_2	ADK86_RS40295	83	329	96.71361502347418	3.7e-88
+
+
+
+>>
+9. NZ_JOBO01000027
+Source: Streptomyces rimosus subsp. rimosus strain NRRL WC-3927 contig27.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1162
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IG76_RS0128295	68	835	98.37662337662337	3.5e-240
+ctg400_2	IG76_RS1000000138895	82	327	96.71361502347418	1.1e-87
+
+
+
+>>
+10. NZ_CP019457
+Source: Streptomyces lydicus strain GS93 isolate 23 chromosome, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1161
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	BXT88_RS09450	69	839	99.35064935064936	3.2e-241
+ctg400_2	BXT88_RS09455	80	322	99.06103286384976	4.5e-86
+
+
+
+>>
+11. NZ_JOBW01000073
+Source: Streptomyces rimosus subsp. rimosus strain NRRL WC-3924 contig73.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1161
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IF03_RS0136280	68	834	98.37662337662337	7.8e-240
+ctg400_2	IF03_RS1000000146180	82	327	96.71361502347418	1.1e-87
+
+
+
+>>
+12. NZ_JOCK01000005
+Source: Streptomyces peucetius strain NRRL WC-3868 contig5.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1161
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IO35_RS0110635	68	834	98.37662337662337	7.8e-240
+ctg400_2	IO35_RS1000000144970	82	327	96.71361502347418	1.1e-87
+
+
+
+>>
+13. NZ_LMZE01000034
+Source: Streptomyces albus subsp. albus strain NRRL F-4371 P384contig129.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1161
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	ADL21_RS05645	67	832	100.48701298701299	2.3e-239
+ctg400_2	ADL21_RS41910	83	329	96.71361502347418	3.7e-88
+
+
+
+>>
+14. NZ_JOBV01000085
+Source: Streptomyces rimosus subsp. rimosus strain NRRL WC-3560 contig85.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1160
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IF63_RS0135375	67	836	100.48701298701299	2.1e-240
+ctg400_2	IF63_RS1000000141230	84	324	94.36619718309859	9.1e-87
+
+
+
+>>
+15. NZ_CP019779
+Source: Streptomyces sp. MOE7 chromosome, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1159
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	STRMOE7_RS09860	69	838	99.18831168831169	5.4e-241
+ctg400_2	STRMOE7_RS09865	79	321	100.0	5.9e-86
+
+
+
+>>
+16. NZ_JOCQ01000074
+Source: Streptomyces rimosus subsp. rimosus strain NRRL WC-3904 contig74.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1158
+
+Table of genes, locations, strands and annotations of subject cluster:
+IH45_RS1000000148170	IH45_RS1000000148170	1	265	+	RNA_helicase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IH45_RS0130015	68	836	98.86363636363636	1.6e-240
+ctg400_2	IH45_RS01000000144255	83	322	94.36619718309859	3.5e-86
+
+
+
+>>
+17. NZ_LGCV01000419
+Source: Streptomyces rimosus subsp. pseudoverticillatus strain NRRL WC-3896 P270contig83.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1157
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	ADK70_RS38245	68	834	98.37662337662337	6e-240
+ctg400_2	ADK70_RS43340	83	323	94.36619718309859	2e-86
+
+
+
+>>
+18. NZ_JNYR01000002
+Source: Streptomyces rimosus subsp. rimosus strain NRRL ISP-5260 contig2.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1157
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	NH08_RS0103175	67	834	100.48701298701299	1e-239
+ctg400_2	NH08_RS42925	83	323	94.36619718309859	2e-86
+
+
+
+>>
+19. NZ_LWKZ01000027
+Source: Streptomyces sp. CB02923 scaffold7, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1155
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	A6A06_RS38070	67	826	98.37662337662337	1.6e-237
+ctg400_2	A6A06_RS38075	83	329	97.65258215962442	2.2e-88
+
+
+
+>>
+20. NZ_JOGE01000112
+Source: Streptomyces sp. NRRL S-1448 contig112.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1154
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IF92_RS0134145	67	822	99.35064935064936	3.1e-236
+ctg400_2	IF92_RS44020	84	332	96.71361502347418	4.4e-89
+
+
+
+>>
+21. NZ_JOBP01000003
+Source: Streptomyces rimosus subsp. rimosus strain NRRL WC-3930 contig3.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1153
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF94_RS1000000146635	IF94_RS1000000146635	703035	703362	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IF94_RS0109105	68	828	98.37662337662337	5.6e-238
+ctg400_2	IF94_RS0109110	82	325	96.24413145539906	4.1e-87
+
+
+
+>>
+22. NZ_JH725389
+Source: Streptomyces auratus AGR0001 Scaffold3, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1153
+
+Table of genes, locations, strands and annotations of subject cluster:
+SU9_RS35230	SU9_RS35230	758175	759054	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	SU9_RS31030	68	823	98.37662337662337	1.8e-236
+ctg400_2	SU9_RS31035	83	330	96.71361502347418	1.3e-88
+
+
+
+>>
+23. NZ_FNSG01000001
+Source: Streptomyces sp. 2112.2, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1153
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	BLW52_RS07115	68	821	98.37662337662337	5.2e-236
+ctg400_2	BLW52_RS07120	84	332	96.71361502347418	4.4e-89
+
+
+
+>>
+24. NZ_LT907981
+Source: Streptomyces sp. 2323.1 genome assembly, chromosome: I
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1153
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	CPH93_RS27250	68	821	98.37662337662337	5.2e-236
+ctg400_2	CPH93_RS27245	84	332	96.71361502347418	4.4e-89
+
+
+
+>>
+25. NZ_FNSB01000002
+Source: Streptomyces sp. 2224.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1149
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	BLV26_RS18845	67	830	100.16233766233766	1.1e-238
+ctg400_2	BLV26_RS18840	83	319	92.95774647887323	2.2e-85
+
+
+
+>>
+26. NZ_FNTM01000001
+Source: Streptomyces sp. 2133.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1149
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	BLV17_RS07360	67	830	100.16233766233766	1.1e-238
+ctg400_2	BLV17_RS07365	83	319	92.95774647887323	2.2e-85
+
+
+
+>>
+27. NZ_FNTP01000001
+Source: Streptomyces sp. 2112.3, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1149
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	BLW51_RS28280	67	830	100.16233766233766	1.1e-238
+ctg400_2	BLW51_RS28275	83	319	92.95774647887323	2.2e-85
+
+
+
+>>
+28. NZ_BBNO01000006
+Source: Streptomyces sp. NBRC 110027, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1148
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	TU31_RS22535	67	824	99.83766233766234	8.1e-237
+ctg400_2	TU31_RS37010	84	324	93.89671361502347	1.2e-86
+
+
+
+>>
+29. NZ_LLZI01000285
+Source: Streptomyces sp. NRRL F-4489 P373contig88.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1147
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	ADL22_RS31740	69	828	99.83766233766234	4.3e-238
+ctg400_2	ADL22_RS34340	78	319	99.53051643192488	3.8e-85
+
+
+
+>>
+30. NZ_LGUU01000001
+Source: Streptomyces decoyicus strain NRRL 2666 P029contig1.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1147
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	ADK74_RS01200	67	819	99.83766233766234	3.4e-235
+ctg400_2	ADK74_RS37630	85	328	94.36619718309859	6.3e-88
+
+
+
+>>
+31. NZ_KB891855
+Source: Streptomyces sp. MspMP-M5 B073DRAFT_scaffold_10.11, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1144
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	B073_RS0105225	67	819	99.83766233766234	2e-235
+ctg400_2	B073_RS43595	82	325	95.77464788732394	4.1e-87
+
+
+
+>>
+32. NZ_JRKI01000017
+Source: Streptomyces natalensis ATCC 27448 Scaffold_24, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1143
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	SNA_RS12340	67	817	99.51298701298701	1.3e-234
+ctg400_2	SNA_RS12345	82	326	96.71361502347418	1.8e-87
+
+
+
+>>
+33. NZ_BBUY01000002
+Source: Streptomyces sp. NBRC 110611, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1141
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	AZE13_RS08165	66	819	101.13636363636364	2e-235
+ctg400_2	AZE13_RS33760	83	322	94.36619718309859	4.5e-86
+
+
+
+>>
+34. NZ_CP020569
+Source: Streptomyces gilvosporeus strain F607, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1141
+
+Table of genes, locations, strands and annotations of subject cluster:
+B1H19_RS11035	B1H19_RS11035	2522567	2524426	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	B1H19_RS11030	66	814	99.83766233766234	1.1e-233
+ctg400_2	B1H19_RS11035	80	327	100.0	1.1e-87
+
+
+
+>>
+35. NZ_JOIX01000107
+Source: Streptomyces sp. NRRL S-337 contig107.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1141
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IG62_RS0137960	66	810	101.13636363636364	9.3e-233
+ctg400_2	IG62_RS0137955	84	331	96.71361502347418	5.7e-89
+
+
+
+>>
+36. NZ_AUKW01000011
+Source: Streptomyces sp. TAA204 H343DRAFT_scaffold00010.10_C, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1137
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	H343_RS0118715	66	805	99.67532467532467	5.1e-231
+ctg400_2	H343_RS34325	81	332	100.46948356807512	4.4e-89
+
+
+
+>>
+37. NZ_CP011533
+Source: Streptomyces noursei ATCC 11455, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1135
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	SNOUR_RS30055	66	814	99.67532467532467	1.1e-233
+ctg400_2	SNOUR_RS43455	80	321	95.77464788732394	1e-85
+
+
+
+>>
+38. NZ_CP021121
+Source: Streptomyces sp. SCSIO 03032 chromosome, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1135
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAG99_RS23755	CAG99_RS23755	5442054	5442782	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	CAG99_RS23760	65	800	100.32467532467533	1.6e-229
+ctg400_2	CAG99_RS23755	81	335	100.0	3.9e-90
+
+
+
+>>
+39. NZ_JOHB01000024
+Source: Streptomyces sp. NRRL S-1813 contig24.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1134
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IF67_RS0127355	66	814	99.83766233766234	8.4e-234
+ctg400_2	IF67_RS42065	83	320	93.42723004694837	1.3e-85
+
+
+
+>>
+40. NZ_JOEK01000008
+Source: Streptomyces avicenniae strain NRRL B-24776 contig8.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1134
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF27_RS15040	IF27_RS15040	270218	270874	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IF27_RS15035	68	812	98.37662337662337	3.2e-233
+ctg400_2	IF27_RS15040	83	322	94.36619718309859	2.6e-86
+
+
+
+>>
+41. NZ_AQWO01000002
+Source: Streptomyces sp. FxanaC1 B074DRAFT_scaffold_1.2_C, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1133
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	B074_RS0104750	68	826	98.37662337662337	2.8e-237
+ctg400_2	B074_RS37995	83	307	89.67136150234741	8.8e-82
+
+
+
+>>
+42. NZ_KN708638
+Source: Streptomyces sp. CT34 Scaffold1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1133
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	RZ84_RS08255	67	808	99.83766233766234	4.6e-232
+ctg400_2	RZ84_RS36295	79	325	100.0	5.3e-87
+
+
+
+>>
+43. NZ_JOGD01000006
+Source: Streptomyces sp. NRRL S-1868 contig6.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1133
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IG92_RS0105660	66	791	99.83766233766234	5.8e-227
+ctg400_2	IG92_RS0105655	84	342	100.0	3.2e-92
+
+
+
+>>
+44. NZ_JOHT01000039
+Source: Streptomyces sp. NRRL F-5053 contig39.1, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1133
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	IH57_RS0135315	66	791	99.83766233766234	7.6e-227
+ctg400_2	IH57_RS0135310	84	342	100.0	3.2e-92
+
+
+
+>>
+45. NZ_LJGT01000036
+Source: Streptomyces abyssalis strain SCSIO 10390 scaffold5, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1132
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	AN215_RS03300	66	790	100.81168831168831	1.7e-226
+ctg400_2	AN215_RS28335	84	342	99.53051643192488	4.2e-92
+
+
+
+>>
+46. NZ_FMHL01000078
+Source: Streptomyces sp. SceaMP-e96, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1130
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	YWIDRAFT_RS37640	68	823	98.37662337662337	1.8e-236
+ctg400_2	YWIDRAFT_RS37645	83	307	89.67136150234741	8.8e-82
+
+
+
+>>
+47. NZ_FOGO01000005
+Source: Streptomyces qinglanensis strain CGMCC 4.6825, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1130
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	BMX65_RS14320	66	791	98.86363636363636	7.6e-227
+ctg400_2	BMX65_RS31400	83	339	99.53051643192488	3.6e-91
+
+
+
+>>
+48. NZ_LAND01000024
+Source: Streptomyces sp. WMMB 714 H181DRAFT_scaffold00023.23_C, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1130
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	H181_RS27555	65	789	100.64935064935065	3.8e-226
+ctg400_2	H181_RS27550	83	341	100.0	5.5e-92
+
+
+
+>>
+49. NZ_CP003987
+Source: Streptomyces sp. 769, complete genome
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1129
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	GZL_RS30985	66	812	99.67532467532467	2.4e-233
+ctg400_2	GZL_RS46585	78	317	99.53051643192488	1.5e-84
+
+
+
+>>
+50. NZ_FRBK01000008
+Source: Streptomyces yunnanensis strain CGMCC 4.3555, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1129
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg400_1	BUE49_RS16245	66	810	99.67532467532467	1.6e-232
+ctg400_2	BUE49_RS42080	80	319	95.77464788732394	2.2e-85
+

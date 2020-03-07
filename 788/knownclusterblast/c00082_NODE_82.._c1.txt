@@ -1,0 +1,80 @@
+ClusterBlast scores for c00082_NODE_82..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg82_5	4359	5481	-		
+ctg82_6	5545	6229	+		
+ctg82_7	6225	6888	+		
+ctg82_8	7234	7801	+		
+ctg82_9	7872	9141	+		
+ctg82_10	9210	9615	+		
+ctg82_11	9684	10584	+		
+ctg82_12	10667	11777	-		
+ctg82_13	11896	13915	-		
+
+
+Significant hits: 
+1. BGC0000853	Ectoine
+2. BGC0000852	Ectoine
+3. BGC0000854	Ectoine
+
+
+Details:
+
+>>
+1. BGC0000853
+Source: Ectoine
+Type: other
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1721
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAS02094.1	AAS02094.1	9	539	+	ThpA
+AAS02095.1	AAS02095.1	698	1960	+	ThpB
+AAS02096.1	AAS02096.1	2047	2445	+	ThpC
+AAS02097.1	AAS02097.1	2452	3345	+	ThpD
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_8	AAS02094.1	64	235	95.2127659574468	8.7e-62
+ctg82_9	AAS02095.1	83	729	99.76303317535546	3.3e-210
+ctg82_10	AAS02096.1	83	240	97.01492537313433	1.5e-63
+ctg82_11	AAS02097.1	83	517	98.32775919732441	1.1e-146
+
+
+
+>>
+2. BGC0000852
+Source: Ectoine
+Type: other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 619
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAK12083.1	AAK12083.1	416	958	+	EctA
+AAK12084.1	AAK12084.1	1010	2290	+	EctB
+AAK12085.1	AAK12085.1	2450	2854	+	EctC
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_9	AAK12084.1	57	485	98.5781990521327	6.4e-137
+ctg82_10	AAK12085.1	47	134	100.0	1.1e-31
+
+
+
+>>
+3. BGC0000854
+Source: Ectoine
+Type: other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 743
+
+Table of genes, locations, strands and annotations of subject cluster:
+ACP19701.1	ACP19701.1	839	1381	-	transcriptional_regulator_MarR_family
+AAY96770.1	AAY96770.1	1709	2227	+	L-2,4-diaminobutyrat_acetyltransferase
+AAY96771.1	AAY96771.1	2270	3601	+	L-2,4-diaminobutyrat_transaminase
+AAY96772.1	AAY96772.1	3652	4056	+	ectoine_synthase
+AAY96773.1	AAY96773.1	4117	5559	+	aspartokinase
+AAY96769.2	AAY96769.2	5920	6879	+	putative_ectoine_hydroxylase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_9	AAY96771.1	54	465	97.86729857819904	1.2e-130
+ctg82_11	AAY96769.2	46	278	96.65551839464884	1.1e-74
+

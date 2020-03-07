@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ARF06240.1</td>
+              <td>acetyltransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001593/1">BGC0001593</a></td>
+              <td>nrps</td>
+              <td>48.0</td>
+              <td>75.2</td>
+              <td>141.0</td>
+              <td>1.1e-33</td>
+          </tr>
+    
+          <tr>
+              <td>AWD37849.1</td>
+              <td>aerobactin_biosynthesis_protein_IucB</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001499/1">BGC0001499</a></td>
+              <td>other</td>
+              <td>35.0</td>
+              <td>77.2</td>
+              <td>104.0</td>
+              <td>2.5e-22</td>
+          </tr>
+    
+          <tr>
+              <td>YP_002539375.1</td>
+              <td>IucB</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001555/1">BGC0001555</a></td>
+              <td>ripp</td>
+              <td>35.0</td>
+              <td>94.7</td>
+              <td>104.0</td>
+              <td>2.5e-22</td>
+          </tr>
+    
+          <tr>
+              <td>CAJ96466.1</td>
+              <td>siderophore_biosynthesis_related_protein/Acetyltransferase_or_N-acetylase_of_ribosomal_proteins_(CO</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000330/1">BGC0000330</a></td>
+              <td>nrps</td>
+              <td>35.0</td>
+              <td>92.2</td>
+              <td>101.0</td>
+              <td>1.6e-21</td>
+          </tr>
+    
+          <tr>
+              <td>CDL83404.1</td>
+              <td>Aerobactin_siderophore_biosynthesis_protein_iucB</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001498/1">BGC0001498</a></td>
+              <td>other</td>
+              <td>35.0</td>
+              <td>75.7</td>
+              <td>99.0</td>
+              <td>8.2e-21</td>
+          </tr>
+    
+          <tr>
+              <td>AUD11988.1</td>
+              <td>OrbL</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001721/1">BGC0001721</a></td>
+              <td>nrps</td>
+              <td>35.0</td>
+              <td>91.3</td>
+              <td>92.0</td>
+              <td>5.9e-19</td>
+          </tr>
+    
+          <tr>
+              <td>BAX07668.1</td>
+              <td>IucA/IucC</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001531/1">BGC0001531</a></td>
+              <td>other</td>
+              <td>25.0</td>
+              <td>79.1</td>
+              <td>57.0</td>
+              <td>3.6e-08</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

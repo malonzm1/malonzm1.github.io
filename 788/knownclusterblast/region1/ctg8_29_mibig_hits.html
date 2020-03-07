@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>AGS77339.1</td>
+              <td>Pdh</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001178/1">BGC0001178</a></td>
+              <td>nrps</td>
+              <td>56.0</td>
+              <td>97.0</td>
+              <td>79.0</td>
+              <td>2.8e-15</td>
+          </tr>
+    
+          <tr>
+              <td>CUI25734.1</td>
+              <td>Ferredoxin</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001354/1">BGC0001354</a></td>
+              <td>nrps-t1pks</td>
+              <td>57.0</td>
+              <td>93.9</td>
+              <td>77.0</td>
+              <td>1.1e-14</td>
+          </tr>
+    
+          <tr>
+              <td>AAY28236.1</td>
+              <td>HbmFdx</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000074/1">BGC0000074</a></td>
+              <td>t1pks</td>
+              <td>56.0</td>
+              <td>97.0</td>
+              <td>76.0</td>
+              <td>1.8e-14</td>
+          </tr>
+    
+          <tr>
+              <td>CUI25711.1</td>
+              <td>ferredoxin</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001352/1">BGC0001352</a></td>
+              <td>nrps-t1pks</td>
+              <td>58.0</td>
+              <td>90.9</td>
+              <td>76.0</td>
+              <td>2.4e-14</td>
+          </tr>
+    
+          <tr>
+              <td>CUI25717.1</td>
+              <td>Ferredoxin</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001355/1">BGC0001355</a></td>
+              <td>nrps-t1pks</td>
+              <td>61.0</td>
+              <td>93.9</td>
+              <td>74.0</td>
+              <td>6.9e-14</td>
+          </tr>
+    
+          <tr>
+              <td>ABG02270.1</td>
+              <td>SalE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000143/1">BGC0000143</a></td>
+              <td>t1pks</td>
+              <td>58.0</td>
+              <td>90.9</td>
+              <td>71.0</td>
+              <td>7.6e-13</td>
+          </tr>
+    
+          <tr>
+              <td>AVX51102.1</td>
+              <td>nysM</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001709/1">BGC0001709</a></td>
+              <td>polyketide</td>
+              <td>61.0</td>
+              <td>93.9</td>
+              <td>70.0</td>
+              <td>1e-12</td>
+          </tr>
+    
+          <tr>
+              <td>AAQ82558.1</td>
+              <td>FscFE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000061/1">BGC0000061</a></td>
+              <td>t1pks</td>
+              <td>53.0</td>
+              <td>97.0</td>
+              <td>69.0</td>
+              <td>1.7e-12</td>
+          </tr>
+    
+          <tr>
+              <td>OJF16275.1</td>
+              <td>AceM</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001491/1">BGC0001491</a></td>
+              <td>t1pks</td>
+              <td>56.0</td>
+              <td>97.0</td>
+              <td>69.0</td>
+              <td>1.7e-12</td>
+          </tr>
+    
+          <tr>
+              <td>ARM20276.1</td>
+              <td>ferredoxin</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001523/1">BGC0001523</a></td>
+              <td>t1pks</td>
+              <td>52.0</td>
+              <td>97.0</td>
+              <td>67.0</td>
+              <td>8.4e-12</td>
+          </tr>
+    
+          <tr>
+              <td>AUO16396.1</td>
+              <td>ferredoxin</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001700/1">BGC0001700</a></td>
+              <td>polyketide</td>
+              <td>50.0</td>
+              <td>97.0</td>
+              <td>66.0</td>
+              <td>2.5e-11</td>
+          </tr>
+    
+          <tr>
+              <td>AAQ84150.1</td>
+              <td>PlmT6</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000123/1">BGC0000123</a></td>
+              <td>t1pks</td>
+              <td>51.0</td>
+              <td>89.4</td>
+              <td>63.0</td>
+              <td>1.2e-10</td>
+          </tr>
+    
+          <tr>
+              <td>AAF71770.1</td>
+              <td>NysM</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000115/1">BGC0000115</a></td>
+              <td>t1pks-saccharide</td>
+              <td>55.0</td>
+              <td>93.9</td>
+              <td>63.0</td>
+              <td>1.6e-10</td>
+          </tr>
+    
+          <tr>
+              <td>ALJ49931.1</td>
+              <td>TtmO</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001236/1">BGC0001236</a></td>
+              <td>t1pks</td>
+              <td>70.0</td>
+              <td>60.6</td>
+              <td>62.0</td>
+              <td>2.1e-10</td>
+          </tr>
+    
+          <tr>
+              <td>BBC48394.1</td>
+              <td>ferredoxin</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001643/2">BGC0001643</a></td>
+              <td>polyketide</td>
+              <td>52.0</td>
+              <td>87.9</td>
+              <td>62.0</td>
+              <td>2.1e-10</td>
+          </tr>
+    
+          <tr>
+              <td>AWH12920.1</td>
+              <td>StmF</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001784/1">BGC0001784</a></td>
+              <td>t1pks</td>
+              <td>45.0</td>
+              <td>93.9</td>
+              <td>50.0</td>
+              <td>1.1e-06</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

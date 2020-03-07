@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="213,40 283,40 288,35 283,30 213,30 213,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_1&lt;/b&gt;&lt;br&gt;ctg335 1&lt;br&gt;Location: 2 - 1154" locus_tag="ctg335_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="287,40 364,40 369,35 364,30 287,30 287,40 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_2&lt;/b&gt;&lt;br&gt;ctg335 2&lt;br&gt;Location: 1150 - 2404" locus_tag="ctg335_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="381,35 386,30 436,30 436,40 386,40 381,35 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_3&lt;/b&gt;&lt;br&gt;ctg335 3&lt;br&gt;Location: 2595 - 3435" locus_tag="ctg335_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="437,35 442,30 495,30 495,40 442,40 437,35 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_4&lt;/b&gt;&lt;br&gt;ctg335 4&lt;br&gt;Location: 3452 - 4349" locus_tag="ctg335_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="518,40 563,40 568,35 563,30 518,30 518,40 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_5&lt;/b&gt;&lt;br&gt;ctg335 5&lt;br&gt;Location: 4695 - 5463" locus_tag="ctg335_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+</g>
+<g label="NZ_LGDO01000475" description="NZ_LGDO01000475_c51: Streptomyces sp. XY431 P412contig53.1, whole genome shot... (22% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LGDO01000475/51" target="_blank">NZ_LGDO01000475_c51</a>: Streptomyces sp. XY431 P412contig53.1, whole genome shot... (22% of genes show similarity), terpene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 137,90 142,85 137,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK60_RS29995&lt;/b&gt;&lt;br&gt;catalase/peroxidase HPI&lt;br&gt;Location: 13084 - 10895" locus_tag="ADK60_RS29995" class="clusterblast-orf" id="dummy-1_h1_7_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="213,90 284,90 289,85 284,80 213,80 213,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK60_RS29990&lt;/b&gt;&lt;br&gt;4-hydroxyphenylpyruvate dioxygenase&lt;br&gt;Location: 9799 - 8633" locus_tag="ADK60_RS29990" class="clusterblast-orf" id="dummy-1_h1_7_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="283,90 370,90 375,85 370,80 283,80 283,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK60_RS29985&lt;/b&gt;&lt;br&gt;acyltransferase&lt;br&gt;Location: 8718 - 7300" locus_tag="ADK60_RS29985" class="clusterblast-orf" id="dummy-1_h1_7_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="377,90 442,90 447,85 442,80 377,80 377,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK60_RS29980&lt;/b&gt;&lt;br&gt;prenyltransferase&lt;br&gt;Location: 7273 - 6203" locus_tag="ADK60_RS29980" class="clusterblast-orf" id="dummy-1_h1_7_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="456,90 522,90 527,85 522,80 456,80 456,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK60_RS29975&lt;/b&gt;&lt;br&gt;polyprenyl synthetase family protein&lt;br&gt;Location: 6055 - 4967" locus_tag="ADK60_RS29975" class="clusterblast-orf" id="dummy-1_h1_7_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="531,90 647,90 652,85 647,80 531,80 531,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK60_RS29970&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4911 - 3043&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg335_1&lt;/b&gt;&lt;br&gt;Percentage identity: 45&lt;br&gt;Percentage coverage: 105&lt;br&gt;BLAST bit score: 295&lt;br&gt;E-value: 8.1e-78" locus_tag="ADK60_RS29970" class="clusterblast-orf" id="dummy-1_h1_7_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="652,90 732,90 737,85 732,80 652,80 652,90 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK60_RS29965&lt;/b&gt;&lt;br&gt;FAD-dependent monooxygenase&lt;br&gt;Location: 3046 - 1739&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg335_2&lt;/b&gt;&lt;br&gt;Percentage identity: 56&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 411&lt;br&gt;E-value: 8.5e-113" locus_tag="ADK60_RS29965" class="clusterblast-orf" id="dummy-1_h1_7_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="741,85 746,80 759,80 759,90 746,90 741,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK60_RS42515&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1667 - 1404" locus_tag="ADK60_RS42515" class="clusterblast-orf" id="dummy-1_h1_7_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="774,90 775,90 780,85 775,80 774,80 774,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK60_RS43965&lt;/b&gt;&lt;br&gt;30S ribosomal protein S3&lt;br&gt;Location: 1170 - 1081" locus_tag="ADK60_RS43965" class="clusterblast-orf" id="dummy-1_h1_7_8"  />
+</g>
+</svg>

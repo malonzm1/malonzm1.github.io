@@ -1,0 +1,252 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="550" width="800" viewBox="0 0 800 550" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="233,40 392,40 397,35 392,30 233,30 233,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_1&lt;/b&gt;&lt;br&gt;ctg400 1&lt;br&gt;Location: 0 - 1851" locus_tag="ctg400_1" class="clusterblast-orf" id="general-1_q0_0_all"  />
+<polygon points="404,35 409,30 461,30 461,40 409,40 404,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_2&lt;/b&gt;&lt;br&gt;ctg400 2&lt;br&gt;Location: 1937 - 2579" locus_tag="ctg400_2" class="clusterblast-orf" id="general-1_q1_0_all"  />
+<polygon points="461,35 466,30 548,30 548,40 466,40 461,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_3&lt;/b&gt;&lt;br&gt;ctg400 3&lt;br&gt;Location: 2578 - 3556" locus_tag="ctg400_3" class="clusterblast-orf" id="general-1_q2_0_all"  />
+</g>
+<g label="NZ_FPAB01000002" description="NZ_FPAB01000002_c4: Streptomyces harbinensis strain CGMCC 4.7047, whole genom... (28% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FPAB01000002/4" target="_blank">NZ_FPAB01000002_c4</a>: Streptomyces harbinensis strain CGMCC 4.7047, whole genom... (28% of genes show similarity), siderophore</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="26,90 102,90 107,85 102,80 26,80 26,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04300&lt;/b&gt;&lt;br&gt;siderophore-interacting protein&lt;br&gt;Location: 8851 - 7943" locus_tag="BM385_RS04300" class="clusterblast-orf" id="general-1_all_1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="113,85 118,80 154,80 154,90 118,90 113,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04295&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 7870 - 7406" locus_tag="BM385_RS04295" class="clusterblast-orf" id="general-1_all_1_1_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="154,85 159,80 252,80 252,90 159,90 154,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04290&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 7409 - 6303" locus_tag="BM385_RS04290" class="clusterblast-orf" id="general-1_all_1_1_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="258,90 371,90 376,85 371,80 258,80 258,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04285&lt;/b&gt;&lt;br&gt;DUF1015 domain-containing protein&lt;br&gt;Location: 6238 - 4910" locus_tag="BM385_RS04285" class="clusterblast-orf" id="general-1_all_1_1_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="380,90 427,90 432,85 427,80 380,80 380,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04280&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 4861 - 4277" locus_tag="BM385_RS04280" class="clusterblast-orf" id="general-1_all_1_1_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="433,90 593,90 598,85 593,80 433,80 433,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04275&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 4261 - 2396&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1218&lt;br&gt;E-value: 0.0" locus_tag="BM385_RS04275" class="clusterblast-orf" id="general-1_all_1_1_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="606,85 611,80 753,80 753,90 611,90 606,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04270&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2309 - 654&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 403&lt;br&gt;E-value: 1.2e-110" locus_tag="BM385_RS04270" class="clusterblast-orf" id="general-1_all_1_1_6"  />
+</g>
+<g label="NZ_ALNP01000015" description="NZ_ALNP01000015_c15: Streptomyces sp. AA0539 contig00015, whole genome shotgu... (25% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="120" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_ALNP01000015/15" target="_blank">NZ_ALNP01000015_c15</a>: Streptomyces sp. AA0539 contig00015, whole genome shotgu... (25% of genes show similarity), siderophore</text>
+<line x1="10" y1="135" x2="778.0" y2="135" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="57,140 133,140 138,135 133,130 57,130 57,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS28375&lt;/b&gt;&lt;br&gt;siderophore-interacting protein&lt;br&gt;Location: 152683 - 153591" locus_tag="B311_RS28375" class="clusterblast-orf" id="general-1_all_1_2_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="144,135 149,130 185,130 185,140 149,140 144,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0116645&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 153664 - 154128" locus_tag="B311_RS0116645" class="clusterblast-orf" id="general-1_all_1_2_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="185,135 190,130 283,130 283,140 190,140 185,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0116650&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 154125 - 155231" locus_tag="B311_RS0116650" class="clusterblast-orf" id="general-1_all_1_2_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="289,140 402,140 407,135 402,130 289,130 289,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0116655&lt;/b&gt;&lt;br&gt;DUF1015 domain-containing protein&lt;br&gt;Location: 155296 - 156624" locus_tag="B311_RS0116655" class="clusterblast-orf" id="general-1_all_1_2_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="411,140 458,140 463,135 458,130 411,130 411,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0116660&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 156673 - 157257" locus_tag="B311_RS0116660" class="clusterblast-orf" id="general-1_all_1_2_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="464,140 624,140 629,135 624,130 464,130 464,140 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0116665&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 157273 - 159129&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1210&lt;br&gt;E-value: 0.0" locus_tag="B311_RS0116665" class="clusterblast-orf" id="general-1_all_1_2_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="636,135 641,130 699,130 699,140 641,140 636,135 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0116670&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 159216 - 159917&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 403&lt;br&gt;E-value: 1.2e-110" locus_tag="B311_RS0116670" class="clusterblast-orf" id="general-1_all_1_2_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="693,135 698,130 722,130 722,140 698,140 693,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0116675&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 159857 - 160180" locus_tag="B311_RS0116675" class="clusterblast-orf" id="general-1_all_1_2_7"  />
+</g>
+<g label="NZ_JOIG01000002" description="NZ_JOIG01000002_c2: Streptomyces sp. NRRL F-2890 contig2.1, whole genome shot... (25% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="170" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_JOIG01000002/2" target="_blank">NZ_JOIG01000002_c2</a>: Streptomyces sp. NRRL F-2890 contig2.1, whole genome shot... (25% of genes show similarity), siderophore</text>
+<line x1="10" y1="185" x2="778.0" y2="185" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="36,190 106,190 111,185 106,180 36,180 36,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IF79_RS0105980&lt;/b&gt;&lt;br&gt;siderophore-interacting protein&lt;br&gt;Location: 632123 - 632965" locus_tag="IF79_RS0105980" class="clusterblast-orf" id="general-1_all_1_3_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="119,185 124,180 138,180 138,190 124,190 119,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IF79_RS0105985&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 633061 - 633275" locus_tag="IF79_RS0105985" class="clusterblast-orf" id="general-1_all_1_3_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="143,185 148,180 238,180 238,190 148,190 143,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IF79_RS0105990&lt;/b&gt;&lt;br&gt;haloacid dehalogenase&lt;br&gt;Location: 633329 - 634396" locus_tag="IF79_RS0105990" class="clusterblast-orf" id="general-1_all_1_3_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="245,190 356,190 361,185 356,180 245,180 245,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IF79_RS0105995&lt;/b&gt;&lt;br&gt;DUF1015 domain-containing protein&lt;br&gt;Location: 634474 - 635790" locus_tag="IF79_RS0105995" class="clusterblast-orf" id="general-1_all_1_3_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="366,190 412,190 417,185 412,180 366,180 366,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IF79_RS0106000&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 635839 - 636423" locus_tag="IF79_RS0106000" class="clusterblast-orf" id="general-1_all_1_3_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="419,190 575,190 580,185 575,180 419,180 419,190 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;IF79_RS0106005&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 636439 - 638256&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 1040&lt;br&gt;E-value: 9.4e-302" locus_tag="IF79_RS0106005" class="clusterblast-orf" id="general-1_all_1_3_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="585,185 590,180 642,180 642,190 590,190 585,185 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IF79_RS0106010&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 638317 - 638958&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 400&lt;br&gt;E-value: 1e-109" locus_tag="IF79_RS0106010" class="clusterblast-orf" id="general-1_all_1_3_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="646,185 651,180 743,180 743,190 651,190 646,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IF79_RS0106015&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 638997 - 640094" locus_tag="IF79_RS0106015" class="clusterblast-orf" id="general-1_all_1_3_7"  />
+</g>
+<g label="NZ_CP009922" description="NZ_CP009922_c2: Streptomyces xiamenensis strain 318, complete genome (25% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="220" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_CP009922/2" target="_blank">NZ_CP009922_c2</a>: Streptomyces xiamenensis strain 318, complete genome (25% of genes show similarity), siderophore</text>
+<line x1="10" y1="235" x2="778.0" y2="235" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="37,240 107,240 112,235 107,230 37,230 37,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS03750&lt;/b&gt;&lt;br&gt;siderophore-interacting protein&lt;br&gt;Location: 857646 - 858488" locus_tag="SXIM_RS03750" class="clusterblast-orf" id="general-1_all_1_4_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="121,235 126,230 140,230 140,240 126,240 121,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS03755&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 858584 - 858798" locus_tag="SXIM_RS03755" class="clusterblast-orf" id="general-1_all_1_4_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="144,235 149,230 239,230 239,240 149,240 144,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS03760&lt;/b&gt;&lt;br&gt;haloacid dehalogenase&lt;br&gt;Location: 858852 - 859919" locus_tag="SXIM_RS03760" class="clusterblast-orf" id="general-1_all_1_4_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="246,240 358,240 363,235 358,230 246,230 246,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS03765&lt;/b&gt;&lt;br&gt;DUF1015 domain-containing protein&lt;br&gt;Location: 859997 - 861313" locus_tag="SXIM_RS03765" class="clusterblast-orf" id="general-1_all_1_4_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="367,240 414,240 419,235 414,230 367,230 367,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS03770&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 861362 - 861946" locus_tag="SXIM_RS03770" class="clusterblast-orf" id="general-1_all_1_4_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="420,240 576,240 581,235 576,230 420,230 420,240 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS03775&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 861962 - 863779&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 1039&lt;br&gt;E-value: 1.6e-301" locus_tag="SXIM_RS03775" class="clusterblast-orf" id="general-1_all_1_4_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="587,235 592,230 644,230 644,240 592,240 587,235 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS03780&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 863840 - 864481&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 400&lt;br&gt;E-value: 1e-109" locus_tag="SXIM_RS03780" class="clusterblast-orf" id="general-1_all_1_4_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="647,235 652,230 742,230 742,240 652,240 647,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS03785&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 864520 - 865587" locus_tag="SXIM_RS03785" class="clusterblast-orf" id="general-1_all_1_4_7"  />
+</g>
+<g label="NZ_LZNS01000001" description="NZ_LZNS01000001_c32: Streptomyces sp. MP131-18 scaf 01, whole genome shotgun ... (33% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="270" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LZNS01000001/32" target="_blank">NZ_LZNS01000001_c32</a>: Streptomyces sp. MP131-18 scaf 01, whole genome shotgun ... (33% of genes show similarity), siderophore</text>
+<line x1="10" y1="285" x2="778.0" y2="285" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="61,285 66,280 130,280 130,290 66,290 61,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30175&lt;/b&gt;&lt;br&gt;FadR family transcriptional regulator&lt;br&gt;Location: 6758409 - 6757627" locus_tag="STBA_RS30175" class="clusterblast-orf" id="general-1_all_1_5_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="134,285 139,280 229,280 229,290 139,290 134,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30170&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 6757583 - 6756516" locus_tag="STBA_RS30170" class="clusterblast-orf" id="general-1_all_1_5_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="233,290 339,290 344,285 339,280 233,280 233,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30165&lt;/b&gt;&lt;br&gt;DUF1015 domain-containing protein&lt;br&gt;Location: 6756469 - 6755216" locus_tag="STBA_RS30165" class="clusterblast-orf" id="general-1_all_1_5_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="348,290 395,290 400,285 395,280 348,280 348,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30160&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 6755168 - 6754581" locus_tag="STBA_RS30160" class="clusterblast-orf" id="general-1_all_1_5_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="401,290 556,290 561,285 556,280 401,280 401,290 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30155&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 6754576 - 6752768&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 826&lt;br&gt;E-value: 2.8e-237" locus_tag="STBA_RS30155" class="clusterblast-orf" id="general-1_all_1_5_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="562,285 567,280 718,280 718,290 567,290 562,285 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30150&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6752761 - 6751001&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 84&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 346&lt;br&gt;E-value: 2.2e-93" locus_tag="STBA_RS30150" class="clusterblast-orf" id="general-1_all_1_5_5"  />
+</g>
+<g label="NZ_CP017157" description="NZ_CP017157_c6: Streptomyces lydicus strain 103 chromosome, complete genome (33% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="320" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_CP017157/6" target="_blank">NZ_CP017157_c6</a>: Streptomyces lydicus strain 103 chromosome, complete genome (33% of genes show similarity), siderophore</text>
+<line x1="10" y1="335" x2="778.0" y2="335" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,340 107,340 112,335 107,330 0,330 0,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SL103_RS10285&lt;/b&gt;&lt;br&gt;DUF1015 domain-containing protein&lt;br&gt;Location: 2392804 - 2391542" locus_tag="SL103_RS10285" class="clusterblast-orf" id="general-1_all_1_6_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="125,340 256,340 261,335 256,330 125,330 125,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SL103_RS10280&lt;/b&gt;&lt;br&gt;pyridoxal-dependent decarboxylase&lt;br&gt;Location: 2391386 - 2389854" locus_tag="SL103_RS10280" class="clusterblast-orf" id="general-1_all_1_6_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="269,340 381,340 386,335 381,330 269,330 269,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SL103_RS10275&lt;/b&gt;&lt;br&gt;alcaligin biosynthesis protein&lt;br&gt;Location: 2389765 - 2388446" locus_tag="SL103_RS10275" class="clusterblast-orf" id="general-1_all_1_6_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="386,340 431,340 436,335 431,330 386,330 386,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SL103_RS10270&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 2388449 - 2387880" locus_tag="SL103_RS10270" class="clusterblast-orf" id="general-1_all_1_6_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="436,340 591,340 596,335 591,330 436,330 436,340 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;SL103_RS10265&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 2387883 - 2386075&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 843&lt;br&gt;E-value: 1.3e-242" locus_tag="SL103_RS10265" class="clusterblast-orf" id="general-1_all_1_6_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="603,335 608,330 779,330 779,340 608,340 603,335 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SL103_RS35865&lt;/b&gt;&lt;br&gt;tetratricopeptide repeat protein&lt;br&gt;Location: 2386003 - 2384012&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 81&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 324&lt;br&gt;E-value: 1.2e-86" locus_tag="SL103_RS35865" class="clusterblast-orf" id="general-1_all_1_6_5"  />
+</g>
+<g label="NZ_JNWX01000009" description="NZ_JNWX01000009_c19: Streptomyces rimosus subsp. rimosus strain NRRL B-16073 ... (40% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="370" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_JNWX01000009/19" target="_blank">NZ_JNWX01000009_c19</a>: Streptomyces rimosus subsp. rimosus strain NRRL B-16073 ... (40% of genes show similarity), siderophore</text>
+<line x1="10" y1="385" x2="778.0" y2="385" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="57,390 186,390 191,385 186,380 57,380 57,390 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NH06_RS0111650&lt;/b&gt;&lt;br&gt;pyridoxal-dependent decarboxylase&lt;br&gt;Location: 7941 - 6430" locus_tag="NH06_RS0111650" class="clusterblast-orf" id="general-1_all_1_7_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="199,390 311,390 316,385 311,380 199,380 199,390 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NH06_RS0111645&lt;/b&gt;&lt;br&gt;alcaligin biosynthesis protein&lt;br&gt;Location: 6343 - 5021" locus_tag="NH06_RS0111645" class="clusterblast-orf" id="general-1_all_1_7_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="316,390 361,390 366,385 361,380 316,380 316,390 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NH06_RS0111640&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 5024 - 4452" locus_tag="NH06_RS0111640" class="clusterblast-orf" id="general-1_all_1_7_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="366,390 523,390 528,385 523,380 366,380 366,390 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NH06_RS0111635&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 4458 - 2635&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 836&lt;br&gt;E-value: 1.6e-240" locus_tag="NH06_RS0111635" class="clusterblast-orf" id="general-1_all_1_7_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="536,385 541,380 722,380 722,390 541,390 536,385 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;NH06_RS41710&lt;/b&gt;&lt;br&gt;tetratricopeptide repeat protein&lt;br&gt;Location: 2537 - 444&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 327&lt;br&gt;E-value: 1.1e-87" locus_tag="NH06_RS41710" class="clusterblast-orf" id="general-1_all_1_7_4"  />
+</g>
+<g label="NZ_LGCW01000001" description="NZ_LGCW01000001_c1: Streptomyces sp. NRRL F-5755 P309contig1.1, whole genome ... (40% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="420" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LGCW01000001/1" target="_blank">NZ_LGCW01000001_c1</a>: Streptomyces sp. NRRL F-5755 P309contig1.1, whole genome ... (40% of genes show similarity), siderophore</text>
+<line x1="10" y1="435" x2="778.0" y2="435" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="58,440 187,440 192,435 187,430 58,430 58,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK86_RS00030&lt;/b&gt;&lt;br&gt;pyridoxal-dependent decarboxylase&lt;br&gt;Location: 7693 - 6182" locus_tag="ADK86_RS00030" class="clusterblast-orf" id="general-1_all_1_8_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="200,440 312,440 317,435 312,430 200,430 200,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK86_RS00025&lt;/b&gt;&lt;br&gt;alcaligin biosynthesis protein&lt;br&gt;Location: 6095 - 4773" locus_tag="ADK86_RS00025" class="clusterblast-orf" id="general-1_all_1_8_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="317,440 363,440 368,435 363,430 317,430 317,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK86_RS00020&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 4776 - 4204" locus_tag="ADK86_RS00020" class="clusterblast-orf" id="general-1_all_1_8_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="367,440 524,440 529,435 524,430 367,430 367,440 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK86_RS00015&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 4210 - 2387&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 834&lt;br&gt;E-value: 6e-240" locus_tag="ADK86_RS00015" class="clusterblast-orf" id="general-1_all_1_8_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="537,435 542,430 721,430 721,440 542,440 537,435 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ADK86_RS40295&lt;/b&gt;&lt;br&gt;tetratricopeptide repeat protein&lt;br&gt;Location: 2289 - 223&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 329&lt;br&gt;E-value: 3.7e-88" locus_tag="ADK86_RS40295" class="clusterblast-orf" id="general-1_all_1_8_4"  />
+</g>
+<g label="NZ_JOBO01000027" description="NZ_JOBO01000027_c27: Streptomyces rimosus subsp. rimosus strain NRRL WC-3927 ... (40% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="470" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_JOBO01000027/27" target="_blank">NZ_JOBO01000027_c27</a>: Streptomyces rimosus subsp. rimosus strain NRRL WC-3927 ... (40% of genes show similarity), siderophore</text>
+<line x1="10" y1="485" x2="778.0" y2="485" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="57,490 186,490 191,485 186,480 57,480 57,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IG76_RS0128310&lt;/b&gt;&lt;br&gt;pyridoxal-dependent decarboxylase&lt;br&gt;Location: 7934 - 6423" locus_tag="IG76_RS0128310" class="clusterblast-orf" id="general-1_all_1_9_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="199,490 311,490 316,485 311,480 199,480 199,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IG76_RS0128305&lt;/b&gt;&lt;br&gt;alcaligin biosynthesis protein&lt;br&gt;Location: 6336 - 5014" locus_tag="IG76_RS0128305" class="clusterblast-orf" id="general-1_all_1_9_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="316,490 362,490 367,485 362,480 316,480 316,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IG76_RS0128300&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 5017 - 4445" locus_tag="IG76_RS0128300" class="clusterblast-orf" id="general-1_all_1_9_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="366,490 523,490 528,485 523,480 366,480 366,490 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;IG76_RS0128295&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 4451 - 2628&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 835&lt;br&gt;E-value: 3.5e-240" locus_tag="IG76_RS0128295" class="clusterblast-orf" id="general-1_all_1_9_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="537,485 542,480 722,480 722,490 542,490 537,485 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IG76_RS1000000138895&lt;/b&gt;&lt;br&gt;tetratricopeptide repeat protein&lt;br&gt;Location: 2528 - 444&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 327&lt;br&gt;E-value: 1.1e-87" locus_tag="IG76_RS1000000138895" class="clusterblast-orf" id="general-1_all_1_9_4"  />
+</g>
+<g label="NZ_CP019457" description="NZ_CP019457_c9: Streptomyces lydicus strain GS93 isolate 23 chromosome, compl... (33% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="520" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_CP019457/9" target="_blank">NZ_CP019457_c9</a>: Streptomyces lydicus strain GS93 isolate 23 chromosome, compl... (33% of genes show similarity), siderophore</text>
+<line x1="10" y1="535" x2="778.0" y2="535" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,540 106,540 111,535 106,530 0,530 0,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09430&lt;/b&gt;&lt;br&gt;DUF1015 domain-containing protein&lt;br&gt;Location: 2051953 - 2053206" locus_tag="BXT88_RS09430" class="clusterblast-orf" id="general-1_all_1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="124,540 255,540 260,535 255,530 124,530 124,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09435&lt;/b&gt;&lt;br&gt;pyridoxal-dependent decarboxylase&lt;br&gt;Location: 2053362 - 2054894" locus_tag="BXT88_RS09435" class="clusterblast-orf" id="general-1_all_1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="268,540 380,540 385,535 380,530 268,530 268,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09440&lt;/b&gt;&lt;br&gt;alcaligin biosynthesis protein&lt;br&gt;Location: 2054983 - 2056302" locus_tag="BXT88_RS09440" class="clusterblast-orf" id="general-1_all_1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="385,540 430,540 435,535 430,530 385,530 385,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09445&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 2056299 - 2056868" locus_tag="BXT88_RS09445" class="clusterblast-orf" id="general-1_all_1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="435,540 590,540 595,535 590,530 435,530 435,540 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09450&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 2056865 - 2058673&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 839&lt;br&gt;E-value: 3.2e-241" locus_tag="BXT88_RS09450" class="clusterblast-orf" id="general-1_all_1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="602,535 607,530 780,530 780,540 607,540 602,535 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09455&lt;/b&gt;&lt;br&gt;tetratricopeptide repeat protein&lt;br&gt;Location: 2058745 - 2060748&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 80&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 322&lt;br&gt;E-value: 4.5e-86" locus_tag="BXT88_RS09455" class="clusterblast-orf" id="general-1_all_1_10_5"  />
+</g>
+</svg>

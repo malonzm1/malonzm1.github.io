@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ABB69742.1</td>
+              <td>PlaT1</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000654/1">BGC0000654</a></td>
+              <td>terpene-saccharide</td>
+              <td>47.0</td>
+              <td>98.3</td>
+              <td>339.0</td>
+              <td>9.5e-93</td>
+          </tr>
+    
+          <tr>
+              <td>BAG16279.1</td>
+              <td>putative_geranylgeranyl_diphosphate_epoxidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000632/1">BGC0000632</a></td>
+              <td>terpene</td>
+              <td>48.0</td>
+              <td>99.5</td>
+              <td>333.0</td>
+              <td>4e-91</td>
+          </tr>
+    
+          <tr>
+              <td>BAF98631.1</td>
+              <td>putative_FAD-dependent_monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000651/1">BGC0000651</a></td>
+              <td>terpene</td>
+              <td>39.0</td>
+              <td>95.0</td>
+              <td>220.0</td>
+              <td>3.8e-57</td>
+          </tr>
+    
+          <tr>
+              <td>AEI98667.1</td>
+              <td>CtcX</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000209/1">BGC0000209</a></td>
+              <td>t2pks</td>
+              <td>30.0</td>
+              <td>94.2</td>
+              <td>104.0</td>
+              <td>5.1e-22</td>
+          </tr>
+    
+          <tr>
+              <td>CAA07766.1</td>
+              <td>oxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000246/1">BGC0000246</a></td>
+              <td>t2pks</td>
+              <td>30.0</td>
+              <td>96.9</td>
+              <td>103.0</td>
+              <td>6.7e-22</td>
+          </tr>
+    
+          <tr>
+              <td>CAK50781.1</td>
+              <td>oxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000247/1">BGC0000247</a></td>
+              <td>t2pks-saccharide</td>
+              <td>30.0</td>
+              <td>96.9</td>
+              <td>103.0</td>
+              <td>6.7e-22</td>
+          </tr>
+    
+          <tr>
+              <td>ACN64845.1</td>
+              <td>PokO1</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001061/1">BGC0001061</a></td>
+              <td>t1pks+t2pks-saccharide</td>
+              <td>29.0</td>
+              <td>93.3</td>
+              <td>101.0</td>
+              <td>4.4e-21</td>
+          </tr>
+    
+          <tr>
+              <td>AKD43504.1</td>
+              <td>Monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001409/1">BGC0001409</a></td>
+              <td>t2pks</td>
+              <td>28.0</td>
+              <td>92.6</td>
+              <td>94.0</td>
+              <td>4.1e-19</td>
+          </tr>
+    
+          <tr>
+              <td>AEO12717.1</td>
+              <td>flavin_monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001334/1">BGC0001334</a></td>
+              <td>alkaloid</td>
+              <td>30.0</td>
+              <td>79.1</td>
+              <td>92.0</td>
+              <td>1.2e-18</td>
+          </tr>
+    
+          <tr>
+              <td>AGI62220.1</td>
+              <td>AbeX2-like_monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001335/1">BGC0001335</a></td>
+              <td>alkaloid</td>
+              <td>29.0</td>
+              <td>100.5</td>
+              <td>84.0</td>
+              <td>4.2e-16</td>
+          </tr>
+    
+          <tr>
+              <td>CAE17524.1</td>
+              <td>oxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000210/1">BGC0000210</a></td>
+              <td>t2pks-saccharide</td>
+              <td>28.0</td>
+              <td>94.5</td>
+              <td>82.0</td>
+              <td>1.6e-15</td>
+          </tr>
+    
+          <tr>
+              <td>ARP51748.1</td>
+              <td>monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001782/1">BGC0001782</a></td>
+              <td>other</td>
+              <td>28.0</td>
+              <td>98.1</td>
+              <td>81.0</td>
+              <td>3.6e-15</td>
+          </tr>
+    
+          <tr>
+              <td>CBW45725.1</td>
+              <td>putative_oxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000952/3">BGC0000952</a></td>
+              <td>nrps-t1pks+transatpks</td>
+              <td>29.0</td>
+              <td>94.2</td>
+              <td>80.0</td>
+              <td>8e-15</td>
+          </tr>
+    
+          <tr>
+              <td>AHD25936.1</td>
+              <td>ChdOI</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000208/1">BGC0000208</a></td>
+              <td>t2pks</td>
+              <td>28.0</td>
+              <td>78.4</td>
+              <td>78.0</td>
+              <td>2.3e-14</td>
+          </tr>
+    
+          <tr>
+              <td>AAZ78329.1</td>
+              <td>OxyE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000254/1">BGC0000254</a></td>
+              <td>t2pks</td>
+              <td>27.0</td>
+              <td>95.4</td>
+              <td>76.0</td>
+              <td>1.1e-13</td>
+          </tr>
+    
+          <tr>
+              <td>AKQ20698.1</td>
+              <td>monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001337/1">BGC0001337</a></td>
+              <td>alkaloid</td>
+              <td>26.0</td>
+              <td>75.8</td>
+              <td>71.0</td>
+              <td>2.8e-12</td>
+          </tr>
+    
+          <tr>
+              <td>CAM34356.1</td>
+              <td>putative_FAD-depending_monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000242/1">BGC0000242</a></td>
+              <td>t2pks</td>
+              <td>30.0</td>
+              <td>86.6</td>
+              <td>71.0</td>
+              <td>3.7e-12</td>
+          </tr>
+    
+          <tr>
+              <td>CAE51184.1</td>
+              <td>RemO_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000264/1">BGC0000264</a></td>
+              <td>t2pks</td>
+              <td>24.0</td>
+              <td>95.7</td>
+              <td>66.0</td>
+              <td>9.1e-11</td>
+          </tr>
+    
+          <tr>
+              <td>AEF32093.1</td>
+              <td>monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001333/1">BGC0001333</a></td>
+              <td>alkaloid</td>
+              <td>26.0</td>
+              <td>77.2</td>
+              <td>65.0</td>
+              <td>2.6e-10</td>
+          </tr>
+    
+          <tr>
+              <td>BAJ52699.1</td>
+              <td>putative_FAD-binding_monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000222/1">BGC0000222</a></td>
+              <td>t2pks</td>
+              <td>27.0</td>
+              <td>83.5</td>
+              <td>64.0</td>
+              <td>5.9e-10</td>
+          </tr>
+    
+          <tr>
+              <td>WP_040253436.1</td>
+              <td>monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001596/1">BGC0001596</a></td>
+              <td>t2pks</td>
+              <td>26.0</td>
+              <td>84.7</td>
+              <td>60.0</td>
+              <td>8.5e-09</td>
+          </tr>
+    
+          <tr>
+              <td>ABS50488.1</td>
+              <td>NapH2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000652/1">BGC0000652</a></td>
+              <td>terpene</td>
+              <td>33.0</td>
+              <td>41.2</td>
+              <td>54.0</td>
+              <td>4.7e-07</td>
+          </tr>
+    
+          <tr>
+              <td>ABS50460.1</td>
+              <td>NapH2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001079/1">BGC0001079</a></td>
+              <td>t3pks-terpene</td>
+              <td>33.0</td>
+              <td>41.2</td>
+              <td>54.0</td>
+              <td>4.7e-07</td>
+          </tr>
+    
+          <tr>
+              <td>AAP85357.1</td>
+              <td>putative_monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000233/1">BGC0000233</a></td>
+              <td>t2pks</td>
+              <td>28.0</td>
+              <td>83.7</td>
+              <td>52.0</td>
+              <td>1.8e-06</td>
+          </tr>
+    
+          <tr>
+              <td>AME18017.1</td>
+              <td>epoxidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001804/1">BGC0001804</a></td>
+              <td>polyketide</td>
+              <td>27.0</td>
+              <td>99.8</td>
+              <td>51.0</td>
+              <td>3e-06</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

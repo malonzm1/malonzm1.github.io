@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ABB69743.1</td>
+              <td>PlaT2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000654/1">BGC0000654</a></td>
+              <td>terpene-saccharide</td>
+              <td>41.0</td>
+              <td>96.3</td>
+              <td>264.0</td>
+              <td>3.6e-70</td>
+          </tr>
+    
+          <tr>
+              <td>BAG16278.1</td>
+              <td>diterpene_cyclase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000632/1">BGC0000632</a></td>
+              <td>terpene</td>
+              <td>35.0</td>
+              <td>99.2</td>
+              <td>207.0</td>
+              <td>3e-53</td>
+          </tr>
+    
+          <tr>
+              <td>BAF98632.1</td>
+              <td>putative_tetraterpene_cyclase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000651/1">BGC0000651</a></td>
+              <td>terpene</td>
+              <td>37.0</td>
+              <td>99.0</td>
+              <td>183.0</td>
+              <td>4.7e-46</td>
+          </tr>
+    
+          <tr>
+              <td>ADD83015.1</td>
+              <td>PtnT2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001156/1">BGC0001156</a></td>
+              <td>terpene</td>
+              <td>32.0</td>
+              <td>77.3</td>
+              <td>61.0</td>
+              <td>2.7e-09</td>
+          </tr>
+    
+          <tr>
+              <td>ACO31276.1</td>
+              <td>PtmT2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001140/1">BGC0001140</a></td>
+              <td>terpene</td>
+              <td>32.0</td>
+              <td>77.3</td>
+              <td>59.0</td>
+              <td>1.3e-08</td>
+          </tr>
+    
+          <tr>
+              <td>BAD86797.1</td>
+              <td>ent-copalyl_diphosphate_synthase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000286/1">BGC0000286</a></td>
+              <td>t3pks</td>
+              <td>32.0</td>
+              <td>48.8</td>
+              <td>56.0</td>
+              <td>8.7e-08</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

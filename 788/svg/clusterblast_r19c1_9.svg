@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="321,40 328,40 333,35 328,30 321,30 321,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg19_20&lt;/b&gt;&lt;br&gt;ctg19 20&lt;br&gt;Location: 25668 - 26610" locus_tag="ctg19_20" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="334,40 338,35 334,30 334,40 " style="fill:#3cd815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg19_21&lt;/b&gt;&lt;br&gt;ctg19 21&lt;br&gt;Location: 26677 - 26998" locus_tag="ctg19_21" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="338,40 347,40 352,35 347,30 338,30 338,40 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg19_22&lt;/b&gt;&lt;br&gt;ctg19 22&lt;br&gt;Location: 26949 - 28083" locus_tag="ctg19_22" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="352,35 357,30 365,30 365,40 357,40 352,35 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg19_23&lt;/b&gt;&lt;br&gt;ctg19 23&lt;br&gt;Location: 28070 - 29060" locus_tag="ctg19_23" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="366,35 371,30 377,30 377,40 371,40 366,35 " style="fill:#d88a15; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg19_24&lt;/b&gt;&lt;br&gt;ctg19 24&lt;br&gt;Location: 29114 - 29960" locus_tag="ctg19_24" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="377,35 382,30 391,30 391,40 382,40 377,35 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg19_25&lt;/b&gt;&lt;br&gt;ctg19 25&lt;br&gt;Location: 29956 - 31087" locus_tag="ctg19_25" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="392,40 404,40 409,35 404,30 392,30 392,40 " style="fill:#3c15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg19_26&lt;/b&gt;&lt;br&gt;ctg19 26&lt;br&gt;Location: 31121 - 32492" locus_tag="ctg19_26" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="409,40 410,40 415,35 410,30 409,30 409,40 " style="fill:#d8158a; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg19_27&lt;/b&gt;&lt;br&gt;ctg19 27&lt;br&gt;Location: 32488 - 32944" locus_tag="ctg19_27" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="415,40 423,40 428,35 423,30 415,30 415,40 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg19_28&lt;/b&gt;&lt;br&gt;ctg19 28&lt;br&gt;Location: 32956 - 33949" locus_tag="ctg19_28" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="429,40 453,40 458,35 453,30 429,30 429,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg19_29&lt;/b&gt;&lt;br&gt;ctg19 29&lt;br&gt;Location: 33997 - 36259" locus_tag="ctg19_29" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="NZ_LMZE01000263" description="NZ_LMZE01000263_c37: Streptomyces albus subsp. albus strain NRRL F-4371 P384c... (11% of genes show similarity), nucleoside-nrps" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LMZE01000263/37" target="_blank">NZ_LMZE01000263_c37</a>: Streptomyces albus subsp. albus strain NRRL F-4371 P384c... (11% of genes show similarity), nucleoside-nrps</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 4,90 9,85 4,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29760&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator&lt;br&gt;Location: 60335 - 59607" locus_tag="ADL21_RS29760" class="clusterblast-orf" id="dummy-1_h1_9_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="9,90 19,90 24,85 19,80 9,80 9,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29755&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 59566 - 58412" locus_tag="ADL21_RS29755" class="clusterblast-orf" id="dummy-1_h1_9_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="29,90 29,90 34,85 29,80 29,80 29,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29750&lt;/b&gt;&lt;br&gt;XRE family transcriptional regulator&lt;br&gt;Location: 58074 - 57634" locus_tag="ADL21_RS29750" class="clusterblast-orf" id="dummy-1_h1_9_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="34,90 37,90 42,85 37,80 34,80 34,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29745&lt;/b&gt;&lt;br&gt;toxin&lt;br&gt;Location: 57637 - 57068" locus_tag="ADL21_RS29745" class="clusterblast-orf" id="dummy-1_h1_9_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="42,85 47,80 87,80 87,90 47,90 42,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29740&lt;/b&gt;&lt;br&gt;beta-ketoacyl synthase&lt;br&gt;Location: 57057 - 53581" locus_tag="ADL21_RS29740" class="clusterblast-orf" id="dummy-1_h1_9_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="87,85 92,80 99,80 99,90 92,90 87,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29735&lt;/b&gt;&lt;br&gt;NAD-dependent epimerase&lt;br&gt;Location: 53572 - 52631" locus_tag="ADL21_RS29735" class="clusterblast-orf" id="dummy-1_h1_9_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="100,90 104,90 109,85 104,80 100,80 100,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29730&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 52561 - 51836" locus_tag="ADL21_RS29730" class="clusterblast-orf" id="dummy-1_h1_9_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="111,85 116,80 117,80 117,90 116,90 111,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29725&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 51733 - 51236" locus_tag="ADL21_RS29725" class="clusterblast-orf" id="dummy-1_h1_9_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="120,90 123,90 128,85 123,80 120,80 120,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29720&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 51001 - 50426" locus_tag="ADL21_RS29720" class="clusterblast-orf" id="dummy-1_h1_9_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="128,85 133,80 133,80 133,90 133,90 128,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29715&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 50367 - 49984" locus_tag="ADL21_RS29715" class="clusterblast-orf" id="dummy-1_h1_9_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="134,90 146,90 151,85 146,80 134,80 134,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29710&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 49908 - 48664" locus_tag="ADL21_RS29710" class="clusterblast-orf" id="dummy-1_h1_9_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="151,85 156,80 164,80 164,90 156,90 151,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29705&lt;/b&gt;&lt;br&gt;D-alanyl-D-alanine carboxypeptidase&lt;br&gt;Location: 48593 - 47637" locus_tag="ADL21_RS29705" class="clusterblast-orf" id="dummy-1_h1_9_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="167,90 179,90 184,85 179,80 167,80 167,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29700&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 47411 - 46083" locus_tag="ADL21_RS29700" class="clusterblast-orf" id="dummy-1_h1_9_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="184,90 193,90 198,85 193,80 184,80 184,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29695&lt;/b&gt;&lt;br&gt;tetratricopeptide repeat protein&lt;br&gt;Location: 46083 - 45019" locus_tag="ADL21_RS29695" class="clusterblast-orf" id="dummy-1_h1_9_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="206,90 210,90 215,85 210,80 206,80 206,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29690&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 44401 - 43712" locus_tag="ADL21_RS29690" class="clusterblast-orf" id="dummy-1_h1_9_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="216,85 221,80 227,80 227,90 221,90 216,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29685&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 43604 - 42786" locus_tag="ADL21_RS29685" class="clusterblast-orf" id="dummy-1_h1_9_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="226,85 231,80 239,80 239,90 231,90 226,85 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29680&lt;/b&gt;&lt;br&gt;daunorubicin resistance protein DrrA family ABC transporter ATP-binding protein&lt;br&gt;Location: 42793 - 41828&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg19_25&lt;/b&gt;&lt;br&gt;Percentage identity: 41&lt;br&gt;Percentage coverage: 83&lt;br&gt;BLAST bit score: 185&lt;br&gt;E-value: 1.5e-44" locus_tag="ADL21_RS29680" class="clusterblast-orf" id="dummy-1_h1_9_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="239,85 242,80 242,90 239,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29675&lt;/b&gt;&lt;br&gt;MbtH family protein&lt;br&gt;Location: 41822 - 41610" locus_tag="ADL21_RS29675" class="clusterblast-orf" id="dummy-1_h1_9_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="242,85 247,80 336,80 336,90 247,90 242,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29670&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 41569 - 34355" locus_tag="ADL21_RS29670" class="clusterblast-orf" id="dummy-1_h1_9_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="336,85 341,80 438,80 438,90 341,90 336,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29665&lt;/b&gt;&lt;br&gt;D-alanine--poly(phosphoribitol) ligase subunit DltA&lt;br&gt;Location: 34358 - 26436" locus_tag="ADL21_RS29665" class="clusterblast-orf" id="dummy-1_h1_9_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="439,85 444,80 452,80 452,90 444,90 439,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29660&lt;/b&gt;&lt;br&gt;2,3-diaminopropionate biosynthesis protein SbnA&lt;br&gt;Location: 26338 - 25355" locus_tag="ADL21_RS29660" class="clusterblast-orf" id="dummy-1_h1_9_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="453,85 458,80 466,80 466,90 458,90 453,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29655&lt;/b&gt;&lt;br&gt;2,3-diaminopropionate biosynthesis protein SbnB&lt;br&gt;Location: 25306 - 24263" locus_tag="ADL21_RS29655" class="clusterblast-orf" id="dummy-1_h1_9_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="470,90 473,90 478,85 473,80 470,80 470,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29650&lt;/b&gt;&lt;br&gt;DNA-binding response regulator&lt;br&gt;Location: 23999 - 23346" locus_tag="ADL21_RS29650" class="clusterblast-orf" id="dummy-1_h1_9_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="478,85 483,80 489,80 489,90 483,90 478,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29645&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 23374 - 22493" locus_tag="ADL21_RS29645" class="clusterblast-orf" id="dummy-1_h1_9_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="498,85 501,80 501,90 498,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29635&lt;/b&gt;&lt;br&gt;acyl carrier protein&lt;br&gt;Location: 21810 - 21544" locus_tag="ADL21_RS29635" class="clusterblast-orf" id="dummy-1_h1_9_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="502,85 507,80 519,80 519,90 507,90 502,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29630&lt;/b&gt;&lt;br&gt;type III PLP-dependent enzyme&lt;br&gt;Location: 21516 - 20224" locus_tag="ADL21_RS29630" class="clusterblast-orf" id="dummy-1_h1_9_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="518,85 523,80 536,80 536,90 523,90 518,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29625&lt;/b&gt;&lt;br&gt;ATP-grasp domain-containing protein&lt;br&gt;Location: 20234 - 18840" locus_tag="ADL21_RS29625" class="clusterblast-orf" id="dummy-1_h1_9_26"  />
+</g>
+<g id="a1_0027"  >
+<polygon points="537,85 542,80 548,80 548,90 542,90 537,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29620&lt;/b&gt;&lt;br&gt;3-oxoacyl-ACP synthase&lt;br&gt;Location: 18814 - 17966" locus_tag="ADL21_RS29620" class="clusterblast-orf" id="dummy-1_h1_9_27"  />
+</g>
+<g id="a1_0028"  >
+<polygon points="553,90 567,90 572,85 567,80 553,80 553,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29615&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 17568 - 16093" locus_tag="ADL21_RS29615" class="clusterblast-orf" id="dummy-1_h1_9_28"  />
+</g>
+<g id="a1_0029"  >
+<polygon points="573,90 585,90 590,85 585,80 573,80 573,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29610&lt;/b&gt;&lt;br&gt;sensor histidine kinase&lt;br&gt;Location: 15995 - 14691" locus_tag="ADL21_RS29610" class="clusterblast-orf" id="dummy-1_h1_9_29"  />
+</g>
+<g id="a1_0030"  >
+<polygon points="597,90 611,90 616,85 611,80 597,80 597,90 " style="fill:#3c15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29605&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 14129 - 12693&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg19_26&lt;/b&gt;&lt;br&gt;Percentage identity: 48&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 371&lt;br&gt;E-value: 1.4e-100" locus_tag="ADL21_RS29605" class="clusterblast-orf" id="dummy-1_h1_9_30"  />
+</g>
+<g id="a1_0031"  >
+<polygon points="616,90 618,90 623,85 618,80 616,80 616,90 " style="fill:#d8158a; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29600&lt;/b&gt;&lt;br&gt;NUDIX domain-containing protein&lt;br&gt;Location: 12700 - 12182&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg19_27&lt;/b&gt;&lt;br&gt;Percentage identity: 61&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 173&lt;br&gt;E-value: 1.4e-41" locus_tag="ADL21_RS29600" class="clusterblast-orf" id="dummy-1_h1_9_31"  />
+</g>
+<g id="a1_0032"  >
+<polygon points="624,90 632,90 637,85 632,80 624,80 624,90 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29595&lt;/b&gt;&lt;br&gt;gfo/Idh/MocA family oxidoreductase&lt;br&gt;Location: 12073 - 11033&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg19_28&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 367&lt;br&gt;E-value: 1.5e-99" locus_tag="ADL21_RS29595" class="clusterblast-orf" id="dummy-1_h1_9_32"  />
+</g>
+<g id="a1_0033"  >
+<polygon points="639,90 650,90 655,85 650,80 639,80 639,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29590&lt;/b&gt;&lt;br&gt;DegT/DnrJ/EryC1/StrS family aminotransferase&lt;br&gt;Location: 10931 - 9642" locus_tag="ADL21_RS29590" class="clusterblast-orf" id="dummy-1_h1_9_33"  />
+</g>
+<g id="a1_0034"  >
+<polygon points="656,90 660,90 665,85 660,80 656,80 656,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29585&lt;/b&gt;&lt;br&gt;methyltransferase domain-containing protein&lt;br&gt;Location: 9582 - 8893" locus_tag="ADL21_RS29585" class="clusterblast-orf" id="dummy-1_h1_9_34"  />
+</g>
+<g id="a1_0035"  >
+<polygon points="666,90 672,90 677,85 672,80 666,80 666,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29580&lt;/b&gt;&lt;br&gt;histidinol-phosphatase&lt;br&gt;Location: 8803 - 7997" locus_tag="ADL21_RS29580" class="clusterblast-orf" id="dummy-1_h1_9_35"  />
+</g>
+<g id="a1_0036"  >
+<polygon points="678,90 681,90 686,85 681,80 678,80 678,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29575&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 7895 - 7293" locus_tag="ADL21_RS29575" class="clusterblast-orf" id="dummy-1_h1_9_36"  />
+</g>
+<g id="a1_0037"  >
+<polygon points="687,90 711,90 716,85 711,80 687,80 687,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29570&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7200 - 4990&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg19_29&lt;/b&gt;&lt;br&gt;Percentage identity: 53&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 707&lt;br&gt;E-value: 1.3e-201" locus_tag="ADL21_RS29570" class="clusterblast-orf" id="dummy-1_h1_9_37"  />
+</g>
+<g id="a1_0038"  >
+<polygon points="716,90 719,90 724,85 719,80 716,80 716,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29565&lt;/b&gt;&lt;br&gt;class I SAM-dependent methyltransferase&lt;br&gt;Location: 4943 - 4311" locus_tag="ADL21_RS29565" class="clusterblast-orf" id="dummy-1_h1_9_38"  />
+</g>
+<g id="a1_0039"  >
+<polygon points="727,90 745,90 750,85 745,80 727,80 727,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29560&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 4136 - 2325" locus_tag="ADL21_RS29560" class="clusterblast-orf" id="dummy-1_h1_9_39"  />
+</g>
+<g id="a1_0040"  >
+<polygon points="750,85 754,80 754,90 750,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS42370&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2308 - 2027" locus_tag="ADL21_RS42370" class="clusterblast-orf" id="dummy-1_h1_9_40"  />
+</g>
+<g id="a1_0041"  >
+<polygon points="762,90 775,90 780,85 775,80 762,80 762,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL21_RS29550&lt;/b&gt;&lt;br&gt;alkaline phosphatase&lt;br&gt;Location: 1435 - 53" locus_tag="ADL21_RS29550" class="clusterblast-orf" id="dummy-1_h1_9_41"  />
+</g>
+</svg>

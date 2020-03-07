@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="167,35 172,30 616,30 616,40 172,40 167,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg477_1&lt;/b&gt;&lt;br&gt;ctg477 1&lt;br&gt;Location: 2 - 2492" locus_tag="ctg477_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+</g>
+<g label="NZ_FOFR01000049" description="NZ_FOFR01000049_c1: Lechevalieria xinjiangensis strain CGMCC 4.3525, whole ge... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FOFR01000049/1" target="_blank">NZ_FOFR01000049_c1</a>: Lechevalieria xinjiangensis strain CGMCC 4.3525, whole ge... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 780,80 780,90 5,90 0,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BMW88_RS40720&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4325 - 1&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg477_1&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 103&lt;br&gt;BLAST bit score: 739&lt;br&gt;E-value: 3.5e-211" locus_tag="BMW88_RS40720" class="clusterblast-orf" id="dummy-1_h1_7_0"  />
+</g>
+</svg>

@@ -1,0 +1,133 @@
+ClusterBlast scores for c00030_NODE_30..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg30_1	1	14734	-		
+ctg30_2	15072	17592	-		
+ctg30_3	17914	19339	-		
+ctg30_4	19373	20093	-		
+ctg30_5	20124	20904	-		
+ctg30_6	21026	21116	-		
+ctg30_7	21112	22084	-		
+ctg30_8	22104	22782	-		
+ctg30_9	22857	23940	-		
+ctg30_10	24041	24404	+		
+ctg30_11	24450	25149	-		
+ctg30_12	25178	25319	-		
+ctg30_13	25328	26780	+		
+ctg30_14	26786	27428	-		
+ctg30_15	27565	28261	-		
+ctg30_16	28543	29566	-		
+ctg30_17	29573	30020	-		
+
+
+Significant hits: 
+1. BGC0001782	Spiroindimicins / indimicins / lynamicins
+2. BGC0001046	Streptolydigin
+
+
+Details:
+
+>>
+1. BGC0001782
+Source: Spiroindimicins / indimicins / lynamicins
+Type: other
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2504
+
+Table of genes, locations, strands and annotations of subject cluster:
+ARP51727.1	ARP51727.1	1051	1518	+	hypothetical_protein
+ARP51728.1	ARP51728.1	1595	2197	+	XRE_family_transcriptional_regulator
+ARP51729.1	ARP51729.1	2233	2370	+	small_hydrophobic_protein
+ARP51730.1	ARP51730.1	2438	2866	+	DUF4440_domain-containing_protein
+ARP51731.1	ARP51731.1	2868	3431	-	LacI_family_transcriptional_regulator
+ARP51732.1	ARP51732.1	3394	3861	+	beta-galactosidase
+ARP51733.1	ARP51733.1	3916	4092	+	hypothetical_protein
+ARP51734.1	ARP51734.1	4108	5295	+	sugar_hydrolase
+ARP51735.1	ARP51735.1	5409	5726	+	transcriptional_regulator
+ARP51736.1	ARP51736.1	5723	6250	+	hypothetical_protein
+ARP51737.1	ARP51737.1	6442	7434	+	thioredoxin_reductase
+ARP51738.1	ARP51738.1	7486	10047	-	silent_information_regulator_protein_Sir2
+ARP51739.1	ARP51739.1	10435	11079	+	hypothetical_protein
+ARP51740.1	ARP51740.1	11213	12256	-	hypothetical_protein
+ARP51741.1	ARP51741.1	12452	15328	-	transcriptional_activator
+ARP51742.1	ARP51742.1	15554	17203	-	ABC_transporter
+ARP51743.1	ARP51743.1	17548	19005	+	tryptophan_oxidase
+ARP51744.1	ARP51744.1	19002	22304	+	chromopyrrolic_acid_synthase
+ARP51745.1	ARP51745.1	22307	23590	+	cytochrome_P450
+ARP51746.1	ARP51746.1	23679	24269	-	flavin_reductase
+ARP51747.1	ARP51747.1	25064	26605	+	tryptophan_halogenase
+ARP51748.1	ARP51748.1	26724	28070	+	monooxygenase
+ARP51749.1	ARP51749.1	28047	28844	-	hypothetical_protein
+ARP51750.1	ARP51750.1	29047	30051	-	ATPase
+ARP51751.1	ARP51751.1	30048	30725	-	uracil-DNA_glycosylase
+ARP51752.1	ARP51752.1	30994	32355	-	NADP_oxidoreductase
+ARP51753.1	ARP51753.1	32449	33378	+	hypothetical_protein
+ARP51754.1	ARP51754.1	33323	34099	-	DUF305_domain-containing_protein
+ARP51755.1	ARP51755.1	34237	35715	+	hypothetical_protein
+ARP51756.1	ARP51756.1	35706	36323	-	TetR_family_transcriptional_regulator
+ARP51757.1	ARP51757.1	36524	37219	-	hydrolase
+ARP51758.1	ARP51758.1	37315	37800	-	hypothetical_protein
+ARP51759.1	ARP51759.1	37987	39207	+	transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg30_5	ARP51749.1	69	300	100.0	3e-81
+ctg30_7	ARP51750.1	59	299	101.54798761609906	8.4e-81
+ctg30_8	ARP51751.1	89	414	100.0	1.3e-115
+ctg30_11	ARP51754.1	51	174	99.13793103448276	1.7e-43
+ctg30_13	ARP51755.1	75	701	89.85507246376811	8.4e-202
+ctg30_14	ARP51756.1	76	277	89.2018779342723	1.7e-74
+ctg30_15	ARP51757.1	71	339	100.0	5.3e-93
+
+
+
+>>
+2. BGC0001046
+Source: Streptolydigin
+Type: nrps-t1pks-saccharide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 610
+
+Table of genes, locations, strands and annotations of subject cluster:
+CBA11554.1	CBA11554.1	1	438	+	putative_glycerophosphoryl_diester_phosphodiesterase
+CBA11555.1	CBA11555.1	808	1194	+	hypothetical_protein
+CBA11556.1	CBA11556.1	1429	4260	+	LuxR-family_transcriptional_regulator
+CBA11557.1	CBA11557.1	4318	6441	-	non-ribosomal_peptide_synthetase
+CBA11558.1	CBA11558.1	6495	7337	-	hypothetical_protein
+CBA11559.1	CBA11559.1	7392	8672	-	methyltransferase
+CBA11560.1	CBA11560.1	8767	9423	-	NDP-hexose-3,5-epimerase
+CBA11561.1	CBA11561.1	9405	10709	-	NDP-hexose-3,4-dehydratase
+CBA11562.1	CBA11562.1	10720	11742	-	NDP-4-keto-6-deoxyhexose_reductase
+CBA11563.1	CBA11563.1	11739	12755	-	NDP-hexose-3-ketoreductase
+CBA11564.1	CBA11564.1	12752	14104	-	NDP-hexose-2,3-dehydratase
+CBA11565.1	CBA11565.1	14101	15342	-	cytochrome_P450
+CBA11566.1	CBA11566.1	15339	16193	-	putative_secreted_hydrolase
+CBA11567.1	CBA11567.1	16402	17577	+	glycosyltransferase
+CBA11568.1	CBA11568.1	18302	19282	+	asparaginyl-tRNA_synthetase-like
+CBA11569.1	CBA11569.1	19279	20601	+	ferredoxin-dependent_glutamate_synthase
+CBA11570.1	CBA11570.1	20598	22301	+	non-ribosomal_peptide_synthetase
+CBA11571.1	CBA11571.1	22449	23435	-	NDP-glucose-4,6-dehydratase
+CBA11572.1	CBA11572.1	23432	24499	-	NDP-glucose_synthase
+CBA11573.1	CBA11573.1	24496	25845	-	glutamate_mutase-E_chain
+CBA11574.1	CBA11574.1	25842	26303	-	glutamate_mutase_S-chain
+CBA11575.1	CBA11575.1	26650	28749	+	putative_ATP/GTP_binding-protein
+CBA11576.1	CBA11576.1	28862	29524	-	TetR-family_transcriptional_regulator
+CBA11577.1	CBA11577.1	29625	31172	+	putative_transport_integral_membrain_protein
+CBA11578.1	CBA11578.1	31294	32538	+	cytochrome_P450
+CBA11579.1	CBA11579.1	32589	34136	-	putative_ent-copalyl_diphosphate_synthase
+CBA11580.1	CBA11580.1	34133	35035	-	putative_secreted_hydrolase
+CBA11581.1	CBA11581.1	35032	35814	-	thioesterase_type_II
+CBA11582.1	CBA11582.1	35811	46154	-	polyketide_synthase_type_I
+CBA11583.1	CBA11583.1	46319	56758	-	polyketide_synthase_type_I
+CBA11584.1	CBA11584.1	56865	75380	-	polyketide_synthase_type_I
+CBA11585.1	CBA11585.1	75897	76637	+	putative_integral_membrane_protein
+CBA11586.1	CBA11586.1	76841	77776	+	putative_integral_membrane_protein
+CBA11587.1	CBA11587.1	77818	78480	+	putative_integral_membrane_protein
+CBA11588.1	CBA11588.1	78477	79205	+	putative_hydrolase
+CBA11589.1	CBA11589.1	79234	79632	-	hypothetical_protein
+CBA11590.1	CBA11590.1	79840	80457	+	putative_TetR-family_transcriptional_regulator
+CBA11591.1	CBA11591.1	80468	80893	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg30_15	CBA11588.1	56	262	99.13419913419914	8.2e-70
+ctg30_16	CBA11586.1	61	348	94.70588235294117	1.3e-95
+

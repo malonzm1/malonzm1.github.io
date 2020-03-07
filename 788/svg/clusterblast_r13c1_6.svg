@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,40 53,40 58,35 53,30 0,30 0,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_2&lt;/b&gt;&lt;br&gt;ctg13 2&lt;br&gt;Location: 1336 - 2245" locus_tag="ctg13_2" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="57,40 110,40 115,35 110,30 57,30 57,40 " style="fill:#3cd815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_3&lt;/b&gt;&lt;br&gt;ctg13 3&lt;br&gt;Location: 2234 - 3140" locus_tag="ctg13_3" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="131,40 153,40 158,35 153,30 131,30 131,40 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_4&lt;/b&gt;&lt;br&gt;ctg13 4&lt;br&gt;Location: 3396 - 3819" locus_tag="ctg13_4" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="164,35 169,30 236,30 236,40 169,40 164,35 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_5&lt;/b&gt;&lt;br&gt;ctg13 5&lt;br&gt;Location: 3904 - 5038" locus_tag="ctg13_5" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="259,40 378,40 383,35 378,30 259,30 259,40 " style="fill:#d88a15; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_6&lt;/b&gt;&lt;br&gt;ctg13 6&lt;br&gt;Location: 5394 - 7341" locus_tag="ctg13_6" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="383,40 418,40 423,35 418,30 383,30 383,40 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_7&lt;/b&gt;&lt;br&gt;ctg13 7&lt;br&gt;Location: 7349 - 7970" locus_tag="ctg13_7" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="426,40 532,40 537,35 532,30 426,30 426,40 " style="fill:#3c15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_8&lt;/b&gt;&lt;br&gt;ctg13 8&lt;br&gt;Location: 8020 - 9766" locus_tag="ctg13_8" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="540,40 662,40 667,35 662,30 540,30 540,40 " style="fill:#d8158a; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_9&lt;/b&gt;&lt;br&gt;ctg13 9&lt;br&gt;Location: 9816 - 11814" locus_tag="ctg13_9" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="670,35 675,30 724,30 724,40 675,40 670,35 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_10&lt;/b&gt;&lt;br&gt;ctg13 10&lt;br&gt;Location: 11854 - 12697" locus_tag="ctg13_10" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="747,40 775,40 780,35 775,30 747,30 747,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_11&lt;/b&gt;&lt;br&gt;ctg13 11&lt;br&gt;Location: 13070 - 13583" locus_tag="ctg13_11" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="NZ_LZNS01000001" description="NZ_LZNS01000001_c11: Streptomyces sp. MP131-18 scaf 01, whole genome shotgun ... (88% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LZNS01000001/11" target="_blank">NZ_LZNS01000001_c11</a>: Streptomyces sp. MP131-18 scaf 01, whole genome shotgun ... (88% of genes show similarity), siderophore</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="10,90 100,90 105,85 100,80 10,80 10,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS07360&lt;/b&gt;&lt;br&gt;GTPase HflX&lt;br&gt;Location: 1689062 - 1687572" locus_tag="STBA_RS07360" class="clusterblast-orf" id="dummy-1_h1_6_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="117,90 139,90 144,85 139,80 117,80 117,90 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS07355&lt;/b&gt;&lt;br&gt;aspartate 1-decarboxylase&lt;br&gt;Location: 1687375 - 1686953&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_4&lt;/b&gt;&lt;br&gt;Percentage identity: 84&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 222&lt;br&gt;E-value: 3.2e-56" locus_tag="STBA_RS07355" class="clusterblast-orf" id="dummy-1_h1_6_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="150,85 155,80 227,80 227,90 155,90 150,85 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS07350&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1686870 - 1685647&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_5&lt;/b&gt;&lt;br&gt;Percentage identity: 63&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 491&lt;br&gt;E-value: 9.9e-137" locus_tag="STBA_RS07350" class="clusterblast-orf" id="dummy-1_h1_6_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="246,90 364,90 369,85 364,80 246,80 246,90 " style="fill:#d88a15; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS07345&lt;/b&gt;&lt;br&gt;iron transporter&lt;br&gt;Location: 1685358 - 1683430&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_6&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 834&lt;br&gt;E-value: 8.2e-240" locus_tag="STBA_RS07345" class="clusterblast-orf" id="dummy-1_h1_6_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="369,90 407,90 412,85 407,80 369,80 369,90 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS07340&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 1683419 - 1682751&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_7&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 103&lt;br&gt;BLAST bit score: 290&lt;br&gt;E-value: 1.4e-76" locus_tag="STBA_RS07340" class="clusterblast-orf" id="dummy-1_h1_6_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="417,90 520,90 525,85 520,80 417,80 417,90 " style="fill:#3c15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS07335&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 1682663 - 1680972&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_8&lt;/b&gt;&lt;br&gt;Percentage identity: 78&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 884&lt;br&gt;E-value: 6.2e-255" locus_tag="STBA_RS07335" class="clusterblast-orf" id="dummy-1_h1_6_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="530,90 652,90 657,85 652,80 530,80 530,90 " style="fill:#d8158a; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS07330&lt;/b&gt;&lt;br&gt;ATP-dependent DNA helicase&lt;br&gt;Location: 1680899 - 1678899&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_9&lt;/b&gt;&lt;br&gt;Percentage identity: 86&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1106&lt;br&gt;E-value: 0.0" locus_tag="STBA_RS07330" class="clusterblast-orf" id="dummy-1_h1_6_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="658,85 663,80 706,80 706,90 663,90 658,85 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS07325&lt;/b&gt;&lt;br&gt;transcriptional repressor LexA&lt;br&gt;Location: 1678881 - 1678132&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_10&lt;/b&gt;&lt;br&gt;Percentage identity: 90&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 449&lt;br&gt;E-value: 3.2e-124" locus_tag="STBA_RS07325" class="clusterblast-orf" id="dummy-1_h1_6_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="735,90 764,90 769,85 764,80 735,80 735,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS07320&lt;/b&gt;&lt;br&gt;transcriptional repressor NrdR&lt;br&gt;Location: 1677677 - 1677144&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_11&lt;/b&gt;&lt;br&gt;Percentage identity: 85&lt;br&gt;Percentage coverage: 104&lt;br&gt;BLAST bit score: 275&lt;br&gt;E-value: 3e-72" locus_tag="STBA_RS07320" class="clusterblast-orf" id="dummy-1_h1_6_8"  />
+</g>
+</svg>

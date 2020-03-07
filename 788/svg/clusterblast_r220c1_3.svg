@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="233,35 238,30 547,30 547,40 238,40 233,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg220_1&lt;/b&gt;&lt;br&gt;ctg220 1&lt;br&gt;Location: 0 - 9003" locus_tag="ctg220_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+</g>
+<g label="NZ_BCML01000129" description="NZ_BCML01000129_c41: Streptomyces acidiscabies strain a2, whole genome shotgu... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_BCML01000129/41" target="_blank">NZ_BCML01000129_c41</a>: Streptomyces acidiscabies strain a2, whole genome shotgu... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 780,80 780,90 5,90 0,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;AV141_RS42570&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 85 - 22431&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg220_1&lt;/b&gt;&lt;br&gt;Percentage identity: 48&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 2460&lt;br&gt;E-value: 0.0" locus_tag="AV141_RS42570" class="clusterblast-orf" id="dummy-1_h1_3_0"  />
+</g>
+</svg>

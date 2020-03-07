@@ -1,0 +1,145 @@
+ClusterBlast scores for c00019_NODE_19..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg19_20	25668	26610	+		
+ctg19_21	26677	26998	+		
+ctg19_22	26949	28083	+		
+ctg19_23	28070	29060	-		
+ctg19_24	29114	29960	-		
+ctg19_25	29956	31087	-		
+ctg19_26	31121	32492	+		
+ctg19_27	32488	32944	+		
+ctg19_28	32956	33949	+		
+ctg19_29	33997	36259	+		
+
+
+Significant hits: 
+1. BGC0000878	Puromycin
+2. BGC0000873	A201A
+3. BGC0001138	A201A
+
+
+Details:
+
+>>
+1. BGC0000878
+Source: Puromycin
+Type: other
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1909
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAA63157.1	CAA63157.1	1	435	+	
+CAA63158.1	CAA63158.1	720	2177	+	N-acetylpuromycin_N-acetylhydrolase
+CAA63159.1	CAA63159.1	2170	2628	+	NTP_pyrophosphohydrolase
+CAA63160.1	CAA63160.1	2713	3729	+	Oxido-reductase
+CAA63161.1	CAA63161.1	3762	6080	+	Synthetase
+CAA63162.1	CAA63162.1	6137	7426	+	Amino-transferase
+CAA63163.1	CAA63163.1	7483	8169	+	N-methyl-transferase
+CAA63164.1	CAA63164.1	8253	9074	+	Mono-phosphatase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_26	CAA63158.1	56	438	96.49122807017544	1.6e-122
+ctg19_27	CAA63159.1	63	184	98.01324503311258	1.1e-46
+ctg19_28	CAA63160.1	64	406	95.45454545454545	3.8e-113
+ctg19_29	CAA63161.1	63	881	103.18725099601593	1.2e-255
+
+
+
+>>
+2. BGC0000873
+Source: A201A
+Type: other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 533
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAD27651.1	CAD27651.1	470	796	-	putative_thioredoxin
+CAD27650.1	CAD27650.1	890	1774	-	dsgA_protein
+CAA59109.1	CAA59109.1	2494	4170	-	Ard1_protein
+CAD27649.1	CAD27649.1	4291	5097	-	AtaP3_protein
+CAD27648.1	CAD27648.1	5094	5780	-	AtaP5_protein
+CAD27647.1	CAD27647.1	5800	7083	-	AtaP4_protein
+CAD27646.1	CAD27646.1	7080	8165	-	AtaP10_protein
+CAD27645.1	CAD27645.1	8162	8680	-	AtaP7_protein
+CAD27644.1	CAD27644.1	8682	9704	-	Ata12_protein
+CAD27643.1	CAD27643.1	9788	11098	+	AtaPKS1_protein
+CAD62186.1	CAD62186.1	11083	12207	-	Ata13_protein
+CAD62187.1	CAD62187.1	12204	13208	-	Ata14_protein
+CAD62188.1	CAD62188.1	13205	14575	-	Ata15_protein
+CAD62189.1	CAD62189.1	14572	15750	-	Ata16_protein
+CAD62190.1	CAD62190.1	15743	16897	-	Ata17_protein
+CAD62191.1	CAD62191.1	17174	17500	+	AtaPKS2_protein
+CAD62192.1	CAD62192.1	17497	18663	+	AtaPKS3_protein
+CAD62193.1	CAD62193.1	18656	19453	+	AtaPKS4_protein
+CAD62194.1	CAD62194.1	19440	20900	+	Ata18_protein
+CAD62195.1	CAD62195.1	20897	21184	+	Ata19_protein
+CAD62196.1	CAD62196.1	21181	22212	+	Ata2_protein
+CAD62197.1	CAD62197.1	22226	22816	+	Ard2_protein
+CAD62198.1	CAD62198.1	22813	23583	+	Ata4_protein
+CAD62199.1	CAD62199.1	23597	24874	+	Ata5_protein
+CAD62200.1	CAD62200.1	24875	25927	+	Ata6_protein
+CAD62201.1	CAD62201.1	25920	26579	+	Ata7_protein
+CAD62202.1	CAD62202.1	26580	27410	+	Ata8_protein
+CAD62203.1	CAD62203.1	27387	28733	-	Ata9_protein
+CAD62204.1	CAD62204.1	28838	30328	+	Ata10_protein
+CAD62205.1	CAD62205.1	30325	31035	+	Ata11_protein
+CAD62206.1	CAD62206.1	31776	32153	-	hypothetical_protein
+CAD62207.1	CAD62207.1	32174	33484	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_27	CAD27645.1	63	183	94.03973509933775	3.2e-46
+ctg19_28	CAD27646.1	57	350	94.54545454545455	2.5e-96
+
+
+
+>>
+3. BGC0001138
+Source: A201A
+Type: other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 518
+
+Table of genes, locations, strands and annotations of subject cluster:
+AET51836.1	AET51836.1	1	639	-	putative_uncharacterized_protein
+AET51837.1	AET51837.1	636	2066	-	putative_iron-sulfur_protein
+AET51838.1	AET51838.1	2063	2800	-	putative_uncharacterized_protein
+AET51839.1	AET51839.1	3630	4364	+	GntR_family_transcriptional_regulator
+AET51840.1	AET51840.1	4441	6468	-	peptidase_S15
+AET51841.1	AET51841.1	6488	7774	-	putative_uncharacterized_protein
+AET51842.1	AET51842.1	8051	8386	+	putative_uncharacterized_protein
+AET51843.1	AET51843.1	9226	9672	+	NTP-pyrophosphohydrolase
+AET51844.1	AET51844.1	9673	10827	+	oxireductase
+AET51845.1	AET51845.1	10828	12117	+	aminotransferase
+AET51846.1	AET51846.1	12136	12840	+	N-methyltransferase
+AET51847.1	AET51847.1	12910	13974	-	GDP-D-manose-4,6-dehydratase
+AET51848.1	AET51848.1	14167	15381	+	acyltransferase
+AET51849.1	AET51849.1	15383	16510	-	glycosyltransferase
+AET51850.1	AET51850.1	16504	17439	-	oxidoreductase
+AET51851.1	AET51851.1	17455	19167	-	ABC_transporter
+AET51852.1	AET51852.1	19164	20522	-	glucokinase
+AET51853.1	AET51853.1	20519	21649	-	transglycosylse
+AET51872.1	AET51872.1	21636	22664	-	NAD-dependent_epimerase/dehydratase
+AET51854.1	AET51854.1	23379	23726	+	acyl_carrier_protein
+AET51855.1	AET51855.1	23723	24871	+	ketoacyl_synthase_1
+AET51856.1	AET51856.1	24873	25679	+	putative_uncharacterized_protein
+AET51857.1	AET51857.1	25672	27126	+	CoA-ligase
+AET51858.1	AET51858.1	27123	27407	+	ACP
+AET51859.1	AET51859.1	27404	28423	+	3-ketoacyl_ACP_dehydratase
+AET51860.1	AET51860.1	28420	29004	+	phosphotransferase
+AET51861.1	AET51861.1	29004	29753	+	3-ketoacyl_ACP_reductase
+AET51862.1	AET51862.1	29768	31048	+	glycosyltransferase
+AET51863.1	AET51863.1	31045	32109	+	methyltransferase
+AET51864.1	AET51864.1	32106	32666	+	putative_chorismate_pyruvate-lyase
+AET51865.1	AET51865.1	32814	33542	+	methyltransferase
+AET51866.1	AET51866.1	33539	34828	-	transmembrane_protein
+AET51867.1	AET51867.1	34906	36495	+	oxidoreductase
+AET51868.1	AET51868.1	36503	37225	+	methyltransferase
+AET51869.1	AET51869.1	37244	38026	+	inositol-phosphate_phosphatase
+AET51870.1	AET51870.1	38357	38662	+	putative_gas_vesicle_synthesis_protein
+AET51871.1	AET51871.1	38759	39199	+	putative_gas_vesicle_synthesis_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_27	AET51843.1	63	178	91.3907284768212	1e-44
+ctg19_28	AET51844.1	55	340	94.24242424242424	2.6e-93
+

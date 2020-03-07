@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="284,40 293,40 298,35 293,30 284,30 284,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg114_1&lt;/b&gt;&lt;br&gt;ctg114 1&lt;br&gt;Location: 82 - 1120" locus_tag="ctg114_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="306,40 311,40 316,35 311,30 306,30 306,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg114_2&lt;/b&gt;&lt;br&gt;ctg114 2&lt;br&gt;Location: 1749 - 2454" locus_tag="ctg114_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="316,40 452,40 457,35 452,30 316,30 316,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg114_3&lt;/b&gt;&lt;br&gt;ctg114 3&lt;br&gt;Location: 2480 - 12737" locus_tag="ctg114_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="457,40 491,40 496,35 491,30 457,30 457,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg114_4&lt;/b&gt;&lt;br&gt;ctg114 4&lt;br&gt;Location: 12759 - 15555" locus_tag="ctg114_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+</g>
+<g label="NZ_CP009922" description="NZ_CP009922_c15: Streptomyces xiamenensis strain 318, complete genome (7% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_CP009922/15" target="_blank">NZ_CP009922_c15</a>: Streptomyces xiamenensis strain 318, complete genome (7% of genes show similarity), nrps</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 11,90 16,85 11,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23170&lt;/b&gt;&lt;br&gt;FAD-binding oxidoreductase&lt;br&gt;Location: 5106829 - 5108016" locus_tag="SXIM_RS23170" class="clusterblast-orf" id="dummy-1_h1_5_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="16,90 19,85 16,80 16,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23175&lt;/b&gt;&lt;br&gt;proline dehydrogenase&lt;br&gt;Location: 5108013 - 5108270" locus_tag="SXIM_RS23175" class="clusterblast-orf" id="dummy-1_h1_5_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="18,90 34,90 39,85 34,80 18,80 18,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23180&lt;/b&gt;&lt;br&gt;FAD-dependent oxidoreductase&lt;br&gt;Location: 5108200 - 5109681" locus_tag="SXIM_RS23180" class="clusterblast-orf" id="dummy-1_h1_5_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="39,90 46,90 51,85 46,80 39,80 39,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23185&lt;/b&gt;&lt;br&gt;dihydrodipicolinate synthase family protein&lt;br&gt;Location: 5109678 - 5110607" locus_tag="SXIM_RS23185" class="clusterblast-orf" id="dummy-1_h1_5_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="51,90 60,90 65,85 60,80 51,80 51,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23190&lt;/b&gt;&lt;br&gt;proline racemase&lt;br&gt;Location: 5110609 - 5111610" locus_tag="SXIM_RS23190" class="clusterblast-orf" id="dummy-1_h1_5_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="68,90 72,90 77,85 72,80 68,80 68,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23195&lt;/b&gt;&lt;br&gt;GntR family transcriptional regulator&lt;br&gt;Location: 5111848 - 5112516" locus_tag="SXIM_RS23195" class="clusterblast-orf" id="dummy-1_h1_5_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="82,90 100,90 105,85 100,80 82,80 82,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23200&lt;/b&gt;&lt;br&gt;ABC transporter substrate-binding protein&lt;br&gt;Location: 5112833 - 5114533" locus_tag="SXIM_RS23200" class="clusterblast-orf" id="dummy-1_h1_5_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="105,90 113,90 118,85 113,80 105,80 105,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23205&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 5114535 - 5115491" locus_tag="SXIM_RS23205" class="clusterblast-orf" id="dummy-1_h1_5_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="118,90 127,90 132,85 127,80 118,80 118,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23210&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 5115488 - 5116486" locus_tag="SXIM_RS23210" class="clusterblast-orf" id="dummy-1_h1_5_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="132,90 138,90 143,85 138,80 132,80 132,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23215&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 5116483 - 5117298" locus_tag="SXIM_RS23215" class="clusterblast-orf" id="dummy-1_h1_5_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="143,90 149,90 154,85 149,80 143,80 143,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23220&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 5117295 - 5118137" locus_tag="SXIM_RS23220" class="clusterblast-orf" id="dummy-1_h1_5_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="154,90 167,90 172,85 167,80 154,80 154,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23225&lt;/b&gt;&lt;br&gt;proline iminopeptidase&lt;br&gt;Location: 5118134 - 5119423" locus_tag="SXIM_RS23225" class="clusterblast-orf" id="dummy-1_h1_5_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="172,90 186,90 191,85 186,80 172,80 172,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23230&lt;/b&gt;&lt;br&gt;peptidase M24 family protein&lt;br&gt;Location: 5119420 - 5120781" locus_tag="SXIM_RS23230" class="clusterblast-orf" id="dummy-1_h1_5_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="191,90 222,90 227,85 222,80 191,80 191,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23235&lt;/b&gt;&lt;br&gt;glycosyl hydrolase&lt;br&gt;Location: 5120766 - 5123432" locus_tag="SXIM_RS23235" class="clusterblast-orf" id="dummy-1_h1_5_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="230,90 240,90 245,85 240,80 230,80 230,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23240&lt;/b&gt;&lt;br&gt;aminotransferase class V-fold PLP-dependent enzyme&lt;br&gt;Location: 5123659 - 5124777" locus_tag="SXIM_RS23240" class="clusterblast-orf" id="dummy-1_h1_5_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="255,90 260,90 265,85 260,80 255,80 255,90 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23245&lt;/b&gt;&lt;br&gt;thioesterase&lt;br&gt;Location: 5125480 - 5126181&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg114_2&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 399&lt;br&gt;E-value: 1.9e-109" locus_tag="SXIM_RS23245" class="clusterblast-orf" id="dummy-1_h1_5_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="266,90 401,90 406,85 401,80 266,80 266,90 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23250&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 5126298 - 5136455&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg114_3&lt;/b&gt;&lt;br&gt;Percentage identity: 81&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 5322&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg114_4&lt;/b&gt;&lt;br&gt;Percentage identity: 36&lt;br&gt;Percentage coverage: 68&lt;br&gt;BLAST bit score: 322&lt;br&gt;E-value: 1.2e-85" locus_tag="SXIM_RS23250" class="clusterblast-orf" id="dummy-1_h1_5_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="406,90 510,90 515,85 510,80 406,80 406,90 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23255&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 5136480 - 5144444&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg114_3&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 73&lt;br&gt;BLAST bit score: 867&lt;br&gt;E-value: 6e-249&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg114_4&lt;/b&gt;&lt;br&gt;Percentage identity: 81&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1475&lt;br&gt;E-value: 0.0" locus_tag="SXIM_RS23255" class="clusterblast-orf" id="dummy-1_h1_5_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="517,90 524,90 529,85 524,80 517,80 517,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23260&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 5144567 - 5145442" locus_tag="SXIM_RS23260" class="clusterblast-orf" id="dummy-1_h1_5_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="529,90 535,90 540,85 535,80 529,80 529,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23265&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5145442 - 5146248" locus_tag="SXIM_RS23265" class="clusterblast-orf" id="dummy-1_h1_5_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="541,85 546,80 554,80 554,90 546,90 541,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23270&lt;/b&gt;&lt;br&gt;NADP-dependent oxidoreductase&lt;br&gt;Location: 5146355 - 5147260" locus_tag="SXIM_RS23270" class="clusterblast-orf" id="dummy-1_h1_5_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="559,90 559,90 564,85 559,80 559,80 559,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23275&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5147674 - 5148006" locus_tag="SXIM_RS23275" class="clusterblast-orf" id="dummy-1_h1_5_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="567,90 568,90 573,85 568,80 567,80 567,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23280&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5148262 - 5148657" locus_tag="SXIM_RS23280" class="clusterblast-orf" id="dummy-1_h1_5_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="574,85 579,80 589,80 589,90 579,90 574,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23285&lt;/b&gt;&lt;br&gt;gfo/Idh/MocA family oxidoreductase&lt;br&gt;Location: 5148730 - 5149839" locus_tag="SXIM_RS23285" class="clusterblast-orf" id="dummy-1_h1_5_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="589,85 594,80 600,80 600,90 594,90 589,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23290&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5149824 - 5150639" locus_tag="SXIM_RS23290" class="clusterblast-orf" id="dummy-1_h1_5_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="609,85 614,80 623,80 623,90 614,90 609,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23295&lt;/b&gt;&lt;br&gt;enoyl-CoA hydratase/isomerase family protein&lt;br&gt;Location: 5151308 - 5152330" locus_tag="SXIM_RS23295" class="clusterblast-orf" id="dummy-1_h1_5_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="624,85 629,80 642,80 642,90 629,90 624,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23300&lt;/b&gt;&lt;br&gt;aspartate aminotransferase family protein&lt;br&gt;Location: 5152365 - 5153693" locus_tag="SXIM_RS23300" class="clusterblast-orf" id="dummy-1_h1_5_26"  />
+</g>
+<g id="a1_0027"  >
+<polygon points="642,85 647,80 653,80 653,90 647,90 642,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23305&lt;/b&gt;&lt;br&gt;acyltransferase&lt;br&gt;Location: 5153690 - 5154538" locus_tag="SXIM_RS23305" class="clusterblast-orf" id="dummy-1_h1_5_27"  />
+</g>
+<g id="a1_0028"  >
+<polygon points="656,90 661,90 666,85 661,80 656,80 656,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23310&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5154746 - 5155489" locus_tag="SXIM_RS23310" class="clusterblast-orf" id="dummy-1_h1_5_28"  />
+</g>
+<g id="a1_0029"  >
+<polygon points="667,90 673,90 678,85 673,80 667,80 667,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23315&lt;/b&gt;&lt;br&gt;GntR family transcriptional regulator&lt;br&gt;Location: 5155542 - 5156363" locus_tag="SXIM_RS23315" class="clusterblast-orf" id="dummy-1_h1_5_29"  />
+</g>
+<g id="a1_0030"  >
+<polygon points="679,85 684,80 686,80 686,90 684,90 679,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23320&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5156430 - 5156891" locus_tag="SXIM_RS23320" class="clusterblast-orf" id="dummy-1_h1_5_30"  />
+</g>
+<g id="a1_0031"  >
+<polygon points="687,85 692,80 698,80 698,90 692,90 687,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23325&lt;/b&gt;&lt;br&gt;exodeoxyribonuclease III&lt;br&gt;Location: 5156979 - 5157758" locus_tag="SXIM_RS23325" class="clusterblast-orf" id="dummy-1_h1_5_31"  />
+</g>
+<g id="a1_0032"  >
+<polygon points="698,85 703,80 707,80 707,90 703,90 698,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23330&lt;/b&gt;&lt;br&gt;MBL fold metallo-hydrolase&lt;br&gt;Location: 5157783 - 5158430" locus_tag="SXIM_RS23330" class="clusterblast-orf" id="dummy-1_h1_5_32"  />
+</g>
+<g id="a1_0033"  >
+<polygon points="709,85 714,80 721,80 721,90 714,90 709,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23335&lt;/b&gt;&lt;br&gt;CDP-diacylglycerol--serine O-phosphatidyltransferase&lt;br&gt;Location: 5158584 - 5159435" locus_tag="SXIM_RS23335" class="clusterblast-orf" id="dummy-1_h1_5_33"  />
+</g>
+<g id="a1_0034"  >
+<polygon points="720,85 725,80 729,80 729,90 725,90 720,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23340&lt;/b&gt;&lt;br&gt;phosphatidylserine decarboxylase family protein&lt;br&gt;Location: 5159422 - 5160054" locus_tag="SXIM_RS23340" class="clusterblast-orf" id="dummy-1_h1_5_34"  />
+</g>
+<g id="a1_0035"  >
+<polygon points="734,85 739,80 748,80 748,90 739,90 734,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23345&lt;/b&gt;&lt;br&gt;CoA ester lyase&lt;br&gt;Location: 5160429 - 5161406" locus_tag="SXIM_RS23345" class="clusterblast-orf" id="dummy-1_h1_5_35"  />
+</g>
+<g id="a1_0036"  >
+<polygon points="748,85 753,80 759,80 759,90 753,90 748,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23350&lt;/b&gt;&lt;br&gt;transcriptional regulator&lt;br&gt;Location: 5161466 - 5162239" locus_tag="SXIM_RS23350" class="clusterblast-orf" id="dummy-1_h1_5_36"  />
+</g>
+<g id="a1_0037"  >
+<polygon points="760,85 765,80 767,80 767,90 765,90 760,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23355&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 5162309 - 5162803" locus_tag="SXIM_RS23355" class="clusterblast-orf" id="dummy-1_h1_5_37"  />
+</g>
+<g id="a1_0038"  >
+<polygon points="768,85 773,80 780,80 780,90 773,90 768,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SXIM_RS23360&lt;/b&gt;&lt;br&gt;endonuclease&lt;br&gt;Location: 5162924 - 5163739" locus_tag="SXIM_RS23360" class="clusterblast-orf" id="dummy-1_h1_5_38"  />
+</g>
+</svg>

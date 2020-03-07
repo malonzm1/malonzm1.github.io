@@ -1,0 +1,47 @@
+ClusterBlast scores for c00114_NODE_11..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg114_1	82	1120	+		
+ctg114_2	1749	2454	+		
+ctg114_3	2480	12737	+		
+ctg114_4	12759	15555	+		
+
+
+Significant hits: 
+1. BGC0000453	Valinomycin
+
+
+Details:
+
+>>
+1. BGC0000453
+Source: Valinomycin
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 5466
+
+Table of genes, locations, strands and annotations of subject cluster:
+ABA59532.1	ABA59532.1	1	949	-	putative_conserved_protein
+ABA59533.1	ABA59533.1	1366	2244	+	putative_conserved_protein
+ABA59534.1	ABA59534.1	2789	3520	-	TetR-family_regulatory_protein
+ABA59535.1	ABA59535.1	3781	4410	+	unknown
+ABA59536.1	ABA59536.1	4427	5272	+	N5,N10-methylenetetrahydromethanopterin_reductase
+ABA59537.1	ABA59537.1	5475	6959	+	penicillin-binding_protein
+ABA59538.1	ABA59538.1	7184	8311	+	putative_conserved_protein
+ABA59539.1	ABA59539.1	8509	11103	+	7,8-didemethyl-8-hydroxy-5-deazariboflavin_synthase
+ABA59540.1	ABA59540.1	11670	13808	-	putative_conserved_protein
+ABA59541.1	ABA59541.1	13860	14288	-	putative_conserved_protein
+ABA59542.1	ABA59542.1	14516	15310	+	necrosis_inducing_factor
+ABA59543.1	ABA59543.1	15380	15877	+	conserved_membrane-associated_protein
+ABA59544.1	ABA59544.1	15877	16086	+	transcriptional_regulator
+ABA59545.1	ABA59545.1	16138	18186	-	putative_conserved_protein
+ABA59546.1	ABA59546.1	18814	19548	+	discrete_type_II_thioesterase
+ABA59547.1	ABA59547.1	19526	29812	+	Vlm1
+ABA59548.1	ABA59548.1	29835	37802	+	Vlm2
+ABA59549.1	ABA59549.1	37938	39266	+	putative_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg114_2	ABA59546.1	61	296	98.29059829059828	4e-80
+ctg114_3	ABA59547.1	63	4054	100.87770626097132	0.0
+ctg114_4	ABA59548.1	64	1116	100.10729613733906	0.0
+

@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="344,40 345,40 350,35 345,30 344,30 344,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg164_1&lt;/b&gt;&lt;br&gt;ctg164 1&lt;br&gt;Location: 2 - 809" locus_tag="ctg164_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="351,40 354,35 351,30 351,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg164_2&lt;/b&gt;&lt;br&gt;ctg164 2&lt;br&gt;Location: 932 - 1295" locus_tag="ctg164_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="354,40 371,40 376,35 371,30 354,30 354,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg164_3&lt;/b&gt;&lt;br&gt;ctg164 3&lt;br&gt;Location: 1291 - 3955" locus_tag="ctg164_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="375,35 380,30 393,30 393,40 380,40 375,35 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg164_4&lt;/b&gt;&lt;br&gt;ctg164 4&lt;br&gt;Location: 3942 - 6132" locus_tag="ctg164_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="394,35 399,30 404,30 404,40 399,40 394,35 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg164_5&lt;/b&gt;&lt;br&gt;ctg164 5&lt;br&gt;Location: 6252 - 7506" locus_tag="ctg164_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="404,35 409,30 435,30 435,40 409,40 404,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg164_6&lt;/b&gt;&lt;br&gt;ctg164 6&lt;br&gt;Location: 7584 - 11436" locus_tag="ctg164_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+</g>
+<g label="NZ_CP023720" description="NZ_CP023720_c13: Rhodococcus sp. H-CA8f chromosome, complete genome (8% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_CP023720/13" target="_blank">NZ_CP023720_c13</a>: Rhodococcus sp. H-CA8f chromosome, complete genome (8% of genes show similarity), nrps</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 3,80 3,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19840&lt;/b&gt;&lt;br&gt;30S ribosomal protein S8&lt;br&gt;Location: 4249420 - 4249818" locus_tag="CPI83_RS19840" class="clusterblast-orf" id="dummy-1_h1_9_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="4,85 6,80 6,90 4,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19845&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4249975 - 4250181" locus_tag="CPI83_RS19845" class="clusterblast-orf" id="dummy-1_h1_9_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="6,85 8,80 8,90 6,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19850&lt;/b&gt;&lt;br&gt;30S ribosomal protein S14 type Z&lt;br&gt;Location: 4250271 - 4250456" locus_tag="CPI83_RS19850" class="clusterblast-orf" id="dummy-1_h1_9_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="8,85 12,80 12,90 8,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19855&lt;/b&gt;&lt;br&gt;50S ribosomal protein L5&lt;br&gt;Location: 4250461 - 4251027" locus_tag="CPI83_RS19855" class="clusterblast-orf" id="dummy-1_h1_9_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="12,85 15,80 15,90 12,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19860&lt;/b&gt;&lt;br&gt;50S ribosomal protein L24&lt;br&gt;Location: 4251029 - 4251346" locus_tag="CPI83_RS19860" class="clusterblast-orf" id="dummy-1_h1_9_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="15,85 18,80 18,90 15,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19865&lt;/b&gt;&lt;br&gt;50S ribosomal protein L14&lt;br&gt;Location: 4251346 - 4251714" locus_tag="CPI83_RS19865" class="clusterblast-orf" id="dummy-1_h1_9_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="21,85 23,80 23,90 21,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19870&lt;/b&gt;&lt;br&gt;30S ribosomal protein S17&lt;br&gt;Location: 4252072 - 4252353" locus_tag="CPI83_RS19870" class="clusterblast-orf" id="dummy-1_h1_9_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="23,85 25,80 25,90 23,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19875&lt;/b&gt;&lt;br&gt;50S ribosomal protein L29&lt;br&gt;Location: 4252350 - 4252586" locus_tag="CPI83_RS19875" class="clusterblast-orf" id="dummy-1_h1_9_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="25,85 28,80 28,90 25,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19880&lt;/b&gt;&lt;br&gt;50S ribosomal protein L16&lt;br&gt;Location: 4252586 - 4253002" locus_tag="CPI83_RS19880" class="clusterblast-orf" id="dummy-1_h1_9_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="28,85 33,80 35,80 35,90 33,90 28,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19885&lt;/b&gt;&lt;br&gt;30S ribosomal protein S3&lt;br&gt;Location: 4253006 - 4253812" locus_tag="CPI83_RS19885" class="clusterblast-orf" id="dummy-1_h1_9_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="35,85 38,80 38,90 35,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19890&lt;/b&gt;&lt;br&gt;50S ribosomal protein L22&lt;br&gt;Location: 4253812 - 4254216" locus_tag="CPI83_RS19890" class="clusterblast-orf" id="dummy-1_h1_9_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="38,85 40,80 40,90 38,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19895&lt;/b&gt;&lt;br&gt;30S ribosomal protein S19&lt;br&gt;Location: 4254213 - 4254494" locus_tag="CPI83_RS19895" class="clusterblast-orf" id="dummy-1_h1_9_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="40,85 45,80 47,80 47,90 45,90 40,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19900&lt;/b&gt;&lt;br&gt;50S ribosomal protein L2&lt;br&gt;Location: 4254508 - 4255344" locus_tag="CPI83_RS19900" class="clusterblast-orf" id="dummy-1_h1_9_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="47,85 49,80 49,90 47,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19905&lt;/b&gt;&lt;br&gt;50S ribosomal protein L23&lt;br&gt;Location: 4255384 - 4255689" locus_tag="CPI83_RS19905" class="clusterblast-orf" id="dummy-1_h1_9_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="49,85 54,80 55,80 55,90 54,90 49,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19910&lt;/b&gt;&lt;br&gt;50S ribosomal protein L4&lt;br&gt;Location: 4255686 - 4256360" locus_tag="CPI83_RS19910" class="clusterblast-orf" id="dummy-1_h1_9_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="55,85 60,80 60,80 60,90 60,90 55,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19915&lt;/b&gt;&lt;br&gt;50S ribosomal protein L3&lt;br&gt;Location: 4256357 - 4257013" locus_tag="CPI83_RS19915" class="clusterblast-orf" id="dummy-1_h1_9_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="60,85 63,80 63,90 60,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19920&lt;/b&gt;&lt;br&gt;30S ribosomal protein S10&lt;br&gt;Location: 4257031 - 4257336" locus_tag="CPI83_RS19920" class="clusterblast-orf" id="dummy-1_h1_9_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="67,90 71,85 67,80 67,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19925&lt;/b&gt;&lt;br&gt;DUF4442 domain-containing protein&lt;br&gt;Location: 4257912 - 4258388" locus_tag="CPI83_RS19925" class="clusterblast-orf" id="dummy-1_h1_9_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="72,90 76,85 72,80 72,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19930&lt;/b&gt;&lt;br&gt;chorismate mutase&lt;br&gt;Location: 4258474 - 4258998" locus_tag="CPI83_RS19930" class="clusterblast-orf" id="dummy-1_h1_9_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="76,90 87,90 92,85 87,80 76,80 76,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19935&lt;/b&gt;&lt;br&gt;aminodeoxychorismate synthase, component I&lt;br&gt;Location: 4258995 - 4261079" locus_tag="CPI83_RS19935" class="clusterblast-orf" id="dummy-1_h1_9_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="93,90 95,90 100,85 95,80 93,80 93,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19940&lt;/b&gt;&lt;br&gt;prephenate dehydrogenase/arogenate dehydrogenase family protein&lt;br&gt;Location: 4261088 - 4261966" locus_tag="CPI83_RS19940" class="clusterblast-orf" id="dummy-1_h1_9_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="100,90 102,90 107,85 102,80 100,80 100,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19945&lt;/b&gt;&lt;br&gt;diiron oxygenase&lt;br&gt;Location: 4261973 - 4262950" locus_tag="CPI83_RS19945" class="clusterblast-orf" id="dummy-1_h1_9_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="108,85 113,80 115,80 115,90 113,90 108,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19950&lt;/b&gt;&lt;br&gt;glycosyltransferase family 2 protein&lt;br&gt;Location: 4263072 - 4263929" locus_tag="CPI83_RS19950" class="clusterblast-orf" id="dummy-1_h1_9_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="118,90 121,90 126,85 121,80 118,80 118,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19955&lt;/b&gt;&lt;br&gt;DrrA-related ABC transporter ATP-binding protein&lt;br&gt;Location: 4264334 - 4265305" locus_tag="CPI83_RS19955" class="clusterblast-orf" id="dummy-1_h1_9_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="126,90 128,90 133,85 128,80 126,80 126,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19960&lt;/b&gt;&lt;br&gt;putative ABC transporter permease protein&lt;br&gt;Location: 4265302 - 4266165" locus_tag="CPI83_RS19960" class="clusterblast-orf" id="dummy-1_h1_9_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="133,90 135,90 140,85 135,80 133,80 133,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19965&lt;/b&gt;&lt;br&gt;peptide ABC transporter permease&lt;br&gt;Location: 4266162 - 4267022" locus_tag="CPI83_RS19965" class="clusterblast-orf" id="dummy-1_h1_9_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="141,90 144,90 149,85 144,80 141,80 141,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19970&lt;/b&gt;&lt;br&gt;esterase family protein&lt;br&gt;Location: 4267177 - 4268178" locus_tag="CPI83_RS19970" class="clusterblast-orf" id="dummy-1_h1_9_26"  />
+</g>
+<g id="a1_0027"  >
+<polygon points="150,90 152,90 157,85 152,80 150,80 150,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19975&lt;/b&gt;&lt;br&gt;lipase&lt;br&gt;Location: 4268248 - 4269168" locus_tag="CPI83_RS19975" class="clusterblast-orf" id="dummy-1_h1_9_27"  />
+</g>
+<g id="a1_0028"  >
+<polygon points="158,85 163,80 281,80 281,90 163,90 158,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19980&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 4269341 - 4284745&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg164_6&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 105&lt;br&gt;BLAST bit score: 468&lt;br&gt;E-value: 2.3e-129" locus_tag="CPI83_RS19980" class="clusterblast-orf" id="dummy-1_h1_9_28"  />
+</g>
+<g id="a1_0029"  >
+<polygon points="283,85 288,80 394,80 394,90 288,90 283,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19985&lt;/b&gt;&lt;br&gt;D-alanine--poly(phosphoribitol) ligase subunit DltA&lt;br&gt;Location: 4285019 - 4298878&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg164_6&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 104&lt;br&gt;BLAST bit score: 473&lt;br&gt;E-value: 9.5e-131" locus_tag="CPI83_RS19985" class="clusterblast-orf" id="dummy-1_h1_9_29"  />
+</g>
+<g id="a1_0030"  >
+<polygon points="395,85 400,80 624,80 624,90 400,90 395,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19990&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthase/polyketide synthase&lt;br&gt;Location: 4298972 - 4327723&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg164_6&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 105&lt;br&gt;BLAST bit score: 489&lt;br&gt;E-value: 9.8e-136" locus_tag="CPI83_RS19990" class="clusterblast-orf" id="dummy-1_h1_9_30"  />
+</g>
+<g id="a1_0031"  >
+<polygon points="627,85 632,80 632,80 632,90 632,90 627,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS19995&lt;/b&gt;&lt;br&gt;CoA transferase subunit B&lt;br&gt;Location: 4328177 - 4328803" locus_tag="CPI83_RS19995" class="clusterblast-orf" id="dummy-1_h1_9_31"  />
+</g>
+<g id="a1_0032"  >
+<polygon points="633,85 638,80 639,80 639,90 638,90 633,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20000&lt;/b&gt;&lt;br&gt;CoA transferase subunit A&lt;br&gt;Location: 4328824 - 4329579" locus_tag="CPI83_RS20000" class="clusterblast-orf" id="dummy-1_h1_9_32"  />
+</g>
+<g id="a1_0033"  >
+<polygon points="639,85 644,80 645,80 645,90 644,90 639,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20005&lt;/b&gt;&lt;br&gt;CoA ester lyase&lt;br&gt;Location: 4329583 - 4330410" locus_tag="CPI83_RS20005" class="clusterblast-orf" id="dummy-1_h1_9_33"  />
+</g>
+<g id="a1_0034"  >
+<polygon points="645,85 649,80 649,90 645,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20010&lt;/b&gt;&lt;br&gt;MaoC family dehydratase&lt;br&gt;Location: 4330407 - 4330895" locus_tag="CPI83_RS20010" class="clusterblast-orf" id="dummy-1_h1_9_34"  />
+</g>
+<g id="a1_0035"  >
+<polygon points="649,85 654,80 658,80 658,90 654,90 649,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20015&lt;/b&gt;&lt;br&gt;acyl-CoA dehydrogenase&lt;br&gt;Location: 4330892 - 4332055" locus_tag="CPI83_RS20015" class="clusterblast-orf" id="dummy-1_h1_9_35"  />
+</g>
+<g id="a1_0036"  >
+<polygon points="658,85 663,80 675,80 675,90 663,90 658,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20020&lt;/b&gt;&lt;br&gt;acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha&lt;br&gt;Location: 4332055 - 4334094" locus_tag="CPI83_RS20020" class="clusterblast-orf" id="dummy-1_h1_9_36"  />
+</g>
+<g id="a1_0037"  >
+<polygon points="675,85 680,80 687,80 687,90 680,90 675,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20025&lt;/b&gt;&lt;br&gt;acetyl-CoA carboxylase subunit beta&lt;br&gt;Location: 4334100 - 4335689" locus_tag="CPI83_RS20025" class="clusterblast-orf" id="dummy-1_h1_9_37"  />
+</g>
+<g id="a1_0038"  >
+<polygon points="688,90 688,90 693,85 688,80 688,80 688,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20030&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 4335788 - 4336387" locus_tag="CPI83_RS20030" class="clusterblast-orf" id="dummy-1_h1_9_38"  />
+</g>
+<g id="a1_0039"  >
+<polygon points="693,90 694,90 699,85 694,80 693,80 693,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20035&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4336436 - 4337182" locus_tag="CPI83_RS20035" class="clusterblast-orf" id="dummy-1_h1_9_39"  />
+</g>
+<g id="a1_0040"  >
+<polygon points="701,85 703,80 703,90 701,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20040&lt;/b&gt;&lt;br&gt;GlsB/YeaQ/YmgE family stress response membrane protein&lt;br&gt;Location: 4337340 - 4337600" locus_tag="CPI83_RS20040" class="clusterblast-orf" id="dummy-1_h1_9_40"  />
+</g>
+<g id="a1_0041"  >
+<polygon points="704,90 710,90 715,85 710,80 704,80 704,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20045&lt;/b&gt;&lt;br&gt;C4-dicarboxylate transporter DctA&lt;br&gt;Location: 4337789 - 4339195" locus_tag="CPI83_RS20045" class="clusterblast-orf" id="dummy-1_h1_9_41"  />
+</g>
+<g id="a1_0042"  >
+<polygon points="715,85 720,80 726,80 726,90 720,90 715,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20050&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4339173 - 4340537" locus_tag="CPI83_RS20050" class="clusterblast-orf" id="dummy-1_h1_9_42"  />
+</g>
+<g id="a1_0043"  >
+<polygon points="726,85 731,80 737,80 737,90 731,90 726,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20055&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4340534 - 4341973" locus_tag="CPI83_RS20055" class="clusterblast-orf" id="dummy-1_h1_9_43"  />
+</g>
+<g id="a1_0044"  >
+<polygon points="739,85 744,80 757,80 757,90 744,90 739,85 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20060&lt;/b&gt;&lt;br&gt;MMPL family transporter&lt;br&gt;Location: 4342157 - 4344403&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg164_4&lt;/b&gt;&lt;br&gt;Percentage identity: 32&lt;br&gt;Percentage coverage: 103&lt;br&gt;BLAST bit score: 305&lt;br&gt;E-value: 1.5e-80" locus_tag="CPI83_RS20060" class="clusterblast-orf" id="dummy-1_h1_9_44"  />
+</g>
+<g id="a1_0045"  >
+<polygon points="759,90 765,90 770,85 765,80 759,80 759,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20065&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4344628 - 4346076" locus_tag="CPI83_RS20065" class="clusterblast-orf" id="dummy-1_h1_9_45"  />
+</g>
+<g id="a1_0046"  >
+<polygon points="771,85 776,80 780,80 780,90 776,90 771,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CPI83_RS20070&lt;/b&gt;&lt;br&gt;NDMA-dependent alcohol dehydrogenase&lt;br&gt;Location: 4346131 - 4347243" locus_tag="CPI83_RS20070" class="clusterblast-orf" id="dummy-1_h1_9_46"  />
+</g>
+</svg>

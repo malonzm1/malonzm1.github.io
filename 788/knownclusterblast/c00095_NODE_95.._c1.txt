@@ -1,0 +1,166 @@
+ClusterBlast scores for c00095_NODE_95..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg95_1	202	970	-		
+ctg95_2	1127	2561	+		
+ctg95_3	2612	3731	+		
+ctg95_4	3847	4414	+		
+ctg95_5	4429	5278	-		
+ctg95_6	5278	7786	-		
+ctg95_7	7916	8792	-		
+ctg95_8	8788	10627	-		
+ctg95_9	10643	11633	-		
+ctg95_10	11664	13362	-		
+ctg95_11	13533	14811	+		
+ctg95_12	15050	16256	+		
+ctg95_13	16336	17458	+		
+ctg95_14	17536	17698	-		
+
+
+Significant hits: 
+1. BGC0001065	Herboxidiene
+2. BGC0001310	Naringenin
+3. BGC0000902	Flaviolin
+4. BGC0000285	Red pigment
+5. BGC0000341	Enduracidin
+
+
+Details:
+
+>>
+1. BGC0001065
+Source: Herboxidiene
+Type: t1pks+t3pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1079
+
+Table of genes, locations, strands and annotations of subject cluster:
+AEZ64508.1	AEZ64508.1	21446	22474	+	Hera
+AEZ64505.1	AEZ64505.1	23785	42969	+	Herb
+AEZ64504.1	AEZ64504.1	43111	64527	+	Herc
+AEZ64503.1	AEZ64503.1	64524	70616	+	Herd
+AEZ64506.1	AEZ64506.1	70746	72179	+	Here
+AEZ64598.1	AEZ64598.1	72176	73069	+	Herf
+AEZ64507.1	AEZ64507.1	73212	74480	+	Herg
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg95_12	sccontig008-26	63	520	98.75311720698254	2.2e-147
+ctg95_13	sccontig008-25	75	559	97.31903485254692	3.1e-159
+
+
+
+>>
+2. BGC0001310
+Source: Naringenin
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1043
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg95_12	SCLAV_5491	65	511	97.75561097256858	1e-144
+ctg95_13	SCLAV_5492	73	532	93.5656836461126	4e-151
+
+
+
+>>
+3. BGC0000902
+Source: Flaviolin
+Type: other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 898
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg95_12	SACE_1242	46	349	96.50872817955111	6.8e-96
+ctg95_13	SACE_1243	73	549	97.85522788203752	5.4e-156
+
+
+
+>>
+4. BGC0000285
+Source: Red pigment
+Type: t3pks-saccharide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 894
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAL78049.1	AAL78049.1	1	179	+	ORFA
+AAL78050.1	AAL78050.1	176	1405	+	ORFB
+AAL78051.1	AAL78051.1	1497	2021	-	ORFC
+AAL78052.1	AAL78052.1	2089	2757	+	ORFD
+AAL78053.1	AAL78053.1	3111	4214	+	RppA
+AAL78054.1	AAL78054.1	4211	5416	+	RppB
+AAL78055.1	AAL78055.1	5452	5991	+	ORF3
+AAL78056.1	AAL78056.1	6672	7298	+	ORFE
+AAL78057.1	AAL78057.1	8156	11002	-	ORFF
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg95_12	AAL78054.1	46	347	96.50872817955111	2.6e-95
+ctg95_13	AAL78053.1	72	547	97.85522788203752	1.6e-155
+
+
+
+>>
+5. BGC0000341
+Source: Enduracidin
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1007
+
+Table of genes, locations, strands and annotations of subject cluster:
+ABD65921.1	ABD65921.1	1	1230	+	DXP_synthase_2
+ABD65922.1	ABD65922.1	1381	2877	+	cationic_amino_acid_transporter
+ABD65923.1	ABD65923.1	2896	3297	-	unknown
+ABD65924.1	ABD65924.1	3461	4582	+	unknown
+ABD65925.1	ABD65925.1	4606	5688	-	transcriptional_regulator
+ABD65926.1	ABD65926.1	6053	9925	+	glycosyltransferase
+ABD65927.1	ABD65927.1	10071	10988	-	unknown
+ABD65928.1	ABD65928.1	11118	12566	+	unknown
+ABD65929.1	ABD65929.1	12610	14100	+	unknown
+ABD65930.1	ABD65930.1	14174	16303	-	fatty_acid_oxidation_complex_alpha-subunit
+ABD65931.1	ABD65931.1	16300	17517	-	acetyl-CoA_acetyltransferase
+ABD65932.1	ABD65932.1	17697	18734	-	transcriptional_regulator
+ABD65933.1	ABD65933.1	18731	21112	-	beta-mannosidase
+ABD65934.1	ABD65934.1	21260	22582	+	probable_sugar_transport_system_sugar-binding_lipoprotein
+ABD65935.1	ABD65935.1	22760	23536	+	sugar_transport_system_permease_protein
+ABD65936.1	ABD65936.1	23533	24363	+	sugar_transport_system_permease_protein
+ABD65937.1	ABD65937.1	24341	25633	-	ribonuclease_D
+ABD65938.1	ABD65938.1	25792	26454	-	two-component_response_regulator
+ABD65939.1	ABD65939.1	26724	27398	-	unknown
+ABD65940.1	ABD65940.1	27544	28638	+	uroporphyrinogen_decarboxylase
+ABD65941.1	ABD65941.1	28752	30746	+	PAS_protein_phosphatase_2C-like_protein
+ABD65942.1	ABD65942.1	31147	32133	+	StrR-like_regulatory_protein
+ABD65943.1	ABD65943.1	32266	33354	-	prephenate_dehydrogenase
+ABD65944.1	ABD65944.1	33630	34565	+	unknown
+ABD65945.1	ABD65945.1	34644	35714	+	4-hydroxyphenylpyruvate_dioxygenase
+ABD65946.1	ABD65946.1	35792	36631	-	unknown
+ABD65948.1	ABD65948.1	36628	37887	-	PLP-dependent_aminotransferse
+ABD65947.1	ABD65947.1	37887	38768	-	PLP-dependent_aminotransferase
+ABD65949.1	ABD65949.1	39403	41829	+	hydroxyphenylglycine_aminotransferase/hydroxymandelate_oxidase_fusion_protein
+ABD65950.1	ABD65950.1	41890	43404	-	halogenase
+ABD65951.1	ABD65951.1	43579	44604	-	transmembrane_transport_protein
+ABD65952.1	ABD65952.1	44601	45524	-	ABC_transporter
+ABD65953.1	ABD65953.1	45559	47514	-	ABC_transporter
+ABD65954.1	ABD65954.1	47597	48424	-	type_II_thioesterase
+ABD65955.1	ABD65955.1	48747	49019	+	peptidyl_carrier_protein
+ABD65956.1	ABD65956.1	49041	55346	+	nonribosomal_peptide_synthetase
+ABD65957.1	ABD65957.1	55363	76194	+	nonribosomal_peptide_synthetase
+ABD65958.1	ABD65958.1	76191	103151	+	nonribosomal_peptide_synthetase
+ABD65959.1	ABD65959.1	103160	103984	+	acyl-CoA_dehydrogenase/reductase
+ABD65960.1	ABD65960.1	104002	106581	+	nonribosomal_peptide_synthetase
+ABD65961.1	ABD65961.1	106606	107277	-	two-component_system_response_regulator
+ABD65962.1	ABD65962.1	107274	108386	-	two-component_system_sensor_kinase
+ABD65963.1	ABD65963.1	108538	109083	-	two-component_system_sensor_kinase
+ABD65964.1	ABD65964.1	109184	111058	-	acyl-CoA_dehydrogenase
+ABD65965.1	ABD65965.1	110866	114399	-	acyl-CoA_ligase/dehydrogenase_fusion_protein
+ABD65966.1	ABD65966.1	114404	114619	-	MbtH-like_protein
+ABD65967.1	ABD65967.1	114877	115614	-	integral_membrane_protein
+ABD65968.1	ABD65968.1	115590	115946	-	integral_membrane_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg95_5	ABD65932.1	47	215	99.29078014184397	8.2e-56
+ctg95_6	ABD65933.1	53	792	96.16766467065868	8.2e-229
+

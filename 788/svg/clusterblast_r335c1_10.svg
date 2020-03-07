@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="289,40 326,40 331,35 326,30 289,30 289,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_1&lt;/b&gt;&lt;br&gt;ctg335 1&lt;br&gt;Location: 2 - 1154" locus_tag="ctg335_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="331,40 373,40 378,35 373,30 331,30 331,40 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_2&lt;/b&gt;&lt;br&gt;ctg335 2&lt;br&gt;Location: 1150 - 2404" locus_tag="ctg335_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="385,35 390,30 416,30 416,40 390,40 385,35 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_3&lt;/b&gt;&lt;br&gt;ctg335 3&lt;br&gt;Location: 2595 - 3435" locus_tag="ctg335_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="417,35 422,30 450,30 450,40 422,40 417,35 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_4&lt;/b&gt;&lt;br&gt;ctg335 4&lt;br&gt;Location: 3452 - 4349" locus_tag="ctg335_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="463,40 486,40 491,35 486,30 463,30 463,40 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg335_5&lt;/b&gt;&lt;br&gt;ctg335 5&lt;br&gt;Location: 4695 - 5463" locus_tag="ctg335_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+</g>
+<g label="NZ_LLZU01000012" description="NZ_LLZU01000012_c13: Streptomyces vitaminophilus strain ATCC 31673 Contig19, ... (10% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LLZU01000012/13" target="_blank">NZ_LLZU01000012_c13</a>: Streptomyces vitaminophilus strain ATCC 31673 Contig19, ... (10% of genes show similarity), terpene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 26,90 31,85 26,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11265&lt;/b&gt;&lt;br&gt;3-hydroxyacyl-CoA dehydrogenase family protein&lt;br&gt;Location: 161483 - 160635" locus_tag="AQ490_RS11265" class="clusterblast-orf" id="dummy-1_h1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="51,90 60,90 65,85 60,80 51,80 51,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11260&lt;/b&gt;&lt;br&gt;anti-sigma factor antagonist&lt;br&gt;Location: 160089 - 159724" locus_tag="AQ490_RS11260" class="clusterblast-orf" id="dummy-1_h1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="72,90 161,90 166,85 161,80 72,80 72,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11255&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 159528 - 156997" locus_tag="AQ490_RS11255" class="clusterblast-orf" id="dummy-1_h1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="176,90 190,90 195,85 190,80 176,80 176,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11250&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 156729 - 156202" locus_tag="AQ490_RS11250" class="clusterblast-orf" id="dummy-1_h1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="199,90 203,90 208,85 203,80 199,80 199,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS28740&lt;/b&gt;&lt;br&gt;transcriptional regulator&lt;br&gt;Location: 156094 - 155863" locus_tag="AQ490_RS28740" class="clusterblast-orf" id="dummy-1_h1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="211,85 216,80 247,80 247,90 216,90 211,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11245&lt;/b&gt;&lt;br&gt;AraC family transcriptional regulator&lt;br&gt;Location: 155777 - 154803" locus_tag="AQ490_RS11245" class="clusterblast-orf" id="dummy-1_h1_10_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="249,85 254,80 284,80 284,90 254,90 249,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11240&lt;/b&gt;&lt;br&gt;NADP-dependent oxidoreductase&lt;br&gt;Location: 154748 - 153822" locus_tag="AQ490_RS11240" class="clusterblast-orf" id="dummy-1_h1_10_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="294,85 299,80 316,80 316,90 299,90 294,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11235&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 153537 - 152950" locus_tag="AQ490_RS11235" class="clusterblast-orf" id="dummy-1_h1_10_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="330,90 335,90 340,85 335,80 330,80 330,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11230&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 152575 - 152288" locus_tag="AQ490_RS11230" class="clusterblast-orf" id="dummy-1_h1_10_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="361,90 419,90 424,85 419,80 361,80 361,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11225&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 151744 - 150032&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg335_1&lt;/b&gt;&lt;br&gt;Percentage identity: 42&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 257&lt;br&gt;E-value: 2.5e-66" locus_tag="AQ490_RS11225" class="clusterblast-orf" id="dummy-1_h1_10_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="425,90 467,90 472,85 467,80 425,80 425,90 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11220&lt;/b&gt;&lt;br&gt;FAD-dependent monooxygenase&lt;br&gt;Location: 149999 - 148740&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg335_2&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 372&lt;br&gt;E-value: 7.4e-101" locus_tag="AQ490_RS11220" class="clusterblast-orf" id="dummy-1_h1_10_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="476,85 481,80 500,80 500,90 481,90 476,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11215&lt;/b&gt;&lt;br&gt;endonuclease NucS&lt;br&gt;Location: 148640 - 147981" locus_tag="AQ490_RS11215" class="clusterblast-orf" id="dummy-1_h1_10_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="502,85 507,80 531,80 531,90 507,90 502,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11210&lt;/b&gt;&lt;br&gt;polysaccharide deacetylase family protein&lt;br&gt;Location: 147925 - 147158" locus_tag="AQ490_RS11210" class="clusterblast-orf" id="dummy-1_h1_10_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="548,90 558,90 563,85 558,80 548,80 548,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11205&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 146677 - 146285" locus_tag="AQ490_RS11205" class="clusterblast-orf" id="dummy-1_h1_10_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="566,85 571,80 604,80 604,90 571,90 566,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11200&lt;/b&gt;&lt;br&gt;LLM class flavin-dependent oxidoreductase&lt;br&gt;Location: 146213 - 145167" locus_tag="AQ490_RS11200" class="clusterblast-orf" id="dummy-1_h1_10_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="612,90 619,90 624,85 619,80 612,80 612,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11195&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 144952 - 144632" locus_tag="AQ490_RS11195" class="clusterblast-orf" id="dummy-1_h1_10_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="629,85 634,80 662,80 662,90 634,90 629,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11190&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 144517 - 143603" locus_tag="AQ490_RS11190" class="clusterblast-orf" id="dummy-1_h1_10_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="663,85 668,80 708,80 708,90 668,90 663,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11185&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 143599 - 142382" locus_tag="AQ490_RS11185" class="clusterblast-orf" id="dummy-1_h1_10_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="713,85 718,80 742,80 742,90 718,90 713,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11180&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 142232 - 141468" locus_tag="AQ490_RS11180" class="clusterblast-orf" id="dummy-1_h1_10_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="741,85 746,80 780,80 780,90 746,90 741,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQ490_RS11175&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 141471 - 140446" locus_tag="AQ490_RS11175" class="clusterblast-orf" id="dummy-1_h1_10_19"  />
+</g>
+</svg>

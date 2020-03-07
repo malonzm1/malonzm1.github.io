@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="319,40 331,40 336,35 331,30 319,30 319,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg356_1&lt;/b&gt;&lt;br&gt;ctg356 1&lt;br&gt;Location: 108 - 687" locus_tag="ctg356_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="337,40 359,40 364,35 359,30 337,30 337,40 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg356_2&lt;/b&gt;&lt;br&gt;ctg356 2&lt;br&gt;Location: 698 - 1637" locus_tag="ctg356_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="364,40 399,40 404,35 399,30 364,30 364,40 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg356_3&lt;/b&gt;&lt;br&gt;ctg356 3&lt;br&gt;Location: 1633 - 2983" locus_tag="ctg356_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="410,40 436,40 441,35 436,30 410,30 410,40 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg356_4&lt;/b&gt;&lt;br&gt;ctg356 4&lt;br&gt;Location: 3191 - 4235" locus_tag="ctg356_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="441,40 455,40 460,35 455,30 441,30 441,40 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg356_5&lt;/b&gt;&lt;br&gt;ctg356 5&lt;br&gt;Location: 4231 - 4885" locus_tag="ctg356_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+</g>
+<g label="NZ_AZXC01000017" description="NZ_AZXC01000017_c11: Streptomyces sp. CNR698 B101DRAFT scaffold 14.15 C, whol... (17% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_AZXC01000017/11" target="_blank">NZ_AZXC01000017_c11</a>: Streptomyces sp. CNR698 B101DRAFT scaffold 14.15 C, whol... (17% of genes show similarity), terpene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 27,80 27,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119310&lt;/b&gt;&lt;br&gt;cation transporter&lt;br&gt;Location: 100133 - 101068" locus_tag="B101_RS0119310" class="clusterblast-orf" id="dummy-1_h1_7_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="32,85 37,80 61,80 61,90 37,90 32,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119315&lt;/b&gt;&lt;br&gt;UDP-glucose 4-epimerase GalE&lt;br&gt;Location: 101225 - 102208" locus_tag="B101_RS0119315" class="clusterblast-orf" id="dummy-1_h1_7_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="69,90 120,90 125,85 120,80 69,80 69,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119325&lt;/b&gt;&lt;br&gt;CDP-alcohol phosphatidyltransferase family protein&lt;br&gt;Location: 102505 - 104379" locus_tag="B101_RS0119325" class="clusterblast-orf" id="dummy-1_h1_7_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="124,90 141,90 146,85 141,80 124,80 124,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119330&lt;/b&gt;&lt;br&gt;phosphocholine cytidylyltransferase family protein&lt;br&gt;Location: 104376 - 105113" locus_tag="B101_RS0119330" class="clusterblast-orf" id="dummy-1_h1_7_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="146,90 172,90 177,85 172,80 146,80 146,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119335&lt;/b&gt;&lt;br&gt;dehydrogenase&lt;br&gt;Location: 105101 - 106162" locus_tag="B101_RS0119335" class="clusterblast-orf" id="dummy-1_h1_7_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="178,90 194,90 199,85 194,80 178,80 178,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119340&lt;/b&gt;&lt;br&gt;CDP-alcohol phosphatidyltransferase family protein&lt;br&gt;Location: 106191 - 106919" locus_tag="B101_RS0119340" class="clusterblast-orf" id="dummy-1_h1_7_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="200,90 220,90 225,85 220,80 200,80 200,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119345&lt;/b&gt;&lt;br&gt;glycosyltransferase family 2 protein&lt;br&gt;Location: 106925 - 107797" locus_tag="B101_RS0119345" class="clusterblast-orf" id="dummy-1_h1_7_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="228,90 250,90 255,85 250,80 228,80 228,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119350&lt;/b&gt;&lt;br&gt;ABC transporter&lt;br&gt;Location: 107891 - 108820" locus_tag="B101_RS0119350" class="clusterblast-orf" id="dummy-1_h1_7_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="255,90 274,90 279,85 274,80 255,80 255,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119355&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 108807 - 109607" locus_tag="B101_RS0119355" class="clusterblast-orf" id="dummy-1_h1_7_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="293,90 316,90 321,85 316,80 293,80 293,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119360&lt;/b&gt;&lt;br&gt;squalene synthase HpnC&lt;br&gt;Location: 110098 - 111054&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg356_1&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 247&lt;br&gt;E-value: 9.8e-64" locus_tag="B101_RS0119360" class="clusterblast-orf" id="dummy-1_h1_7_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="321,90 344,90 349,85 344,80 321,80 321,90 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119365&lt;/b&gt;&lt;br&gt;squalene synthase HpnD&lt;br&gt;Location: 111063 - 112001&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg356_2&lt;/b&gt;&lt;br&gt;Percentage identity: 73&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 435&lt;br&gt;E-value: 7e-120" locus_tag="B101_RS0119365" class="clusterblast-orf" id="dummy-1_h1_7_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="352,90 390,90 395,85 390,80 352,80 352,90 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119370&lt;/b&gt;&lt;br&gt;FAD-dependent oxidoreductase&lt;br&gt;Location: 112111 - 113547&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg356_3&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 103&lt;br&gt;BLAST bit score: 559&lt;br&gt;E-value: 3.5e-157" locus_tag="B101_RS0119370" class="clusterblast-orf" id="dummy-1_h1_7_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="395,90 423,90 428,85 423,80 395,80 395,90 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119375&lt;/b&gt;&lt;br&gt;polyprenyl synthetase family protein&lt;br&gt;Location: 113577 - 114671&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg356_4&lt;/b&gt;&lt;br&gt;Percentage identity: 75&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 508&lt;br&gt;E-value: 7.2e-142" locus_tag="B101_RS0119375" class="clusterblast-orf" id="dummy-1_h1_7_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="432,90 487,90 492,85 487,80 432,80 432,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119380&lt;/b&gt;&lt;br&gt;squalene--hopene cyclase&lt;br&gt;Location: 114809 - 116839" locus_tag="B101_RS0119380" class="clusterblast-orf" id="dummy-1_h1_7_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="492,90 507,90 512,85 507,80 492,80 492,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119385&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 116840 - 117526" locus_tag="B101_RS0119385" class="clusterblast-orf" id="dummy-1_h1_7_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="512,90 537,90 542,85 537,80 512,80 512,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119390&lt;/b&gt;&lt;br&gt;adenosyl-hopene transferase HpnH&lt;br&gt;Location: 117532 - 118554" locus_tag="B101_RS0119390" class="clusterblast-orf" id="dummy-1_h1_7_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="546,90 582,90 587,85 582,80 546,80 546,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119395&lt;/b&gt;&lt;br&gt;aspartate aminotransferase family protein&lt;br&gt;Location: 118694 - 120079" locus_tag="B101_RS0119395" class="clusterblast-orf" id="dummy-1_h1_7_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="591,85 596,80 599,80 599,90 596,90 591,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119400&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 120205 - 120495" locus_tag="B101_RS0119400" class="clusterblast-orf" id="dummy-1_h1_7_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="603,85 608,80 627,80 627,90 608,90 603,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119405&lt;/b&gt;&lt;br&gt;protein-tyrosine-phosphatase&lt;br&gt;Location: 120613 - 121428" locus_tag="B101_RS0119405" class="clusterblast-orf" id="dummy-1_h1_7_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="650,90 674,90 679,85 674,80 650,80 650,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119410&lt;/b&gt;&lt;br&gt;LysM peptidoglycan-binding domain-containing protein&lt;br&gt;Location: 122214 - 123215" locus_tag="B101_RS0119410" class="clusterblast-orf" id="dummy-1_h1_7_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="686,90 704,90 709,85 704,80 686,80 686,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119415&lt;/b&gt;&lt;br&gt;SGNH/GDSL hydrolase family protein&lt;br&gt;Location: 123444 - 124235" locus_tag="B101_RS0119415" class="clusterblast-orf" id="dummy-1_h1_7_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="712,85 717,80 740,80 740,90 717,90 712,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119420&lt;/b&gt;&lt;br&gt;radical SAM protein&lt;br&gt;Location: 124322 - 125263" locus_tag="B101_RS0119420" class="clusterblast-orf" id="dummy-1_h1_7_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="740,85 745,80 780,80 780,90 745,90 740,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B101_RS0119425&lt;/b&gt;&lt;br&gt;coproporphyrinogen III oxidase family protein&lt;br&gt;Location: 125271 - 126614" locus_tag="B101_RS0119425" class="clusterblast-orf" id="dummy-1_h1_7_22"  />
+</g>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="259,35 264,30 264,30 264,40 264,40 259,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_1&lt;/b&gt;&lt;br&gt;ctg305 1&lt;br&gt;Location: 0 - 123" locus_tag="ctg305_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="264,40 278,40 283,35 278,30 264,30 264,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_2&lt;/b&gt;&lt;br&gt;ctg305 2&lt;br&gt;Location: 144 - 609" locus_tag="ctg305_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="283,40 313,40 318,35 313,30 283,30 283,40 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_3&lt;/b&gt;&lt;br&gt;ctg305 3&lt;br&gt;Location: 605 - 1460" locus_tag="ctg305_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="317,40 387,40 392,35 387,30 317,30 317,40 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_4&lt;/b&gt;&lt;br&gt;ctg305 4&lt;br&gt;Location: 1437 - 3264" locus_tag="ctg305_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="398,40 410,40 415,35 410,30 398,30 398,40 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_5&lt;/b&gt;&lt;br&gt;ctg305 5&lt;br&gt;Location: 3403 - 3817" locus_tag="ctg305_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="416,40 470,40 475,35 470,30 416,30 416,40 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_6&lt;/b&gt;&lt;br&gt;ctg305 6&lt;br&gt;Location: 3837 - 5298" locus_tag="ctg305_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="475,40 481,40 486,35 481,30 475,30 475,40 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_7&lt;/b&gt;&lt;br&gt;ctg305 7&lt;br&gt;Location: 5294 - 5567" locus_tag="ctg305_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="487,35 492,30 521,30 521,40 492,40 487,35 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_8&lt;/b&gt;&lt;br&gt;ctg305 8&lt;br&gt;Location: 5578 - 6421" locus_tag="ctg305_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+</g>
+<g label="NZ_KQ257783" description="NZ_KQ257783_c28: Streptomyces europaeiscabiei strain NCPPB 4064 scf 63908 49.... (23% of genes show similarity), linaridin" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_KQ257783/28" target="_blank">NZ_KQ257783_c28</a>: Streptomyces europaeiscabiei strain NCPPB 4064 scf 63908 49.... (23% of genes show similarity), linaridin</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 3,90 8,85 3,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31385&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1099543 - 1099340" locus_tag="IQ60_RS31385" class="clusterblast-orf" id="dummy-1_h1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="17,85 22,80 52,80 52,90 22,90 17,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31380&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1099107 - 1098269" locus_tag="IQ60_RS31380" class="clusterblast-orf" id="dummy-1_h1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="62,85 67,80 94,80 94,90 67,90 62,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31375&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1098007 - 1097231" locus_tag="IQ60_RS31375" class="clusterblast-orf" id="dummy-1_h1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="104,85 109,80 127,80 127,90 109,90 104,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31370&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1096978 - 1096433" locus_tag="IQ60_RS31370" class="clusterblast-orf" id="dummy-1_h1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="148,85 153,80 174,80 174,90 153,90 148,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS38325&lt;/b&gt;&lt;br&gt;integrase&lt;br&gt;Location: 1095916 - 1095285" locus_tag="IQ60_RS38325" class="clusterblast-orf" id="dummy-1_h1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="196,90 197,90 202,85 197,80 196,80 196,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS38315&lt;/b&gt;&lt;br&gt;IS5/IS1182 family transposase&lt;br&gt;Location: 1094733 - 1094602" locus_tag="IQ60_RS38315" class="clusterblast-orf" id="dummy-1_h1_10_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="212,90 216,90 221,85 216,80 212,80 212,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31355&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1094344 - 1094141" locus_tag="IQ60_RS31355" class="clusterblast-orf" id="dummy-1_h1_10_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="243,90 246,90 251,85 246,80 243,80 243,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31350&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1093602 - 1093408" locus_tag="IQ60_RS31350" class="clusterblast-orf" id="dummy-1_h1_10_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="253,90 256,90 261,85 256,80 253,80 253,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31345&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1093350 - 1093150" locus_tag="IQ60_RS31345" class="clusterblast-orf" id="dummy-1_h1_10_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="284,90 354,90 359,85 354,80 284,80 284,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31340&lt;/b&gt;&lt;br&gt;thioesterase&lt;br&gt;Location: 1092602 - 1090755" locus_tag="IQ60_RS31340" class="clusterblast-orf" id="dummy-1_h1_10_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="359,90 379,90 384,85 379,80 359,80 359,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31335&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1090758 - 1090150&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg305_2&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 191&lt;br&gt;E-value: 8.7e-47" locus_tag="IQ60_RS31335" class="clusterblast-orf" id="dummy-1_h1_10_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="384,90 412,90 417,85 412,80 384,80 384,90 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31330&lt;/b&gt;&lt;br&gt;class I SAM-dependent methyltransferase&lt;br&gt;Location: 1090153 - 1089344&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg305_3&lt;/b&gt;&lt;br&gt;Percentage identity: 65&lt;br&gt;Percentage coverage: 86&lt;br&gt;BLAST bit score: 325&lt;br&gt;E-value: 5.4e-87" locus_tag="IQ60_RS31330" class="clusterblast-orf" id="dummy-1_h1_10_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="417,90 488,90 493,85 488,80 417,80 417,90 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31325&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 1089347 - 1087476&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg305_4&lt;/b&gt;&lt;br&gt;Percentage identity: 66&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 670&lt;br&gt;E-value: 1.9e-190" locus_tag="IQ60_RS31325" class="clusterblast-orf" id="dummy-1_h1_10_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="494,90 548,90 553,85 548,80 494,80 494,90 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31320&lt;/b&gt;&lt;br&gt;NAD(P)/FAD-dependent oxidoreductase&lt;br&gt;Location: 1087470 - 1086010&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg305_6&lt;/b&gt;&lt;br&gt;Percentage identity: 73&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 688&lt;br&gt;E-value: 4.2e-196" locus_tag="IQ60_RS31320" class="clusterblast-orf" id="dummy-1_h1_10_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="556,85 561,80 597,80 597,90 561,90 556,85 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31315&lt;/b&gt;&lt;br&gt;LuxR family transcriptional regulator&lt;br&gt;Location: 1085955 - 1084942&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg305_8&lt;/b&gt;&lt;br&gt;Percentage identity: 48&lt;br&gt;Percentage coverage: 102&lt;br&gt;BLAST bit score: 242&lt;br&gt;E-value: 4.6e-62" locus_tag="IQ60_RS31315" class="clusterblast-orf" id="dummy-1_h1_10_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="605,90 676,90 681,85 676,80 605,80 605,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31310&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1084752 - 1082899" locus_tag="IQ60_RS31310" class="clusterblast-orf" id="dummy-1_h1_10_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="687,85 692,80 694,80 694,90 692,90 687,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS39015&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1082747 - 1082568" locus_tag="IQ60_RS39015" class="clusterblast-orf" id="dummy-1_h1_10_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="705,85 710,80 710,80 710,90 710,90 705,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS39010&lt;/b&gt;&lt;br&gt;IS5/IS1182 family transposase&lt;br&gt;Location: 1082310 - 1082184" locus_tag="IQ60_RS39010" class="clusterblast-orf" id="dummy-1_h1_10_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="717,85 722,80 731,80 731,90 722,90 717,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS39005&lt;/b&gt;&lt;br&gt;ArsR family transcriptional regulator&lt;br&gt;Location: 1082015 - 1081668" locus_tag="IQ60_RS39005" class="clusterblast-orf" id="dummy-1_h1_10_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="749,90 755,90 760,85 755,80 749,80 749,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31300&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1081220 - 1080972" locus_tag="IQ60_RS31300" class="clusterblast-orf" id="dummy-1_h1_10_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="770,85 775,80 780,80 780,90 775,90 770,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IQ60_RS31295&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1080719 - 1080486" locus_tag="IQ60_RS31295" class="clusterblast-orf" id="dummy-1_h1_10_20"  />
+</g>
+</svg>

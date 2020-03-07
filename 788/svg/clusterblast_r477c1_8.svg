@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="141,35 146,30 642,30 642,40 146,40 141,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg477_1&lt;/b&gt;&lt;br&gt;ctg477 1&lt;br&gt;Location: 2 - 2492" locus_tag="ctg477_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+</g>
+<g label="NZ_JOCF01000145" description="NZ_JOCF01000145_c44: Streptomyces sp. NRRL WC-3742 contig145.1, whole genome ... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_JOCF01000145/44" target="_blank">NZ_JOCF01000145_c44</a>: Streptomyces sp. NRRL WC-3742 contig145.1, whole genome ... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 780,80 780,90 5,90 0,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;IH61_RS0139575&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthase&lt;br&gt;Location: 3879 - 1&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg477_1&lt;/b&gt;&lt;br&gt;Percentage identity: 50&lt;br&gt;Percentage coverage: 102&lt;br&gt;BLAST bit score: 737&lt;br&gt;E-value: 2.3e-210" locus_tag="IH61_RS0139575" class="clusterblast-orf" id="dummy-1_h1_8_0"  />
+</g>
+</svg>

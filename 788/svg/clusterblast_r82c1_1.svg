@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,35 5,30 92,30 92,40 5,40 0,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_5&lt;/b&gt;&lt;br&gt;ctg82 5&lt;br&gt;Location: 4359 - 5481" locus_tag="ctg82_5" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="97,40 148,40 153,35 148,30 97,30 97,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_6&lt;/b&gt;&lt;br&gt;ctg82 6&lt;br&gt;Location: 5545 - 6229" locus_tag="ctg82_6" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="153,40 202,40 207,35 202,30 153,30 153,40 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_7&lt;/b&gt;&lt;br&gt;ctg82 7&lt;br&gt;Location: 6225 - 6888" locus_tag="ctg82_7" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="235,40 276,40 281,35 276,30 235,30 235,40 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_8&lt;/b&gt;&lt;br&gt;ctg82 8&lt;br&gt;Location: 7234 - 7801" locus_tag="ctg82_8" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="287,40 386,40 391,35 386,30 287,30 287,40 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_9&lt;/b&gt;&lt;br&gt;ctg82 9&lt;br&gt;Location: 7872 - 9141" locus_tag="ctg82_9" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="396,40 424,40 429,35 424,30 396,30 396,40 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_10&lt;/b&gt;&lt;br&gt;ctg82 10&lt;br&gt;Location: 9210 - 9615" locus_tag="ctg82_10" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="435,40 503,40 508,35 503,30 435,30 435,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_11&lt;/b&gt;&lt;br&gt;ctg82 11&lt;br&gt;Location: 9684 - 10584" locus_tag="ctg82_11" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="515,35 520,30 606,30 606,40 520,40 515,35 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_12&lt;/b&gt;&lt;br&gt;ctg82 12&lt;br&gt;Location: 10667 - 11777" locus_tag="ctg82_12" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="616,35 621,30 780,30 780,40 621,40 616,35 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_13&lt;/b&gt;&lt;br&gt;ctg82 13&lt;br&gt;Location: 11896 - 13915" locus_tag="ctg82_13" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+</g>
+<g label="NZ_FPAB01000003" description="NZ_FPAB01000003_c17: Streptomyces harbinensis strain CGMCC 4.7047, whole geno... (100% of genes show similarity), ectoine" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FPAB01000003/17" target="_blank">NZ_FPAB01000003_c17</a>: Streptomyces harbinensis strain CGMCC 4.7047, whole geno... (100% of genes show similarity), ectoine</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 91,80 91,90 5,90 0,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS11135&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 748366 - 747245&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_5&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 757&lt;br&gt;E-value: 5.6e-217" locus_tag="BM385_RS11135" class="clusterblast-orf" id="dummy-1_h1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="96,90 147,90 152,85 147,80 96,80 96,90 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS11130&lt;/b&gt;&lt;br&gt;SigE family RNA polymerase sigma factor&lt;br&gt;Location: 747180 - 746497&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_6&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 438&lt;br&gt;E-value: 3.5e-121" locus_tag="BM385_RS11130" class="clusterblast-orf" id="dummy-1_h1_1_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="152,90 201,90 206,85 201,80 152,80 152,90 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS11125&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 746500 - 745838&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_7&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 433&lt;br&gt;E-value: 1.1e-119" locus_tag="BM385_RS11125" class="clusterblast-orf" id="dummy-1_h1_1_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="235,90 275,90 280,85 275,80 235,80 235,90 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS11120&lt;/b&gt;&lt;br&gt;diaminobutyrate acetyltransferase&lt;br&gt;Location: 745485 - 744925&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_8&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 381&lt;br&gt;E-value: 5.5e-104" locus_tag="BM385_RS11120" class="clusterblast-orf" id="dummy-1_h1_1_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="286,90 385,90 390,85 385,80 286,80 286,90 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS11115&lt;/b&gt;&lt;br&gt;diaminobutyrate--2-oxoglutarate transaminase&lt;br&gt;Location: 744853 - 743585&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_9&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 861&lt;br&gt;E-value: 5.3e-248" locus_tag="BM385_RS11115" class="clusterblast-orf" id="dummy-1_h1_1_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="395,90 423,90 428,85 423,80 395,80 395,90 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS11110&lt;/b&gt;&lt;br&gt;ectoine synthase&lt;br&gt;Location: 743515 - 743111&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_10&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 279&lt;br&gt;E-value: 2.1e-73" locus_tag="BM385_RS11110" class="clusterblast-orf" id="dummy-1_h1_1_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="434,90 503,90 508,85 503,80 434,80 434,90 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS11105&lt;/b&gt;&lt;br&gt;ectoine hydroxylase&lt;br&gt;Location: 743041 - 742142&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_11&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 617&lt;br&gt;E-value: 7.3e-175" locus_tag="BM385_RS11105" class="clusterblast-orf" id="dummy-1_h1_1_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="514,85 519,80 604,80 604,90 519,90 514,85 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS11100&lt;/b&gt;&lt;br&gt;arabinogalactan endo-1,4-beta-galactosidase&lt;br&gt;Location: 742058 - 740964&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_12&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 745&lt;br&gt;E-value: 2.2e-213" locus_tag="BM385_RS11100" class="clusterblast-orf" id="dummy-1_h1_1_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="615,85 620,80 779,80 779,90 620,90 615,85 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS11095&lt;/b&gt;&lt;br&gt;beta-galactosidase&lt;br&gt;Location: 740829 - 738811&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_13&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1408&lt;br&gt;E-value: 0.0" locus_tag="BM385_RS11095" class="clusterblast-orf" id="dummy-1_h1_1_8"  />
+</g>
+</svg>

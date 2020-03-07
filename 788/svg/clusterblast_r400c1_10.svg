@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="233,40 392,40 397,35 392,30 233,30 233,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_1&lt;/b&gt;&lt;br&gt;ctg400 1&lt;br&gt;Location: 0 - 1851" locus_tag="ctg400_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="404,35 409,30 461,30 461,40 409,40 404,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_2&lt;/b&gt;&lt;br&gt;ctg400 2&lt;br&gt;Location: 1937 - 2579" locus_tag="ctg400_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="461,35 466,30 548,30 548,40 466,40 461,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_3&lt;/b&gt;&lt;br&gt;ctg400 3&lt;br&gt;Location: 2578 - 3556" locus_tag="ctg400_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+</g>
+<g label="NZ_CP019457" description="NZ_CP019457_c9: Streptomyces lydicus strain GS93 isolate 23 chromosome, compl... (33% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_CP019457/9" target="_blank">NZ_CP019457_c9</a>: Streptomyces lydicus strain GS93 isolate 23 chromosome, compl... (33% of genes show similarity), siderophore</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 106,90 111,85 106,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09430&lt;/b&gt;&lt;br&gt;DUF1015 domain-containing protein&lt;br&gt;Location: 2051953 - 2053206" locus_tag="BXT88_RS09430" class="clusterblast-orf" id="dummy-1_h1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="124,90 255,90 260,85 255,80 124,80 124,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09435&lt;/b&gt;&lt;br&gt;pyridoxal-dependent decarboxylase&lt;br&gt;Location: 2053362 - 2054894" locus_tag="BXT88_RS09435" class="clusterblast-orf" id="dummy-1_h1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="268,90 380,90 385,85 380,80 268,80 268,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09440&lt;/b&gt;&lt;br&gt;alcaligin biosynthesis protein&lt;br&gt;Location: 2054983 - 2056302" locus_tag="BXT88_RS09440" class="clusterblast-orf" id="dummy-1_h1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="385,90 430,90 435,85 430,80 385,80 385,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09445&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 2056299 - 2056868" locus_tag="BXT88_RS09445" class="clusterblast-orf" id="dummy-1_h1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="435,90 590,90 595,85 590,80 435,80 435,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09450&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 2056865 - 2058673&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 839&lt;br&gt;E-value: 3.2e-241" locus_tag="BXT88_RS09450" class="clusterblast-orf" id="dummy-1_h1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="602,85 607,80 780,80 780,90 607,90 602,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BXT88_RS09455&lt;/b&gt;&lt;br&gt;tetratricopeptide repeat protein&lt;br&gt;Location: 2058745 - 2060748&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 80&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 322&lt;br&gt;E-value: 4.5e-86" locus_tag="BXT88_RS09455" class="clusterblast-orf" id="dummy-1_h1_10_5"  />
+</g>
+</svg>

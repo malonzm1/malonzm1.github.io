@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="203,40 393,40 398,35 393,30 203,30 203,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_1&lt;/b&gt;&lt;br&gt;ctg400 1&lt;br&gt;Location: 0 - 1851" locus_tag="ctg400_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="407,35 412,30 475,30 475,40 412,40 407,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_2&lt;/b&gt;&lt;br&gt;ctg400 2&lt;br&gt;Location: 1937 - 2579" locus_tag="ctg400_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="475,35 480,30 578,30 578,40 480,40 475,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_3&lt;/b&gt;&lt;br&gt;ctg400 3&lt;br&gt;Location: 2578 - 3556" locus_tag="ctg400_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+</g>
+<g label="NZ_LZNS01000001" description="NZ_LZNS01000001_c32: Streptomyces sp. MP131-18 scaf 01, whole genome shotgun ... (33% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LZNS01000001/32" target="_blank">NZ_LZNS01000001_c32</a>: Streptomyces sp. MP131-18 scaf 01, whole genome shotgun ... (33% of genes show similarity), siderophore</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 82,80 82,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30175&lt;/b&gt;&lt;br&gt;FadR family transcriptional regulator&lt;br&gt;Location: 6758409 - 6757627" locus_tag="STBA_RS30175" class="clusterblast-orf" id="dummy-1_h1_5_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="86,85 91,80 199,80 199,90 91,90 86,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30170&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 6757583 - 6756516" locus_tag="STBA_RS30170" class="clusterblast-orf" id="dummy-1_h1_5_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="204,90 331,90 336,85 331,80 204,80 204,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30165&lt;/b&gt;&lt;br&gt;DUF1015 domain-containing protein&lt;br&gt;Location: 6756469 - 6755216" locus_tag="STBA_RS30165" class="clusterblast-orf" id="dummy-1_h1_5_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="341,90 398,90 403,85 398,80 341,80 341,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30160&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 6755168 - 6754581" locus_tag="STBA_RS30160" class="clusterblast-orf" id="dummy-1_h1_5_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="403,90 588,90 593,85 588,80 403,80 403,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30155&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 6754576 - 6752768&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 826&lt;br&gt;E-value: 2.8e-237" locus_tag="STBA_RS30155" class="clusterblast-orf" id="dummy-1_h1_5_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="594,85 599,80 780,80 780,90 599,90 594,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STBA_RS30150&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6752761 - 6751001&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 84&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 346&lt;br&gt;E-value: 2.2e-93" locus_tag="STBA_RS30150" class="clusterblast-orf" id="dummy-1_h1_5_5"  />
+</g>
+</svg>

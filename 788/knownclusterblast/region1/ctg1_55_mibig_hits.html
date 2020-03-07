@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>CUI25690.1</td>
+              <td>putative_two-component_system_sensor_kinase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001352/1">BGC0001352</a></td>
+              <td>nrps-t1pks</td>
+              <td>37.0</td>
+              <td>101.7</td>
+              <td>246.0</td>
+              <td>9.5e-65</td>
+          </tr>
+    
+          <tr>
+              <td>AGU42431.1</td>
+              <td>Cmm23</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000842/1">BGC0000842</a></td>
+              <td>other</td>
+              <td>36.0</td>
+              <td>96.2</td>
+              <td>227.0</td>
+              <td>3.5e-59</td>
+          </tr>
+    
+          <tr>
+              <td>CAJ34390.1</td>
+              <td>putative_histidine_kinase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000445/1">BGC0000445</a></td>
+              <td>nrps</td>
+              <td>32.0</td>
+              <td>89.6</td>
+              <td>168.0</td>
+              <td>2.5e-41</td>
+          </tr>
+    
+          <tr>
+              <td>BAQ25485.1</td>
+              <td>two-component_system_sensor_kinase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001288/1">BGC0001288</a></td>
+              <td>t1pks</td>
+              <td>27.0</td>
+              <td>84.3</td>
+              <td>96.0</td>
+              <td>1.6e-19</td>
+          </tr>
+    
+          <tr>
+              <td>CAH60131.1</td>
+              <td>putative_two-component_system_sensor_kinase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000700/1">BGC0000700</a></td>
+              <td>saccharide</td>
+              <td>28.0</td>
+              <td>70.3</td>
+              <td>90.0</td>
+              <td>6.7e-18</td>
+          </tr>
+    
+          <tr>
+              <td>ALK27910.1</td>
+              <td>putative_histidine_kinase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001233/1">BGC0001233</a></td>
+              <td>nrps</td>
+              <td>25.0</td>
+              <td>74.2</td>
+              <td>83.0</td>
+              <td>1.1e-15</td>
+          </tr>
+    
+          <tr>
+              <td>CCC21117.1</td>
+              <td>signal_transduction_histidine_kinase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000171/1">BGC0000171</a></td>
+              <td>t1pks</td>
+              <td>30.0</td>
+              <td>55.3</td>
+              <td>82.0</td>
+              <td>2.4e-15</td>
+          </tr>
+    
+          <tr>
+              <td>CAH94295.1</td>
+              <td>putative_two-component_system_sensor_kinase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000717/1">BGC0000717</a></td>
+              <td>saccharide</td>
+              <td>25.0</td>
+              <td>50.8</td>
+              <td>77.0</td>
+              <td>4.5e-14</td>
+          </tr>
+    
+          <tr>
+              <td>CAA60456.1</td>
+              <td>sensory_protein_kinase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001040/1">BGC0001040</a></td>
+              <td>nrps-t1pks</td>
+              <td>27.0</td>
+              <td>75.4</td>
+              <td>74.0</td>
+              <td>3.8e-13</td>
+          </tr>
+    
+          <tr>
+              <td>AAD21212.2</td>
+              <td>BacS</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000310/1">BGC0000310</a></td>
+              <td>nrps</td>
+              <td>24.0</td>
+              <td>55.7</td>
+              <td>74.0</td>
+              <td>4.9e-13</td>
+          </tr>
+    
+          <tr>
+              <td>RAT94095.1</td>
+              <td>sensor_histidine_kinase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001469/1">BGC0001469</a></td>
+              <td>nrps</td>
+              <td>25.0</td>
+              <td>61.0</td>
+              <td>72.0</td>
+              <td>1.9e-12</td>
+          </tr>
+    
+          <tr>
+              <td>CAE53347.1</td>
+              <td>transmamebrane_sensor_kinase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000440/1">BGC0000440</a></td>
+              <td>nrps</td>
+              <td>25.0</td>
+              <td>66.9</td>
+              <td>59.0</td>
+              <td>1.6e-08</td>
+          </tr>
+    
+          <tr>
+              <td>CAG15006.1</td>
+              <td>transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000441/1">BGC0000441</a></td>
+              <td>nrps</td>
+              <td>25.0</td>
+              <td>66.9</td>
+              <td>59.0</td>
+              <td>1.6e-08</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

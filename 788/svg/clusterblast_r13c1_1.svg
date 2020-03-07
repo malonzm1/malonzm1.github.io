@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,40 53,40 58,35 53,30 0,30 0,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_2&lt;/b&gt;&lt;br&gt;ctg13 2&lt;br&gt;Location: 1336 - 2245" locus_tag="ctg13_2" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="57,40 110,40 115,35 110,30 57,30 57,40 " style="fill:#3cd815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_3&lt;/b&gt;&lt;br&gt;ctg13 3&lt;br&gt;Location: 2234 - 3140" locus_tag="ctg13_3" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="131,40 153,40 158,35 153,30 131,30 131,40 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_4&lt;/b&gt;&lt;br&gt;ctg13 4&lt;br&gt;Location: 3396 - 3819" locus_tag="ctg13_4" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="164,35 169,30 236,30 236,40 169,40 164,35 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_5&lt;/b&gt;&lt;br&gt;ctg13 5&lt;br&gt;Location: 3904 - 5038" locus_tag="ctg13_5" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="259,40 378,40 383,35 378,30 259,30 259,40 " style="fill:#d88a15; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_6&lt;/b&gt;&lt;br&gt;ctg13 6&lt;br&gt;Location: 5394 - 7341" locus_tag="ctg13_6" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="383,40 418,40 423,35 418,30 383,30 383,40 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_7&lt;/b&gt;&lt;br&gt;ctg13 7&lt;br&gt;Location: 7349 - 7970" locus_tag="ctg13_7" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="426,40 532,40 537,35 532,30 426,30 426,40 " style="fill:#3c15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_8&lt;/b&gt;&lt;br&gt;ctg13 8&lt;br&gt;Location: 8020 - 9766" locus_tag="ctg13_8" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="540,40 662,40 667,35 662,30 540,30 540,40 " style="fill:#d8158a; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_9&lt;/b&gt;&lt;br&gt;ctg13 9&lt;br&gt;Location: 9816 - 11814" locus_tag="ctg13_9" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="670,35 675,30 724,30 724,40 675,40 670,35 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_10&lt;/b&gt;&lt;br&gt;ctg13 10&lt;br&gt;Location: 11854 - 12697" locus_tag="ctg13_10" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="747,40 775,40 780,35 775,30 747,30 747,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg13_11&lt;/b&gt;&lt;br&gt;ctg13 11&lt;br&gt;Location: 13070 - 13583" locus_tag="ctg13_11" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="NZ_FPAB01000001" description="NZ_FPAB01000001_c12: Streptomyces harbinensis strain CGMCC 4.7047, whole geno... (100% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FPAB01000001/12" target="_blank">NZ_FPAB01000001_c12</a>: Streptomyces harbinensis strain CGMCC 4.7047, whole geno... (100% of genes show similarity), siderophore</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 52,90 57,85 52,80 0,80 0,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04055&lt;/b&gt;&lt;br&gt;sugar ABC transporter permease&lt;br&gt;Location: 910253 - 909345&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_2&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 594&lt;br&gt;E-value: 8.7e-168" locus_tag="BM385_RS04055" class="clusterblast-orf" id="dummy-1_h1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="57,90 109,90 114,85 109,80 57,80 57,90 " style="fill:#3cd815; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04050&lt;/b&gt;&lt;br&gt;carbohydrate ABC transporter permease&lt;br&gt;Location: 909355 - 908450&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_3&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 596&lt;br&gt;E-value: 1.8e-168" locus_tag="BM385_RS04050" class="clusterblast-orf" id="dummy-1_h1_1_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="131,90 153,90 158,85 153,80 131,80 131,90 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04045&lt;/b&gt;&lt;br&gt;aspartate 1-decarboxylase&lt;br&gt;Location: 908193 - 907771&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_4&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 269&lt;br&gt;E-value: 3e-70" locus_tag="BM385_RS04045" class="clusterblast-orf" id="dummy-1_h1_1_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="163,85 168,80 239,80 239,90 168,90 163,85 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04040&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 907685 - 906495&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_5&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 787&lt;br&gt;E-value: 5.1e-226" locus_tag="BM385_RS04040" class="clusterblast-orf" id="dummy-1_h1_1_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="258,90 377,90 382,85 377,80 258,80 258,90 " style="fill:#d88a15; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04035&lt;/b&gt;&lt;br&gt;iron transporter&lt;br&gt;Location: 906195 - 904249&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_6&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1299&lt;br&gt;E-value: 0.0" locus_tag="BM385_RS04035" class="clusterblast-orf" id="dummy-1_h1_1_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="382,90 417,90 422,85 417,80 382,80 382,90 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04030&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 904240 - 903620&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_7&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 418&lt;br&gt;E-value: 3.4e-115" locus_tag="BM385_RS04030" class="clusterblast-orf" id="dummy-1_h1_1_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="425,90 531,90 536,85 531,80 425,80 425,90 " style="fill:#3c15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04025&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 903569 - 901824&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_8&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1177&lt;br&gt;E-value: 0.0" locus_tag="BM385_RS04025" class="clusterblast-orf" id="dummy-1_h1_1_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="540,90 662,90 667,85 662,80 540,80 540,90 " style="fill:#d8158a; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04020&lt;/b&gt;&lt;br&gt;ATP-dependent DNA helicase&lt;br&gt;Location: 901773 - 899776&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_9&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1265&lt;br&gt;E-value: 0.0" locus_tag="BM385_RS04020" class="clusterblast-orf" id="dummy-1_h1_1_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="669,85 674,80 718,80 718,90 674,90 669,85 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04015&lt;/b&gt;&lt;br&gt;transcriptional repressor LexA&lt;br&gt;Location: 899735 - 898965&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_10&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 503&lt;br&gt;E-value: 1.4e-140" locus_tag="BM385_RS04015" class="clusterblast-orf" id="dummy-1_h1_1_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="747,90 774,90 779,85 774,80 747,80 747,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04010&lt;/b&gt;&lt;br&gt;transcriptional repressor NrdR&lt;br&gt;Location: 898519 - 898007&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg13_11&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 336&lt;br&gt;E-value: 1.8e-90" locus_tag="BM385_RS04010" class="clusterblast-orf" id="dummy-1_h1_1_9"  />
+</g>
+</svg>

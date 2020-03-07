@@ -1,0 +1,38 @@
+ClusterBlast scores for c00077_NODE_77..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg77_1	0	627	-		
+ctg77_2	718	994	+		
+ctg77_3	1063	2500	-		
+ctg77_4	2630	3875	+		
+ctg77_5	3942	7899	-		
+ctg77_6	8371	8653	-		
+ctg77_7	9202	10090	+		
+ctg77_8	10124	11552	-		
+ctg77_9	11875	13174	+		
+ctg77_10	13232	15488	-		
+ctg77_11	15623	16448	-		
+ctg77_12	16444	17536	-		
+ctg77_13	17532	18573	-		
+ctg77_14	18593	19649	-		
+
+
+Significant hits: 
+1. BGC0001181	Geosmin
+
+
+Details:
+
+>>
+1. BGC0001181
+Source: Geosmin
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 962
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAB41566.1	CAB41566.1	1	2181	+	putative_cyclase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg77_10	CAB41566.1	65	962	97.20372836218375	4.1e-280
+

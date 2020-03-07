@@ -1,0 +1,81 @@
+ClusterBlast scores for c00305_NODE_30..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg305_1	0	123	-		
+ctg305_2	144	609	+		
+ctg305_3	605	1460	+		
+ctg305_4	1437	3264	+		
+ctg305_5	3403	3817	+		
+ctg305_6	3837	5298	+		
+ctg305_7	5294	5567	+		
+ctg305_8	5578	6421	-		
+
+
+Significant hits: 
+1. BGC0001735	Pentostatine / vidarabine
+2. BGC0001188	Legonaridin
+
+
+Details:
+
+>>
+1. BGC0001735
+Source: Pentostatine / vidarabine
+Type: other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 468
+
+Table of genes, locations, strands and annotations of subject cluster:
+AOE46821.1	AOE46821.1	1	424	-	hypothetical_protein
+AOE46822.1	AOE46822.1	534	1349	-	hypothetical_protein
+AOE46823.1	AOE46823.1	1654	1893	-	hypothetical_protein
+AOE46824.1	AOE46824.1	2617	3660	-	hypothetical_protein
+AOE46825.1	AOE46825.1	3833	4096	+	HTH-type_transcriptional_regulator_SutR
+AOE46826.1	AOE46826.1	4270	5133	+	hypothetical_protein
+AOE46827.1	AOE46827.1	5566	7017	+	F-box_DNA_helicase_protein
+AOE46828.1	AOE46828.1	7288	7713	+	hypothetical_protein
+AOE46829.1	AOE46829.1	8082	8360	+	hypothetical_protein
+AOE46830.1	AOE46830.1	9268	13995	+	putative_deoxyribonuclease
+AOE46831.1	AOE46831.1	13992	14672	+	nucleoid-associated_protein_Lsr2
+AOE46832.1	AOE46832.1	15025	15708	+	nuclear_distribution_protein
+AKA87333.1	AKA87333.1	16004	17083	-	putative_LacI_family_transcriptional_regulator
+AKA87334.1	AKA87334.1	17327	18490	+	S-adenosyl-L-homocysteine_hydrolase,_NAD_binding
+AKA87335.1	AKA87335.1	18484	19560	+	metal_dependent_phosphohydrolase
+AKA87336.1	AKA87336.1	19557	20762	+	major_facilitator_superfamily_protein
+AKA87337.1	AKA87337.1	20833	22023	+	adenosylhomocysteinase
+AKA87338.1	AKA87338.1	22023	22766	+	saicar_synthetase
+AKA87339.1	AKA87339.1	22753	23457	+	short-chain_dehydrogenase
+AKA87340.1	AKA87340.1	23467	24375	+	ATP_phosphoribosyltransferase
+AOE46833.1	AOE46833.1	24379	24864	-	phytoene_dehydrogenase
+AOE46834.1	AOE46834.1	24833	25402	-	phytoene_dehydrogenase
+AOE46835.1	AOE46835.1	25209	25850	-	phytoene_dehydrogenase
+AOE46836.1	AOE46836.1	25891	26655	-	hydroxybutyryl-CoA_reductase
+AOE46837.1	AOE46837.1	26652	27287	-	tubulin_alpha-2_chain_protein
+AOE46838.1	AOE46838.1	27284	29164	-	hypothetical_protein
+AOE46839.1	AOE46839.1	29305	29457	-	hypothetical_protein
+AOE46840.1	AOE46840.1	30061	32592	+	nucleoprotein
+AOE46841.1	AOE46841.1	32804	33028	+	hypothetical_protein
+AOE46842.1	AOE46842.1	33055	34041	-	polydeoxyribonucleotide_synthase
+AOE46843.1	AOE46843.1	34490	35203	-	glycerophosphodiester_phosphodiesterase
+AOE46844.1	AOE46844.1	36132	39550	+	tRNA(Glu)-specific_nuclease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg305_2	AOE46837.1	59	183	94.15584415584416	1.9e-46
+ctg305_3	AOE46836.1	61	285	86.61971830985915	6.5e-77
+
+
+
+>>
+2. BGC0001188
+Source: Legonaridin
+Type: other
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1501
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg305_3	RZ84_RS20245	55	252	87.32394366197182	1e-66
+ctg305_4	RZ84_RS20235	63	629	95.88815789473685	6.7e-180
+ctg305_6	RZ84_RS20240	68	620	96.09053497942386	2.5e-177
+

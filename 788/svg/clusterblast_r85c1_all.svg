@@ -1,0 +1,629 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="550" width="800" viewBox="0 0 800 550" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="287,40 294,40 299,35 294,30 287,30 287,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_1&lt;/b&gt;&lt;br&gt;ctg85 1&lt;br&gt;Location: 35 - 914" locus_tag="ctg85_1" class="clusterblast-orf" id="general-1_q0_0_all"  />
+<polygon points="299,35 304,30 313,30 313,40 304,40 299,35 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_2&lt;/b&gt;&lt;br&gt;ctg85 2&lt;br&gt;Location: 906 - 1926" locus_tag="ctg85_2" class="clusterblast-orf" id="general-1_q1_0_all"  />
+<polygon points="314,40 326,40 331,35 326,30 314,30 314,40 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_3&lt;/b&gt;&lt;br&gt;ctg85 3&lt;br&gt;Location: 2017 - 3295" locus_tag="ctg85_3" class="clusterblast-orf" id="general-1_q2_0_all"  />
+<polygon points="331,40 338,40 343,35 338,30 331,30 331,40 " style="fill:#a115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_4&lt;/b&gt;&lt;br&gt;ctg85 4&lt;br&gt;Location: 3294 - 4113" locus_tag="ctg85_4" class="clusterblast-orf" id="general-1_q3_0_all"  />
+<polygon points="345,40 376,40 381,35 376,30 345,30 345,40 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_5&lt;/b&gt;&lt;br&gt;ctg85 5&lt;br&gt;Location: 4265 - 6974" locus_tag="ctg85_5" class="clusterblast-orf" id="general-1_q4_0_all"  />
+<polygon points="382,40 382,40 387,35 382,30 382,30 382,40 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_6&lt;/b&gt;&lt;br&gt;ctg85 6&lt;br&gt;Location: 7020 - 7389" locus_tag="ctg85_6" class="clusterblast-orf" id="general-1_q5_0_all"  />
+<polygon points="388,40 396,40 401,35 396,30 388,30 388,40 " style="fill:#1531d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_7&lt;/b&gt;&lt;br&gt;ctg85 7&lt;br&gt;Location: 7503 - 8463" locus_tag="ctg85_7" class="clusterblast-orf" id="general-1_q6_0_all"  />
+<polygon points="406,40 411,40 416,35 411,30 406,30 406,40 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_8&lt;/b&gt;&lt;br&gt;ctg85 8&lt;br&gt;Location: 8803 - 9571" locus_tag="ctg85_8" class="clusterblast-orf" id="general-1_q7_0_all"  />
+<polygon points="418,35 423,30 424,30 424,40 423,40 418,35 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_9&lt;/b&gt;&lt;br&gt;ctg85 9&lt;br&gt;Location: 9722 - 10142" locus_tag="ctg85_9" class="clusterblast-orf" id="general-1_q8_0_all"  />
+<polygon points="426,35 431,30 445,30 445,40 431,40 426,35 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_10&lt;/b&gt;&lt;br&gt;ctg85 10&lt;br&gt;Location: 10287 - 11724" locus_tag="ctg85_10" class="clusterblast-orf" id="general-1_q9_0_all"  />
+<polygon points="446,40 447,40 452,35 447,30 446,30 446,40 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_11&lt;/b&gt;&lt;br&gt;ctg85 11&lt;br&gt;Location: 11816 - 12260" locus_tag="ctg85_11" class="clusterblast-orf" id="general-1_q10_0_all"  />
+<polygon points="454,40 459,40 464,35 459,30 454,30 454,40 " style="fill:#d81569; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_12&lt;/b&gt;&lt;br&gt;ctg85 12&lt;br&gt;Location: 12385 - 13150" locus_tag="ctg85_12" class="clusterblast-orf" id="general-1_q11_0_all"  />
+<polygon points="469,40 473,40 478,35 473,30 469,30 469,40 " style="fill:#a1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_13&lt;/b&gt;&lt;br&gt;ctg85 13&lt;br&gt;Location: 13519 - 14161" locus_tag="ctg85_13" class="clusterblast-orf" id="general-1_q12_0_all"  />
+<polygon points="480,35 485,30 492,30 492,40 485,40 480,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg85_14&lt;/b&gt;&lt;br&gt;ctg85 14&lt;br&gt;Location: 14267 - 15173" locus_tag="ctg85_14" class="clusterblast-orf" id="general-1_q13_0_all"  />
+</g>
+<g label="NZ_ALNP01000010" description="NZ_ALNP01000010_c8: Streptomyces sp. AA0539 contig00010, whole genome shotgun... (87% of genes show similarity), nucleoside" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_ALNP01000010/8" target="_blank">NZ_ALNP01000010_c8</a>: Streptomyces sp. AA0539 contig00010, whole genome shotgun... (87% of genes show similarity), nucleoside</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="270,85 275,80 286,80 286,90 275,90 270,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112305&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 31971 - 33182" locus_tag="B311_RS0112305" class="clusterblast-orf" id="general-1_all_1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="288,90 298,90 303,85 298,80 288,80 288,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112310&lt;/b&gt;&lt;br&gt;aldehyde dehydrogenase&lt;br&gt;Location: 33305 - 34444" locus_tag="B311_RS0112310" class="clusterblast-orf" id="general-1_all_1_1_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="305,90 312,90 317,85 312,80 305,80 305,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112315&lt;/b&gt;&lt;br&gt;methyltransferase domain-containing protein&lt;br&gt;Location: 34592 - 35494&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_1&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 585&lt;br&gt;E-value: 3.9e-165" locus_tag="B311_RS0112315" class="clusterblast-orf" id="general-1_all_1_1_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="317,85 322,80 330,80 330,90 322,90 317,85 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112320&lt;/b&gt;&lt;br&gt;zinc-binding alcohol dehydrogenase family protein&lt;br&gt;Location: 35487 - 36470&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_2&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 656&lt;br&gt;E-value: 2.1e-186" locus_tag="B311_RS0112320" class="clusterblast-orf" id="general-1_all_1_1_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="332,90 344,90 349,85 344,80 332,80 332,90 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112325&lt;/b&gt;&lt;br&gt;VWA domain-containing protein&lt;br&gt;Location: 36598 - 37875&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_3&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 836&lt;br&gt;E-value: 1.9e-240" locus_tag="B311_RS0112325" class="clusterblast-orf" id="general-1_all_1_1_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="349,90 355,90 360,85 355,80 349,80 349,90 " style="fill:#a115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112330&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 37875 - 38693&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_4&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 531&lt;br&gt;E-value: 4.8e-149" locus_tag="B311_RS0112330" class="clusterblast-orf" id="general-1_all_1_1_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="363,90 394,90 399,85 394,80 363,80 363,90 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112335&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 38846 - 41554&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_5&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1698&lt;br&gt;E-value: 0.0" locus_tag="B311_RS0112335" class="clusterblast-orf" id="general-1_all_1_1_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="400,90 400,90 405,85 400,80 400,80 400,90 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112340&lt;/b&gt;&lt;br&gt;6-carboxytetrahydropterin synthase&lt;br&gt;Location: 41601 - 41969&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_6&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 259&lt;br&gt;E-value: 2.7e-67" locus_tag="B311_RS0112340" class="clusterblast-orf" id="general-1_all_1_1_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="406,90 414,90 419,85 414,80 406,80 406,90 " style="fill:#1531d8; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112345&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 42084 - 43043&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_7&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 640&lt;br&gt;E-value: 8.6e-182" locus_tag="B311_RS0112345" class="clusterblast-orf" id="general-1_all_1_1_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="423,90 429,90 434,85 429,80 423,80 423,90 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112350&lt;/b&gt;&lt;br&gt;XRE family transcriptional regulator&lt;br&gt;Location: 43303 - 44151&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_8&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 512&lt;br&gt;E-value: 3.7e-143" locus_tag="B311_RS0112350" class="clusterblast-orf" id="general-1_all_1_1_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="436,85 441,80 442,80 442,90 441,90 436,85 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS27845&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 44303 - 44722&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_9&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 291&lt;br&gt;E-value: 5.6e-77" locus_tag="B311_RS27845" class="clusterblast-orf" id="general-1_all_1_1_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="444,85 449,80 463,80 463,90 449,90 444,85 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112360&lt;/b&gt;&lt;br&gt;WGR domain-containing protein&lt;br&gt;Location: 44868 - 46304&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_10&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 946&lt;br&gt;E-value: 1.4e-273" locus_tag="B311_RS0112360" class="clusterblast-orf" id="general-1_all_1_1_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="464,90 465,90 470,85 465,80 464,80 464,90 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112365&lt;/b&gt;&lt;br&gt;type II toxin-antitoxin system PemK/MazF family toxin&lt;br&gt;Location: 46397 - 46840&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_11&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 313&lt;br&gt;E-value: 1.1e-83" locus_tag="B311_RS0112365" class="clusterblast-orf" id="general-1_all_1_1_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="472,90 477,90 482,85 477,80 472,80 472,90 " style="fill:#d81569; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS27850&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 46984 - 47730&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_12&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 444&lt;br&gt;E-value: 7.2e-123" locus_tag="B311_RS27850" class="clusterblast-orf" id="general-1_all_1_1_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="487,90 491,90 496,85 491,80 487,80 487,90 " style="fill:#a1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112375&lt;/b&gt;&lt;br&gt;M23 family peptidase&lt;br&gt;Location: 48100 - 48741&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_13&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 410&lt;br&gt;E-value: 1.3e-112" locus_tag="B311_RS0112375" class="clusterblast-orf" id="general-1_all_1_1_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="498,85 503,80 509,80 509,90 503,90 498,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;B311_RS0112380&lt;/b&gt;&lt;br&gt;glycerophosphodiester phosphodiesterase&lt;br&gt;Location: 48857 - 49714&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_14&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 563&lt;br&gt;E-value: 1.6e-158" locus_tag="B311_RS0112380" class="clusterblast-orf" id="general-1_all_1_1_15"  />
+</g>
+<g label="NZ_FPAB01000003" description="NZ_FPAB01000003_c15: Streptomyces harbinensis strain CGMCC 4.7047, whole geno... (66% of genes show similarity), nucleoside" class="clusterblast-cluster"  >
+<text x="5" y="120" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FPAB01000003/15" target="_blank">NZ_FPAB01000003_c15</a>: Streptomyces harbinensis strain CGMCC 4.7047, whole geno... (66% of genes show similarity), nucleoside</text>
+<line x1="10" y1="135" x2="778.0" y2="135" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="260,140 264,135 260,130 260,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10625&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 629944 - 630216" locus_tag="BM385_RS10625" class="clusterblast-orf" id="general-1_all_1_2_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="263,135 268,130 279,130 279,140 268,140 263,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10630&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 630141 - 631352" locus_tag="BM385_RS10630" class="clusterblast-orf" id="general-1_all_1_2_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="281,140 291,140 296,135 291,130 281,130 281,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10635&lt;/b&gt;&lt;br&gt;aldehyde dehydrogenase&lt;br&gt;Location: 631475 - 632614" locus_tag="BM385_RS10635" class="clusterblast-orf" id="general-1_all_1_2_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="298,140 306,140 311,135 306,130 298,130 298,140 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10640&lt;/b&gt;&lt;br&gt;methyltransferase domain-containing protein&lt;br&gt;Location: 632762 - 633664&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_1&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 585&lt;br&gt;E-value: 3.9e-165" locus_tag="BM385_RS10640" class="clusterblast-orf" id="general-1_all_1_2_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="310,135 315,130 324,130 324,140 315,140 310,135 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10645&lt;/b&gt;&lt;br&gt;zinc-binding alcohol dehydrogenase family protein&lt;br&gt;Location: 633657 - 634640&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_2&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 656&lt;br&gt;E-value: 2.1e-186" locus_tag="BM385_RS10645" class="clusterblast-orf" id="general-1_all_1_2_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="325,140 338,140 343,135 338,130 325,130 325,140 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10650&lt;/b&gt;&lt;br&gt;VWA domain-containing protein&lt;br&gt;Location: 634768 - 636045&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_3&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 836&lt;br&gt;E-value: 1.9e-240" locus_tag="BM385_RS10650" class="clusterblast-orf" id="general-1_all_1_2_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="343,140 349,140 354,135 349,130 343,130 343,140 " style="fill:#a115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10655&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 636045 - 636863&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_4&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 531&lt;br&gt;E-value: 4.8e-149" locus_tag="BM385_RS10655" class="clusterblast-orf" id="general-1_all_1_2_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="356,140 387,140 392,135 387,130 356,130 356,140 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10660&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 637016 - 639724&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_5&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1693&lt;br&gt;E-value: 0.0" locus_tag="BM385_RS10660" class="clusterblast-orf" id="general-1_all_1_2_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="393,140 393,140 398,135 393,130 393,130 393,140 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10665&lt;/b&gt;&lt;br&gt;6-carboxytetrahydropterin synthase&lt;br&gt;Location: 639771 - 640139&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_6&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 253&lt;br&gt;E-value: 8.6e-66" locus_tag="BM385_RS10665" class="clusterblast-orf" id="general-1_all_1_2_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="400,140 407,140 412,135 407,130 400,130 400,140 " style="fill:#1531d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10670&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 640254 - 641213&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_7&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 640&lt;br&gt;E-value: 1.1e-181" locus_tag="BM385_RS10670" class="clusterblast-orf" id="general-1_all_1_2_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="413,135 418,130 432,130 432,140 418,140 413,135 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10675&lt;/b&gt;&lt;br&gt;WGR domain-containing protein&lt;br&gt;Location: 641244 - 642680&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_10&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 959&lt;br&gt;E-value: 1.6e-277" locus_tag="BM385_RS10675" class="clusterblast-orf" id="general-1_all_1_2_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="434,140 434,140 439,135 434,130 434,130 434,140 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10680&lt;/b&gt;&lt;br&gt;type II toxin-antitoxin system PemK/MazF family toxin&lt;br&gt;Location: 642773 - 643216&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_11&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 313&lt;br&gt;E-value: 1.1e-83" locus_tag="BM385_RS10680" class="clusterblast-orf" id="general-1_all_1_2_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="441,140 447,140 452,135 447,130 441,130 441,140 " style="fill:#d81569; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10685&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 643361 - 644107&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_12&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 444&lt;br&gt;E-value: 7.2e-123" locus_tag="BM385_RS10685" class="clusterblast-orf" id="general-1_all_1_2_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="457,140 460,140 465,135 460,130 457,130 457,140 " style="fill:#a1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10690&lt;/b&gt;&lt;br&gt;M23 family peptidase&lt;br&gt;Location: 644477 - 645118&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_13&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 411&lt;br&gt;E-value: 5.7e-113" locus_tag="BM385_RS10690" class="clusterblast-orf" id="general-1_all_1_2_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="467,135 472,130 479,130 479,140 472,140 467,135 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10695&lt;/b&gt;&lt;br&gt;glycerophosphodiester phosphodiesterase&lt;br&gt;Location: 645244 - 646149&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_14&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 584&lt;br&gt;E-value: 5.3e-165" locus_tag="BM385_RS10695" class="clusterblast-orf" id="general-1_all_1_2_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="481,140 505,140 510,135 505,130 481,130 481,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10700&lt;/b&gt;&lt;br&gt;excinuclease ABC subunit UvrB&lt;br&gt;Location: 646321 - 648441" locus_tag="BM385_RS10700" class="clusterblast-orf" id="general-1_all_1_2_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="509,140 511,135 509,130 509,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS26490&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 648395 - 648478" locus_tag="BM385_RS26490" class="clusterblast-orf" id="general-1_all_1_2_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="511,140 514,140 519,135 514,130 511,130 511,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS10705&lt;/b&gt;&lt;br&gt;TerD family protein&lt;br&gt;Location: 648497 - 649078" locus_tag="BM385_RS10705" class="clusterblast-orf" id="general-1_all_1_2_17"  />
+</g>
+<g label="NZ_CP010519" description="NZ_CP010519_c32: Streptomyces albus strain DSM 41398, complete genome (11% of genes show similarity), nucleoside" class="clusterblast-cluster"  >
+<text x="5" y="170" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_CP010519/32" target="_blank">NZ_CP010519_c32</a>: Streptomyces albus strain DSM 41398, complete genome (11% of genes show similarity), nucleoside</text>
+<line x1="10" y1="185" x2="778.0" y2="185" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="265,190 274,190 279,185 274,180 265,180 265,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31675&lt;/b&gt;&lt;br&gt;alcohol dehydrogenase&lt;br&gt;Location: 7841906 - 7842952" locus_tag="SLNWT_RS31675" class="clusterblast-orf" id="general-1_all_1_3_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="280,190 298,190 303,185 298,180 280,180 280,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31680&lt;/b&gt;&lt;br&gt;histidine kinase&lt;br&gt;Location: 7843045 - 7844769" locus_tag="SLNWT_RS31680" class="clusterblast-orf" id="general-1_all_1_3_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="304,185 309,180 313,180 313,190 309,190 304,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31685&lt;/b&gt;&lt;br&gt;DNA-binding response regulator&lt;br&gt;Location: 7844803 - 7845525" locus_tag="SLNWT_RS31685" class="clusterblast-orf" id="general-1_all_1_3_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="315,185 320,180 321,180 321,190 320,190 315,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31690&lt;/b&gt;&lt;br&gt;cyclic nucleotide-binding domain-containing protein&lt;br&gt;Location: 7845655 - 7846113" locus_tag="SLNWT_RS31690" class="clusterblast-orf" id="general-1_all_1_3_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="326,190 326,190 331,185 326,180 326,180 326,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS35955&lt;/b&gt;&lt;br&gt;transcriptional regulator&lt;br&gt;Location: 7846430 - 7846795" locus_tag="SLNWT_RS35955" class="clusterblast-orf" id="general-1_all_1_3_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="331,185 335,180 335,190 331,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS35960&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7846853 - 7847142" locus_tag="SLNWT_RS35960" class="clusterblast-orf" id="general-1_all_1_3_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="335,185 338,180 338,190 335,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31695&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7847153 - 7847347" locus_tag="SLNWT_RS31695" class="clusterblast-orf" id="general-1_all_1_3_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="341,185 346,180 351,180 351,190 346,190 341,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31700&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7847599 - 7848321" locus_tag="SLNWT_RS31700" class="clusterblast-orf" id="general-1_all_1_3_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="353,190 385,190 390,185 385,180 353,180 353,190 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31705&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 7848475 - 7851231&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_5&lt;/b&gt;&lt;br&gt;Percentage identity: 53&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 763&lt;br&gt;E-value: 2.5e-218" locus_tag="SLNWT_RS31705" class="clusterblast-orf" id="general-1_all_1_3_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="391,190 391,190 396,185 391,180 391,180 391,190 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31710&lt;/b&gt;&lt;br&gt;6-carboxytetrahydropterin synthase&lt;br&gt;Location: 7851287 - 7851661&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_6&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 218&lt;br&gt;E-value: 5.3e-55" locus_tag="SLNWT_RS31710" class="clusterblast-orf" id="general-1_all_1_3_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="400,185 405,180 405,180 405,190 405,190 400,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS36735&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7851939 - 7852289" locus_tag="SLNWT_RS36735" class="clusterblast-orf" id="general-1_all_1_3_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="404,185 407,180 407,190 404,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS36740&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7852274 - 7852480" locus_tag="SLNWT_RS36740" class="clusterblast-orf" id="general-1_all_1_3_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="419,185 424,180 447,180 447,190 424,190 419,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31720&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7853359 - 7855455" locus_tag="SLNWT_RS31720" class="clusterblast-orf" id="general-1_all_1_3_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="453,185 458,180 464,180 464,190 458,190 453,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31725&lt;/b&gt;&lt;br&gt;3-hydroxybutyryl-CoA dehydrogenase&lt;br&gt;Location: 7855841 - 7856704" locus_tag="SLNWT_RS31725" class="clusterblast-orf" id="general-1_all_1_3_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="471,190 475,185 471,180 471,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31730&lt;/b&gt;&lt;br&gt;DUF2834 domain-containing protein&lt;br&gt;Location: 7857168 - 7857533" locus_tag="SLNWT_RS31730" class="clusterblast-orf" id="general-1_all_1_3_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="476,190 481,190 486,185 481,180 476,180 476,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31735&lt;/b&gt;&lt;br&gt;NADPH-dependent F420 reductase&lt;br&gt;Location: 7857584 - 7858309" locus_tag="SLNWT_RS31735" class="clusterblast-orf" id="general-1_all_1_3_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="500,185 505,180 514,180 514,190 505,190 500,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SLNWT_RS31740&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7859373 - 7860425" locus_tag="SLNWT_RS31740" class="clusterblast-orf" id="general-1_all_1_3_16"  />
+</g>
+<g label="NZ_JOCF01000137" description="NZ_JOCF01000137_c42: Streptomyces sp. NRRL WC-3742 contig137.1, whole genome ... (40% of genes show similarity), nucleoside" class="clusterblast-cluster"  >
+<text x="5" y="220" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_JOCF01000137/42" target="_blank">NZ_JOCF01000137_c42</a>: Streptomyces sp. NRRL WC-3742 contig137.1, whole genome ... (40% of genes show similarity), nucleoside</text>
+<line x1="10" y1="235" x2="778.0" y2="235" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="347,240 349,235 347,230 347,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IH61_RS45400&lt;/b&gt;&lt;br&gt;endonuclease III&lt;br&gt;Location: 6499 - 6344" locus_tag="IH61_RS45400" class="clusterblast-orf" id="general-1_all_1_4_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="353,240 384,240 389,235 384,230 353,230 353,240 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;IH61_RS0139390&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6064 - 3383&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_5&lt;/b&gt;&lt;br&gt;Percentage identity: 53&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 760&lt;br&gt;E-value: 1.6e-217" locus_tag="IH61_RS0139390" class="clusterblast-orf" id="general-1_all_1_4_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="390,240 390,240 395,235 390,230 390,230 390,240 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;IH61_RS0139385&lt;/b&gt;&lt;br&gt;6-carboxytetrahydropterin synthase&lt;br&gt;Location: 3326 - 2925&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_6&lt;/b&gt;&lt;br&gt;Percentage identity: 79&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 214&lt;br&gt;E-value: 5.8e-54" locus_tag="IH61_RS0139385" class="clusterblast-orf" id="general-1_all_1_4_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="399,240 417,240 422,235 417,230 399,230 399,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IH61_RS0139380&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2628 - 979" locus_tag="IH61_RS0139380" class="clusterblast-orf" id="general-1_all_1_4_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="421,235 426,230 432,230 432,240 426,240 421,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IH61_RS0139375&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1049 - 204" locus_tag="IH61_RS0139375" class="clusterblast-orf" id="general-1_all_1_4_4"  />
+</g>
+<g label="NZ_CM002280" description="NZ_CM002280_c15: Streptomyces niveus NCIMB 11891 chromosome, whole genome sho... (10% of genes show similarity), nucleoside" class="clusterblast-cluster"  >
+<text x="5" y="270" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_CM002280/15" target="_blank">NZ_CM002280_c15</a>: Streptomyces niveus NCIMB 11891 chromosome, whole genome sho... (10% of genes show similarity), nucleoside</text>
+<line x1="10" y1="285" x2="778.0" y2="285" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="260,290 279,290 284,285 279,280 260,280 260,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53475&lt;/b&gt;&lt;br&gt;cytochrome c oxidase subunit I&lt;br&gt;Location: 2514681 - 2512912" locus_tag="M877_RS53475" class="clusterblast-orf" id="general-1_all_1_5_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="284,290 284,290 289,285 284,280 284,280 284,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53470&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2512915 - 2512565" locus_tag="M877_RS53470" class="clusterblast-orf" id="general-1_all_1_5_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="289,285 294,280 296,280 296,290 294,290 289,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53465&lt;/b&gt;&lt;br&gt;DUF4396 domain-containing protein&lt;br&gt;Location: 2512528 - 2512040" locus_tag="M877_RS53465" class="clusterblast-orf" id="general-1_all_1_5_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="298,285 303,280 306,280 306,290 303,290 298,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53460&lt;/b&gt;&lt;br&gt;DUF305 domain-containing protein&lt;br&gt;Location: 2511896 - 2511246" locus_tag="M877_RS53460" class="clusterblast-orf" id="general-1_all_1_5_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="307,285 312,280 313,280 313,290 312,290 307,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53455&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2511173 - 2510742" locus_tag="M877_RS53455" class="clusterblast-orf" id="general-1_all_1_5_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="313,285 318,280 327,280 327,290 318,290 313,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53450&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2510725 - 2509691" locus_tag="M877_RS53450" class="clusterblast-orf" id="general-1_all_1_5_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="330,290 330,290 335,285 330,280 330,280 330,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53445&lt;/b&gt;&lt;br&gt;BlaI/MecI/CopY family transcriptional regulator&lt;br&gt;Location: 2509530 - 2509159" locus_tag="M877_RS53445" class="clusterblast-orf" id="general-1_all_1_5_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="335,290 342,290 347,285 342,280 335,280 335,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53440&lt;/b&gt;&lt;br&gt;M56 family peptidase&lt;br&gt;Location: 2509123 - 2508248" locus_tag="M877_RS53440" class="clusterblast-orf" id="general-1_all_1_5_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="348,290 351,285 348,280 348,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53435&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2508182 - 2507928" locus_tag="M877_RS53435" class="clusterblast-orf" id="general-1_all_1_5_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="352,290 383,290 388,285 383,280 352,280 352,290 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53430&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 2507881 - 2505197&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_5&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 766&lt;br&gt;E-value: 2.9e-219" locus_tag="M877_RS53430" class="clusterblast-orf" id="general-1_all_1_5_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="389,290 389,290 394,285 389,280 389,280 389,290 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53425&lt;/b&gt;&lt;br&gt;6-carboxytetrahydropterin synthase&lt;br&gt;Location: 2505138 - 2504752&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_6&lt;/b&gt;&lt;br&gt;Percentage identity: 77&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 198&lt;br&gt;E-value: 3.3e-49" locus_tag="M877_RS53425" class="clusterblast-orf" id="general-1_all_1_5_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="394,285 399,280 413,280 413,290 399,290 394,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53420&lt;/b&gt;&lt;br&gt;L-serine ammonia-lyase&lt;br&gt;Location: 2504726 - 2503344" locus_tag="M877_RS53420" class="clusterblast-orf" id="general-1_all_1_5_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="417,285 422,280 434,280 434,290 422,290 417,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53415&lt;/b&gt;&lt;br&gt;serine hydroxymethyltransferase&lt;br&gt;Location: 2503046 - 2501778" locus_tag="M877_RS53415" class="clusterblast-orf" id="general-1_all_1_5_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="434,285 439,280 440,280 440,290 439,290 434,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53410&lt;/b&gt;&lt;br&gt;glycine cleavage system protein GcvH&lt;br&gt;Location: 2501761 - 2501384" locus_tag="M877_RS53410" class="clusterblast-orf" id="general-1_all_1_5_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="441,285 446,280 456,280 456,290 446,290 441,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53405&lt;/b&gt;&lt;br&gt;glycine cleavage system aminomethyltransferase GcvT&lt;br&gt;Location: 2501293 - 2500130" locus_tag="M877_RS53405" class="clusterblast-orf" id="general-1_all_1_5_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="462,290 462,290 467,285 462,280 462,280 462,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53400&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 2499715 - 2499331" locus_tag="M877_RS53400" class="clusterblast-orf" id="general-1_all_1_5_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="472,290 476,285 472,280 472,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53395&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 2498993 - 2498712" locus_tag="M877_RS53395" class="clusterblast-orf" id="general-1_all_1_5_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="478,290 483,290 488,285 483,280 478,280 478,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53390&lt;/b&gt;&lt;br&gt;enhanced serine sensitivity protein SseB&lt;br&gt;Location: 2498570 - 2497821" locus_tag="M877_RS53390" class="clusterblast-orf" id="general-1_all_1_5_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="489,290 495,290 500,285 495,280 489,280 489,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53385&lt;/b&gt;&lt;br&gt;enhanced serine sensitivity protein SseB&lt;br&gt;Location: 2497689 - 2496895" locus_tag="M877_RS53385" class="clusterblast-orf" id="general-1_all_1_5_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="505,290 514,290 519,285 514,280 505,280 505,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;M877_RS53380&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 2496500 - 2495502" locus_tag="M877_RS53380" class="clusterblast-orf" id="general-1_all_1_5_19"  />
+</g>
+<g label="NZ_LLZG01000301" description="NZ_LLZG01000301_c23: Streptomyces regalis strain NRRL 3151 P010contig36.3, wh... (4% of genes show similarity), nucleoside-nrps" class="clusterblast-cluster"  >
+<text x="5" y="320" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LLZG01000301/23" target="_blank">NZ_LLZG01000301_c23</a>: Streptomyces regalis strain NRRL 3151 P010contig36.3, wh... (4% of genes show similarity), nucleoside-nrps</text>
+<line x1="10" y1="335" x2="778.0" y2="335" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,335 5,330 8,330 8,340 5,340 0,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27080&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 14708 - 15352" locus_tag="ADL12_RS27080" class="clusterblast-orf" id="general-1_all_1_6_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="10,335 15,330 23,330 23,340 15,340 10,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27085&lt;/b&gt;&lt;br&gt;diiron oxygenase&lt;br&gt;Location: 15482 - 16420" locus_tag="ADL12_RS27085" class="clusterblast-orf" id="general-1_all_1_6_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="24,340 34,340 39,335 34,330 24,330 24,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27090&lt;/b&gt;&lt;br&gt;aminobenzoate oxygenase&lt;br&gt;Location: 16546 - 17658" locus_tag="ADL12_RS27090" class="clusterblast-orf" id="general-1_all_1_6_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="40,340 44,340 49,335 44,330 40,330 40,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27095&lt;/b&gt;&lt;br&gt;Uma2 family endonuclease&lt;br&gt;Location: 17740 - 18360" locus_tag="ADL12_RS27095" class="clusterblast-orf" id="general-1_all_1_6_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="48,335 53,330 55,330 55,340 53,340 48,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27100&lt;/b&gt;&lt;br&gt;DUF3291 domain-containing protein&lt;br&gt;Location: 18323 - 18814" locus_tag="ADL12_RS27100" class="clusterblast-orf" id="general-1_all_1_6_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="57,340 79,340 84,335 79,330 57,330 57,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27105&lt;/b&gt;&lt;br&gt;HAMP domain-containing protein&lt;br&gt;Location: 18982 - 20949" locus_tag="ADL12_RS27105" class="clusterblast-orf" id="general-1_all_1_6_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="83,335 88,330 103,330 103,340 88,340 83,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27110&lt;/b&gt;&lt;br&gt;penicillin-binding protein&lt;br&gt;Location: 20926 - 22401" locus_tag="ADL12_RS27110" class="clusterblast-orf" id="general-1_all_1_6_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="103,335 108,330 122,330 122,340 108,340 103,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27115&lt;/b&gt;&lt;br&gt;FtsW/RodA/SpoVE family cell cycle protein&lt;br&gt;Location: 22398 - 23780" locus_tag="ADL12_RS27115" class="clusterblast-orf" id="general-1_all_1_6_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="123,335 128,330 128,330 128,340 128,340 123,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27120&lt;/b&gt;&lt;br&gt;SH3 domain-containing protein&lt;br&gt;Location: 23824 - 24246" locus_tag="ADL12_RS27120" class="clusterblast-orf" id="general-1_all_1_6_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="133,335 138,330 150,330 150,340 138,340 133,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27125&lt;/b&gt;&lt;br&gt;HAMP domain-containing histidine kinase&lt;br&gt;Location: 24613 - 25836" locus_tag="ADL12_RS27125" class="clusterblast-orf" id="general-1_all_1_6_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="150,335 155,330 160,330 160,340 155,340 150,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27130&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 25833 - 26600" locus_tag="ADL12_RS27130" class="clusterblast-orf" id="general-1_all_1_6_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="161,335 166,330 168,330 168,340 166,340 161,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27135&lt;/b&gt;&lt;br&gt;protein phosphatase&lt;br&gt;Location: 26694 - 27200" locus_tag="ADL12_RS27135" class="clusterblast-orf" id="general-1_all_1_6_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="172,340 178,340 183,335 178,330 172,330 172,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27140&lt;/b&gt;&lt;br&gt;NERD domain-containing protein&lt;br&gt;Location: 27493 - 28302" locus_tag="ADL12_RS27140" class="clusterblast-orf" id="general-1_all_1_6_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="183,335 184,330 184,340 183,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS53105&lt;/b&gt;&lt;br&gt;ABC transporter&lt;br&gt;Location: 28324 - 28416" locus_tag="ADL12_RS53105" class="clusterblast-orf" id="general-1_all_1_6_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="185,335 190,330 197,330 197,340 190,340 185,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27145&lt;/b&gt;&lt;br&gt;ATP-dependent DNA ligase&lt;br&gt;Location: 28448 - 29329" locus_tag="ADL12_RS27145" class="clusterblast-orf" id="general-1_all_1_6_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="198,340 207,340 212,335 207,330 198,330 198,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27150&lt;/b&gt;&lt;br&gt;Ku protein&lt;br&gt;Location: 29381 - 30427" locus_tag="ADL12_RS27150" class="clusterblast-orf" id="general-1_all_1_6_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="212,335 217,330 229,330 229,340 217,340 212,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27155&lt;/b&gt;&lt;br&gt;beta-ketoacyl-[acyl-carrier-protein] synthase family protein&lt;br&gt;Location: 30446 - 31717" locus_tag="ADL12_RS27155" class="clusterblast-orf" id="general-1_all_1_6_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="230,335 235,330 240,330 240,340 235,340 230,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27160&lt;/b&gt;&lt;br&gt;thioesterase&lt;br&gt;Location: 31798 - 32550" locus_tag="ADL12_RS27160" class="clusterblast-orf" id="general-1_all_1_6_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="240,335 245,330 269,330 269,340 245,340 240,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27165&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 32547 - 34658" locus_tag="ADL12_RS27165" class="clusterblast-orf" id="general-1_all_1_6_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="269,335 274,330 315,330 315,340 274,340 269,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27170&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 34655 - 38065" locus_tag="ADL12_RS27170" class="clusterblast-orf" id="general-1_all_1_6_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="313,335 318,330 366,330 366,340 318,340 313,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27175&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 37965 - 41870" locus_tag="ADL12_RS27175" class="clusterblast-orf" id="general-1_all_1_6_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="366,335 371,330 430,330 430,340 371,340 366,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27180&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 41870 - 46627" locus_tag="ADL12_RS27180" class="clusterblast-orf" id="general-1_all_1_6_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="430,335 435,330 445,330 445,340 435,340 430,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27185&lt;/b&gt;&lt;br&gt;LLM class flavin-dependent oxidoreductase&lt;br&gt;Location: 46624 - 47697" locus_tag="ADL12_RS27185" class="clusterblast-orf" id="general-1_all_1_6_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="445,335 450,330 493,330 493,340 450,340 445,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27190&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 47688 - 51287" locus_tag="ADL12_RS27190" class="clusterblast-orf" id="general-1_all_1_6_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="493,335 496,330 496,340 493,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27195&lt;/b&gt;&lt;br&gt;MbtH family protein&lt;br&gt;Location: 51280 - 51486" locus_tag="ADL12_RS27195" class="clusterblast-orf" id="general-1_all_1_6_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="496,335 501,330 517,330 517,340 501,340 496,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27200&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 51489 - 53072" locus_tag="ADL12_RS27200" class="clusterblast-orf" id="general-1_all_1_6_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="521,340 527,340 532,335 527,330 521,330 521,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27205&lt;/b&gt;&lt;br&gt;SAM-dependent methyltransferase&lt;br&gt;Location: 53378 - 54196" locus_tag="ADL12_RS27205" class="clusterblast-orf" id="general-1_all_1_6_26"  />
+</g>
+<g id="a1_0027"  >
+<polygon points="534,335 539,330 546,330 546,340 539,340 534,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27210&lt;/b&gt;&lt;br&gt;XRE family transcriptional regulator&lt;br&gt;Location: 54281 - 55201" locus_tag="ADL12_RS27210" class="clusterblast-orf" id="general-1_all_1_6_27"  />
+</g>
+<g id="a1_0028"  >
+<polygon points="548,335 551,330 551,340 548,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27215&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 55366 - 55596" locus_tag="ADL12_RS27215" class="clusterblast-orf" id="general-1_all_1_6_28"  />
+</g>
+<g id="a1_0029"  >
+<polygon points="555,340 557,340 562,335 557,330 555,330 555,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27220&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 55868 - 56365" locus_tag="ADL12_RS27220" class="clusterblast-orf" id="general-1_all_1_6_29"  />
+</g>
+<g id="a1_0030"  >
+<polygon points="564,340 564,340 569,335 564,330 564,330 564,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27225&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 56515 - 56892" locus_tag="ADL12_RS27225" class="clusterblast-orf" id="general-1_all_1_6_30"  />
+</g>
+<g id="a1_0031"  >
+<polygon points="569,340 572,335 569,330 569,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS53110&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 56921 - 57151" locus_tag="ADL12_RS53110" class="clusterblast-orf" id="general-1_all_1_6_31"  />
+</g>
+<g id="a1_0032"  >
+<polygon points="574,340 577,335 574,330 574,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27235&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 57302 - 57514" locus_tag="ADL12_RS27235" class="clusterblast-orf" id="general-1_all_1_6_32"  />
+</g>
+<g id="a1_0033"  >
+<polygon points="584,340 616,340 621,335 616,330 584,330 584,340 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27240&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 58024 - 60741&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_5&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 757&lt;br&gt;E-value: 1.8e-216" locus_tag="ADL12_RS27240" class="clusterblast-orf" id="general-1_all_1_6_33"  />
+</g>
+<g id="a1_0034"  >
+<polygon points="622,340 622,340 627,335 622,330 622,330 622,340 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27245&lt;/b&gt;&lt;br&gt;6-carboxytetrahydropterin synthase&lt;br&gt;Location: 60804 - 61193&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_6&lt;/b&gt;&lt;br&gt;Percentage identity: 75&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 204&lt;br&gt;E-value: 7.9e-51" locus_tag="ADL12_RS27245" class="clusterblast-orf" id="general-1_all_1_6_34"  />
+</g>
+<g id="a1_0035"  >
+<polygon points="628,335 633,330 648,330 648,340 633,340 628,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27250&lt;/b&gt;&lt;br&gt;ATPase&lt;br&gt;Location: 61262 - 62779" locus_tag="ADL12_RS27250" class="clusterblast-orf" id="general-1_all_1_6_35"  />
+</g>
+<g id="a1_0036"  >
+<polygon points="653,340 655,340 660,335 655,330 653,330 653,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27255&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 63154 - 63624" locus_tag="ADL12_RS27255" class="clusterblast-orf" id="general-1_all_1_6_36"  />
+</g>
+<g id="a1_0037"  >
+<polygon points="666,340 672,340 677,335 672,330 666,330 666,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27265&lt;/b&gt;&lt;br&gt;DUF4132 domain-containing protein&lt;br&gt;Location: 64075 - 64926" locus_tag="ADL12_RS27265" class="clusterblast-orf" id="general-1_all_1_6_37"  />
+</g>
+<g id="a1_0038"  >
+<polygon points="677,335 682,330 686,330 686,340 682,340 677,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27270&lt;/b&gt;&lt;br&gt;DUF1697 domain-containing protein&lt;br&gt;Location: 64938 - 65597" locus_tag="ADL12_RS27270" class="clusterblast-orf" id="general-1_all_1_6_38"  />
+</g>
+<g id="a1_0039"  >
+<polygon points="686,335 691,330 697,330 697,340 691,340 686,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27275&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 65578 - 66384" locus_tag="ADL12_RS27275" class="clusterblast-orf" id="general-1_all_1_6_39"  />
+</g>
+<g id="a1_0040"  >
+<polygon points="697,340 717,340 722,335 717,330 697,330 697,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS51060&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 66366 - 68273" locus_tag="ADL12_RS51060" class="clusterblast-orf" id="general-1_all_1_6_40"  />
+</g>
+<g id="a1_0041"  >
+<polygon points="725,335 729,330 729,340 725,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27290&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 68495 - 68773" locus_tag="ADL12_RS27290" class="clusterblast-orf" id="general-1_all_1_6_41"  />
+</g>
+<g id="a1_0042"  >
+<polygon points="732,340 736,335 732,330 732,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27295&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 69019 - 69270" locus_tag="ADL12_RS27295" class="clusterblast-orf" id="general-1_all_1_6_42"  />
+</g>
+<g id="a1_0043"  >
+<polygon points="736,335 741,330 742,330 742,340 741,340 736,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27300&lt;/b&gt;&lt;br&gt;DNA-binding protein&lt;br&gt;Location: 69305 - 69718" locus_tag="ADL12_RS27300" class="clusterblast-orf" id="general-1_all_1_6_43"  />
+</g>
+<g id="a1_0044"  >
+<polygon points="742,335 745,330 745,340 742,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27305&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 69715 - 69978" locus_tag="ADL12_RS27305" class="clusterblast-orf" id="general-1_all_1_6_44"  />
+</g>
+<g id="a1_0045"  >
+<polygon points="762,340 764,340 769,335 764,330 762,330 762,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27315&lt;/b&gt;&lt;br&gt;response regulator&lt;br&gt;Location: 71183 - 71746" locus_tag="ADL12_RS27315" class="clusterblast-orf" id="general-1_all_1_6_45"  />
+</g>
+<g id="a1_0046"  >
+<polygon points="772,340 775,340 780,335 775,330 772,330 772,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ADL12_RS27320&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 71953 - 72507" locus_tag="ADL12_RS27320" class="clusterblast-orf" id="general-1_all_1_6_46"  />
+</g>
+<g label="NZ_AJTQ01000257" description="NZ_AJTQ01000257_c17: Streptomyces xiaopingdaonensis strain DUT180 contig 257,... (22% of genes show similarity), nucleoside" class="clusterblast-cluster"  >
+<text x="5" y="370" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_AJTQ01000257/17" target="_blank">NZ_AJTQ01000257_c17</a>: Streptomyces xiaopingdaonensis strain DUT180 contig 257,... (22% of genes show similarity), nucleoside</text>
+<line x1="10" y1="385" x2="778.0" y2="385" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="276,385 280,380 280,390 276,385 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UWG_RS0120530&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 54849 - 54556" locus_tag="UWG_RS0120530" class="clusterblast-orf" id="general-1_all_1_7_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="287,385 292,380 336,380 336,390 292,390 287,385 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UWG_RS0120525&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 54064 - 50417" locus_tag="UWG_RS0120525" class="clusterblast-orf" id="general-1_all_1_7_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="340,390 371,390 376,385 371,380 340,380 340,390 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;UWG_RS0120520&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 50126 - 47442&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_5&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 736&lt;br&gt;E-value: 4.2e-210" locus_tag="UWG_RS0120520" class="clusterblast-orf" id="general-1_all_1_7_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="377,390 377,390 382,385 377,380 377,380 377,390 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;UWG_RS0120515&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 47382 - 47008&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_6&lt;/b&gt;&lt;br&gt;Percentage identity: 72&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 185&lt;br&gt;E-value: 3.8e-45" locus_tag="UWG_RS0120515" class="clusterblast-orf" id="general-1_all_1_7_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="383,385 388,380 424,380 424,390 388,390 383,385 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UWG_RS0120510&lt;/b&gt;&lt;br&gt;FAD-binding oxidoreductase&lt;br&gt;Location: 46939 - 43847" locus_tag="UWG_RS0120510" class="clusterblast-orf" id="general-1_all_1_7_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="425,390 435,390 440,385 435,380 425,380 425,390 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UWG_RS0120505&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 43823 - 42711" locus_tag="UWG_RS0120505" class="clusterblast-orf" id="general-1_all_1_7_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="440,385 445,380 462,380 462,390 445,390 440,385 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UWG_RS0120500&lt;/b&gt;&lt;br&gt;glycoside hydrolase&lt;br&gt;Location: 42678 - 41035" locus_tag="UWG_RS0120500" class="clusterblast-orf" id="general-1_all_1_7_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="464,385 469,380 488,380 488,390 469,390 464,385 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UWG_RS0120495&lt;/b&gt;&lt;br&gt;thiamine pyrophosphate-requiring protein&lt;br&gt;Location: 40928 - 39123" locus_tag="UWG_RS0120495" class="clusterblast-orf" id="general-1_all_1_7_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="489,385 494,380 503,380 503,390 494,390 489,385 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UWG_RS30600&lt;/b&gt;&lt;br&gt;KR domain-containing protein&lt;br&gt;Location: 39063 - 38017" locus_tag="UWG_RS30600" class="clusterblast-orf" id="general-1_all_1_7_8"  />
+</g>
+<g label="NZ_KB891997" description="NZ_KB891997_c18: Streptomyces sp. LaPpAH-108 B079DRAFT scaffold 6.7, whole ge... (14% of genes show similarity), nucleoside" class="clusterblast-cluster"  >
+<text x="5" y="420" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_KB891997/18" target="_blank">NZ_KB891997_c18</a>: Streptomyces sp. LaPpAH-108 B079DRAFT scaffold 6.7, whole ge... (14% of genes show similarity), nucleoside</text>
+<line x1="10" y1="435" x2="778.0" y2="435" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="270,435 275,430 301,430 301,440 275,440 270,435 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS0124940&lt;/b&gt;&lt;br&gt;5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase&lt;br&gt;Location: 72926 - 75238" locus_tag="B079_RS0124940" class="clusterblast-orf" id="general-1_all_1_8_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="307,435 312,430 312,430 312,440 312,440 307,435 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS0124945&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 75698 - 76015" locus_tag="B079_RS0124945" class="clusterblast-orf" id="general-1_all_1_8_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="314,435 319,430 328,430 328,440 319,440 314,435 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS0124950&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 76220 - 77206" locus_tag="B079_RS0124950" class="clusterblast-orf" id="general-1_all_1_8_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="333,440 335,440 340,435 335,430 333,430 333,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS0124955&lt;/b&gt;&lt;br&gt;universal stress protein UspA&lt;br&gt;Location: 77563 - 78099" locus_tag="B079_RS0124955" class="clusterblast-orf" id="general-1_all_1_8_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="342,440 374,440 379,435 374,430 342,430 342,440 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS32710&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 78267 - 81011&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_5&lt;/b&gt;&lt;br&gt;Percentage identity: 50&lt;br&gt;Percentage coverage: 102&lt;br&gt;BLAST bit score: 691&lt;br&gt;E-value: 1.2e-196" locus_tag="B079_RS32710" class="clusterblast-orf" id="general-1_all_1_8_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="379,440 379,440 384,435 379,430 379,430 379,440 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS0124965&lt;/b&gt;&lt;br&gt;6-carboxytetrahydropterin synthase&lt;br&gt;Location: 81030 - 81401&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_6&lt;/b&gt;&lt;br&gt;Percentage identity: 79&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 213&lt;br&gt;E-value: 1.7e-53" locus_tag="B079_RS0124965" class="clusterblast-orf" id="general-1_all_1_8_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="384,435 389,430 417,430 417,440 389,440 384,435 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS0124970&lt;/b&gt;&lt;br&gt;glycoside hydrolase family 65 protein&lt;br&gt;Location: 81398 - 83812" locus_tag="B079_RS0124970" class="clusterblast-orf" id="general-1_all_1_8_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="419,440 423,440 428,435 423,430 419,430 419,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS0124975&lt;/b&gt;&lt;br&gt;CBS domain-containing protein&lt;br&gt;Location: 83984 - 84658" locus_tag="B079_RS0124975" class="clusterblast-orf" id="general-1_all_1_8_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="430,440 437,440 442,435 437,430 430,430 430,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS0124980&lt;/b&gt;&lt;br&gt;universal stress protein&lt;br&gt;Location: 84802 - 85650" locus_tag="B079_RS0124980" class="clusterblast-orf" id="general-1_all_1_8_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="443,435 448,430 456,430 456,440 448,440 443,435 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS0124985&lt;/b&gt;&lt;br&gt;nitroreductase&lt;br&gt;Location: 85729 - 86709" locus_tag="B079_RS0124985" class="clusterblast-orf" id="general-1_all_1_8_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="457,435 462,430 468,430 468,440 462,440 457,435 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS0124990&lt;/b&gt;&lt;br&gt;universal stress protein UspA&lt;br&gt;Location: 86775 - 87626" locus_tag="B079_RS0124990" class="clusterblast-orf" id="general-1_all_1_8_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="473,440 480,440 485,435 480,430 473,430 473,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS0124995&lt;/b&gt;&lt;br&gt;universal stress protein&lt;br&gt;Location: 87946 - 88842" locus_tag="B079_RS0124995" class="clusterblast-orf" id="general-1_all_1_8_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="486,435 491,430 495,430 495,440 491,440 486,435 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS32715&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 88916 - 89617" locus_tag="B079_RS32715" class="clusterblast-orf" id="general-1_all_1_8_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="497,440 504,440 509,435 504,430 497,430 497,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;B079_RS32720&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 89720 - 90646" locus_tag="B079_RS32720" class="clusterblast-orf" id="general-1_all_1_8_13"  />
+</g>
+<g label="NZ_KQ948938" description="NZ_KQ948938_c29: Streptomyces caeruleatus strain NRRL B-24802 PRJNA299234 s01... (7% of genes show similarity), nucleoside" class="clusterblast-cluster"  >
+<text x="5" y="470" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_KQ948938/29" target="_blank">NZ_KQ948938_c29</a>: Streptomyces caeruleatus strain NRRL B-24802 PRJNA299234 s01... (7% of genes show similarity), nucleoside</text>
+<line x1="10" y1="485" x2="778.0" y2="485" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="253,490 254,490 259,485 254,480 253,480 253,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS46035&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 128462 - 128896" locus_tag="AQJ67_RS46035" class="clusterblast-orf" id="general-1_all_1_9_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="259,490 267,490 272,485 267,480 259,480 259,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35675&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 128900 - 129841" locus_tag="AQJ67_RS35675" class="clusterblast-orf" id="general-1_all_1_9_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="272,490 276,490 281,485 276,480 272,480 272,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35680&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 129841 - 130548" locus_tag="AQJ67_RS35680" class="clusterblast-orf" id="general-1_all_1_9_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="283,490 286,490 291,485 286,480 283,480 283,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35685&lt;/b&gt;&lt;br&gt;WhiB family transcriptional regulator&lt;br&gt;Location: 130650 - 131243" locus_tag="AQJ67_RS35685" class="clusterblast-orf" id="general-1_all_1_9_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="291,490 299,490 304,485 299,480 291,480 291,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35690&lt;/b&gt;&lt;br&gt;DUF2637 domain-containing protein&lt;br&gt;Location: 131240 - 132250" locus_tag="AQJ67_RS35690" class="clusterblast-orf" id="general-1_all_1_9_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="306,490 309,485 306,480 306,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35695&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 132341 - 132565" locus_tag="AQJ67_RS35695" class="clusterblast-orf" id="general-1_all_1_9_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="309,490 312,490 317,485 312,480 309,480 309,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35700&lt;/b&gt;&lt;br&gt;plasmid mobilization relaxosome protein MobC&lt;br&gt;Location: 132562 - 133185" locus_tag="AQJ67_RS35700" class="clusterblast-orf" id="general-1_all_1_9_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="317,490 336,490 341,485 336,480 317,480 317,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35705&lt;/b&gt;&lt;br&gt;mobilization protein&lt;br&gt;Location: 133188 - 134933" locus_tag="AQJ67_RS35705" class="clusterblast-orf" id="general-1_all_1_9_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="341,490 342,490 347,485 342,480 341,480 341,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35710&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 135001 - 135393" locus_tag="AQJ67_RS35710" class="clusterblast-orf" id="general-1_all_1_9_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="349,490 382,490 387,485 382,480 349,480 349,490 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35720&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 135567 - 138350&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_5&lt;/b&gt;&lt;br&gt;Percentage identity: 50&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 685&lt;br&gt;E-value: 8.6e-195" locus_tag="AQJ67_RS35720" class="clusterblast-orf" id="general-1_all_1_9_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="387,490 387,490 392,485 387,480 387,480 387,490 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35725&lt;/b&gt;&lt;br&gt;6-carboxytetrahydropterin synthase&lt;br&gt;Location: 138368 - 138733&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_6&lt;/b&gt;&lt;br&gt;Percentage identity: 79&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 212&lt;br&gt;E-value: 2.2e-53" locus_tag="AQJ67_RS35725" class="clusterblast-orf" id="general-1_all_1_9_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="394,485 399,480 399,480 399,490 399,490 394,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35730&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 138899 - 139231" locus_tag="AQJ67_RS35730" class="clusterblast-orf" id="general-1_all_1_9_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="400,485 403,480 403,490 400,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35735&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 139315 - 139539" locus_tag="AQJ67_RS35735" class="clusterblast-orf" id="general-1_all_1_9_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="403,485 408,480 409,480 409,490 408,490 403,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35740&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 139595 - 139987" locus_tag="AQJ67_RS35740" class="clusterblast-orf" id="general-1_all_1_9_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="418,490 418,490 423,485 418,480 418,480 418,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35745&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 140669 - 141019" locus_tag="AQJ67_RS35745" class="clusterblast-orf" id="general-1_all_1_9_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="425,485 430,480 433,480 433,490 430,490 425,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35750&lt;/b&gt;&lt;br&gt;DUF317 domain-containing protein&lt;br&gt;Location: 141160 - 141762" locus_tag="AQJ67_RS35750" class="clusterblast-orf" id="general-1_all_1_9_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="432,485 435,480 435,490 432,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35755&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 141723 - 141920" locus_tag="AQJ67_RS35755" class="clusterblast-orf" id="general-1_all_1_9_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="435,485 440,480 447,480 447,490 440,490 435,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35760&lt;/b&gt;&lt;br&gt;DUF317 domain-containing protein&lt;br&gt;Location: 141949 - 142803" locus_tag="AQJ67_RS35760" class="clusterblast-orf" id="general-1_all_1_9_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="448,485 453,480 459,480 459,490 453,490 448,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35765&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 142902 - 143696" locus_tag="AQJ67_RS35765" class="clusterblast-orf" id="general-1_all_1_9_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="459,485 464,480 466,480 466,490 464,490 459,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35770&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 143729 - 144199" locus_tag="AQJ67_RS35770" class="clusterblast-orf" id="general-1_all_1_9_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="466,485 471,480 476,480 476,490 471,490 466,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35775&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 144196 - 145005" locus_tag="AQJ67_RS35775" class="clusterblast-orf" id="general-1_all_1_9_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="476,485 481,480 484,480 484,490 481,490 476,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35780&lt;/b&gt;&lt;br&gt;DUF4913 domain-containing protein&lt;br&gt;Location: 145007 - 145603" locus_tag="AQJ67_RS35780" class="clusterblast-orf" id="general-1_all_1_9_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="490,490 493,485 490,480 490,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS46040&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 146021 - 146257" locus_tag="AQJ67_RS46040" class="clusterblast-orf" id="general-1_all_1_9_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="495,485 500,480 502,480 502,490 500,490 495,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS46045&lt;/b&gt;&lt;br&gt;DNA methyltransferase&lt;br&gt;Location: 146367 - 146906" locus_tag="AQJ67_RS46045" class="clusterblast-orf" id="general-1_all_1_9_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="502,485 507,480 510,480 510,490 507,490 502,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35790&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 146896 - 147498" locus_tag="AQJ67_RS35790" class="clusterblast-orf" id="general-1_all_1_9_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="510,485 515,480 526,480 526,490 515,490 510,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AQJ67_RS35795&lt;/b&gt;&lt;br&gt;helicase DnaB&lt;br&gt;Location: 147495 - 148664" locus_tag="AQJ67_RS35795" class="clusterblast-orf" id="general-1_all_1_9_25"  />
+</g>
+<g label="NZ_CP025394" description="NZ_CP025394_c10: Kitasatospora sp. MMS16-BH015 chromosome, complete genome (14% of genes show similarity), nucleoside" class="clusterblast-cluster"  >
+<text x="5" y="520" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_CP025394/10" target="_blank">NZ_CP025394_c10</a>: Kitasatospora sp. MMS16-BH015 chromosome, complete genome (14% of genes show similarity), nucleoside</text>
+<line x1="10" y1="535" x2="778.0" y2="535" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="265,540 275,540 280,535 275,530 265,530 265,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07055&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1638071 - 1639216" locus_tag="CFP65_RS07055" class="clusterblast-orf" id="general-1_all_1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="281,535 286,530 304,530 304,540 286,540 281,535 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07060&lt;/b&gt;&lt;br&gt;DUF885 domain-containing protein&lt;br&gt;Location: 1639283 - 1640998" locus_tag="CFP65_RS07060" class="clusterblast-orf" id="general-1_all_1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="309,540 310,540 315,535 310,530 309,530 309,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07065&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1641323 - 1641793" locus_tag="CFP65_RS07065" class="clusterblast-orf" id="general-1_all_1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="315,535 320,530 324,530 324,540 320,540 315,535 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07070&lt;/b&gt;&lt;br&gt;beta-glucanase&lt;br&gt;Location: 1641798 - 1642481" locus_tag="CFP65_RS07070" class="clusterblast-orf" id="general-1_all_1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="339,540 371,540 376,535 371,530 339,530 339,540 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07075&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 1643578 - 1646292&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_5&lt;/b&gt;&lt;br&gt;Percentage identity: 48&lt;br&gt;Percentage coverage: 102&lt;br&gt;BLAST bit score: 675&lt;br&gt;E-value: 8.9e-192" locus_tag="CFP65_RS07075" class="clusterblast-orf" id="general-1_all_1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="376,540 376,540 381,535 376,530 376,530 376,540 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07080&lt;/b&gt;&lt;br&gt;6-carboxytetrahydropterin synthase&lt;br&gt;Location: 1646322 - 1646687&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg85_6&lt;/b&gt;&lt;br&gt;Percentage identity: 74&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 201&lt;br&gt;E-value: 5.1e-50" locus_tag="CFP65_RS07080" class="clusterblast-orf" id="general-1_all_1_10_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="384,540 426,540 431,535 426,530 384,530 384,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07085&lt;/b&gt;&lt;br&gt;CHAT domain-containing protein&lt;br&gt;Location: 1646890 - 1650402" locus_tag="CFP65_RS07085" class="clusterblast-orf" id="general-1_all_1_10_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="431,540 436,540 441,535 436,530 431,530 431,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07090&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1650399 - 1651103" locus_tag="CFP65_RS07090" class="clusterblast-orf" id="general-1_all_1_10_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="441,540 445,540 450,535 445,530 441,530 441,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07095&lt;/b&gt;&lt;br&gt;RES domain-containing protein&lt;br&gt;Location: 1651103 - 1651789" locus_tag="CFP65_RS07095" class="clusterblast-orf" id="general-1_all_1_10_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="450,540 457,540 462,535 457,530 450,530 450,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07100&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1651842 - 1652660" locus_tag="CFP65_RS07100" class="clusterblast-orf" id="general-1_all_1_10_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="462,540 469,540 474,535 469,530 462,530 462,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07105&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1652678 - 1653568" locus_tag="CFP65_RS07105" class="clusterblast-orf" id="general-1_all_1_10_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="474,540 484,540 489,535 484,530 474,530 474,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07110&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1653565 - 1654698" locus_tag="CFP65_RS07110" class="clusterblast-orf" id="general-1_all_1_10_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="489,540 493,540 498,535 493,530 489,530 489,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07115&lt;/b&gt;&lt;br&gt;radical SAM protein&lt;br&gt;Location: 1654695 - 1655381" locus_tag="CFP65_RS07115" class="clusterblast-orf" id="general-1_all_1_10_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="512,540 514,535 512,530 512,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CFP65_RS07120&lt;/b&gt;&lt;br&gt;RNA helicase&lt;br&gt;Location: 1656391 - 1656576" locus_tag="CFP65_RS07120" class="clusterblast-orf" id="general-1_all_1_10_13"  />
+</g>
+</svg>

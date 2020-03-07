@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="322,35 327,30 333,30 333,40 327,40 322,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg263_1&lt;/b&gt;&lt;br&gt;ctg263 1&lt;br&gt;Location: 2 - 560" locus_tag="ctg263_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="333,35 338,30 350,30 350,40 338,40 333,35 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg263_2&lt;/b&gt;&lt;br&gt;ctg263 2&lt;br&gt;Location: 559 - 1465" locus_tag="ctg263_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="350,35 355,30 426,30 426,40 355,40 350,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg263_3&lt;/b&gt;&lt;br&gt;ctg263 3&lt;br&gt;Location: 1506 - 5577" locus_tag="ctg263_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="436,35 441,30 457,30 457,40 441,40 436,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg263_4&lt;/b&gt;&lt;br&gt;ctg263 4&lt;br&gt;Location: 6099 - 7227" locus_tag="ctg263_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+</g>
+<g label="NZ_JUHP01000013" description="NZ_JUHP01000013_c10: Rhizobium tropici strain YR530 EX10DRAFT scaffold00012.1... (5% of genes show similarity), other" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_JUHP01000013/10" target="_blank">NZ_JUHP01000013_c10</a>: Rhizobium tropici strain YR530 EX10DRAFT scaffold00012.1... (5% of genes show similarity), other</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 18,80 18,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27190&lt;/b&gt;&lt;br&gt;BMP family ABC transporter substrate-binding protein&lt;br&gt;Location: 77011 - 78012" locus_tag="EX10_RS27190" class="clusterblast-orf" id="dummy-1_h1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="23,90 29,90 34,85 29,80 23,80 23,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27195&lt;/b&gt;&lt;br&gt;amino acid synthesis family protein&lt;br&gt;Location: 78290 - 78874" locus_tag="EX10_RS27195" class="clusterblast-orf" id="dummy-1_h1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="34,90 40,90 45,85 40,80 34,80 34,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27200&lt;/b&gt;&lt;br&gt;amino acid synthesis family protein&lt;br&gt;Location: 78871 - 79467" locus_tag="EX10_RS27200" class="clusterblast-orf" id="dummy-1_h1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="47,85 52,80 69,80 69,90 52,90 47,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27205&lt;/b&gt;&lt;br&gt;enamidase&lt;br&gt;Location: 79553 - 80752" locus_tag="EX10_RS27205" class="clusterblast-orf" id="dummy-1_h1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="74,85 79,80 83,80 83,90 79,90 74,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27210&lt;/b&gt;&lt;br&gt;MarR family transcriptional regulator&lt;br&gt;Location: 80985 - 81506" locus_tag="EX10_RS27210" class="clusterblast-orf" id="dummy-1_h1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="85,85 90,80 97,80 97,90 90,90 85,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27215&lt;/b&gt;&lt;br&gt;cysteine hydrolase&lt;br&gt;Location: 81610 - 82251" locus_tag="EX10_RS27215" class="clusterblast-orf" id="dummy-1_h1_10_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="102,90 123,90 128,85 123,80 102,80 102,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27220&lt;/b&gt;&lt;br&gt;ABC transporter substrate-binding protein&lt;br&gt;Location: 82529 - 83896" locus_tag="EX10_RS27220" class="clusterblast-orf" id="dummy-1_h1_10_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="131,90 144,90 149,85 144,80 131,80 131,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27225&lt;/b&gt;&lt;br&gt;sugar phosphate isomerase/epimerase&lt;br&gt;Location: 84082 - 85005" locus_tag="EX10_RS27225" class="clusterblast-orf" id="dummy-1_h1_10_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="149,90 161,90 166,85 161,80 149,80 149,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27230&lt;/b&gt;&lt;br&gt;sugar ABC transporter permease&lt;br&gt;Location: 85019 - 85924" locus_tag="EX10_RS27230" class="clusterblast-orf" id="dummy-1_h1_10_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="166,90 178,90 183,85 178,80 166,80 166,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27235&lt;/b&gt;&lt;br&gt;carbohydrate ABC transporter permease&lt;br&gt;Location: 85927 - 86838" locus_tag="EX10_RS27235" class="clusterblast-orf" id="dummy-1_h1_10_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="183,90 199,90 204,85 199,80 183,80 183,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27240&lt;/b&gt;&lt;br&gt;gfo/Idh/MocA family oxidoreductase&lt;br&gt;Location: 86855 - 87964" locus_tag="EX10_RS27240" class="clusterblast-orf" id="dummy-1_h1_10_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="204,90 215,90 220,85 215,80 204,80 204,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27245&lt;/b&gt;&lt;br&gt;NAD(P)-dependent oxidoreductase&lt;br&gt;Location: 87961 - 88821" locus_tag="EX10_RS27245" class="clusterblast-orf" id="dummy-1_h1_10_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="221,90 231,90 236,85 231,80 221,80 221,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27250&lt;/b&gt;&lt;br&gt;NAD(P)-dependent oxidoreductase&lt;br&gt;Location: 88887 - 89690" locus_tag="EX10_RS27250" class="clusterblast-orf" id="dummy-1_h1_10_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="248,85 253,80 264,80 264,90 253,90 248,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27255&lt;/b&gt;&lt;br&gt;serine O-acetyltransferase&lt;br&gt;Location: 90305 - 91186" locus_tag="EX10_RS27255" class="clusterblast-orf" id="dummy-1_h1_10_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="265,85 270,80 279,80 279,90 270,90 265,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27260&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 91253 - 91993" locus_tag="EX10_RS27260" class="clusterblast-orf" id="dummy-1_h1_10_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="281,85 286,80 300,80 300,90 286,90 281,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27265&lt;/b&gt;&lt;br&gt;HoxN/HupN/NixA family nickel/cobalt transporter&lt;br&gt;Location: 92082 - 93119" locus_tag="EX10_RS27265" class="clusterblast-orf" id="dummy-1_h1_10_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="302,85 307,80 311,80 311,90 307,90 302,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27270&lt;/b&gt;&lt;br&gt;cupin domain-containing protein&lt;br&gt;Location: 93204 - 93695" locus_tag="EX10_RS27270" class="clusterblast-orf" id="dummy-1_h1_10_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="312,85 317,80 329,80 329,90 317,90 312,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27275&lt;/b&gt;&lt;br&gt;cysteine synthase family protein&lt;br&gt;Location: 93771 - 94655" locus_tag="EX10_RS27275" class="clusterblast-orf" id="dummy-1_h1_10_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="332,85 337,80 349,80 349,90 337,90 332,85 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27280&lt;/b&gt;&lt;br&gt;EamA/RhaT family transporter&lt;br&gt;Location: 94811 - 95728&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg263_2&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 270&lt;br&gt;E-value: 2.2e-70" locus_tag="EX10_RS27280" class="clusterblast-orf" id="dummy-1_h1_10_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="349,85 354,80 425,80 425,90 354,90 349,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27285&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 95740 - 99792&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg263_3&lt;/b&gt;&lt;br&gt;Percentage identity: 45&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1089&lt;br&gt;E-value: 0.0" locus_tag="EX10_RS27285" class="clusterblast-orf" id="dummy-1_h1_10_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="428,85 433,80 442,80 442,90 433,90 428,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27290&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 99982 - 100728" locus_tag="EX10_RS27290" class="clusterblast-orf" id="dummy-1_h1_10_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="442,85 447,80 457,80 457,90 447,90 442,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27295&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 100716 - 101552" locus_tag="EX10_RS27295" class="clusterblast-orf" id="dummy-1_h1_10_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="458,85 463,80 474,80 474,90 463,90 458,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27300&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 101568 - 102458" locus_tag="EX10_RS27300" class="clusterblast-orf" id="dummy-1_h1_10_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="474,85 479,80 495,80 495,90 479,90 474,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27305&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 102463 - 103584" locus_tag="EX10_RS27305" class="clusterblast-orf" id="dummy-1_h1_10_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="499,85 504,80 511,80 511,90 504,90 499,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27310&lt;/b&gt;&lt;br&gt;GntR family transcriptional regulator&lt;br&gt;Location: 103790 - 104443" locus_tag="EX10_RS27310" class="clusterblast-orf" id="dummy-1_h1_10_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="518,85 523,80 532,80 532,90 523,90 518,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27315&lt;/b&gt;&lt;br&gt;ectoine/hydroxyectoine ABC transporter ATP-binding protein EhuA&lt;br&gt;Location: 104787 - 105575" locus_tag="EX10_RS27315" class="clusterblast-orf" id="dummy-1_h1_10_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="532,85 537,80 546,80 546,90 537,90 532,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27320&lt;/b&gt;&lt;br&gt;ectoine/hydroxyectoine ABC transporter permease subunit EhuD&lt;br&gt;Location: 105568 - 106281" locus_tag="EX10_RS27320" class="clusterblast-orf" id="dummy-1_h1_10_26"  />
+</g>
+<g id="a1_0027"  >
+<polygon points="547,85 552,80 560,80 560,90 552,90 547,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27325&lt;/b&gt;&lt;br&gt;amino acid ABC transporter permease&lt;br&gt;Location: 106358 - 107026" locus_tag="EX10_RS27325" class="clusterblast-orf" id="dummy-1_h1_10_27"  />
+</g>
+<g id="a1_0028"  >
+<polygon points="561,85 566,80 577,80 577,90 566,90 561,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27330&lt;/b&gt;&lt;br&gt;ectoine/hydroxyectoine ABC transporter substrate-binding protein EhuB&lt;br&gt;Location: 107098 - 107958" locus_tag="EX10_RS27330" class="clusterblast-orf" id="dummy-1_h1_10_28"  />
+</g>
+<g id="a1_0029"  >
+<polygon points="580,85 585,80 605,80 605,90 585,90 580,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27335&lt;/b&gt;&lt;br&gt;LLM class flavin-dependent oxidoreductase&lt;br&gt;Location: 108140 - 109486" locus_tag="EX10_RS27335" class="clusterblast-orf" id="dummy-1_h1_10_29"  />
+</g>
+<g id="a1_0030"  >
+<polygon points="606,85 611,80 631,80 631,90 611,90 606,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27340&lt;/b&gt;&lt;br&gt;FMN-dependent monooxygenase&lt;br&gt;Location: 109494 - 110843" locus_tag="EX10_RS27340" class="clusterblast-orf" id="dummy-1_h1_10_30"  />
+</g>
+<g id="a1_0031"  >
+<polygon points="632,85 637,80 663,80 663,90 637,90 632,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27345&lt;/b&gt;&lt;br&gt;ABC transporter substrate-binding protein&lt;br&gt;Location: 110913 - 112568" locus_tag="EX10_RS27345" class="clusterblast-orf" id="dummy-1_h1_10_31"  />
+</g>
+<g id="a1_0032"  >
+<polygon points="673,90 681,90 686,85 681,80 673,80 673,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27350&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 113095 - 113784" locus_tag="EX10_RS27350" class="clusterblast-orf" id="dummy-1_h1_10_32"  />
+</g>
+<g id="a1_0033"  >
+<polygon points="689,85 694,80 695,80 695,90 694,90 689,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS33400&lt;/b&gt;&lt;br&gt;transposase&lt;br&gt;Location: 113973 - 114308" locus_tag="EX10_RS33400" class="clusterblast-orf" id="dummy-1_h1_10_33"  />
+</g>
+<g id="a1_0034"  >
+<polygon points="703,90 707,90 712,85 707,80 703,80 703,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS33405&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 114709 - 115212" locus_tag="EX10_RS33405" class="clusterblast-orf" id="dummy-1_h1_10_34"  />
+</g>
+<g id="a1_0035"  >
+<polygon points="713,90 727,90 732,85 727,80 713,80 713,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27365&lt;/b&gt;&lt;br&gt;sugar ABC transporter substrate-binding protein&lt;br&gt;Location: 115247 - 116290" locus_tag="EX10_RS27365" class="clusterblast-orf" id="dummy-1_h1_10_35"  />
+</g>
+<g id="a1_0036"  >
+<polygon points="734,90 752,90 757,85 752,80 734,80 734,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27370&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 116366 - 117619" locus_tag="EX10_RS27370" class="clusterblast-orf" id="dummy-1_h1_10_36"  />
+</g>
+<g id="a1_0037"  >
+<polygon points="757,85 762,80 765,80 765,90 762,90 757,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS33410&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 117590 - 118034" locus_tag="EX10_RS33410" class="clusterblast-orf" id="dummy-1_h1_10_37"  />
+</g>
+<g id="a1_0038"  >
+<polygon points="767,85 772,80 772,80 772,90 772,90 767,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27375&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 118163 - 118423" locus_tag="EX10_RS27375" class="clusterblast-orf" id="dummy-1_h1_10_38"  />
+</g>
+<g id="a1_0039"  >
+<polygon points="773,85 778,80 779,80 779,90 778,90 773,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EX10_RS27380&lt;/b&gt;&lt;br&gt;ferredoxin family protein&lt;br&gt;Location: 118457 - 118816" locus_tag="EX10_RS27380" class="clusterblast-orf" id="dummy-1_h1_10_39"  />
+</g>
+</svg>

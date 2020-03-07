@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>CCH63730.1</td>
+              <td>XiaD_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000665/1">BGC0000665</a></td>
+              <td>terpene-alkaloid</td>
+              <td>82.0</td>
+              <td>100.0</td>
+              <td>270.0</td>
+              <td>1.3e-72</td>
+          </tr>
+    
+          <tr>
+              <td>AFK78073.1</td>
+              <td>XiaG</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000666/1">BGC0000666</a></td>
+              <td>terpene</td>
+              <td>84.0</td>
+              <td>96.0</td>
+              <td>270.0</td>
+              <td>1.8e-72</td>
+          </tr>
+    
+          <tr>
+              <td>AFJ52719.1</td>
+              <td>response_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001073/1">BGC0001073</a></td>
+              <td>nrps-t2pks</td>
+              <td>45.0</td>
+              <td>94.4</td>
+              <td>134.0</td>
+              <td>1.5e-31</td>
+          </tr>
+    
+          <tr>
+              <td>AAQ84141.1</td>
+              <td>PlmR3</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000123/1">BGC0000123</a></td>
+              <td>t1pks</td>
+              <td>43.0</td>
+              <td>99.4</td>
+              <td>129.0</td>
+              <td>3.7e-30</td>
+          </tr>
+    
+          <tr>
+              <td>AAS79478.1</td>
+              <td>putative_response_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000035/1">BGC0000035</a></td>
+              <td>t1pks</td>
+              <td>46.0</td>
+              <td>93.8</td>
+              <td>118.0</td>
+              <td>8.6e-27</td>
+          </tr>
+    
+          <tr>
+              <td>ARE72421.1</td>
+              <td>LuxR_family_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001510/1">BGC0001510</a></td>
+              <td>other</td>
+              <td>44.0</td>
+              <td>94.4</td>
+              <td>118.0</td>
+              <td>1.1e-26</td>
+          </tr>
+    
+          <tr>
+              <td>ADI58626.1</td>
+              <td>AsuR1</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000187/1">BGC0000187</a></td>
+              <td>t2pks</td>
+              <td>33.0</td>
+              <td>93.8</td>
+              <td>60.0</td>
+              <td>2.8e-09</td>
+          </tr>
+    
+          <tr>
+              <td>AIE54225.1</td>
+              <td>PauY5</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001732/1">BGC0001732</a></td>
+              <td>other</td>
+              <td>31.0</td>
+              <td>96.0</td>
+              <td>56.0</td>
+              <td>6.8e-08</td>
+          </tr>
+    
+          <tr>
+              <td>AIE54172.1</td>
+              <td>Pau5</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001731/1">BGC0001731</a></td>
+              <td>other</td>
+              <td>45.0</td>
+              <td>33.9</td>
+              <td>52.0</td>
+              <td>9.8e-07</td>
+          </tr>
+    
+          <tr>
+              <td>SCO70333.1</td>
+              <td>LuxR-like_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001433/1">BGC0001433</a></td>
+              <td>t1pks</td>
+              <td>42.0</td>
+              <td>33.9</td>
+              <td>50.0</td>
+              <td>2.2e-06</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

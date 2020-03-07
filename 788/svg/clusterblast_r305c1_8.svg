@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="262,35 267,30 267,30 267,40 267,40 262,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_1&lt;/b&gt;&lt;br&gt;ctg305 1&lt;br&gt;Location: 0 - 123" locus_tag="ctg305_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="268,40 281,40 286,35 281,30 268,30 268,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_2&lt;/b&gt;&lt;br&gt;ctg305 2&lt;br&gt;Location: 144 - 609" locus_tag="ctg305_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="286,40 315,40 320,35 315,30 286,30 286,40 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_3&lt;/b&gt;&lt;br&gt;ctg305 3&lt;br&gt;Location: 605 - 1460" locus_tag="ctg305_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="319,40 387,40 392,35 387,30 319,30 319,40 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_4&lt;/b&gt;&lt;br&gt;ctg305 4&lt;br&gt;Location: 1437 - 3264" locus_tag="ctg305_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="398,40 409,40 414,35 409,30 398,30 398,40 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_5&lt;/b&gt;&lt;br&gt;ctg305 5&lt;br&gt;Location: 3403 - 3817" locus_tag="ctg305_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="415,40 468,40 473,35 468,30 415,30 415,40 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_6&lt;/b&gt;&lt;br&gt;ctg305 6&lt;br&gt;Location: 3837 - 5298" locus_tag="ctg305_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="473,40 479,40 484,35 479,30 473,30 473,40 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_7&lt;/b&gt;&lt;br&gt;ctg305 7&lt;br&gt;Location: 5294 - 5567" locus_tag="ctg305_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="484,35 489,30 518,30 518,40 489,40 484,35 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg305_8&lt;/b&gt;&lt;br&gt;ctg305 8&lt;br&gt;Location: 5578 - 6421" locus_tag="ctg305_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+</g>
+<g label="NZ_FQZK01000016" description="NZ_FQZK01000016_c2: Nocardiopsis flavescens strain CGMCC 4.5723, whole genome... (22% of genes show similarity), linaridin" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FQZK01000016/2" target="_blank">NZ_FQZK01000016_c2</a>: Nocardiopsis flavescens strain CGMCC 4.5723, whole genome... (22% of genes show similarity), linaridin</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 32,80 32,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22710&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 84294 - 83479" locus_tag="BUE45_RS22710" class="clusterblast-orf" id="dummy-1_h1_8_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="32,85 37,80 68,80 68,90 37,90 32,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22705&lt;/b&gt;&lt;br&gt;spermidine/putrescine ABC transporter ATP-binding protein PotA&lt;br&gt;Location: 83482 - 82565" locus_tag="BUE45_RS22705" class="clusterblast-orf" id="dummy-1_h1_8_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="76,90 79,90 84,85 79,80 76,80 76,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22700&lt;/b&gt;&lt;br&gt;DUF1918 domain-containing protein&lt;br&gt;Location: 82373 - 82179" locus_tag="BUE45_RS22700" class="clusterblast-orf" id="dummy-1_h1_8_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="89,85 94,80 117,80 117,90 94,90 89,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22695&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 82049 - 81351" locus_tag="BUE45_RS22695" class="clusterblast-orf" id="dummy-1_h1_8_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="117,85 122,80 125,80 125,90 122,90 117,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22690&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 81354 - 81148" locus_tag="BUE45_RS22690" class="clusterblast-orf" id="dummy-1_h1_8_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="139,85 144,80 147,80 147,90 144,90 139,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22685&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 80801 - 80598" locus_tag="BUE45_RS22685" class="clusterblast-orf" id="dummy-1_h1_8_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="172,90 202,90 207,85 202,80 172,80 172,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22680&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 79966 - 79100" locus_tag="BUE45_RS22680" class="clusterblast-orf" id="dummy-1_h1_8_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="212,90 229,90 234,85 229,80 212,80 212,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22675&lt;/b&gt;&lt;br&gt;deaminase&lt;br&gt;Location: 78971 - 78405" locus_tag="BUE45_RS22675" class="clusterblast-orf" id="dummy-1_h1_8_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="238,90 257,90 262,85 257,80 238,80 238,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22670&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 78311 - 77709" locus_tag="BUE45_RS22670" class="clusterblast-orf" id="dummy-1_h1_8_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="264,85 269,80 281,80 281,90 269,90 264,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22665&lt;/b&gt;&lt;br&gt;CoA-binding protein&lt;br&gt;Location: 77671 - 77234" locus_tag="BUE45_RS22665" class="clusterblast-orf" id="dummy-1_h1_8_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="292,90 295,90 300,85 295,80 292,80 292,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22660&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 76966 - 76760" locus_tag="BUE45_RS22660" class="clusterblast-orf" id="dummy-1_h1_8_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="301,90 303,90 308,85 303,80 301,80 301,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22655&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 76743 - 76552" locus_tag="BUE45_RS22655" class="clusterblast-orf" id="dummy-1_h1_8_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="309,90 312,90 317,85 312,80 309,80 309,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22650&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 76535 - 76335" locus_tag="BUE45_RS22650" class="clusterblast-orf" id="dummy-1_h1_8_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="324,90 391,90 396,85 391,80 324,80 324,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22645&lt;/b&gt;&lt;br&gt;thioesterase&lt;br&gt;Location: 76151 - 74355" locus_tag="BUE45_RS22645" class="clusterblast-orf" id="dummy-1_h1_8_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="396,90 414,90 419,85 414,80 396,80 396,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22640&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 74358 - 73768&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg305_2&lt;/b&gt;&lt;br&gt;Percentage identity: 60&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 190&lt;br&gt;E-value: 1.5e-46" locus_tag="BUE45_RS22640" class="clusterblast-orf" id="dummy-1_h1_8_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="419,90 447,90 452,85 447,80 419,80 419,90 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22635&lt;/b&gt;&lt;br&gt;class I SAM-dependent methyltransferase&lt;br&gt;Location: 73771 - 72959&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg305_3&lt;/b&gt;&lt;br&gt;Percentage identity: 63&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 327&lt;br&gt;E-value: 1.9e-87" locus_tag="BUE45_RS22635" class="clusterblast-orf" id="dummy-1_h1_8_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="452,90 518,90 523,85 518,80 452,80 452,90 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22630&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 72962 - 71160&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg305_4&lt;/b&gt;&lt;br&gt;Percentage identity: 63&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 652&lt;br&gt;E-value: 5.4e-185" locus_tag="BUE45_RS22630" class="clusterblast-orf" id="dummy-1_h1_8_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="528,90 582,90 587,85 582,80 528,80 528,90 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22625&lt;/b&gt;&lt;br&gt;NAD(P)/FAD-dependent oxidoreductase&lt;br&gt;Location: 71046 - 69577&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg305_6&lt;/b&gt;&lt;br&gt;Percentage identity: 71&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 671&lt;br&gt;E-value: 9e-191" locus_tag="BUE45_RS22625" class="clusterblast-orf" id="dummy-1_h1_8_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="589,85 594,80 629,80 629,90 594,90 589,85 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22620&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 69509 - 68502&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg305_8&lt;/b&gt;&lt;br&gt;Percentage identity: 55&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 297&lt;br&gt;E-value: 1.6e-78" locus_tag="BUE45_RS22620" class="clusterblast-orf" id="dummy-1_h1_8_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="637,90 705,90 710,85 705,80 637,80 637,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22615&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 68307 - 66469" locus_tag="BUE45_RS22615" class="clusterblast-orf" id="dummy-1_h1_8_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="709,85 714,80 726,80 726,90 714,90 709,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22610&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 66497 - 66090" locus_tag="BUE45_RS22610" class="clusterblast-orf" id="dummy-1_h1_8_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="741,85 746,80 780,80 780,90 746,90 741,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE45_RS22600&lt;/b&gt;&lt;br&gt;23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB&lt;br&gt;Location: 65713 - 64739" locus_tag="BUE45_RS22600" class="clusterblast-orf" id="dummy-1_h1_8_21"  />
+</g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="221,40 392,40 397,35 392,30 221,30 221,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_1&lt;/b&gt;&lt;br&gt;ctg400 1&lt;br&gt;Location: 0 - 1851" locus_tag="ctg400_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="406,35 411,30 467,30 467,40 411,40 406,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_2&lt;/b&gt;&lt;br&gt;ctg400 2&lt;br&gt;Location: 1937 - 2579" locus_tag="ctg400_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="467,35 472,30 560,30 560,40 472,40 467,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg400_3&lt;/b&gt;&lt;br&gt;ctg400 3&lt;br&gt;Location: 2578 - 3556" locus_tag="ctg400_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+</g>
+<g label="NZ_FPAB01000002" description="NZ_FPAB01000002_c4: Streptomyces harbinensis strain CGMCC 4.7047, whole genom... (28% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FPAB01000002/4" target="_blank">NZ_FPAB01000002_c4</a>: Streptomyces harbinensis strain CGMCC 4.7047, whole genom... (28% of genes show similarity), siderophore</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 81,90 86,85 81,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04300&lt;/b&gt;&lt;br&gt;siderophore-interacting protein&lt;br&gt;Location: 8851 - 7943" locus_tag="BM385_RS04300" class="clusterblast-orf" id="dummy-1_h1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="93,85 98,80 137,80 137,90 98,90 93,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04295&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 7870 - 7406" locus_tag="BM385_RS04295" class="clusterblast-orf" id="dummy-1_h1_1_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="137,85 142,80 242,80 242,90 142,90 137,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04290&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 7409 - 6303" locus_tag="BM385_RS04290" class="clusterblast-orf" id="dummy-1_h1_1_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="248,90 370,90 375,85 370,80 248,80 248,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04285&lt;/b&gt;&lt;br&gt;DUF1015 domain-containing protein&lt;br&gt;Location: 6238 - 4910" locus_tag="BM385_RS04285" class="clusterblast-orf" id="dummy-1_h1_1_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="379,90 430,90 435,85 430,80 379,80 379,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04280&lt;/b&gt;&lt;br&gt;N-acetyltransferase&lt;br&gt;Location: 4861 - 4277" locus_tag="BM385_RS04280" class="clusterblast-orf" id="dummy-1_h1_1_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="436,90 609,90 614,85 609,80 436,80 436,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04275&lt;/b&gt;&lt;br&gt;IucA/IucC family siderophore biosynthesis protein&lt;br&gt;Location: 4261 - 2396&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_1&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1218&lt;br&gt;E-value: 0.0" locus_tag="BM385_RS04275" class="clusterblast-orf" id="dummy-1_h1_1_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="622,85 627,80 780,80 780,90 627,90 622,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BM385_RS04270&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2309 - 654&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg400_2&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 403&lt;br&gt;E-value: 1.2e-110" locus_tag="BM385_RS04270" class="clusterblast-orf" id="dummy-1_h1_1_6"  />
+</g>
+</svg>

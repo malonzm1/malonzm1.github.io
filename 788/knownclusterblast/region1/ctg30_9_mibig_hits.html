@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ABI91463.1</td>
+              <td>NADH:flavin_oxidoreductase/NADH_oxidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001094/1">BGC0001094</a></td>
+              <td>nrps-transatpks</td>
+              <td>54.0</td>
+              <td>99.2</td>
+              <td>376.0</td>
+              <td>6.1e-104</td>
+          </tr>
+    
+          <tr>
+              <td>ADY16684.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001142/1">BGC0001142</a></td>
+              <td>nrps</td>
+              <td>45.0</td>
+              <td>99.2</td>
+              <td>299.0</td>
+              <td>5.5e-81</td>
+          </tr>
+    
+          <tr>
+              <td>EED53478.1</td>
+              <td>NADH_oxidase,_putative</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001304/1">BGC0001304</a></td>
+              <td>t1pks</td>
+              <td>45.0</td>
+              <td>101.1</td>
+              <td>274.0</td>
+              <td>1.9e-73</td>
+          </tr>
+    
+          <tr>
+              <td>ADI58629.1</td>
+              <td>AsuB4</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000187/1">BGC0000187</a></td>
+              <td>t2pks</td>
+              <td>37.0</td>
+              <td>94.4</td>
+              <td>162.0</td>
+              <td>1.1e-39</td>
+          </tr>
+    
+          <tr>
+              <td>AHH25582.1</td>
+              <td>2,4-dienoyl-CoA_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000957/1">BGC0000957</a></td>
+              <td>nrps-t1pks</td>
+              <td>35.0</td>
+              <td>96.9</td>
+              <td>156.0</td>
+              <td>7.5e-38</td>
+          </tr>
+    
+          <tr>
+              <td>WP_020993839.1</td>
+              <td>FAD-dependent_oxidoreductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001575/1">BGC0001575</a></td>
+              <td>nrps</td>
+              <td>31.0</td>
+              <td>95.6</td>
+              <td>145.0</td>
+              <td>1.7e-34</td>
+          </tr>
+    
+          <tr>
+              <td>BAV16992.1</td>
+              <td>putative_oxidoreductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001384/1">BGC0001384</a></td>
+              <td>t2pks</td>
+              <td>34.0</td>
+              <td>99.7</td>
+              <td>142.0</td>
+              <td>1.5e-33</td>
+          </tr>
+    
+          <tr>
+              <td>ACK77755.1</td>
+              <td>putative_oxidoreductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000727/1">BGC0000727</a></td>
+              <td>saccharide</td>
+              <td>41.0</td>
+              <td>61.4</td>
+              <td>136.0</td>
+              <td>6.2e-32</td>
+          </tr>
+    
+          <tr>
+              <td>CAH10124.1</td>
+              <td>putative_oxidoreducatse</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000268/1">BGC0000268</a></td>
+              <td>t2pks</td>
+              <td>32.0</td>
+              <td>100.6</td>
+              <td>128.0</td>
+              <td>2.2e-29</td>
+          </tr>
+    
+          <tr>
+              <td>AFO59868.1</td>
+              <td>ChxG</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000175/1">BGC0000175</a></td>
+              <td>transatpks</td>
+              <td>32.0</td>
+              <td>106.4</td>
+              <td>126.0</td>
+              <td>6.4e-29</td>
+          </tr>
+    
+          <tr>
+              <td>CAC36756.1</td>
+              <td>putative_enoyl_reductase,_MmyE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000914/1">BGC0000914</a></td>
+              <td>other</td>
+              <td>30.0</td>
+              <td>103.6</td>
+              <td>116.0</td>
+              <td>1.1e-25</td>
+          </tr>
+    
+          <tr>
+              <td>ABK32277.1</td>
+              <td>Amb9</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000014/1">BGC0000014</a></td>
+              <td>t1pks</td>
+              <td>37.0</td>
+              <td>62.5</td>
+              <td>114.0</td>
+              <td>2.5e-25</td>
+          </tr>
+    
+          <tr>
+              <td>AAM12914.1</td>
+              <td>MupC</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000182/1">BGC0000182</a></td>
+              <td>t1pks+transatpks</td>
+              <td>30.0</td>
+              <td>59.7</td>
+              <td>106.0</td>
+              <td>9e-23</td>
+          </tr>
+    
+          <tr>
+              <td>CBK62735.1</td>
+              <td></td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001115/1">BGC0001115</a></td>
+              <td>nrps-transatpks</td>
+              <td>25.0</td>
+              <td>95.8</td>
+              <td>102.0</td>
+              <td>1.7e-21</td>
+          </tr>
+    
+          <tr>
+              <td>ARB50205.1</td>
+              <td>chanoclavine_cyclase_oxidoreducatase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001573/1">BGC0001573</a></td>
+              <td>alkaloid</td>
+              <td>31.0</td>
+              <td>61.4</td>
+              <td>100.0</td>
+              <td>6.4e-21</td>
+          </tr>
+    
+          <tr>
+              <td>ABM91449.1</td>
+              <td>putative_oxidoreductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000348/1">BGC0000348</a></td>
+              <td>nrps</td>
+              <td>32.0</td>
+              <td>62.5</td>
+              <td>96.0</td>
+              <td>9.3e-20</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="550" width="800" viewBox="0 0 800 550" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="327,40 448,40 453,35 448,30 327,30 327,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg414_1&lt;/b&gt;&lt;br&gt;ctg414 1&lt;br&gt;Location: 2 - 3626" locus_tag="ctg414_1" class="clusterblast-orf" id="general-1_q0_0_all"  />
+</g>
+<g label="NZ_MVFC01000071" description="NZ_MVFC01000071_c38: Streptomyces tsukubensis strain F601 Scaffold70 1, whole... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_MVFC01000071/38" target="_blank">NZ_MVFC01000071_c38</a>: Streptomyces tsukubensis strain F601 Scaffold70 1, whole... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="295,90 479,90 484,85 479,80 295,80 295,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;B1H18_RS34635&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 1 - 5432&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg414_1&lt;/b&gt;&lt;br&gt;Percentage identity: 54&lt;br&gt;Percentage coverage: 104&lt;br&gt;BLAST bit score: 1178&lt;br&gt;E-value: 0.0" locus_tag="B1H18_RS34635" class="clusterblast-orf" id="general-1_all_1_1_0"  />
+</g>
+<g label="NZ_LYDS01000154" description="NZ_LYDS01000154_c13: Streptomyces acidiscabies strain 98-48 9848 154, whole g... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="120" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LYDS01000154/13" target="_blank">NZ_LYDS01000154_c13</a>: Streptomyces acidiscabies strain 98-48 9848 154, whole g... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="135" x2="778.0" y2="135" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,140 774,140 779,135 774,130 0,130 0,140 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BWI70_RS07060&lt;/b&gt;&lt;br&gt;amino acid adenylation domain-containing protein&lt;br&gt;Location: 22423 - 1&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg414_1&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 104&lt;br&gt;BLAST bit score: 1121&lt;br&gt;E-value: 0.0" locus_tag="BWI70_RS07060" class="clusterblast-orf" id="general-1_all_1_2_0"  />
+</g>
+<g label="NZ_BCMK01000125" description="NZ_BCMK01000125_c41: Streptomyces acidiscabies strain a10, whole genome shotg... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="170" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_BCMK01000125/41" target="_blank">NZ_BCMK01000125_c41</a>: Streptomyces acidiscabies strain a10, whole genome shotg... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="185" x2="778.0" y2="185" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,190 774,190 779,185 774,180 0,180 0,190 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;AV125_RS41845&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthase/polyketide synthase&lt;br&gt;Location: 22422 - 1&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg414_1&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 104&lt;br&gt;BLAST bit score: 1119&lt;br&gt;E-value: 0.0" locus_tag="AV125_RS41845" class="clusterblast-orf" id="general-1_all_1_3_0"  />
+</g>
+<g label="NZ_BCML01000129" description="NZ_BCML01000129_c41: Streptomyces acidiscabies strain a2, whole genome shotgu... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="220" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_BCML01000129/41" target="_blank">NZ_BCML01000129_c41</a>: Streptomyces acidiscabies strain a2, whole genome shotgu... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="235" x2="778.0" y2="235" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="1,240 773,240 778,235 773,230 1,230 1,240 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;AV141_RS42570&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 22431 - 85&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg414_1&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 104&lt;br&gt;BLAST bit score: 1119&lt;br&gt;E-value: 0.0" locus_tag="AV141_RS42570" class="clusterblast-orf" id="general-1_all_1_4_0"  />
+</g>
+<g label="NZ_AULB01000066" description="NZ_AULB01000066_c26: Actinomadura rifamycini DSM 43936 H505DRAFT scaffold0006... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="270" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_AULB01000066/26" target="_blank">NZ_AULB01000066_c26</a>: Actinomadura rifamycini DSM 43936 H505DRAFT scaffold0006... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="285" x2="778.0" y2="285" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="299,290 475,290 480,285 475,280 299,280 299,290 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;H505_RS0133255&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthase&lt;br&gt;Location: 1 - 5192&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg414_1&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 103&lt;br&gt;BLAST bit score: 1110&lt;br&gt;E-value: 0.0" locus_tag="H505_RS0133255" class="clusterblast-orf" id="general-1_all_1_5_0"  />
+</g>
+<g label="NZ_FRBK01000059" description="NZ_FRBK01000059_c2: Streptomyces yunnanensis strain CGMCC 4.3555, whole genom... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="320" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_FRBK01000059/2" target="_blank">NZ_FRBK01000059_c2</a>: Streptomyces yunnanensis strain CGMCC 4.3555, whole genom... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="335" x2="778.0" y2="335" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="280,340 494,340 499,335 494,330 280,330 280,340 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BUE49_RS41510&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 1 - 6277&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg414_1&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 1073&lt;br&gt;E-value: 1.7e-311" locus_tag="BUE49_RS41510" class="clusterblast-orf" id="general-1_all_1_6_0"  />
+</g>
+<g label="NZ_LWLE01000031" description="NZ_LWLE01000031_c31: Streptomyces sp. TSRI0281 scaffold37, whole genome shotg... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="370" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_LWLE01000031/31" target="_blank">NZ_LWLE01000031_c31</a>: Streptomyces sp. TSRI0281 scaffold37, whole genome shotg... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="385" x2="778.0" y2="385" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="177,390 597,390 602,385 597,380 177,380 177,390 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;A6A29_RS29100&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 1 - 12204&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg414_1&lt;/b&gt;&lt;br&gt;Percentage identity: 48&lt;br&gt;Percentage coverage: 109&lt;br&gt;BLAST bit score: 1054&lt;br&gt;E-value: 7.2e-306" locus_tag="A6A29_RS29100" class="clusterblast-orf" id="general-1_all_1_7_0"  />
+</g>
+<g label="NZ_JOEL01000101" description="NZ_JOEL01000101_c41: Streptomyces celluloflavus strain NRRL B-2493 contig101.... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="420" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_JOEL01000101/41" target="_blank">NZ_JOEL01000101_c41</a>: Streptomyces celluloflavus strain NRRL B-2493 contig101.... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="435" x2="778.0" y2="435" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="295,440 479,440 484,435 479,430 295,430 295,440 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;IH09_RS35865&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 5417 - 1&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg414_1&lt;/b&gt;&lt;br&gt;Percentage identity: 53&lt;br&gt;Percentage coverage: 90&lt;br&gt;BLAST bit score: 1031&lt;br&gt;E-value: 6.5e-299" locus_tag="IH09_RS35865" class="clusterblast-orf" id="general-1_all_1_8_0"  />
+</g>
+<g label="NZ_CAHW02000075" description="NZ_CAHW02000075_c3: Ralstonia solanacearum MolK2, whole genome shotgun sequence (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="470" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_CAHW02000075/3" target="_blank">NZ_CAHW02000075_c3</a>: Ralstonia solanacearum MolK2, whole genome shotgun sequence (100% of genes show similarity), nrps</text>
+<line x1="10" y1="485" x2="778.0" y2="485" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="274,490 500,490 505,485 500,480 274,480 274,490 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;RSMK_RS05030&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1 - 6628&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg414_1&lt;/b&gt;&lt;br&gt;Percentage identity: 47&lt;br&gt;Percentage coverage: 108&lt;br&gt;BLAST bit score: 1031&lt;br&gt;E-value: 8.6e-299" locus_tag="RSMK_RS05030" class="clusterblast-orf" id="general-1_all_1_9_0"  />
+</g>
+<g label="NZ_AWOO02000117" description="NZ_AWOO02000117_c29: Actinomadura madurae LIID-AJ290 contig00117, whole genom... (100% of genes show similarity), nrps" class="clusterblast-cluster"  >
+<text x="5" y="520" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_AWOO02000117/29" target="_blank">NZ_AWOO02000117_c29</a>: Actinomadura madurae LIID-AJ290 contig00117, whole genom... (100% of genes show similarity), nrps</text>
+<line x1="10" y1="535" x2="778.0" y2="535" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="281,540 493,540 498,535 493,530 281,530 281,540 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;DZ96_RS0247995&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6245 - 1&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg414_1&lt;/b&gt;&lt;br&gt;Percentage identity: 49&lt;br&gt;Percentage coverage: 105&lt;br&gt;BLAST bit score: 1024&lt;br&gt;E-value: 1.4e-296" locus_tag="DZ96_RS0247995" class="clusterblast-orf" id="general-1_all_1_10_0"  />
+</g>
+</svg>

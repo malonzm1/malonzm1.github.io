@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>CCH63732.1</td>
+              <td>XiaF_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000665/1">BGC0000665</a></td>
+              <td>terpene-alkaloid</td>
+              <td>72.0</td>
+              <td>100.0</td>
+              <td>562.0</td>
+              <td>6.6e-160</td>
+          </tr>
+    
+          <tr>
+              <td>AFK78075.1</td>
+              <td>XiaI</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000666/1">BGC0000666</a></td>
+              <td>terpene</td>
+              <td>72.0</td>
+              <td>100.0</td>
+              <td>562.0</td>
+              <td>6.6e-160</td>
+          </tr>
+    
+          <tr>
+              <td>ABY66021.1</td>
+              <td>oxidoreductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001008/1">BGC0001008</a></td>
+              <td>t1pks+t1pks</td>
+              <td>34.0</td>
+              <td>95.5</td>
+              <td>184.0</td>
+              <td>3.7e-46</td>
+          </tr>
+    
+          <tr>
+              <td>ADG39438.1</td>
+              <td>AllO</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000886/1">BGC0000886</a></td>
+              <td>other</td>
+              <td>33.0</td>
+              <td>94.2</td>
+              <td>174.0</td>
+              <td>3e-43</td>
+          </tr>
+    
+          <tr>
+              <td>ATV95595.1</td>
+              <td>oxidoreductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001503/1">BGC0001503</a></td>
+              <td>t1pks</td>
+              <td>29.0</td>
+              <td>95.7</td>
+              <td>164.0</td>
+              <td>4e-40</td>
+          </tr>
+    
+          <tr>
+              <td>AFV52148.1</td>
+              <td>putative_enoyl_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000081/1">BGC0000081</a></td>
+              <td>t1pks+t1pks</td>
+              <td>32.0</td>
+              <td>96.0</td>
+              <td>163.0</td>
+              <td>5.2e-40</td>
+          </tr>
+    
+          <tr>
+              <td>ACI88867.1</td>
+              <td>AlnT_hydroxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000195/1">BGC0000195</a></td>
+              <td>t2pks</td>
+              <td>30.0</td>
+              <td>90.9</td>
+              <td>139.0</td>
+              <td>1.1e-32</td>
+          </tr>
+    
+          <tr>
+              <td>AAD13564.1</td>
+              <td>oxygenase_homolog</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000239/1">BGC0000239</a></td>
+              <td>t2pks-saccharide</td>
+              <td>29.0</td>
+              <td>96.0</td>
+              <td>135.0</td>
+              <td>1.5e-31</td>
+          </tr>
+    
+          <tr>
+              <td>BAU98045.1</td>
+              <td>FMNH2_dependent_monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001386/1">BGC0001386</a></td>
+              <td>t2pks</td>
+              <td>29.0</td>
+              <td>94.0</td>
+              <td>133.0</td>
+              <td>9.8e-31</td>
+          </tr>
+    
+          <tr>
+              <td>CBW45720.1</td>
+              <td>putative_oxygenase/hydroxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000952/3">BGC0000952</a></td>
+              <td>nrps-t1pks+transatpks</td>
+              <td>29.0</td>
+              <td>89.4</td>
+              <td>126.0</td>
+              <td>9.2e-29</td>
+          </tr>
+    
+          <tr>
+              <td>APR73641.1</td>
+              <td>hydroxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001625/1">BGC0001625</a></td>
+              <td>polyketide</td>
+              <td>28.0</td>
+              <td>92.9</td>
+              <td>121.0</td>
+              <td>2.3e-27</td>
+          </tr>
+    
+          <tr>
+              <td>ACK77762.1</td>
+              <td>putative_oxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000727/1">BGC0000727</a></td>
+              <td>saccharide</td>
+              <td>29.0</td>
+              <td>82.1</td>
+              <td>118.0</td>
+              <td>2.5e-26</td>
+          </tr>
+    
+          <tr>
+              <td>CAA09642.1</td>
+              <td>putative_hydroxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000227/1">BGC0000227</a></td>
+              <td>t2pks</td>
+              <td>28.0</td>
+              <td>90.4</td>
+              <td>114.0</td>
+              <td>2.8e-25</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="56,40 99,40 104,35 99,30 56,30 56,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg169_1&lt;/b&gt;&lt;br&gt;ctg169 1&lt;br&gt;Location: 1 - 796" locus_tag="ctg169_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="104,35 109,30 215,30 215,40 109,40 104,35 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg169_2&lt;/b&gt;&lt;br&gt;ctg169 2&lt;br&gt;Location: 802 - 2665" locus_tag="ctg169_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="216,35 221,30 261,30 261,40 221,40 216,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg169_3&lt;/b&gt;&lt;br&gt;ctg169 3&lt;br&gt;Location: 2677 - 3433" locus_tag="ctg169_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="262,35 267,30 316,30 316,40 267,40 262,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg169_4&lt;/b&gt;&lt;br&gt;ctg169 4&lt;br&gt;Location: 3452 - 4358" locus_tag="ctg169_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="317,35 322,30 383,30 383,40 322,40 317,35 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg169_5&lt;/b&gt;&lt;br&gt;ctg169 5&lt;br&gt;Location: 4369 - 5482" locus_tag="ctg169_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="383,35 388,30 445,30 445,40 388,40 383,35 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg169_6&lt;/b&gt;&lt;br&gt;ctg169 6&lt;br&gt;Location: 5478 - 6519" locus_tag="ctg169_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="445,35 450,30 607,30 607,40 450,40 445,35 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg169_7&lt;/b&gt;&lt;br&gt;ctg169 7&lt;br&gt;Location: 6518 - 9233" locus_tag="ctg169_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="627,35 632,30 724,30 724,40 632,40 627,35 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg169_8&lt;/b&gt;&lt;br&gt;ctg169 8&lt;br&gt;Location: 9583 - 11200" locus_tag="ctg169_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+</g>
+<g label="NZ_JOIP01000051" description="NZ_JOIP01000051_c34: Streptomyces sp. NRRL F-3218 contig51.1, whole genome sh... (70% of genes show similarity), thiopeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_JOIP01000051/34" target="_blank">NZ_JOIP01000051_c34</a>: Streptomyces sp. NRRL F-3218 contig51.1, whole genome sh... (70% of genes show similarity), thiopeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 15,80 15,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IF40_RS0134780&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 13186 - 12932" locus_tag="IF40_RS0134780" class="clusterblast-orf" id="dummy-1_h1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="16,85 21,80 89,80 89,90 21,90 16,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IF40_RS0134775&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 12917 - 11682" locus_tag="IF40_RS0134775" class="clusterblast-orf" id="dummy-1_h1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="121,90 127,90 132,85 127,80 121,80 121,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IF40_RS0134770&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 11146 - 10970" locus_tag="IF40_RS0134770" class="clusterblast-orf" id="dummy-1_h1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="138,85 143,80 263,80 263,90 143,90 138,85 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IF40_RS0134765&lt;/b&gt;&lt;br&gt;cyclodehydratase&lt;br&gt;Location: 10867 - 8765&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg169_2&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 113&lt;br&gt;BLAST bit score: 739&lt;br&gt;E-value: 2.6e-211" locus_tag="IF40_RS0134765" class="clusterblast-orf" id="dummy-1_h1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="263,85 268,80 308,80 308,90 268,90 263,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IF40_RS0134760&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 8768 - 8013&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg169_3&lt;/b&gt;&lt;br&gt;Percentage identity: 79&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 384&lt;br&gt;E-value: 1.1e-104" locus_tag="IF40_RS0134760" class="clusterblast-orf" id="dummy-1_h1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="316,85 321,80 373,80 373,90 321,90 316,85 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IF40_RS0134755&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 7873 - 6911&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg169_4&lt;/b&gt;&lt;br&gt;Percentage identity: 76&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 439&lt;br&gt;E-value: 3.6e-121" locus_tag="IF40_RS0134755" class="clusterblast-orf" id="dummy-1_h1_10_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="376,85 381,80 452,80 452,90 381,90 376,85 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;IF40_RS0134750&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6867 - 5587&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg169_5&lt;/b&gt;&lt;br&gt;Percentage identity: 50&lt;br&gt;Percentage coverage: 102&lt;br&gt;BLAST bit score: 305&lt;br&gt;E-value: 9.9e-81" locus_tag="IF40_RS0134750" class="clusterblast-orf" id="dummy-1_h1_10_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="452,85 457,80 516,80 516,90 457,90 452,85 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;IF40_RS0134745&lt;/b&gt;&lt;br&gt;lantibiotic biosynthesis protein&lt;br&gt;Location: 5590 - 4517&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg169_6&lt;/b&gt;&lt;br&gt;Percentage identity: 74&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 500&lt;br&gt;E-value: 1.2e-139" locus_tag="IF40_RS0134745" class="clusterblast-orf" id="dummy-1_h1_10_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="516,85 521,80 684,80 684,90 521,90 516,85 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IF40_RS0134740&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase&lt;br&gt;Location: 4520 - 1698&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg169_7&lt;/b&gt;&lt;br&gt;Percentage identity: 59&lt;br&gt;Percentage coverage: 104&lt;br&gt;BLAST bit score: 989&lt;br&gt;E-value: 2.1e-286" locus_tag="IF40_RS0134740" class="clusterblast-orf" id="dummy-1_h1_10_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="685,85 690,80 780,80 780,90 690,90 685,85 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;IF40_RS0134735&lt;/b&gt;&lt;br&gt;nitroreductase&lt;br&gt;Location: 1685 - 96&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg169_8&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 666&lt;br&gt;E-value: 1.9e-189" locus_tag="IF40_RS0134735" class="clusterblast-orf" id="dummy-1_h1_10_9"  />
+</g>
+</svg>

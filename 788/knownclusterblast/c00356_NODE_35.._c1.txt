@@ -1,0 +1,44 @@
+ClusterBlast scores for c00356_NODE_35..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg356_1	108	687	+		
+ctg356_2	698	1637	+		
+ctg356_3	1633	2983	+		
+ctg356_4	3191	4235	+		
+ctg356_5	4231	4885	+		
+
+
+Significant hits: 
+1. BGC0000663	Hopene
+
+
+Details:
+
+>>
+1. BGC0000663
+Source: Hopene
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1733
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAB39692.1	CAB39692.1	1	912	+	putative_phytoene_synthase
+CAB39693.1	CAB39693.1	921	1859	+	putative_phytoene_synthase
+CAB39694.1	CAB39694.1	1859	2017	+	small_hypothetical_protein
+CAB39695.1	CAB39695.1	2014	3450	+	putative_phytoene_dehydrogenase
+CAB39696.1	CAB39696.1	3447	4583	+	putative_polyprenyl_synthatase
+CAB39697.1	CAB39697.1	4700	6742	+	putative_squalene-hopene_cyclase
+CAB39698.1	CAB39698.1	6742	7383	+	putative_lipoprotein
+CAB39699.1	CAB39699.1	7390	8412	+	conserved_hypothetical_protein
+CAB39700.1	CAB39700.1	8417	9571	+	GcpE_protein_homolog,_conserved_hypothetical_protein
+CAB39701.1	CAB39701.1	9597	11567	+	probable_transketolase
+CAB39702.1	CAB39702.1	11568	12953	+	probable_aminotransferase
+CAB39703.1	CAB39703.1	13027	13641	+	putative_DNA-binding_protein
+CAB39704.1	CAB39704.1	13638	13757	+	putative_small_hydrophobic_secreted_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg356_1	CAB39692.1	71	257	98.4375	1.3e-68
+ctg356_2	CAB39693.1	70	431	99.03846153846155	1.4e-120
+ctg356_3	CAB39695.1	67	539	99.33184855233853	4e-153
+ctg356_4	CAB39696.1	76	506	98.55907780979827	3.7e-143
+

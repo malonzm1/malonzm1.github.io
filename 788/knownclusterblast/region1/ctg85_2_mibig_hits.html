@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ALV82389.1</td>
+              <td>alcohol_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001370/1">BGC0001370</a></td>
+              <td>nrps</td>
+              <td>44.0</td>
+              <td>63.4</td>
+              <td>156.0</td>
+              <td>5.4e-38</td>
+          </tr>
+    
+          <tr>
+              <td>ABY66028.1</td>
+              <td>Zn-dependent_alcohol_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001008/1">BGC0001008</a></td>
+              <td>t1pks+t1pks</td>
+              <td>34.0</td>
+              <td>96.5</td>
+              <td>151.0</td>
+              <td>3e-36</td>
+          </tr>
+    
+          <tr>
+              <td>ABP55167.1</td>
+              <td>Alcohol_dehydrogenase_GroES_domain_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000150/1">BGC0000150</a></td>
+              <td>nrps-t1pks</td>
+              <td>36.0</td>
+              <td>82.0</td>
+              <td>137.0</td>
+              <td>3.4e-32</td>
+          </tr>
+    
+          <tr>
+              <td>ATV95592.1</td>
+              <td>zinc-containing_alcohol_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001503/1">BGC0001503</a></td>
+              <td>t1pks</td>
+              <td>36.0</td>
+              <td>74.6</td>
+              <td>132.0</td>
+              <td>1.4e-30</td>
+          </tr>
+    
+          <tr>
+              <td>AIG62135.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000120/1">BGC0000120</a></td>
+              <td>t1pks</td>
+              <td>29.0</td>
+              <td>100.3</td>
+              <td>125.0</td>
+              <td>1.8e-28</td>
+          </tr>
+    
+          <tr>
+              <td>ADM34147.1</td>
+              <td>dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001084/1">BGC0001084</a></td>
+              <td>nrps-terpene-alkaloid</td>
+              <td>28.0</td>
+              <td>95.3</td>
+              <td>121.0</td>
+              <td>3.3e-27</td>
+          </tr>
+    
+          <tr>
+              <td>ADB92579.1</td>
+              <td>Ccb5</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001225/1">BGC0001225</a></td>
+              <td>nrps</td>
+              <td>33.0</td>
+              <td>80.5</td>
+              <td>116.0</td>
+              <td>8.1e-26</td>
+          </tr>
+    
+          <tr>
+              <td>ABW71834.1</td>
+              <td>putative_alcohol_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000303/1">BGC0000303</a></td>
+              <td>nrps</td>
+              <td>36.0</td>
+              <td>63.7</td>
+              <td>113.0</td>
+              <td>9e-25</td>
+          </tr>
+    
+          <tr>
+              <td>AVI57439.1</td>
+              <td>alcohol_dehydrogenase-like_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001694/1">BGC0001694</a></td>
+              <td>polyketide</td>
+              <td>36.0</td>
+              <td>77.0</td>
+              <td>110.0</td>
+              <td>4.5e-24</td>
+          </tr>
+    
+          <tr>
+              <td>AGZ20490.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001776/1">BGC0001776</a></td>
+              <td>terpene</td>
+              <td>34.0</td>
+              <td>62.8</td>
+              <td>100.0</td>
+              <td>4.6e-21</td>
+          </tr>
+    
+          <tr>
+              <td>CAF32372.1</td>
+              <td>putative_3-amino-2,3-dideoxy-scyllo-inositol_1-dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000712/1">BGC0000712</a></td>
+              <td>saccharide</td>
+              <td>38.0</td>
+              <td>60.5</td>
+              <td>99.0</td>
+              <td>1.3e-20</td>
+          </tr>
+    
+          <tr>
+              <td>CAF31541.1</td>
+              <td>putative_(cyclitol-)dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000695/1">BGC0000695</a></td>
+              <td>saccharide</td>
+              <td>34.0</td>
+              <td>97.1</td>
+              <td>97.0</td>
+              <td>5.1e-20</td>
+          </tr>
+    
+          <tr>
+              <td>CAI59982.1</td>
+              <td>putative_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000700/1">BGC0000700</a></td>
+              <td>saccharide</td>
+              <td>34.0</td>
+              <td>86.4</td>
+              <td>97.0</td>
+              <td>5.1e-20</td>
+          </tr>
+    
+          <tr>
+              <td>ACN38356.1</td>
+              <td>2-deoxy-scyllo-inosamine_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000714/1">BGC0000714</a></td>
+              <td>saccharide</td>
+              <td>33.0</td>
+              <td>79.6</td>
+              <td>92.0</td>
+              <td>9.6e-19</td>
+          </tr>
+    
+          <tr>
+              <td>CAF33310.1</td>
+              <td>putative_3-amino-2,3-dideoxy-scyllo-inositol_1-dehydrogenase,_NeoE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000709/1">BGC0000709</a></td>
+              <td>saccharide</td>
+              <td>32.0</td>
+              <td>78.8</td>
+              <td>91.0</td>
+              <td>3.7e-18</td>
+          </tr>
+    
+          <tr>
+              <td>CAH05103.1</td>
+              <td>putative_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000710/1">BGC0000710</a></td>
+              <td>saccharide</td>
+              <td>32.0</td>
+              <td>78.8</td>
+              <td>91.0</td>
+              <td>3.7e-18</td>
+          </tr>
+    
+          <tr>
+              <td>CAH58688.1</td>
+              <td>putative_alcohol_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000711/1">BGC0000711</a></td>
+              <td>saccharide</td>
+              <td>32.0</td>
+              <td>78.8</td>
+              <td>91.0</td>
+              <td>3.7e-18</td>
+          </tr>
+    
+          <tr>
+              <td>BAE95593.1</td>
+              <td>putative_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000703/1">BGC0000703</a></td>
+              <td>saccharide</td>
+              <td>31.0</td>
+              <td>82.6</td>
+              <td>89.0</td>
+              <td>8.2e-18</td>
+          </tr>
+    
+          <tr>
+              <td>CAF60509.1</td>
+              <td>putative_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000704/1">BGC0000704</a></td>
+              <td>saccharide</td>
+              <td>31.0</td>
+              <td>82.6</td>
+              <td>89.0</td>
+              <td>8.2e-18</td>
+          </tr>
+    
+          <tr>
+              <td>BAE98076.1</td>
+              <td>putative_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000719/1">BGC0000719</a></td>
+              <td>saccharide</td>
+              <td>33.0</td>
+              <td>79.6</td>
+              <td>89.0</td>
+              <td>1.1e-17</td>
+          </tr>
+    
+          <tr>
+              <td>CAF34032.1</td>
+              <td>putative_alcohol_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000689/1">BGC0000689</a></td>
+              <td>saccharide</td>
+              <td>32.0</td>
+              <td>79.6</td>
+              <td>88.0</td>
+              <td>1.8e-17</td>
+          </tr>
+    
+          <tr>
+              <td>CAF31445.1</td>
+              <td>putative_aminocyclitol_1-dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000696/1">BGC0000696</a></td>
+              <td>saccharide</td>
+              <td>32.0</td>
+              <td>79.6</td>
+              <td>88.0</td>
+              <td>1.8e-17</td>
+          </tr>
+    
+          <tr>
+              <td>AAR98562.1</td>
+              <td>GntP</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000697/1">BGC0000697</a></td>
+              <td>saccharide</td>
+              <td>32.0</td>
+              <td>79.6</td>
+              <td>88.0</td>
+              <td>1.8e-17</td>
+          </tr>
+    
+          <tr>
+              <td>ARV75722.1</td>
+              <td>2-deoxy-scyllo-inosose_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001603/1">BGC0001603</a></td>
+              <td>saccharide</td>
+              <td>32.0</td>
+              <td>79.6</td>
+              <td>88.0</td>
+              <td>1.8e-17</td>
+          </tr>
+    
+          <tr>
+              <td>CAI47653.1</td>
+              <td>putative_3-amino-2,3-dideoxy-scyllo-inositol_1_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000692/1">BGC0000692</a></td>
+              <td>saccharide</td>
+              <td>33.0</td>
+              <td>72.6</td>
+              <td>86.0</td>
+              <td>6.9e-17</td>
+          </tr>
+    
+          <tr>
+              <td>BAD20754.1</td>
+              <td>dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000702/1">BGC0000702</a></td>
+              <td>saccharide</td>
+              <td>30.0</td>
+              <td>101.5</td>
+              <td>86.0</td>
+              <td>1.2e-16</td>
+          </tr>
+    
+          <tr>
+              <td>CAF60530.1</td>
+              <td>GntP-like_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000704/1">BGC0000704</a></td>
+              <td>saccharide</td>
+              <td>30.0</td>
+              <td>101.5</td>
+              <td>86.0</td>
+              <td>1.2e-16</td>
+          </tr>
+    
+          <tr>
+              <td>CAF31584.1</td>
+              <td>3-amino-2,3-dideoxy-scyllo-inositol_1-dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000705/1">BGC0000705</a></td>
+              <td>saccharide</td>
+              <td>30.0</td>
+              <td>101.5</td>
+              <td>86.0</td>
+              <td>1.2e-16</td>
+          </tr>
+    
+          <tr>
+              <td>CAE22477.1</td>
+              <td>putative_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000720/1">BGC0000720</a></td>
+              <td>saccharide</td>
+              <td>30.0</td>
+              <td>79.6</td>
+              <td>85.0</td>
+              <td>1.5e-16</td>
+          </tr>
+    
+          <tr>
+              <td>CAH18550.1</td>
+              <td>putative_cyclitol_1-dehydrogenase,_TobE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000721/1">BGC0000721</a></td>
+              <td>saccharide</td>
+              <td>30.0</td>
+              <td>79.6</td>
+              <td>85.0</td>
+              <td>1.5e-16</td>
+          </tr>
+    
+          <tr>
+              <td>CAG38695.1</td>
+              <td>putative_3-amino-2,3-dideoxy-scyllo-inositol_1-dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000708/1">BGC0000708</a></td>
+              <td>saccharide</td>
+              <td>29.0</td>
+              <td>99.1</td>
+              <td>82.0</td>
+              <td>1.7e-15</td>
+          </tr>
+    
+          <tr>
+              <td>CAG34720.1</td>
+              <td>putative_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000713/1">BGC0000713</a></td>
+              <td>saccharide</td>
+              <td>29.0</td>
+              <td>78.8</td>
+              <td>78.0</td>
+              <td>1.9e-14</td>
+          </tr>
+    
+          <tr>
+              <td>CRI73790.1</td>
+              <td>L-threonine_3-dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001215/1">BGC0001215</a></td>
+              <td>nrps</td>
+              <td>28.0</td>
+              <td>95.3</td>
+              <td>74.0</td>
+              <td>2.7e-13</td>
+          </tr>
+    
+          <tr>
+              <td>WP_013310333.1</td>
+              <td>dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001728/1">BGC0001728</a></td>
+              <td>nrps-t1pks</td>
+              <td>29.0</td>
+              <td>75.2</td>
+              <td>72.0</td>
+              <td>1e-12</td>
+          </tr>
+    
+          <tr>
+              <td>AAM12917.1</td>
+              <td>MupE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000182/1">BGC0000182</a></td>
+              <td>t1pks+transatpks</td>
+              <td>30.0</td>
+              <td>83.8</td>
+              <td>63.0</td>
+              <td>6.3e-10</td>
+          </tr>
+    
+          <tr>
+              <td>BAC79039.1</td>
+              <td>enoyl_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000245/1">BGC0000245</a></td>
+              <td>t2pks</td>
+              <td>28.0</td>
+              <td>59.9</td>
+              <td>52.0</td>
+              <td>1.9e-06</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

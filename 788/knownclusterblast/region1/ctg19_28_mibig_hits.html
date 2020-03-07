@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>CAA63160.1</td>
+              <td>Oxido-reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000878/1">BGC0000878</a></td>
+              <td>other</td>
+              <td>64.0</td>
+              <td>95.5</td>
+              <td>406.0</td>
+              <td>3.8e-113</td>
+          </tr>
+    
+          <tr>
+              <td>CAD27646.1</td>
+              <td>AtaP10_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000873/1">BGC0000873</a></td>
+              <td>other</td>
+              <td>57.0</td>
+              <td>94.5</td>
+              <td>350.0</td>
+              <td>2.5e-96</td>
+          </tr>
+    
+          <tr>
+              <td>AET51844.1</td>
+              <td>oxireductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001138/1">BGC0001138</a></td>
+              <td>other</td>
+              <td>55.0</td>
+              <td>94.2</td>
+              <td>340.0</td>
+              <td>2.6e-93</td>
+          </tr>
+    
+          <tr>
+              <td>CAE22470.1</td>
+              <td>putative_dehydrogenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000720/1">BGC0000720</a></td>
+              <td>saccharide</td>
+              <td>32.0</td>
+              <td>53.6</td>
+              <td>60.0</td>
+              <td>5.2e-09</td>
+          </tr>
+    
+          <tr>
+              <td>CAH18557.1</td>
+              <td>putative_hexose-3&#39;&#39;-dehydrogenase,_TobD2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000721/1">BGC0000721</a></td>
+              <td>saccharide</td>
+              <td>32.0</td>
+              <td>53.6</td>
+              <td>60.0</td>
+              <td>5.2e-09</td>
+          </tr>
+    
+          <tr>
+              <td>BAE98083.1</td>
+              <td>putative_oxidoreductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000719/1">BGC0000719</a></td>
+              <td>saccharide</td>
+              <td>34.0</td>
+              <td>37.9</td>
+              <td>59.0</td>
+              <td>1.5e-08</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

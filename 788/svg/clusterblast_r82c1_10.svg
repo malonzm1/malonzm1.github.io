@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,35 5,30 92,30 92,40 5,40 0,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_5&lt;/b&gt;&lt;br&gt;ctg82 5&lt;br&gt;Location: 4359 - 5481" locus_tag="ctg82_5" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="97,40 148,40 153,35 148,30 97,30 97,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_6&lt;/b&gt;&lt;br&gt;ctg82 6&lt;br&gt;Location: 5545 - 6229" locus_tag="ctg82_6" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="153,40 202,40 207,35 202,30 153,30 153,40 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_7&lt;/b&gt;&lt;br&gt;ctg82 7&lt;br&gt;Location: 6225 - 6888" locus_tag="ctg82_7" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="235,40 276,40 281,35 276,30 235,30 235,40 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_8&lt;/b&gt;&lt;br&gt;ctg82 8&lt;br&gt;Location: 7234 - 7801" locus_tag="ctg82_8" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="287,40 386,40 391,35 386,30 287,30 287,40 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_9&lt;/b&gt;&lt;br&gt;ctg82 9&lt;br&gt;Location: 7872 - 9141" locus_tag="ctg82_9" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="396,40 424,40 429,35 424,30 396,30 396,40 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_10&lt;/b&gt;&lt;br&gt;ctg82 10&lt;br&gt;Location: 9210 - 9615" locus_tag="ctg82_10" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="435,40 503,40 508,35 503,30 435,30 435,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_11&lt;/b&gt;&lt;br&gt;ctg82 11&lt;br&gt;Location: 9684 - 10584" locus_tag="ctg82_11" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="515,35 520,30 606,30 606,40 520,40 515,35 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_12&lt;/b&gt;&lt;br&gt;ctg82 12&lt;br&gt;Location: 10667 - 11777" locus_tag="ctg82_12" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="616,35 621,30 780,30 780,40 621,40 616,35 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_13&lt;/b&gt;&lt;br&gt;ctg82 13&lt;br&gt;Location: 11896 - 13915" locus_tag="ctg82_13" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+</g>
+<g label="NZ_BBOM01000007" description="NZ_BBOM01000007_c25: Streptomyces sp. NBRC 109706, whole genome shotgun sequence (54% of genes show similarity), ectoine" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/go/NZ_BBOM01000007/25" target="_blank">NZ_BBOM01000007_c25</a>: Streptomyces sp. NBRC 109706, whole genome shotgun sequence (54% of genes show similarity), ectoine</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="29,90 71,90 76,85 71,80 29,80 29,90 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;AOM46_RS14395&lt;/b&gt;&lt;br&gt;SigE family RNA polymerase sigma factor&lt;br&gt;Location: 41848 - 42426&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_6&lt;/b&gt;&lt;br&gt;Percentage identity: 71&lt;br&gt;Percentage coverage: 86&lt;br&gt;BLAST bit score: 256&lt;br&gt;E-value: 3.2e-66" locus_tag="AOM46_RS14395" class="clusterblast-orf" id="dummy-1_h1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="82,90 129,90 134,85 129,80 82,80 82,90 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AOM46_RS14400&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 42506 - 43144&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_7&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 182&lt;br&gt;E-value: 5.8e-44" locus_tag="AOM46_RS14400" class="clusterblast-orf" id="dummy-1_h1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="169,90 212,90 217,85 212,80 169,80 169,90 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AOM46_RS14405&lt;/b&gt;&lt;br&gt;diaminobutyrate acetyltransferase&lt;br&gt;Location: 43564 - 44160&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_8&lt;/b&gt;&lt;br&gt;Percentage identity: 73&lt;br&gt;Percentage coverage: 102&lt;br&gt;BLAST bit score: 279&lt;br&gt;E-value: 2.3e-73" locus_tag="AOM46_RS14405" class="clusterblast-orf" id="dummy-1_h1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="220,90 319,90 324,85 319,80 220,80 220,90 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;AOM46_RS14410&lt;/b&gt;&lt;br&gt;diaminobutyrate--2-oxoglutarate transaminase&lt;br&gt;Location: 44198 - 45466&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_9&lt;/b&gt;&lt;br&gt;Percentage identity: 86&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 770&lt;br&gt;E-value: 1.2e-220" locus_tag="AOM46_RS14410" class="clusterblast-orf" id="dummy-1_h1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="333,90 360,90 365,85 360,80 333,80 333,90 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;AOM46_RS14415&lt;/b&gt;&lt;br&gt;L-ectoine synthase&lt;br&gt;Location: 45577 - 45972&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_10&lt;/b&gt;&lt;br&gt;Percentage identity: 92&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 260&lt;br&gt;E-value: 1.3e-67" locus_tag="AOM46_RS14415" class="clusterblast-orf" id="dummy-1_h1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="367,90 435,90 440,85 435,80 367,80 367,90 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AOM46_RS14420&lt;/b&gt;&lt;br&gt;ectoine hydroxylase&lt;br&gt;Location: 45992 - 46891&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_11&lt;/b&gt;&lt;br&gt;Percentage identity: 86&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 537&lt;br&gt;E-value: 9.6e-151" locus_tag="AOM46_RS14420" class="clusterblast-orf" id="dummy-1_h1_10_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="447,85 452,80 499,80 499,90 452,90 447,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AOM46_RS14425&lt;/b&gt;&lt;br&gt;DUF305 domain-containing protein&lt;br&gt;Location: 46972 - 47610" locus_tag="AOM46_RS14425" class="clusterblast-orf" id="dummy-1_h1_10_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="505,85 510,80 580,80 580,90 510,90 505,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AOM46_RS14430&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 47684 - 48601" locus_tag="AOM46_RS14430" class="clusterblast-orf" id="dummy-1_h1_10_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="580,85 585,80 619,80 619,90 585,90 580,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AOM46_RS14435&lt;/b&gt;&lt;br&gt;dCMP deaminase&lt;br&gt;Location: 48603 - 49079" locus_tag="AOM46_RS14435" class="clusterblast-orf" id="dummy-1_h1_10_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="619,85 624,80 676,80 676,90 624,90 619,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AOM46_RS14440&lt;/b&gt;&lt;br&gt;deaminase&lt;br&gt;Location: 49076 - 49786" locus_tag="AOM46_RS14440" class="clusterblast-orf" id="dummy-1_h1_10_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="677,85 682,80 750,80 750,90 682,90 677,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AOM46_RS14445&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 49792 - 50691" locus_tag="AOM46_RS14445" class="clusterblast-orf" id="dummy-1_h1_10_10"  />
+</g>
+</svg>

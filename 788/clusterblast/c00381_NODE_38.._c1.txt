@@ -1,0 +1,164 @@
+ClusterBlast scores for c00381_NODE_38..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg381_1	48	888	+		
+ctg381_2	1009	1459	+		
+ctg381_3	1409	1562	-		
+ctg381_4	1564	1963	-		
+ctg381_5	2142	3012	+		
+ctg381_6	2995	4036	-		
+ctg381_7	4206	4404	+		
+
+
+Significant hits: 
+1. NZ_FPAB01000019	Streptomyces harbinensis strain CGMCC 4.7047, whole genome shotgun sequence
+2. NZ_JABQ01000016	Streptomyces sp. PRh5 contig016, whole genome shotgun sequence
+3. NZ_MDCR01000025	Streptomyces niveus strain NRRL 2466 Streptomyces_niveus_NRRL_2466_contig_25, whole genome shotgun sequence
+4. NZ_CM002280	Streptomyces niveus NCIMB 11891 chromosome, whole genome shotgun sequence
+5. NZ_CP020563	Kitasatospora albolonga strain YIM 101047 chromosome, complete genome
+6. NZ_JRKI01000031	Streptomyces natalensis ATCC 27448 Scaffold_37, whole genome shotgun sequence
+7. NZ_AUBE01000037	Streptomyces flavidovirens DSM 40150 G412DRAFT_scaffold00035.35_C, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_FPAB01000019
+Source: Streptomyces harbinensis strain CGMCC 4.7047, whole genome shotgun sequence
+Type: t3pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 720
+
+Table of genes, locations, strands and annotations of subject cluster:
+BM385_RS25980	BM385_RS25980	1	627	+	XRE_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg381_5	BM385_RS26040	51	297	97.57785467128028	2.1e-78
+ctg381_6	BM385_RS26035	64	423	98.26589595375722	1.8e-116
+
+
+
+>>
+2. NZ_JABQ01000016
+Source: Streptomyces sp. PRh5 contig016, whole genome shotgun sequence
+Type: t3pks
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 655
+
+Table of genes, locations, strands and annotations of subject cluster:
+Z951_RS47570	Z951_RS47570	67041	67472	+	Lrp/AsnC_family_transcriptional_regulator
+Z951_RS47575	Z951_RS47575	72447	73794	+	hypothetical_protein
+Z951_RS47585	Z951_RS47585	84816	84926	-	phenylacetic_acid_degradation_protein_PaaD
+Z951_RS49830	Z951_RS49830	89571	89645	+	flagellar_motor_protein_MotB
+Z951_RS49835	Z951_RS49835	93604	93801	+	hypothetical_protein
+Z951_RS13205	Z951_RS13205	96090	96540	-	3-oxoacyl-ACP_reductase
+Z951_RS47600	Z951_RS47600	98948	99497	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg381_1	Z951_RS13100	76	412	98.9247311827957	3.3e-113
+ctg381_2	Z951_RS13105	48	103	89.26174496644296	2.3e-20
+ctg381_6	Z951_RS13135	33	140	98.55491329479769	4e-31
+
+
+
+>>
+3. NZ_MDCR01000025
+Source: Streptomyces niveus strain NRRL 2466 Streptomyces_niveus_NRRL_2466_contig_25, whole genome shotgun sequence
+Type: t3pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 650
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg381_5	BHU15_RS03100	42	225	93.07958477508652	1e-56
+ctg381_6	BHU15_RS03105	63	425	99.71098265895954	8e-117
+
+
+
+>>
+4. NZ_CM002280
+Source: Streptomyces niveus NCIMB 11891 chromosome, whole genome shotgun sequence
+Type: t3pks
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 650
+
+Table of genes, locations, strands and annotations of subject cluster:
+M877_RS40815	M877_RS40815	1614869	1615203	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg381_5	M877_RS49935	42	224	93.07958477508652	1.3e-56
+ctg381_6	M877_RS49930	64	426	99.13294797687861	3.6e-117
+
+
+
+>>
+5. NZ_CP020563
+Source: Kitasatospora albolonga strain YIM 101047 chromosome, complete genome
+Type: t3pks-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 505
+
+Table of genes, locations, strands and annotations of subject cluster:
+B7C62_RS35155	B7C62_RS35155	3159940	3160095	-	amino_acid_transporter
+B7C62_RS35160	B7C62_RS35160	3190527	3190631	-	VapC_toxin_family_PIN_domain_ribonuclease
+B7C62_RS13895	B7C62_RS13895	3213666	3219548	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg381_5	B7C62_RS13690	40	162	93.42560553633218	8.1e-38
+ctg381_6	B7C62_RS13705	54	343	101.15606936416187	3.1e-92
+
+
+
+>>
+6. NZ_JRKI01000031
+Source: Streptomyces natalensis ATCC 27448 Scaffold_37, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 482
+
+Table of genes, locations, strands and annotations of subject cluster:
+SNA_RS40280	SNA_RS40280	6616	7085	-	dihydrouridine_synthase
+SNA_RS41560	SNA_RS41560	10564	10671	-	transcriptional_regulator
+SNA_RS23765	SNA_RS23765	12266	12718	+	transcriptional_regulator
+SNA_RS40285	SNA_RS40285	22802	23639	+	DNA_primase
+SNA_RS23810	SNA_RS23810	23636	24038	+	transcription_factor
+SNA_RS23825	SNA_RS23825	26417	27469	+	terpene_synthase
+SNA_RS40290	SNA_RS40290	36958	37095	-	AAA_family_ATPase
+SNA_RS41565	SNA_RS41565	38396	39135	+	IS5/IS1182_family_transposase
+SNA_RS41570	SNA_RS41570	41383	41469	+	IS5/IS1182_family_transposase
+SNA_RS40330	SNA_RS40330	68221	68365	-	transposase
+SNA_RS23950	SNA_RS23950	68359	68797	-	hypothetical_protein
+SNA_RS40335	SNA_RS40335	70053	70243	-	HNH_endonuclease
+SNA_RS40345	SNA_RS40345	74329	74529	+	pRL2-11
+SNA_RS40350	SNA_RS40350	76453	76599	-	IS5/IS1182_family_transposase
+SNA_RS24020	SNA_RS24020	77684	78672	+	IS481_family_transposase
+SNA_RS24025	SNA_RS24025	78948	79121	-	helicase
+SNA_RS24030	SNA_RS24030	79110	79577	+	DDE_transposase
+SNA_RS40355	SNA_RS40355	81861	82255	+	IS5/IS1182_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg381_1	SNA_RS23975	66	349	98.9247311827957	3.5e-94
+ctg381_2	SNA_RS23985	61	133	79.19463087248322	1.6e-29
+
+
+
+>>
+7. NZ_AUBE01000037
+Source: Streptomyces flavidovirens DSM 40150 G412DRAFT_scaffold00035.35_C, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 460
+
+Table of genes, locations, strands and annotations of subject cluster:
+G412_RS38695	G412_RS38695	1218	1417	+	hypothetical_protein
+G412_RS38700	G412_RS38700	7623	8003	-	restriction_endonuclease
+G412_RS38710	G412_RS38710	9638	9952	+	IS21_family_transposase
+G412_RS36570	G412_RS36570	13950	15134	+	IS21_family_transposase
+G412_RS36575	G412_RS36575	15253	16048	+	AAA_family_ATPase
+G412_RS38715	G412_RS38715	20859	21032	+	IS110_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg381_1	G412_RS0129600	67	352	98.9247311827957	5.3e-95
+ctg381_2	G412_RS38700	55	108	75.16778523489933	9.4e-22
+

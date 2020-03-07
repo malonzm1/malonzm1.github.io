@@ -1,0 +1,969 @@
+ClusterBlast scores for c00019_NODE_19..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg19_20	25668	26610	+		
+ctg19_21	26677	26998	+		
+ctg19_22	26949	28083	+		
+ctg19_23	28070	29060	-		
+ctg19_24	29114	29960	-		
+ctg19_25	29956	31087	-		
+ctg19_26	31121	32492	+		
+ctg19_27	32488	32944	+		
+ctg19_28	32956	33949	+		
+ctg19_29	33997	36259	+		
+
+
+Significant hits: 
+1. NZ_FPAB01000003	Streptomyces harbinensis strain CGMCC 4.7047, whole genome shotgun sequence
+2. NZ_ALNP01000010	Streptomyces sp. AA0539 contig00010, whole genome shotgun sequence
+3. NZ_BDGW01000042	Streptomyces luteocolor strain NBRC 13826, whole genome shotgun sequence
+4. NZ_LIRJ01000209	Streptomyces silaceus strain NRRL B-24166 B24166_contig_209, whole genome shotgun sequence
+5. NZ_JODF01000005	Streptomyces sp. NRRL S-920 contig5.1, whole genome shotgun sequence
+6. NZ_JOGD01000056	Streptomyces sp. NRRL S-1868 contig56.1, whole genome shotgun sequence
+7. NZ_JOHT01000003	Streptomyces sp. NRRL F-5053 contig3.1, whole genome shotgun sequence
+8. NZ_JODL01000008	Streptomyces megasporus strain NRRL B-16372 contig8.1, whole genome shotgun sequence
+9. NZ_LMZE01000263	Streptomyces albus subsp. albus strain NRRL F-4371 P384contig6.1, whole genome shotgun sequence
+10. NZ_FOUV01000001	Streptomyces sp. cf124, whole genome shotgun sequence
+11. NZ_LACL01000024	Streptomyces sp. FxanaA7 F611DRAFT_scaffold00014.14_C, whole genome shotgun sequence
+12. NZ_KL571089	Streptomyces monomycini strain NRRL B-24309 P063_Doro1_scaffold43, whole genome shotgun sequence
+13. NZ_JAFB01000003	Amycolatopsis taiwanensis DSM 45107 A3CUDRAFT_scaffold_1.2_C, whole genome shotgun sequence
+14. NZ_BDBI01000026	Nocardia ignorata NBRC 108230, whole genome shotgun sequence
+15. NZ_BDBD01000004	Nocardia coubleae NBRC 108252, whole genome shotgun sequence
+16. NC_023150	Rhodococcus pyridinivorans SB3094, complete genome
+17. NZ_LUTX01000011	Rhodococcus sp. HS-D2 HSD2_scaffold11, whole genome shotgun sequence
+18. NZ_CP018063	Rhodococcus sp. 2G chromosome, complete genome
+19. NZ_FNRX01000002	Rhodococcus pyridinivorans strain DSM 44555, whole genome shotgun sequence
+20. NZ_LZHZ01000067	Mycobacterium sp. ACS1612 contig_7, whole genome shotgun sequence
+21. NZ_LZHV01000005	Mycobacterium sp. ACS4054 contig_13, whole genome shotgun sequence
+22. NZ_LZMC01000112	Mycobacterium sp. 1274761.0 strain 1274761 contig_98, whole genome shotgun sequence
+23. NZ_MBET01000052	Mycobacterium sp. IS-2888 contig_34, whole genome shotgun sequence
+24. NZ_MBES01000068	Mycobacterium sp. IS-1264 contig_69, whole genome shotgun sequence
+25. NZ_LRRH01000020	Rhodococcus phenolicus strain DSM 44812 contig_20, whole genome shotgun sequence
+26. NZ_LWCS01000076	Mycolicibacterium iranicum strain H39 scaffold_7, whole genome shotgun sequence
+27. NZ_AJJH01000168	Rhodococcus imtechensis RKJ300 = JCM 13270 strain RKJ300 Contig165_1, whole genome shotgun sequence
+28. NZ_ACNO01000082	Rhodococcus erythropolis SK121 contig00027, whole genome shotgun sequence
+29. NZ_AUZK01000008	Rhodococcus erythropolis DN1 contig00008, whole genome shotgun sequence
+30. NZ_BCWH01000003	Rhodococcus sp. YH3-3, whole genome shotgun sequence
+31. NZ_DF836100	Rhodococcus erythropolis strain JCM 6824, whole genome shotgun sequence
+32. NZ_JOIL01000010	Rhodococcus erythropolis strain NRRL B-16532 contig10.1, whole genome shotgun sequence
+33. NZ_KQ758504	Rhodococcus enclensis strain NIO-1009 Scaffold5, whole genome shotgun sequence
+34. NZ_LDPN01000073	Rhodococcus erythropolis strain CAS922i contig2159, whole genome shotgun sequence
+35. NZ_LJIS01000124	Rhodococcus sp. ADH Contig_006, whole genome shotgun sequence
+36. NZ_LNAK01000134	Rhodococcus sp. KB6 contig_187, whole genome shotgun sequence
+37. NZ_LRRJ01000055	Rhodococcus qingshengii strain JCM 15477 contig_55, whole genome shotgun sequence
+38. NZ_LVXC01000006	Rhodococcus qingshengii strain CW25 p100_contig_06, whole genome shotgun sequence
+39. NZ_MLKO01000008	Rhodococcus erythropolis strain VSD3 NODE_8_length_254550_cov_30.7722, whole genome shotgun sequence
+40. NZ_MRBQ01000005	Rhodococcus erythropolis strain IEGM 267 5, whole genome shotgun sequence
+41. NC_022115	Rhodococcus erythropolis CCM2595, complete genome
+42. NZ_AODN01000007	Rhodococcus qingshengii BKS 20-40 Contig007, whole genome shotgun sequence
+43. NZ_BCRM01000005	Rhodococcus erythropolis NBRC 15567, whole genome shotgun sequence
+44. NZ_CFHW01000042	Rhodococcus sp. 311R isolate Rhodococcus sp., whole genome shotgun sequence
+45. NZ_CP007255	Rhodococcus erythropolis R138, complete genome
+46. NZ_CP011295	Rhodococcus erythropolis strain BG43, complete genome
+47. NZ_CP014941	Rhodococcus sp. BH4, complete genome
+48. NZ_CP025959	Rhodococcus sp. djl-6-2 chromosome, complete genome
+49. NZ_FMVB01000004	Rhodococcus sp. 164Chir2E, whole genome shotgun sequence
+50. NZ_MDCH01000005	Rhodococcus erythropolis strain NSX2 scaffold5.1, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_FPAB01000003
+Source: Streptomyces harbinensis strain CGMCC 4.7047, whole genome shotgun sequence
+Type: nucleoside
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 6522
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	BM385_RS10805	100	614	100.0	4.9e-174
+ctg19_21	BM385_RS10810	100	209	100.0	1.6e-52
+ctg19_22	BM385_RS10815	99	694	93.36870026525199	7.7e-198
+ctg19_23	BM385_RS10820	99	635	98.78419452887537	3.7e-180
+ctg19_24	BM385_RS10825	98	438	84.69750889679716	4.4e-121
+ctg19_25	BM385_RS10830	100	616	83.24468085106383	2e-174
+ctg19_26	BM385_RS10835	100	884	100.0	3.7e-255
+ctg19_27	BM385_RS10840	100	320	100.0	1.2e-85
+ctg19_28	BM385_RS10845	100	647	100.0	9.5e-184
+ctg19_29	BM385_RS10850	100	1465	100.0	0.0
+
+
+
+>>
+2. NZ_ALNP01000010
+Source: Streptomyces sp. AA0539 contig00010, whole genome shotgun sequence
+Type: nucleoside
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 5858
+
+Table of genes, locations, strands and annotations of subject cluster:
+B311_RS31240	B311_RS31240	80544	80690	-	SAM-dependent_methyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	B311_RS0112490	100	614	100.0	4.9e-174
+ctg19_21	B311_RS0112495	100	209	100.0	1.6e-52
+ctg19_23	B311_RS0112505	99	641	100.0	6.8e-182
+ctg19_24	B311_RS0112510	95	465	100.0	3.3e-129
+ctg19_25	B311_RS0112515	100	618	83.24468085106383	7e-175
+ctg19_26	B311_RS27870	100	884	100.0	3.7e-255
+ctg19_27	B311_RS0112525	99	317	100.0	6e-85
+ctg19_28	B311_RS0112530	100	647	100.0	9.5e-184
+ctg19_29	B311_RS0112535	100	1463	100.0	0.0
+
+
+
+>>
+3. NZ_BDGW01000042
+Source: Streptomyces luteocolor strain NBRC 13826, whole genome shotgun sequence
+Type: nucleoside
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1928
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_26	BJI52_RS18935	57	462	100.87719298245614	7.8e-128
+ctg19_27	BJI52_RS18940	66	188	96.02649006622516	7.2e-46
+ctg19_28	BJI52_RS18945	64	400	93.93939393939394	1.5e-109
+ctg19_29	BJI52_RS18950	63	878	103.18725099601593	7.5e-253
+
+
+
+>>
+4. NZ_LIRJ01000209
+Source: Streptomyces silaceus strain NRRL B-24166 B24166_contig_209, whole genome shotgun sequence
+Type: nucleoside
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1921
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_26	AOK22_RS20465	56	459	100.87719298245614	3.9e-127
+ctg19_27	AOK22_RS20460	66	188	96.02649006622516	7.2e-46
+ctg19_28	AOK22_RS20455	63	399	93.93939393939394	4.5e-109
+ctg19_29	AOK22_RS20450	63	875	103.18725099601593	3.7e-252
+
+
+
+>>
+5. NZ_JODF01000005
+Source: Streptomyces sp. NRRL S-920 contig5.1, whole genome shotgun sequence
+Type: nucleoside
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1917
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_26	IG54_RS0106045	56	446	101.09649122807018	4.4e-123
+ctg19_27	IG54_RS0106050	63	183	96.68874172185431	2.3e-44
+ctg19_28	IG54_RS0106055	64	401	93.93939393939394	1.2e-109
+ctg19_29	IG54_RS0106060	64	887	103.18725099601593	9.5e-256
+
+
+
+>>
+6. NZ_JOGD01000056
+Source: Streptomyces sp. NRRL S-1868 contig56.1, whole genome shotgun sequence
+Type: nucleoside
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1854
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_26	IG92_RS0128165	58	452	94.07894736842105	4.7e-125
+ctg19_27	IG92_RS0128170	67	206	99.33774834437085	2e-51
+ctg19_28	IG92_RS0128175	65	409	93.63636363636364	4.3e-112
+ctg19_29	IG92_RS0128180	55	787	110.88977423638778	1.3e-225
+
+
+
+>>
+7. NZ_JOHT01000003
+Source: Streptomyces sp. NRRL F-5053 contig3.1, whole genome shotgun sequence
+Type: nucleoside
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1849
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_26	IH57_RS0103870	58	455	94.07894736842105	7.3e-126
+ctg19_27	IH57_RS0103875	68	206	98.67549668874173	2.6e-51
+ctg19_28	IH57_RS0103880	65	406	93.63636363636364	2.2e-111
+ctg19_29	IH57_RS0103885	55	782	110.88977423638778	5.6e-224
+
+
+
+>>
+8. NZ_JODL01000008
+Source: Streptomyces megasporus strain NRRL B-16372 contig8.1, whole genome shotgun sequence
+Type: nucleoside
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1761
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_26	IF47_RS0109560	49	389	102.19298245614034	4.9e-106
+ctg19_27	IF47_RS0109565	64	183	96.02649006622516	1.8e-44
+ctg19_28	IF47_RS0109570	59	373	95.45454545454545	2.6e-101
+ctg19_29	IF47_RS0109575	58	816	102.12483399734396	3.5e-234
+
+
+
+>>
+9. NZ_LMZE01000263
+Source: Streptomyces albus subsp. albus strain NRRL F-4371 P384contig6.1, whole genome shotgun sequence
+Type: nucleoside-nrps
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1803
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_25	ADL21_RS29680	41	185	82.7127659574468	1.5e-44
+ctg19_26	ADL21_RS29605	48	371	100.21929824561404	1.4e-100
+ctg19_27	ADL21_RS29600	61	173	96.02649006622516	1.4e-41
+ctg19_28	ADL21_RS29595	58	367	93.93939393939394	1.5e-99
+ctg19_29	ADL21_RS29570	53	707	100.39840637450199	1.3e-201
+
+
+
+>>
+10. NZ_FOUV01000001
+Source: Streptomyces sp. cf124, whole genome shotgun sequence
+Type: ladderane
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2121
+
+Table of genes, locations, strands and annotations of subject cluster:
+BM134_RS43390	BM134_RS43390	396348	396464	-	heparin-binding_hemagglutinin
+BM134_RS01700	BM134_RS01700	396624	398153	-	hypothetical_protein
+BM134_RS01730	BM134_RS01730	403741	404025	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	BM134_RS01785	78	494	101.27795527156549	9.8e-138
+ctg19_21	BM134_RS01790	57	115	97.16981132075472	4.2e-24
+ctg19_22	BM134_RS01795	48	295	98.93899204244032	6.1e-78
+ctg19_23	BM134_RS01805	64	406	98.48024316109422	2.8e-111
+ctg19_24	BM134_RS01810	75	350	88.25622775800713	2e-94
+ctg19_25	BM134_RS01815	77	461	80.85106382978722	8.4e-128
+
+
+
+>>
+11. NZ_LACL01000024
+Source: Streptomyces sp. FxanaA7 F611DRAFT_scaffold00014.14_C, whole genome shotgun sequence
+Type: ladderane
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2121
+
+Table of genes, locations, strands and annotations of subject cluster:
+F611_RS30130	F611_RS30130	214224	214508	+	hypothetical_protein
+F611_RS30160	F611_RS30160	220135	221664	+	hypothetical_protein
+F611_RS47890	F611_RS47890	221824	221940	+	heparin-binding_hemagglutinin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	F611_RS30075	78	494	101.27795527156549	9.8e-138
+ctg19_21	F611_RS30070	57	115	97.16981132075472	4.2e-24
+ctg19_22	F611_RS30065	48	295	98.93899204244032	6.1e-78
+ctg19_23	F611_RS30055	64	406	98.48024316109422	2.8e-111
+ctg19_24	F611_RS30050	75	350	88.25622775800713	2e-94
+ctg19_25	F611_RS30045	77	461	80.85106382978722	8.4e-128
+
+
+
+>>
+12. NZ_KL571089
+Source: Streptomyces monomycini strain NRRL B-24309 P063_Doro1_scaffold43, whole genome shotgun sequence
+Type: nucleoside
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1639
+
+Table of genes, locations, strands and annotations of subject cluster:
+HY87_RS01000000142255	HY87_RS01000000142255	38325	39545	+	threonine--tRNA_ligase
+HY87_RS1000000145645	HY87_RS1000000145645	50360	50928	-	DNA_gyrase_subunit_B
+HY87_RS1000000145650	HY87_RS1000000145650	51891	51983	-	SMI1/KNR4_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_26	HY87_RS0125215	50	371	99.3421052631579	1.8e-100
+ctg19_27	HY87_RS0125220	62	181	96.68874172185431	8.8e-44
+ctg19_28	HY87_RS0125225	58	368	93.93939393939394	1.1e-99
+ctg19_29	HY87_RS0125250	54	719	99.867197875166	3.4e-205
+
+
+
+>>
+13. NZ_JAFB01000003
+Source: Amycolatopsis taiwanensis DSM 45107 A3CUDRAFT_scaffold_1.2_C, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1014
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A3CU_RS0101020	56	306	91.69329073482429	2.9e-81
+ctg19_23	A3CU_RS0100930	38	161	90.27355623100304	1.6e-37
+ctg19_24	A3CU_RS0100925	47	185	86.12099644128114	1.1e-44
+ctg19_25	A3CU_RS0100920	61	362	81.38297872340425	6.9e-98
+
+
+
+>>
+14. NZ_BDBI01000026
+Source: Nocardia ignorata NBRC 108230, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 948
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	NI2_RS22360	50	280	98.7220447284345	2.2e-73
+ctg19_23	NI2_RS22375	34	126	93.00911854103343	7.3e-27
+ctg19_24	NI2_RS22380	46	182	88.25622775800713	5.6e-44
+ctg19_25	NI2_RS22385	63	360	80.85106382978722	2e-97
+
+
+
+>>
+15. NZ_BDBD01000004
+Source: Nocardia coubleae NBRC 108252, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 946
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	NCO8_RS02410	50	280	98.7220447284345	1.7e-73
+ctg19_23	NCO8_RS02395	33	123	93.00911854103343	6.2e-26
+ctg19_24	NCO8_RS02390	46	181	88.25622775800713	1.3e-43
+ctg19_25	NCO8_RS02385	64	362	80.85106382978722	5.3e-98
+
+
+
+>>
+16. NC_023150
+Source: Rhodococcus pyridinivorans SB3094, complete genome
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 934
+
+Table of genes, locations, strands and annotations of subject cluster:
+Y013_RS02820	Y013_RS02820	609043	609476	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	Y013_RS02585	49	262	93.29073482428115	6.2e-68
+ctg19_23	Y013_RS02600	32	127	93.61702127659575	2.5e-27
+ctg19_24	Y013_RS02605	47	186	88.25622775800713	3e-45
+ctg19_25	Y013_RS02610	62	359	82.18085106382979	3.4e-97
+
+
+
+>>
+17. NZ_LUTX01000011
+Source: Rhodococcus sp. HS-D2 HSD2_scaffold11, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 934
+
+Table of genes, locations, strands and annotations of subject cluster:
+A1E04_RS12675	A1E04_RS12675	5696	6093	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A1E04_RS12905	49	262	93.29073482428115	6.2e-68
+ctg19_23	A1E04_RS12890	32	127	93.61702127659575	2.5e-27
+ctg19_24	A1E04_RS12885	47	186	88.25622775800713	3e-45
+ctg19_25	A1E04_RS12880	62	359	82.18085106382979	3.4e-97
+
+
+
+>>
+18. NZ_CP018063
+Source: Rhodococcus sp. 2G chromosome, complete genome
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 933
+
+Table of genes, locations, strands and annotations of subject cluster:
+BO226_RS07455	BO226_RS07455	1579398	1580683	+	hypothetical_protein
+BO226_RS07510	BO226_RS07510	1603748	1604181	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	BO226_RS07275	49	262	93.29073482428115	6.2e-68
+ctg19_23	BO226_RS07290	32	127	93.61702127659575	2.5e-27
+ctg19_24	BO226_RS07295	47	185	88.25622775800713	8.7e-45
+ctg19_25	BO226_RS07300	62	359	82.18085106382979	3.4e-97
+
+
+
+>>
+19. NZ_FNRX01000002
+Source: Rhodococcus pyridinivorans strain DSM 44555, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 932
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLV31_RS14600	BLV31_RS14600	3071238	3071667	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	BLV31_RS14830	49	262	93.29073482428115	6.2e-68
+ctg19_23	BLV31_RS14815	32	127	93.61702127659575	2.5e-27
+ctg19_24	BLV31_RS14810	47	186	88.25622775800713	3e-45
+ctg19_25	BLV31_RS14805	62	357	82.18085106382979	2.2e-96
+
+
+
+>>
+20. NZ_LZHZ01000067
+Source: Mycobacterium sp. ACS1612 contig_7, whole genome shotgun sequence
+Type: t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 929
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5724_RS28695	A5724_RS28695	23059	23458	+	hypothetical_protein
+A5724_RS33425	A5724_RS33425	51436	51768	-	hypothetical_protein
+A5724_RS33430	A5724_RS33430	51775	52102	-	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A5724_RS28795	53	272	90.09584664536742	7.9e-71
+ctg19_23	A5724_RS28810	41	146	87.2340425531915	5.2e-33
+ctg19_24	A5724_RS28815	44	170	88.25622775800713	2.2e-40
+ctg19_25	A5724_RS28820	59	341	82.7127659574468	1.7e-91
+
+
+
+>>
+21. NZ_LZHV01000005
+Source: Mycobacterium sp. ACS4054 contig_13, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 928
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5730_RS00600	A5730_RS00600	12060	20546	+	non-ribosomal_peptide_synthetase
+A5730_RS00640	A5730_RS00640	29086	29771	+	6-phosphogluconolactonase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A5730_RS00615	50	272	92.01277955271566	4.6e-71
+ctg19_23	A5730_RS00590	37	139	93.9209726443769	8.4e-31
+ctg19_24	A5730_RS00585	46	180	88.25622775800713	2.8e-43
+ctg19_25	A5730_RS00580	60	337	81.38297872340425	1.8e-90
+
+
+
+>>
+22. NZ_LZMC01000112
+Source: Mycobacterium sp. 1274761.0 strain 1274761 contig_98, whole genome shotgun sequence
+Type: t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 927
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A5651_RS23970	52	273	90.09584664536742	3.5e-71
+ctg19_23	A5651_RS23985	35	148	90.5775075987842	1.1e-33
+ctg19_24	A5651_RS23990	43	171	88.25622775800713	1e-40
+ctg19_25	A5651_RS23995	59	335	79.7872340425532	7e-90
+
+
+
+>>
+23. NZ_MBET01000052
+Source: Mycobacterium sp. IS-2888 contig_34, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 917
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5745_RS08825	A5745_RS08825	149238	149534	-	FAD-dependent_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A5745_RS08755	50	271	92.01277955271566	1e-70
+ctg19_23	A5745_RS08730	36	136	93.61702127659575	4.2e-30
+ctg19_24	A5745_RS08725	45	175	90.0355871886121	1.2e-41
+ctg19_25	A5745_RS08720	59	335	82.97872340425532	7e-90
+
+
+
+>>
+24. NZ_MBES01000068
+Source: Mycobacterium sp. IS-1264 contig_69, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 913
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5744_RS16940	A5744_RS16940	98524	99170	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A5744_RS16950	49	269	92.01277955271566	6.7e-70
+ctg19_23	A5744_RS16925	36	138	93.61702127659575	1.1e-30
+ctg19_24	A5744_RS16920	45	175	90.0355871886121	1.2e-41
+ctg19_25	A5744_RS16915	58	331	82.97872340425532	1e-88
+
+
+
+>>
+25. NZ_LRRH01000020
+Source: Rhodococcus phenolicus strain DSM 44812 contig_20, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 896
+
+Table of genes, locations, strands and annotations of subject cluster:
+A8G15_RS07000	A8G15_RS07000	31827	32796	+	IS481_family_transposase
+A8G15_RS07010	A8G15_RS07010	34191	35141	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A8G15_RS06995	49	264	93.29073482428115	1.6e-68
+ctg19_23	A8G15_RS07010	31	109	92.70516717325228	9.3e-22
+ctg19_24	A8G15_RS07015	46	181	88.61209964412812	1.3e-43
+ctg19_25	A8G15_RS07020	59	342	82.18085106382979	4.4e-92
+
+
+
+>>
+26. NZ_LWCS01000076
+Source: Mycolicibacterium iranicum strain H39 scaffold_7, whole genome shotgun sequence
+Type: t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1080
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A4X20_RS28070	50	271	91.3738019169329	1e-70
+ctg19_23	A4X20_RS28050	35	137	91.48936170212765	3.2e-30
+ctg19_24	A4X20_RS28035	46	176	88.25622775800713	4e-42
+ctg19_25	A4X20_RS28030	61	341	79.7872340425532	9.7e-92
+ctg19_25	A4X20_RS27915	37	155	81.11702127659575	1.3e-35
+
+
+
+>>
+27. NZ_AJJH01000168
+Source: Rhodococcus imtechensis RKJ300 = JCM 13270 strain RKJ300 Contig165_1, whole genome shotgun sequence
+Type: t1pks-terpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+W59_RS31000	W59_RS31000	18522	18943	+	hypothetical_protein
+W59_RS31010	W59_RS31010	19692	21912	+	LuxR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	W59_RS30925	50	273	92.65175718849841	3.5e-71
+ctg19_23	W59_RS30940	33	113	91.7933130699088	4.9e-23
+ctg19_24	W59_RS30950	44	174	88.25622775800713	1.5e-41
+ctg19_25	W59_RS30955	61	345	81.64893617021278	6.7e-93
+
+
+
+>>
+28. NZ_ACNO01000082
+Source: Rhodococcus erythropolis SK121 contig00027, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	RHOER0001_RS24445	48	272	94.56869009584665	4.6e-71
+ctg19_23	RHOER0001_RS24460	32	111	93.00911854103343	2.4e-22
+ctg19_24	RHOER0001_RS24470	46	191	88.25622775800713	1.6e-46
+ctg19_25	RHOER0001_RS24475	59	331	80.85106382978722	1e-88
+
+
+
+>>
+29. NZ_AUZK01000008
+Source: Rhodococcus erythropolis DN1 contig00008, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+N601_RS48620	N601_RS48620	178797	180550	-	hypothetical_protein
+N601_RS48625	N601_RS48625	180774	181426	+	transcriptional_regulator
+N601_RS48660	N601_RS48660	187667	201966	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	N601_RS48585	48	272	94.56869009584665	4.6e-71
+ctg19_23	N601_RS48600	32	111	93.00911854103343	2.4e-22
+ctg19_24	N601_RS48610	46	191	88.25622775800713	1.6e-46
+ctg19_25	N601_RS48615	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+30. NZ_BCWH01000003
+Source: Rhodococcus sp. YH3-3, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	YH3_RS29585	48	272	94.56869009584665	4.6e-71
+ctg19_23	YH3_RS29600	32	111	93.00911854103343	2.4e-22
+ctg19_24	YH3_RS29610	46	191	88.25622775800713	1.6e-46
+ctg19_25	YH3_RS29615	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+31. NZ_DF836100
+Source: Rhodococcus erythropolis strain JCM 6824, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+RE6824_RS01430	RE6824_RS01430	39	1148	-	HoxX
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	RE6824_RS01605	48	272	94.56869009584665	4.6e-71
+ctg19_23	RE6824_RS01590	32	111	93.00911854103343	2.4e-22
+ctg19_24	RE6824_RS01580	46	191	88.25622775800713	1.6e-46
+ctg19_25	RE6824_RS01575	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+32. NZ_JOIL01000010
+Source: Rhodococcus erythropolis strain NRRL B-16532 contig10.1, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	IF68_RS0118565	48	272	94.56869009584665	4.6e-71
+ctg19_23	IF68_RS0118550	32	111	93.00911854103343	2.4e-22
+ctg19_24	IF68_RS0118540	46	191	88.25622775800713	1.6e-46
+ctg19_25	IF68_RS0118535	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+33. NZ_KQ758504
+Source: Rhodococcus enclensis strain NIO-1009 Scaffold5, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	AS032_RS11580	48	272	94.56869009584665	4.6e-71
+ctg19_23	AS032_RS11565	32	111	93.00911854103343	2.4e-22
+ctg19_24	AS032_RS11555	46	191	88.25622775800713	1.6e-46
+ctg19_25	AS032_RS11550	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+34. NZ_LDPN01000073
+Source: Rhodococcus erythropolis strain CAS922i contig2159, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	ABM90_RS16540	48	272	94.56869009584665	4.6e-71
+ctg19_23	ABM90_RS16555	32	111	93.00911854103343	2.4e-22
+ctg19_24	ABM90_RS16565	46	191	88.25622775800713	1.6e-46
+ctg19_25	ABM90_RS16570	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+35. NZ_LJIS01000124
+Source: Rhodococcus sp. ADH Contig_006, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	AN948_RS22550	48	272	94.56869009584665	4.6e-71
+ctg19_23	AN948_RS22565	32	111	93.00911854103343	2.4e-22
+ctg19_24	AN948_RS22575	46	191	88.25622775800713	1.6e-46
+ctg19_25	AN948_RS22580	59	331	80.85106382978722	1.7e-88
+
+
+
+>>
+36. NZ_LNAK01000134
+Source: Rhodococcus sp. KB6 contig_187, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	ASU23_RS23085	48	272	94.56869009584665	4.6e-71
+ctg19_23	ASU23_RS23100	32	111	93.00911854103343	2.4e-22
+ctg19_24	ASU23_RS23110	46	191	88.25622775800713	1.6e-46
+ctg19_25	ASU23_RS23115	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+37. NZ_LRRJ01000055
+Source: Rhodococcus qingshengii strain JCM 15477 contig_55, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A8G21_RS26555	48	272	94.56869009584665	4.6e-71
+ctg19_23	A8G21_RS26540	32	111	93.00911854103343	2.4e-22
+ctg19_24	A8G21_RS26515	46	191	88.25622775800713	1.6e-46
+ctg19_25	A8G21_RS26510	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+38. NZ_LVXC01000006
+Source: Rhodococcus qingshengii strain CW25 p100_contig_06, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A3852_RS22235	48	272	94.56869009584665	4.6e-71
+ctg19_23	A3852_RS22220	32	111	93.00911854103343	2.4e-22
+ctg19_24	A3852_RS22185	46	191	88.25622775800713	1.6e-46
+ctg19_25	A3852_RS22180	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+39. NZ_MLKO01000008
+Source: Rhodococcus erythropolis strain VSD3 NODE_8_length_254550_cov_30.7722, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+BKP30_RS21465	BKP30_RS21465	220787	221150	+	hypothetical_protein
+BKP30_RS21475	BKP30_RS21475	222313	223774	-	hypothetical_protein
+BKP30_RS21530	BKP30_RS21530	234418	248750	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	BKP30_RS21455	48	272	94.56869009584665	4.6e-71
+ctg19_23	BKP30_RS21470	32	111	93.00911854103343	2.4e-22
+ctg19_24	BKP30_RS21480	47	191	88.25622775800713	9.3e-47
+ctg19_25	BKP30_RS21485	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+40. NZ_MRBQ01000005
+Source: Rhodococcus erythropolis strain IEGM 267 5, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 905
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	BS618_RS08260	48	272	94.56869009584665	4.6e-71
+ctg19_23	BS618_RS08275	32	111	93.00911854103343	2.4e-22
+ctg19_24	BS618_RS08285	46	191	88.25622775800713	1.6e-46
+ctg19_25	BS618_RS08290	59	331	80.85106382978722	1.7e-88
+
+
+
+>>
+41. NC_022115
+Source: Rhodococcus erythropolis CCM2595, complete genome
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 904
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	O5Y_RS13845	48	272	94.56869009584665	4.6e-71
+ctg19_23	O5Y_RS13860	32	111	93.00911854103343	2.4e-22
+ctg19_24	O5Y_RS13870	46	190	88.25622775800713	2.1e-46
+ctg19_25	O5Y_RS13875	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+42. NZ_AODN01000007
+Source: Rhodococcus qingshengii BKS 20-40 Contig007, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 904
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	G418_RS05310	48	272	94.56869009584665	4.6e-71
+ctg19_23	G418_RS05295	32	111	93.00911854103343	2.4e-22
+ctg19_24	G418_RS05285	46	190	88.25622775800713	2.1e-46
+ctg19_25	G418_RS05280	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+43. NZ_BCRM01000005
+Source: Rhodococcus erythropolis NBRC 15567, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 904
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	RE4_RS10620	48	272	94.56869009584665	4.6e-71
+ctg19_23	RE4_RS10635	32	111	93.00911854103343	2.4e-22
+ctg19_24	RE4_RS10645	46	190	88.25622775800713	2.1e-46
+ctg19_25	RE4_RS10650	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+44. NZ_CFHW01000042
+Source: Rhodococcus sp. 311R isolate Rhodococcus sp., whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 904
+
+Table of genes, locations, strands and annotations of subject cluster:
+ALC46_RS20330	ALC46_RS20330	123168	126879	+	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	ALC46_RS20255	48	272	94.56869009584665	4.6e-71
+ctg19_23	ALC46_RS20270	32	110	92.09726443768997	3.2e-22
+ctg19_24	ALC46_RS20280	46	191	88.25622775800713	1.6e-46
+ctg19_25	ALC46_RS20285	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+45. NZ_CP007255
+Source: Rhodococcus erythropolis R138, complete genome
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 904
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	H351_RS17725	48	272	94.56869009584665	4.6e-71
+ctg19_23	H351_RS17710	32	111	93.00911854103343	2.4e-22
+ctg19_24	H351_RS17700	46	191	88.25622775800713	1.6e-46
+ctg19_25	H351_RS17695	59	330	80.85106382978722	2.2e-88
+
+
+
+>>
+46. NZ_CP011295
+Source: Rhodococcus erythropolis strain BG43, complete genome
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 904
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	XU06_RS14165	48	272	94.56869009584665	4.6e-71
+ctg19_23	XU06_RS14180	32	111	93.00911854103343	2.4e-22
+ctg19_24	XU06_RS14190	46	190	88.25622775800713	2.1e-46
+ctg19_25	XU06_RS14195	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+47. NZ_CP014941
+Source: Rhodococcus sp. BH4, complete genome
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 904
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	A0W34_RS14605	48	272	94.56869009584665	4.6e-71
+ctg19_23	A0W34_RS14620	32	111	93.00911854103343	2.4e-22
+ctg19_24	A0W34_RS14645	46	190	88.25622775800713	2.1e-46
+ctg19_25	A0W34_RS14650	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+48. NZ_CP025959
+Source: Rhodococcus sp. djl-6-2 chromosome, complete genome
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 904
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	C1M55_RS15185	48	272	94.56869009584665	4.6e-71
+ctg19_23	C1M55_RS15200	32	110	92.09726443768997	3.2e-22
+ctg19_24	C1M55_RS15210	46	191	88.25622775800713	1.6e-46
+ctg19_25	C1M55_RS15215	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+49. NZ_FMVB01000004
+Source: Rhodococcus sp. 164Chir2E, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 904
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	BLQ26_RS10305	48	272	94.56869009584665	4.6e-71
+ctg19_23	BLQ26_RS10290	32	111	93.00911854103343	2.4e-22
+ctg19_24	BLQ26_RS10280	46	190	88.25622775800713	2.1e-46
+ctg19_25	BLQ26_RS10275	59	331	80.85106382978722	1.3e-88
+
+
+
+>>
+50. NZ_MDCH01000005
+Source: Rhodococcus erythropolis strain NSX2 scaffold5.1, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 904
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg19_20	BFG59_RS17220	48	272	94.56869009584665	4.6e-71
+ctg19_23	BFG59_RS17235	32	111	93.00911854103343	2.4e-22
+ctg19_24	BFG59_RS17245	46	190	88.25622775800713	2.1e-46
+ctg19_25	BFG59_RS17250	59	331	80.85106382978722	1.3e-88
+

@@ -1,0 +1,920 @@
+ClusterBlast scores for c00147_NODE_14..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg147_1	2	5192	+		
+ctg147_2	5287	6163	+		
+ctg147_3	6162	6969	+		
+ctg147_4	7041	8427	-		
+ctg147_5	8908	10027	-		
+ctg147_6	10127	11711	-		
+ctg147_7	11741	12341	-		
+ctg147_8	12461	12533	+		
+
+
+Significant hits: 
+1. NZ_ALNP01000003	Streptomyces sp. AA0539 contig00003, whole genome shotgun sequence
+2. NZ_FPAB01000001	Streptomyces harbinensis strain CGMCC 4.7047, whole genome shotgun sequence
+3. NC_006361	Nocardia farcinica IFM 10152 DNA, complete genome
+4. NZ_LN868938	Nocardia farcinica genome assembly NCTC11134, chromosome : 1
+5. NZ_BAFX01000132	Nocardia concava NBRC 100430, whole genome shotgun sequence
+6. NZ_CP009922	Streptomyces xiamenensis strain 318, complete genome
+7. NZ_JOIG01000004	Streptomyces sp. NRRL F-2890 contig4.1, whole genome shotgun sequence
+8. NZ_BDCM01000007	Nocardia mikamii NBRC 108933, whole genome shotgun sequence
+9. NZ_JOJF01000019	Nocardia sp. NRRL WC-3656 contig19.1, whole genome shotgun sequence
+10. NZ_JH792115	Bacillus cereus MC67 supercont1.3, whole genome shotgun sequence
+11. NC_011655	Bacillus cereus AH187 plasmid pAH187_270, complete sequence
+12. NZ_LRRO01000911	Bacillus cereus strain MB.22 contig1818, whole genome shotgun sequence
+13. NZ_LRAA01000202	Bacillus cereus strain MB.18 280, whole genome shotgun sequence
+14. NZ_JH792011	Bacillus cereus CER057 supercont1.1, whole genome shotgun sequence
+15. NZ_CP017248	Streptomyces puniciscabiei strain TW1S1 chromosome, complete genome
+16. NZ_JOIV01000021	Streptomyces sp. NRRL S-1896 contig21.1, whole genome shotgun sequence
+17. NZ_JOJH01000018	Streptomyces sp. NRRL WC-3725 contig18.1, whole genome shotgun sequence
+18. NZ_JNWV01000029	Streptomyces flaveolus strain NRRL B-1589 contig29.1, whole genome shotgun sequence
+19. NZ_JOCJ01000016	Streptomyces sp. NRRL WC-3744 contig16.1, whole genome shotgun sequence
+20. NZ_BBZK01000015	Streptomyces sp. TP-A0874, whole genome shotgun sequence
+21. NZ_JOCF01000073	Streptomyces sp. NRRL WC-3742 contig73.1, whole genome shotgun sequence
+22. NZ_BAGM01000118	Nocardia veterana NBRC 100344, whole genome shotgun sequence
+23. NZ_BAFT02000068	Nocardia brasiliensis NBRC 14402, whole genome shotgun sequence
+24. NZ_CP022088	Nocardia brasiliensis strain FDAARGOS_352 chromosome, complete genome
+25. NZ_BAUA01000081	Nocardia brasiliensis IFM 10847, whole genome shotgun sequence
+26. NZ_BAGL01000052	Nocardia transvalensis NBRC 15921, whole genome shotgun sequence
+27. NZ_BDCI01000028	Nocardia vulneris strain NBRC 108936, whole genome shotgun sequence
+28. NC_018681	Nocardia brasiliensis ATCC 700358, complete genome
+29. NZ_KV411304	Nocardia terpenica strain IFM 0406 scaffold2, whole genome shotgun sequence
+30. NZ_BATZ01000021	Nocardia otitidiscaviarum IFM 11049, whole genome shotgun sequence
+31. NZ_BDBH01000013	Nocardia harenae NBRC 108248, whole genome shotgun sequence
+32. NZ_BAGD01000031	Nocardia otitidiscaviarum NBRC 14405, whole genome shotgun sequence
+33. NZ_KI632509	Amycolatopsis halophila YIM 93223 AmyhaDRAFT_Scaffold1.1, whole genome shotgun sequence
+34. NZ_BDCD01000005	Nocardia yamanashiensis NBRC 100130, whole genome shotgun sequence
+35. NZ_BDCA01000006	Nocardia vermiculata NBRC 100427, whole genome shotgun sequence
+36. NZ_BDBZ01000002	Nocardia speluncae NBRC 108251, whole genome shotgun sequence
+37. NZ_LZML01000145	Nocardia sp. 852002-51101_SCH5132738 contig_33, whole genome shotgun sequence
+38. NZ_BDBF01000002	Nocardia elegans NBRC 108235, whole genome shotgun sequence
+39. NZ_CP023778	Nocardia terpenica strain NC_YFY_NT001 chromosome, complete genome
+40. NZ_BDBV01000039	Nocardia mexicana NBRC 108244, whole genome shotgun sequence
+41. NZ_BDAW01000009	Nocardia acidivorans NBRC 108247, whole genome shotgun sequence
+42. NZ_BDCA01000002	Nocardia vermiculata NBRC 100427, whole genome shotgun sequence
+43. NZ_BAFQ01000178	Nocardia aobensis NBRC 100429, whole genome shotgun sequence
+44. NZ_BAFR01000199	Nocardia araoensis NBRC 100135, whole genome shotgun sequence
+45. NZ_BAGC01000035	Nocardia niigatensis NBRC 100131, whole genome shotgun sequence
+46. NZ_LN482608	Rhodococcus ruber, whole genome shotgun sequence
+47. NZ_BDCG01000017	Nocardia flavorosea NBRC 108225, whole genome shotgun sequence
+48. NZ_KB907307	Nocardia sp. BMG111209 G361DRAFT_scaffold00001.1, whole genome shotgun sequence
+49. NZ_CP017839	Nocardia seriolae strain EM150506, complete genome
+50. NZ_BDAY01000028	Nocardia altamirensis NBRC 108246, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_ALNP01000003
+Source: Streptomyces sp. AA0539 contig00003, whole genome shotgun sequence
+Type: t2pks-oligosaccharide-nrps
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 8167
+
+Table of genes, locations, strands and annotations of subject cluster:
+B311_RS31180	B311_RS31180	131151	134363	-	non-ribosomal_peptide_synthetase
+B311_RS30895	B311_RS30895	134631	136610	-	non-ribosomal_peptide_synthetase
+B311_RS30330	B311_RS30330	137055	137534	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	B311_RS0104950	100	3318	98.61191440138809	0.0
+ctg147_1	B311_RS0104955	35	644	87.4493927125506	4.2e-182
+ctg147_2	B311_RS26995	100	572	100.0	3.4e-161
+ctg147_3	B311_RS0104940	100	502	100.0	4e-140
+ctg147_4	B311_RS0104935	100	944	100.0	4e-273
+ctg147_4	B311_RS0105000	36	84	30.36876355748373	3.4e-14
+ctg147_5	B311_RS0104925	100	752	100.0	1.8e-215
+ctg147_6	B311_RS26990	100	894	100.0	4.2e-258
+ctg147_7	B311_RS0104915	100	405	100.0	2.9e-111
+ctg147_8	B311_RS0104910	100	52	100.0	5.8e-06
+
+
+
+>>
+2. NZ_FPAB01000001
+Source: Streptomyces harbinensis strain CGMCC 4.7047, whole genome shotgun sequence
+Type: t1pks-nrps
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 6099
+
+Table of genes, locations, strands and annotations of subject cluster:
+BM385_RS01940	BM385_RS01940	415550	416468	-	AraC_family_transcriptional_regulator
+BM385_RS01945	BM385_RS01945	416492	417401	-	alcohol_dehydrogenase
+BM385_RS26420	BM385_RS26420	455998	459084	-	non-ribosomal_peptide_synthetase
+BM385_RS02075	BM385_RS02075	459337	461286	-	non-ribosomal_peptide_synthetase
+BM385_RS02080	BM385_RS02080	461863	462222	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	BM385_RS01920	99	3349	100.52053209947947	0.0
+ctg147_1	BM385_RS01925	35	645	87.33371891266628	1.9e-182
+ctg147_2	BM385_RS01915	100	574	100.0	9e-162
+ctg147_3	BM385_RS01910	100	502	100.0	4e-140
+ctg147_4	BM385_RS01905	100	943	100.0	8.9e-273
+ctg147_4	BM385_RS01970	45	86	20.17353579175705	9e-15
+
+
+
+>>
+3. NC_006361
+Source: Nocardia farcinica IFM 10152 DNA, complete genome
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 898
+
+Table of genes, locations, strands and annotations of subject cluster:
+NFA_RS30995	NFA_RS30995	1236275	1236460	-	hypothetical_protein
+NFA_RS05640	NFA_RS05640	1236690	1236908	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NFA_RS05620	35	485	67.14864083285136	3.3e-134
+ctg147_2	NFA_RS05625	33	112	76.28865979381443	7.4e-23
+ctg147_6	NFA_RS05600	39	301	94.49715370018976	1.6e-79
+
+
+
+>>
+4. NZ_LN868938
+Source: Nocardia farcinica genome assembly NCTC11134, chromosome : 1
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 850
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMO33_RS14700	AMO33_RS14700	3084610	3084828	+	hypothetical_protein
+AMO33_RS14740	AMO33_RS14740	3104434	3106469	-	MFS_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	AMO33_RS14720	35	485	67.14864083285136	3.3e-134
+ctg147_2	AMO33_RS14715	33	111	76.28865979381443	1.7e-22
+ctg147_6	AMO33_RS14740	49	254	57.874762808349146	2.2e-65
+
+
+
+>>
+5. NZ_BAFX01000132
+Source: Nocardia concava NBRC 100430, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 680
+
+Table of genes, locations, strands and annotations of subject cluster:
+ON43_RS30800	ON43_RS30800	70590	71395	-	amidohydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	ON43_RS30785	32	480	81.08733371891267	8e-133
+ctg147_2	ON43_RS30780	32	118	76.28865979381443	1e-24
+ctg147_6	ON43_RS30700	31	82	42.314990512333964	1.5e-13
+
+
+
+>>
+6. NZ_CP009922
+Source: Streptomyces xiamenensis strain 318, complete genome
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 4446
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	SXIM_RS23255	83	2792	100.28918449971083	0.0
+ctg147_1	SXIM_RS23250	36	656	87.16020821283979	1.1e-185
+ctg147_2	SXIM_RS23260	92	525	100.0	4.8e-147
+ctg147_3	SXIM_RS23265	94	473	100.0	1.5e-131
+
+
+
+>>
+7. NZ_JOIG01000004
+Source: Streptomyces sp. NRRL F-2890 contig4.1, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 4429
+
+Table of genes, locations, strands and annotations of subject cluster:
+IF79_RS29795	IF79_RS29795	361321	361656	-	hypothetical_protein
+IF79_RS0110850	IF79_RS0110850	364412	364609	-	hypothetical_protein
+IF79_RS29800	IF79_RS29800	364605	364946	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	IF79_RS0110810	83	2778	100.28918449971083	0.0
+ctg147_1	IF79_RS0110805	36	648	87.10237131289763	2.9e-183
+ctg147_2	IF79_RS0110815	92	527	100.0	1.3e-147
+ctg147_3	IF79_RS0110820	94	476	100.0	1.8e-132
+
+
+
+>>
+8. NZ_BDCM01000007
+Source: Nocardia mikamii NBRC 108933, whole genome shotgun sequence
+Type: bacteriocin-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1566
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NMI01S_RS10260	34	483	69.7513013302487	9.5e-134
+ctg147_1	NMI01S_RS10255	31	482	79.98843262001157	2.8e-133
+ctg147_1	NMI01S_RS10135	33	465	70.27183342972818	2.7e-128
+ctg147_2	NMI01S_RS10130	36	136	75.25773195876289	3.7e-30
+
+
+
+>>
+9. NZ_JOJF01000019
+Source: Nocardia sp. NRRL WC-3656 contig19.1, whole genome shotgun sequence
+Type: bacteriocin-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1558
+
+Table of genes, locations, strands and annotations of subject cluster:
+IG65_RS37050	IG65_RS37050	45920	46021	-	cupin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	IG65_RS0123595	33	482	72.8744939271255	2.8e-133
+ctg147_1	IG65_RS36075	33	473	69.7513013302487	7.5e-131
+ctg147_1	IG65_RS0123735	33	467	72.18045112781954	5.4e-129
+ctg147_2	IG65_RS0123740	36	136	75.25773195876289	4.8e-30
+
+
+
+>>
+10. NZ_JH792115
+Source: Bacillus cereus MC67 supercont1.3, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1223
+
+Table of genes, locations, strands and annotations of subject cluster:
+II3_RS25480	II3_RS25480	19539	20072	+	IS4_family_transposase
+II3_RS25535	II3_RS25535	32724	32956	+	IS6_family_transposase
+II3_RS25540	II3_RS25540	33010	33306	-	hypothetical_protein
+II3_RS25545	II3_RS25545	33432	33811	+	hypothetical_protein
+II3_RS25590	II3_RS25590	58461	58934	+	DNA_topoisomerase_I
+II3_RS25600	II3_RS25600	59787	61241	-	DNA_topoisomerase_III
+II3_RS30095	II3_RS30095	61980	62087	+	IS6_family_transposase
+II3_RS30100	II3_RS30100	66046	66210	-	IS6_family_transposase
+II3_RS25650	II3_RS25650	74465	74652	+	hypothetical_protein
+II3_RS25655	II3_RS25655	74715	76253	+	alveolysin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	II3_RS25575	35	971	100.23134759976867	1.2e-280
+ctg147_2	II3_RS25580	44	252	98.96907216494846	6e-65
+
+
+
+>>
+11. NC_011655
+Source: Bacillus cereus AH187 plasmid pAH187_270, complete sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1221
+
+Table of genes, locations, strands and annotations of subject cluster:
+BCAH187_RS28870	BCAH187_RS28870	256253	256542	-	transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	BCAH187_RS28825	35	967	100.9253903990746	1.7e-279
+ctg147_2	BCAH187_RS28820	45	254	98.96907216494846	1.2e-65
+
+
+
+>>
+12. NZ_LRRO01000911
+Source: Bacillus cereus strain MB.22 contig1818, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1221
+
+Table of genes, locations, strands and annotations of subject cluster:
+ACS92_RS13075	ACS92_RS13075	44582	44871	+	transcriptional_regulator
+ACS92_RS13185	ACS92_RS13185	84616	85383	+	hypothetical_protein
+ACS92_RS13195	ACS92_RS13195	86302	86628	-	acetyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	ACS92_RS13120	35	967	100.9253903990746	1.7e-279
+ctg147_2	ACS92_RS13125	45	254	98.96907216494846	1.2e-65
+
+
+
+>>
+13. NZ_LRAA01000202
+Source: Bacillus cereus strain MB.18 280, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1221
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	ACS52_RS07365	35	967	100.86755349913246	2.2e-279
+ctg147_2	ACS52_RS07360	45	254	98.96907216494846	1.2e-65
+
+
+
+>>
+14. NZ_JH792011
+Source: Bacillus cereus CER057 supercont1.1, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1215
+
+Table of genes, locations, strands and annotations of subject cluster:
+IEW_RS09720	IEW_RS09720	1946585	1947184	-	hypothetical_protein
+IEW_RS28550	IEW_RS28550	1954168	1954275	-	DUF3956_domain-containing_protein
+IEW_RS09765	IEW_RS09765	1954486	1954863	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	IEW_RS09815	35	964	100.34702139965297	1.8e-278
+ctg147_2	IEW_RS09820	44	251	98.96907216494846	1.3e-64
+
+
+
+>>
+15. NZ_CP017248
+Source: Streptomyces puniciscabiei strain TW1S1 chromosome, complete genome
+Type: ladderane-arylpolyene-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1133
+
+Table of genes, locations, strands and annotations of subject cluster:
+BFF78_RS09705	BFF78_RS09705	2400553	2401077	-	hypothetical_protein
+BFF78_RS45425	BFF78_RS45425	2454003	2454143	+	type_IV_secretion_protein_Rhs
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	BFF78_RS09735	35	527	73.27935222672065	4.4e-147
+ctg147_1	BFF78_RS09730	32	477	83.97917871602083	5.2e-132
+ctg147_2	BFF78_RS09725	36	129	75.25773195876289	4.5e-28
+
+
+
+>>
+16. NZ_JOIV01000021
+Source: Streptomyces sp. NRRL S-1896 contig21.1, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 700
+
+Table of genes, locations, strands and annotations of subject cluster:
+IO31_RS0128800	IO31_RS0128800	148147	148818	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	IO31_RS0128795	33	467	72.99016772700983	7.1e-129
+ctg147_2	IO31_RS0128790	31	122	103.78006872852235	9.4e-26
+ctg147_2	IO31_RS0128775	35	111	71.47766323024055	2.2e-22
+
+
+
+>>
+17. NZ_JOJH01000018
+Source: Streptomyces sp. NRRL WC-3725 contig18.1, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 700
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	IG89_RS0124485	33	467	72.99016772700983	7.1e-129
+ctg147_2	IG89_RS0124490	31	122	103.78006872852235	9.4e-26
+ctg147_2	IG89_RS0124505	35	111	71.47766323024055	2.2e-22
+
+
+
+>>
+18. NZ_JNWV01000029
+Source: Streptomyces flaveolus strain NRRL B-1589 contig29.1, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 699
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	OO52_RS50010	33	466	72.99016772700983	1.2e-128
+ctg147_2	OO52_RS29255	31	122	103.78006872852235	9.4e-26
+ctg147_2	OO52_RS29270	35	111	71.47766323024055	2.2e-22
+
+
+
+>>
+19. NZ_JOCJ01000016
+Source: Streptomyces sp. NRRL WC-3744 contig16.1, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 698
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	IF36_RS0117135	33	468	73.048004626952	3.2e-129
+ctg147_2	IF36_RS0117140	31	119	103.78006872852235	7.9e-25
+ctg147_2	IF36_RS0117155	35	111	71.47766323024055	2.2e-22
+
+
+
+>>
+20. NZ_BBZK01000015
+Source: Streptomyces sp. TP-A0874, whole genome shotgun sequence
+Type: terpene-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 686
+
+Table of genes, locations, strands and annotations of subject cluster:
+BGP73_RS21305	BGP73_RS21305	66982	68328	+	cytochrome
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	BGP73_RS21365	34	560	84.73105841526895	8e-157
+ctg147_2	BGP73_RS21360	34	126	76.28865979381443	5e-27
+
+
+
+>>
+21. NZ_JOCF01000073
+Source: Streptomyces sp. NRRL WC-3742 contig73.1, whole genome shotgun sequence
+Type: ladderane-arylpolyene-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 637
+
+Table of genes, locations, strands and annotations of subject cluster:
+IH61_RS0132205	IH61_RS0132205	28464	28970	-	hypothetical_protein
+IH61_RS46440	IH61_RS46440	48313	49509	-	non-ribosomal_peptide_synthetase
+IH61_RS45185	IH61_RS45185	49684	51096	-	non-ribosomal_peptide_synthetase
+IH61_RS45190	IH61_RS45190	51349	52860	-	non-ribosomal_peptide_synthetase
+IH61_RS0132340	IH61_RS0132340	71637	72374	-	transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	IH61_RS0132225	33	503	81.31868131868131	6.8e-140
+ctg147_2	IH61_RS0132220	37	134	75.25773195876289	1.4e-29
+
+
+
+>>
+22. NZ_BAGM01000118
+Source: Nocardia veterana NBRC 100344, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 620
+
+Table of genes, locations, strands and annotations of subject cluster:
+ON37_RS31955	ON37_RS31955	44971	45920	-	subtype_I-E_CRISPR-associated_endonuclease_Cas1
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	ON37_RS22890	32	505	85.19375361480624	3.1e-140
+ctg147_2	ON37_RS22885	31	115	80.06872852233677	8.8e-24
+
+
+
+>>
+23. NZ_BAFT02000068
+Source: Nocardia brasiliensis NBRC 14402, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 619
+
+Table of genes, locations, strands and annotations of subject cluster:
+TY25_RS41255	TY25_RS41255	153901	154497	+	apolipoprotein_N-acyltransferase
+TY25_RS41260	TY25_RS41260	154927	155895	+	apolipoprotein_N-acyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	TY25_RS25435	34	494	73.91555812608445	4.1e-137
+ctg147_2	TY25_RS25440	32	125	81.44329896907216	1.1e-26
+
+
+
+>>
+24. NZ_CP022088
+Source: Nocardia brasiliensis strain FDAARGOS_352 chromosome, complete genome
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 619
+
+Table of genes, locations, strands and annotations of subject cluster:
+CEQ30_RS04845	CEQ30_RS04845	1022088	1022636	+	apolipoprotein_N-acyltransferase
+CEQ30_RS04850	CEQ30_RS04850	1023162	1024082	+	apolipoprotein_N-acyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	CEQ30_RS04855	34	494	73.91555812608445	4.1e-137
+ctg147_2	CEQ30_RS04860	32	125	81.44329896907216	1.1e-26
+
+
+
+>>
+25. NZ_BAUA01000081
+Source: Nocardia brasiliensis IFM 10847, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 618
+
+Table of genes, locations, strands and annotations of subject cluster:
+NBRGI_RS43900	NBRGI_RS43900	1470	1968	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NBRGI_RS17470	34	493	73.79988432620011	9.2e-137
+ctg147_2	NBRGI_RS17465	32	125	81.44329896907216	1.1e-26
+
+
+
+>>
+26. NZ_BAGL01000052
+Source: Nocardia transvalensis NBRC 15921, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 617
+
+Table of genes, locations, strands and annotations of subject cluster:
+ON41_RS15900	ON41_RS15900	127106	127960	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	ON41_RS15925	33	492	77.15442452284557	2.7e-136
+ctg147_2	ON41_RS15920	32	125	81.78694158075601	1.1e-26
+
+
+
+>>
+27. NZ_BDCI01000028
+Source: Nocardia vulneris strain NBRC 108936, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 615
+
+Table of genes, locations, strands and annotations of subject cluster:
+NVU01S_RS42655	NVU01S_RS42655	1	163	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NVU01S_RS27250	34	490	73.85772122614227	6e-136
+ctg147_2	NVU01S_RS27245	32	125	81.44329896907216	1.1e-26
+
+
+
+>>
+28. NC_018681
+Source: Nocardia brasiliensis ATCC 700358, complete genome
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 615
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	O3I_RS26600	34	490	73.91555812608445	7.8e-136
+ctg147_2	O3I_RS26595	32	125	81.44329896907216	8.5e-27
+
+
+
+>>
+29. NZ_KV411304
+Source: Nocardia terpenica strain IFM 0406 scaffold2, whole genome shotgun sequence
+Type: bacteriocin-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 614
+
+Table of genes, locations, strands and annotations of subject cluster:
+AWN90_RS39300	AWN90_RS39300	3998037	3998434	+	DNA_mismatch_repair_protein_MutT
+AWN90_RS44550	AWN90_RS44550	4001945	4002470	-	hypothetical_protein
+AWN90_RS39350	AWN90_RS39350	4053384	4054592	+	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	AWN90_RS39330	33	476	70.44534412955466	1.5e-131
+ctg147_2	AWN90_RS39325	37	138	75.25773195876289	1.6e-30
+
+
+
+>>
+30. NZ_BATZ01000021
+Source: Nocardia otitidiscaviarum IFM 11049, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 612
+
+Table of genes, locations, strands and annotations of subject cluster:
+NOTIT_RS15100	NOTIT_RS15100	296588	297577	+	hypothetical_protein
+NOTIT_RS15170	NOTIT_RS15170	324405	325016	-	TetR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NOTIT_RS15130	34	490	70.8502024291498	6e-136
+ctg147_2	NOTIT_RS15125	32	122	76.28865979381443	9.4e-26
+
+
+
+>>
+31. NZ_BDBH01000013
+Source: Nocardia harenae NBRC 108248, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 610
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NH2_RS24460	36	504	73.16367842683633	4e-140
+ctg147_2	NH2_RS24455	31	106	70.10309278350515	5.3e-21
+
+
+
+>>
+32. NZ_BAGD01000031
+Source: Nocardia otitidiscaviarum NBRC 14405, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 610
+
+Table of genes, locations, strands and annotations of subject cluster:
+ON31_RS04740	ON31_RS04740	28092	28976	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	ON31_RS04710	33	488	70.90803932909196	3.9e-135
+ctg147_2	ON31_RS04715	32	122	76.28865979381443	9.4e-26
+
+
+
+>>
+33. NZ_KI632509
+Source: Amycolatopsis halophila YIM 93223 AmyhaDRAFT_Scaffold1.1, whole genome shotgun sequence
+Type: nrps-arylpolyene-ladderane
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 609
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMYHA_RS08245	AMYHA_RS08245	1793027	1793461	-	hypothetical_protein
+AMYHA_RS08250	AMYHA_RS08250	1793493	1793905	-	chromate_resistance_protein
+AMYHA_RS08255	AMYHA_RS08255	1793933	1794439	-	chromate_resistance_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	AMYHA_RS08395	31	483	91.78716020821284	9.5e-134
+ctg147_2	AMYHA_RS08400	32	126	81.44329896907216	5e-27
+
+
+
+>>
+34. NZ_BDCD01000005
+Source: Nocardia yamanashiensis NBRC 100130, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 608
+
+Table of genes, locations, strands and annotations of subject cluster:
+NY1_RS05845	NY1_RS05845	192695	193792	-	sensor_histidine_kinase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NY1_RS05815	31	487	85.94563331405438	8.6e-135
+ctg147_2	NY1_RS05810	31	121	103.09278350515463	1.6e-25
+
+
+
+>>
+35. NZ_BDCA01000006
+Source: Nocardia vermiculata NBRC 100427, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 607
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NV2_RS09960	33	489	73.5106998264893	1.7e-135
+ctg147_2	NV2_RS09955	32	118	76.28865979381443	1.4e-24
+
+
+
+>>
+36. NZ_BDBZ01000002
+Source: Nocardia speluncae NBRC 108251, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 607
+
+Table of genes, locations, strands and annotations of subject cluster:
+NS6_RS04420	NS6_RS04420	352236	353126	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NS6_RS04445	33	483	72.99016772700983	9.5e-134
+ctg147_2	NS6_RS04440	31	124	81.78694158075601	1.4e-26
+
+
+
+>>
+37. NZ_LZML01000145
+Source: Nocardia sp. 852002-51101_SCH5132738 contig_33, whole genome shotgun sequence
+Type: bacteriocin-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 606
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	A5789_RS20670	33	470	72.18045112781954	8.3e-130
+ctg147_2	A5789_RS20675	36	136	75.25773195876289	4.8e-30
+
+
+
+>>
+38. NZ_BDBF01000002
+Source: Nocardia elegans NBRC 108235, whole genome shotgun sequence
+Type: bacteriocin-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 606
+
+Table of genes, locations, strands and annotations of subject cluster:
+NE2_RS03560	NE2_RS03560	360529	396443	-	non-ribosomal_peptide_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NE2_RS03560	33	470	72.18045112781954	1.1e-129
+ctg147_2	NE2_RS03555	36	136	75.25773195876289	4.8e-30
+
+
+
+>>
+39. NZ_CP023778
+Source: Nocardia terpenica strain NC_YFY_NT001 chromosome, complete genome
+Type: bacteriocin-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 605
+
+Table of genes, locations, strands and annotations of subject cluster:
+CRH09_RS36005	CRH09_RS36005	8052555	8054322	+	phage_tail_protein
+CRH09_RS36050	CRH09_RS36050	8061753	8061992	+	bacteriocin
+CRH09_RS36075	CRH09_RS36075	8065229	8066059	-	epoxide_hydrolase
+CRH09_RS36185	CRH09_RS36185	8128972	8129154	-	DUF397_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	CRH09_RS36095	33	468	70.56101792943899	4.1e-129
+ctg147_2	CRH09_RS36090	37	137	75.25773195876289	2.8e-30
+
+
+
+>>
+40. NZ_BDBV01000039
+Source: Nocardia mexicana NBRC 108244, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 603
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NM1_RS16190	33	480	77.15442452284557	8e-133
+ctg147_2	NM1_RS16195	31	123	90.03436426116839	4.2e-26
+
+
+
+>>
+41. NZ_BDAW01000009
+Source: Nocardia acidivorans NBRC 108247, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 602
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NA10_RS03415	32	479	82.30190861769809	1.4e-132
+ctg147_2	NA10_RS03420	33	123	76.28865979381443	4.2e-26
+
+
+
+>>
+42. NZ_BDCA01000002
+Source: Nocardia vermiculata NBRC 100427, whole genome shotgun sequence
+Type: bacteriocin-nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 601
+
+Table of genes, locations, strands and annotations of subject cluster:
+NV2_RS30670	NV2_RS30670	435064	435693	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NV2_RS05735	33	471	72.12261422787739	4.9e-130
+ctg147_2	NV2_RS05730	36	130	75.60137457044674	2.6e-28
+
+
+
+>>
+43. NZ_BAFQ01000178
+Source: Nocardia aobensis NBRC 100429, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 601
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	RJ03_RS23200	32	468	72.12261422787739	2.4e-129
+ctg147_2	RJ03_RS23195	36	133	75.25773195876289	5.3e-29
+
+
+
+>>
+44. NZ_BAFR01000199
+Source: Nocardia araoensis NBRC 100135, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 600
+
+Table of genes, locations, strands and annotations of subject cluster:
+ON21_RS25790	ON21_RS25790	44337	44552	+	hypothetical_protein
+ON21_RS37365	ON21_RS37365	47129	47332	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	ON21_RS25890	35	478	70.44534412955466	4e-132
+ctg147_2	ON21_RS25885	32	122	83.8487972508591	7.2e-26
+
+
+
+>>
+45. NZ_BAGC01000035
+Source: Nocardia niigatensis NBRC 100131, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 598
+
+Table of genes, locations, strands and annotations of subject cluster:
+ON33_RS10910	ON33_RS10910	284708	285568	+	hypothetical_protein
+ON33_RS10980	ON33_RS10980	310799	311410	-	TetR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	ON33_RS10935	32	481	81.37651821862349	4.7e-133
+ctg147_2	ON33_RS10930	32	117	76.28865979381443	2.3e-24
+
+
+
+>>
+46. NZ_LN482608
+Source: Rhodococcus ruber, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 598
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	RHRU231_RS13005	32	467	85.25159051474841	9.2e-129
+ctg147_2	RHRU231_RS13000	33	131	105.84192439862544	2e-28
+
+
+
+>>
+47. NZ_BDCG01000017
+Source: Nocardia flavorosea NBRC 108225, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 597
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NFL01S_RS23385	34	475	70.96587622903412	3.4e-131
+ctg147_2	NFL01S_RS23380	31	122	76.28865979381443	7.2e-26
+
+
+
+>>
+48. NZ_KB907307
+Source: Nocardia sp. BMG111209 G361DRAFT_scaffold00001.1, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 596
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	G361_RS0104885	33	477	77.03875072296125	6.8e-132
+ctg147_2	G361_RS0104890	32	119	82.13058419243985	7.9e-25
+
+
+
+>>
+49. NZ_CP017839
+Source: Nocardia seriolae strain EM150506, complete genome
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 595
+
+Table of genes, locations, strands and annotations of subject cluster:
+NS506_RS24260	NS506_RS24260	5237581	5238528	+	hypothetical_protein
+NS506_RS24355	NS506_RS24355	5267353	5267967	-	TetR_family_transcriptional_regulator
+NS506_RS24370	NS506_RS24370	5271266	5271580	+	MFS_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NS506_RS24300	31	481	84.15268941584732	3.6e-133
+ctg147_2	NS506_RS24295	31	114	76.28865979381443	2e-23
+
+
+
+>>
+50. NZ_BDAY01000028
+Source: Nocardia altamirensis NBRC 108246, whole genome shotgun sequence
+Type: nrps
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 595
+
+Table of genes, locations, strands and annotations of subject cluster:
+NA11_RS16775	NA11_RS16775	18358	18601	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg147_1	NA11_RS16765	34	475	70.73452862926547	2e-131
+ctg147_2	NA11_RS16760	31	120	81.44329896907216	3.6e-25
+
